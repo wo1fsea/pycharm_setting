@@ -1,0 +1,9 @@
+<templateSet group="X">
+  <template name="header" value="# -*- coding: utf-8 -*-&#10;&quot;&quot;&quot;----------------------------------------------------------------------------&#10;Author:&#10;    Huang Quanyong (wo1fSea)&#10;    quanyongh@foxmail.com&#10;Date:&#10;    $DATA$&#10;Description:&#10;    $FILE_NAME$&#10;----------------------------------------------------------------------------&quot;&quot;&quot;" toReformat="false" toShortenFQNames="true">
+    <variable name="DATA" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="FILE_NAME" expression="fileName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>
