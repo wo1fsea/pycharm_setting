@@ -11,7 +11,7 @@
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1490457951117">
+      <file name="/Python Console" timestamp="1490464824211">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1475568342889">
@@ -39,6 +39,18 @@
         <mark key="[" line="20" column="35" />
         <mark key="]" line="20" column="35" />
         <mark key="." line="20" column="35" />
+      </file>
+      <file name="F:/super_handler/utils.py" timestamp="1490464419964">
+        <mark key="[" line="78" column="38" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+      </file>
+      <file name="F:/super_handler/daily_report.py" timestamp="1490464939652">
+        <mark key="'" line="132" column="44" />
+        <mark key="[" line="169" column="52" />
+        <mark key="]" line="128" column="0" />
+        <mark key="." line="128" column="0" />
+        <mark key="^" line="128" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PykerStars/pykerstars/cards.py" timestamp="1486143798170">
         <mark key="[" line="11" column="0" />
@@ -105,7 +117,7 @@
         <mark key="." line="172" column="0" />
         <mark key="^" line="171" column="16" />
       </file>
-      <file name="F:/daily_data_handler/app_daily_analysis/py_function.py" timestamp="1490461936756">
+      <file name="F:/daily_data_handler/app_daily_analysis/py_function.py" timestamp="1490463354719">
         <mark key="'" line="88" column="0" />
         <mark key="[" line="70" column="0" />
         <mark key="]" line="114" column="24" />
@@ -117,7 +129,8 @@
         <mark key="." line="78" column="0" />
         <mark key="^" line="77" column="52" />
       </file>
-      <file name="F:/daily_data_handler/app_daily_analysis/handle_csv_final.py" timestamp="1490458854658">
+      <file name="F:/daily_data_handler/app_daily_analysis/handle_csv_final.py" timestamp="1490464768249">
+        <mark key="'" line="131" column="17" />
         <mark key="[" line="10" column="15" />
         <mark key="]" line="10" column="15" />
         <mark key="." line="10" column="15" />
@@ -246,55 +259,60 @@
       <jump line="434" column="47" filename="C:/Python35/Lib/calendar.py" />
       <jump line="441" column="28" filename="C:/Python35/Lib/calendar.py" />
       <jump line="88" column="0" filename="F:/daily_data_handler/app_daily_analysis/py_function.py" />
+      <jump line="130" column="44" filename="F:/daily_data_handler/app_daily_analysis/handle_csv_final.py" />
+      <jump line="131" column="17" filename="F:/daily_data_handler/app_daily_analysis/handle_csv_final.py" />
+      <jump line="128" column="0" filename="F:/super_handler/daily_report.py" />
+      <jump line="131" column="28" filename="F:/super_handler/daily_report.py" />
+      <jump line="132" column="44" filename="F:/super_handler/daily_report.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dG9kYXlfZGF1X3V2LCA=</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">dG9kYXlfZGF1X3V2LCA=</text>
       </register>
       <register name="/" type="4">
-        <text>year</text>
+        <text>today_new</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgIGRhdGUgPSBkYXRlLnJlcGxhY2UoJy8nLCAnLScpCiAgICBkYXRlID0gZGF0ZS5zcGxpdCgnLScp</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGxpbmVfZGF0ZSA9IHN0YW5kYXJkX2RhdGVfZm9ybWF0KGxpbmVbMF0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">d3MgPSBjc3YucmVhZGVyKG9wZW4oIi4vZGF0YS8iICsgZHMucmVwbGFjZSgiLSIsICIiKSArICIvYWxsX2NhdGVfc2NlbmVfZGF1LmNzdiIpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQobl9kYXlzX2FmdGVyKCIyMDE3LTEwLTExIiwgMTApKQo=</text>
+        <text encoding="base64">ICAgIHdzID0gY3N2LnJlYWRlcihvcGVuKCIuL2RhdGEvIiArIGRzLnJlcGxhY2UoIi0iLCAiIikgKyAiL2hpc19hbGxfdXNlci5jc3YiKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQobl9kYXlzX2JlZm9yZSgiMjAxNy0xMC0xMSIsIDEwKSkK</text>
+        <text encoding="base64">ICAgIGxpbmVfZGF0ZSA9IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQoZm9ybWF0X251bWJlcigxMTEpKQo=</text>
+        <text encoding="base64">d3MgPSBjc3YucmVhZGVyKG9wZW4oIi4vZGF0YS8iICsgZHMucmVwbGFjZSgiLSIsICIiKSArICIvaGlzX2FsbF91c2VyLmNzdiIpKQo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">d3MgPSBjc3YucmVhZGVyKG9wZW4oIi4vZGF0YS8iICsgZHMucmVwbGFjZSgiLSIsICIiKSArICIvYWxsX3ZhbGlkX2Jpel9kYXUuY3N2IikpCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CmRlZiBkYXlvbmRheSh0b2RheV9jbnQsIGxhc3RfY250LCB3ZWVrZGF5KToKICAgIGlmIHdlZWtkYXkgPT0gMDoKICAgICAgICB3b3JkX3RweWUgPSAizayxyMnP1twiCiAgICBlbHNlOgogICAgICAgIHdvcmRfdHB5ZSA9ICK7t7HIIgogICAgaWYgaW50KHRvZGF5X2NudCkgLSBpbnQobGFzdF9jbnQpID4gMDoKICAgICAgICBpbmNyZV90eXBlID0gIsnPyf0iCiAgICBlbHNlOgogICAgICAgIGluY3JlX3R5cGUgPSAiz8K9tSIKICAgIHJldHVybiB3b3JkX3RweWUgKyBpbmNyZV90eXBlICsgc3RyKGFicyhyb3VuZCgoaW50KHRvZGF5X2NudCkgLSBpbnQobGFzdF9jbnQpKSAvIGludChsYXN0X2NudCkgKiAxMDAsIDEpKSkgKyAiJSIKCgpkZWYgaGIodG9kYXlfY250LCBsYXN0X2NudCk6CiAgICBpZiBpbnQodG9kYXlfY250KSAtIGludChsYXN0X2NudCkgPiAwOgogICAgICAgIGluY3JlX3R5cGUgPSAiyc/J/SIKICAgIGVsc2U6CiAgICAgICAgaW5jcmVfdHlwZSA9ICLPwr21IgogICAgcmV0dXJuICK7t7HIIiArIGluY3JlX3R5cGUgKyBzdHIoYWJzKHJvdW5kKChpbnQodG9kYXlfY250KSAtIGludChsYXN0X2NudCkpIC8gaW50KGxhc3RfY250KSAqIDEwMCwgMSkpKSArICIlIgoKCmRlZiB0Yih0b2RheV9jbnQsIGxhc3R3ZWVrX2NudCk6CiAgICBpZiBpbnQodG9kYXlfY250KSAtIGludChsYXN0d2Vla19jbnQpID4gMDoKICAgICAgICBpbmNyZV90eXBlID0gIsnPyf0iCiAgICBlbHNlOgogICAgICAgIGluY3JlX3R5cGUgPSAiz8K9tSIKICAgIHJldHVybiAizayxyMnP1twiICsgaW5jcmVfdHlwZSArIHN0cigKICAgICAgICBhYnMocm91bmQoKGludCh0b2RheV9jbnQpIC0gaW50KGxhc3R3ZWVrX2NudCkpIC8gaW50KGxhc3R3ZWVrX2NudCkgKiAxMDAsIDEpKSkgKyAiJSIKCgpkZWYgc3RhbmRhcmRfZHMoZHMpOgogICAgaWYgIi8iIGluIGRzOgogICAgICAgIGRzID0gZHMucmVwbGFjZSgiLyIsICItIikKICAgIHJldHVybiByZW1vdmVaZXJvKGRzKQo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQoZm9ybWF0X2NvbXBhcmUoMSwyKSkK</text>
+        <text encoding="base64">d3MgPSBjc3YucmVhZGVyKG9wZW4oIi4vZGF0YS8iICsgZHMucmVwbGFjZSgiLSIsICIiKSArICIvYWxsX2NhdGVfc2NlbmVfZGF1LmNzdiIpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdvcmQgPSAiIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNlcCA9ICctJyBpZiAnLScgaW4gZGF0ZSBlbHNlICcvJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>year</last-search>
+      <last-search>today_new</last-search>
       <last-offset />
-      <last-pattern>year</last-pattern>
+      <last-pattern>today_new</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -302,6 +320,7 @@
       <history-search>
         <entry>rect</entry>
         <entry>year</entry>
+        <entry>today_new</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
