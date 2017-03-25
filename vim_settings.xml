@@ -6,11 +6,10 @@
       <file name="/start_script.py" timestamp="1483538622308">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="F:/supper_handler/utils.py" timestamp="1490460863291">
-        <mark key="[" line="46" column="15" />
-        <mark key="]" line="46" column="15" />
-        <mark key="." line="46" column="15" />
-        <mark key="^" line="46" column="15" />
+      <file name="F:/supper_handler/utils.py" timestamp="1490462861905">
+        <mark key="[" line="58" column="4" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="/Python Console" timestamp="1490457951117">
         <mark key="[" line="0" column="0" />
@@ -27,7 +26,7 @@
         <mark key="^" line="9" column="13" />
         <mark key="." line="9" column="13" />
       </file>
-      <file name="/a.dummy" timestamp="1490460167417">
+      <file name="/a.dummy" timestamp="1490462375033">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/test.py" timestamp="1478343884063">
@@ -106,10 +105,11 @@
         <mark key="." line="172" column="0" />
         <mark key="^" line="171" column="16" />
       </file>
-      <file name="F:/daily_data_handler/app_daily_analysis/py_function.py" timestamp="1490460233270">
-        <mark key="[" line="8" column="23" />
-        <mark key="]" line="8" column="17" />
-        <mark key="." line="8" column="26" />
+      <file name="F:/daily_data_handler/app_daily_analysis/py_function.py" timestamp="1490461936756">
+        <mark key="'" line="88" column="0" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="114" column="24" />
+        <mark key="." line="65" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/tests/TestMaxRects.py" timestamp="1480522227205">
         <mark key="[" line="78" column="39" />
@@ -124,6 +124,12 @@
       </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Image.py" timestamp="1475379944934">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="F:/supper_handler/daily_report.py" timestamp="1490462783949">
+        <mark key="[" line="9" column="79" />
+        <mark key="]" line="9" column="49" />
+        <mark key="^" line="9" column="49" />
+        <mark key="." line="9" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/PyBaler/PyBaler/PlistParser.py" timestamp="1483453776966">
         <mark key="[" line="0" column="0" />
@@ -239,46 +245,47 @@
       <jump line="430" column="63" filename="C:/Python35/Lib/calendar.py" />
       <jump line="434" column="47" filename="C:/Python35/Lib/calendar.py" />
       <jump line="441" column="28" filename="C:/Python35/Lib/calendar.py" />
+      <jump line="88" column="0" filename="F:/daily_data_handler/app_daily_analysis/py_function.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICBsZCA9IG4gLSBkCiAgICBsbQogICAgd2hpbGUgbCA+IDA6</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>year</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHNlcCA9ICctJyBpZiAnLScgaW4gZGF0ZSBlbHNlICcvJwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgIGRhdGUgPSBkYXRlLnJlcGxhY2UoJy8nLCAnLScpCiAgICBkYXRlID0gZGF0ZS5zcGxpdCgnLScp</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICBsZCA9IG4gLSBkCiAgICBsbQogICAgd2hpbGUgbCA+IDA6</text>
-      </register>
-      <register name="2" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">cHJpbnQobl9kYXlzX2FmdGVyKCIyMDE3LTEwLTExIiwgMTApKQo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQocmVtb3ZlX3plcm8oIjIwMTcvMDEvMTkiKSkK</text>
+        <text encoding="base64">cHJpbnQobl9kYXlzX2JlZm9yZSgiMjAxNy0xMC0xMSIsIDEwKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQocmVtb3ZlX3plcm8oIjIwMTctMDEtMDkiKSkK</text>
+        <text encoding="base64">cHJpbnQoZm9ybWF0X251bWJlcigxMTEpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZXAgCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CmRlZiBkYXlvbmRheSh0b2RheV9jbnQsIGxhc3RfY250LCB3ZWVrZGF5KToKICAgIGlmIHdlZWtkYXkgPT0gMDoKICAgICAgICB3b3JkX3RweWUgPSAizayxyMnP1twiCiAgICBlbHNlOgogICAgICAgIHdvcmRfdHB5ZSA9ICK7t7HIIgogICAgaWYgaW50KHRvZGF5X2NudCkgLSBpbnQobGFzdF9jbnQpID4gMDoKICAgICAgICBpbmNyZV90eXBlID0gIsnPyf0iCiAgICBlbHNlOgogICAgICAgIGluY3JlX3R5cGUgPSAiz8K9tSIKICAgIHJldHVybiB3b3JkX3RweWUgKyBpbmNyZV90eXBlICsgc3RyKGFicyhyb3VuZCgoaW50KHRvZGF5X2NudCkgLSBpbnQobGFzdF9jbnQpKSAvIGludChsYXN0X2NudCkgKiAxMDAsIDEpKSkgKyAiJSIKCgpkZWYgaGIodG9kYXlfY250LCBsYXN0X2NudCk6CiAgICBpZiBpbnQodG9kYXlfY250KSAtIGludChsYXN0X2NudCkgPiAwOgogICAgICAgIGluY3JlX3R5cGUgPSAiyc/J/SIKICAgIGVsc2U6CiAgICAgICAgaW5jcmVfdHlwZSA9ICLPwr21IgogICAgcmV0dXJuICK7t7HIIiArIGluY3JlX3R5cGUgKyBzdHIoYWJzKHJvdW5kKChpbnQodG9kYXlfY250KSAtIGludChsYXN0X2NudCkpIC8gaW50KGxhc3RfY250KSAqIDEwMCwgMSkpKSArICIlIgoKCmRlZiB0Yih0b2RheV9jbnQsIGxhc3R3ZWVrX2NudCk6CiAgICBpZiBpbnQodG9kYXlfY250KSAtIGludChsYXN0d2Vla19jbnQpID4gMDoKICAgICAgICBpbmNyZV90eXBlID0gIsnPyf0iCiAgICBlbHNlOgogICAgICAgIGluY3JlX3R5cGUgPSAiz8K9tSIKICAgIHJldHVybiAizayxyMnP1twiICsgaW5jcmVfdHlwZSArIHN0cigKICAgICAgICBhYnMocm91bmQoKGludCh0b2RheV9jbnQpIC0gaW50KGxhc3R3ZWVrX2NudCkpIC8gaW50KGxhc3R3ZWVrX2NudCkgKiAxMDAsIDEpKSkgKyAiJSIKCgpkZWYgc3RhbmRhcmRfZHMoZHMpOgogICAgaWYgIi8iIGluIGRzOgogICAgICAgIGRzID0gZHMucmVwbGFjZSgiLyIsICItIikKICAgIHJldHVybiByZW1vdmVaZXJvKGRzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHV0aWxzLnB5Cg==</text>
+        <text encoding="base64">cHJpbnQoZm9ybWF0X2NvbXBhcmUoMSwyKSkK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAjINbYw/zD+87EvP4KICAgIGZvciBmIGluIG9zLmxpc3RkaXIocGF0aCk6CiAgICAgICAgaWYgZi5zdGFydHN3aXRoKCLA27zG1cq6xcr9vt0tt9bW98zlwODQzSIpOgogICAgICAgICAgICBvcy5yZW5hbWUocGF0aCArIGYsIHBhdGggKyAibmV3X2FwcGx5X2Jpei5jc3YiKQogICAgICAgIGlmIGYuc3RhcnRzd2l0aCgi1f3KvbDmt8POyi2zob6wwODEv727suYiKToKICAgICAgICAgICAgb3MucmVuYW1lKHBhdGggKyBmLCBwYXRoICsgImFsbF9jYXRlX3NjZW5lX2RhdS5jc3YiKQogICAgICAgIGlmIGYuc3RhcnRzd2l0aCgi08O7p8D6yre3w87K0KGzzNDyuMW/9iIpOgogICAgICAgICAgICBvcy5yZW5hbWUocGF0aCArIGYsIHBhdGggKyAiaGlzX2FsbF91c2VyLmNzdiIpCiAgICAgICAgaWYgZi5zdGFydHN3aXRoKCLV/cq9sOa77tS+1cq6xS2zob6wwODEv727suYiKToKICAgICAgICAgICAgb3MucmVuYW1lKHBhdGggKyBmLCBwYXRoICsgImFsbF92YWxpZF9iaXpfZGF1LmNzdiIp</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHdvcmQgPSAiIgo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIE5BTUVfTUFQID0gewogICAgICAgICLA27zG1cq6xcr9vt0tt9bW98zlwODQzSI6CiAgICAgICAgCiAgICB9</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHNlcCA9ICctJyBpZiAnLScgaW4gZGF0ZSBlbHNlICcvJwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -316,6 +323,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
