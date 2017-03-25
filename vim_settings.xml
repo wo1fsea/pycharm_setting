@@ -6,6 +6,12 @@
       <file name="/start_script.py" timestamp="1483538622308">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="F:/supper_handler/utils.py" timestamp="1490459515359">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="8" column="3" />
+        <mark key="." line="8" column="3" />
+        <mark key="^" line="8" column="3" />
+      </file>
       <file name="/Python Console" timestamp="1490457951117">
         <mark key="[" line="0" column="0" />
       </file>
@@ -97,14 +103,18 @@
         <mark key="." line="172" column="0" />
         <mark key="^" line="171" column="16" />
       </file>
-      <file name="F:/daily_data_handler/app_daily_analysis/py_function.py" timestamp="1490458571119" />
+      <file name="F:/daily_data_handler/app_daily_analysis/py_function.py" timestamp="1490459732828">
+        <mark key="[" line="8" column="23" />
+        <mark key="]" line="8" column="17" />
+        <mark key="." line="8" column="26" />
+      </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/tests/TestMaxRects.py" timestamp="1480522227205">
         <mark key="[" line="78" column="39" />
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
         <mark key="^" line="77" column="52" />
       </file>
-      <file name="F:/daily_data_handler/app_daily_analysis/handle_csv_final.py" timestamp="1490458550241">
+      <file name="F:/daily_data_handler/app_daily_analysis/handle_csv_final.py" timestamp="1490458854658">
         <mark key="[" line="10" column="15" />
         <mark key="]" line="10" column="15" />
         <mark key="." line="10" column="15" />
@@ -179,46 +189,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
         <text>rect</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGggaW4gcmFuZ2UoMCwgNTIpOgo=</text>
+        <text encoding="base64">ICAgICLA27zG1cq6xcr9vt0tt9bW98zlwODQzSI6ICIiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBtYXgoc2NvcmVzKQo=</text>
+        <text encoding="base64">ICAgIHV0aWxzLnB5Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">dGVsbF9oYW5kX3Njb3JlKFtDYXJkKCc3ZCcpLCBDYXJkKCczZCcpLCBDYXJkKCc0ZCcpLCBDYXJkKCc0ZCcpLCBDYXJkKCc1aCcpXSkK</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAjINbYw/zD+87EvP4KICAgIGZvciBmIGluIG9zLmxpc3RkaXIocGF0aCk6CiAgICAgICAgaWYgZi5zdGFydHN3aXRoKCLA27zG1cq6xcr9vt0tt9bW98zlwODQzSIpOgogICAgICAgICAgICBvcy5yZW5hbWUocGF0aCArIGYsIHBhdGggKyAibmV3X2FwcGx5X2Jpei5jc3YiKQogICAgICAgIGlmIGYuc3RhcnRzd2l0aCgi1f3KvbDmt8POyi2zob6wwODEv727suYiKToKICAgICAgICAgICAgb3MucmVuYW1lKHBhdGggKyBmLCBwYXRoICsgImFsbF9jYXRlX3NjZW5lX2RhdS5jc3YiKQogICAgICAgIGlmIGYuc3RhcnRzd2l0aCgi08O7p8D6yre3w87K0KGzzNDyuMW/9iIpOgogICAgICAgICAgICBvcy5yZW5hbWUocGF0aCArIGYsIHBhdGggKyAiaGlzX2FsbF91c2VyLmNzdiIpCiAgICAgICAgaWYgZi5zdGFydHN3aXRoKCLV/cq9sOa77tS+1cq6xS2zob6wwODEv727suYiKToKICAgICAgICAgICAgb3MucmVuYW1lKHBhdGggKyBmLCBwYXRoICsgImFsbF92YWxpZF9iaXpfZGF1LmNzdiIp</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIE5BTUVfTUFQID0gewogICAgICAgICLA27zG1cq6xcr9vt0tt9bW98zlwODQzSI6CiAgICAgICAgCiAgICB9</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxlbl9yYW5rID0gbGVuKFJhbmspCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBtYXgoc2NvcmVzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxlbl9zdWl0ID0gbGVuKFN1aXQpCg==</text>
+        <text encoding="base64">dGVsbF9oYW5kX3Njb3JlKFtDYXJkKCc3ZCcpLCBDYXJkKCczZCcpLCBDYXJkKCc0ZCcpLCBDYXJkKCc0ZCcpLCBDYXJkKCc1aCcpXSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZW9yZGVyZWRfY2FyZHMgPSByZXZlcnNlZChjYXJkcykK</text>
+        <text encoding="base64">ICAgIGxlbl9yYW5rID0gbGVuKFJhbmspCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZW9yZGVyZWRfY2FyZHMgPSByZXZlcnNlZChjYXJkcykK</text>
+        <text encoding="base64">ICAgIGxlbl9zdWl0ID0gbGVuKFN1aXQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZW9yZGVyZWRfY2FyZHMgPSByZXZlcnNlZChjYXJkcykK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>vsplit</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -236,9 +246,9 @@
         <entry>W</entry>
         <entry>w</entry>
         <entry>split</entry>
-        <entry>q</entry>
         <entry>vsplit</entry>
         <entry>vi</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -249,6 +259,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
