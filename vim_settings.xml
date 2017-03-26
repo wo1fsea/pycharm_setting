@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/start_script.py" timestamp="1483538622308">
@@ -46,11 +46,12 @@
         <mark key="." line="91" column="0" />
         <mark key="^" line="91" column="38" />
       </file>
-      <file name="F:/super_handler/daily_report.py" timestamp="1490504135843">
-        <mark key="'" line="150" column="44" />
-        <mark key="[" line="58" column="27" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
+      <file name="F:/super_handler/daily_report.py" timestamp="1490511470562">
+        <mark key="'" line="200" column="44" />
+        <mark key="[" line="173" column="4" />
+        <mark key="]" line="173" column="39" />
+        <mark key="." line="173" column="0" />
+        <mark key="^" line="169" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/PykerStars/pykerstars/cards.py" timestamp="1486143798170">
         <mark key="[" line="11" column="0" />
@@ -267,43 +268,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dG9kYXlfbmV3X2FjY291bnQgPSAwCg==</text>
+        <text encoding="base64">ICAgIGNhdGVfZGF1W2tleV1bMV0gLz0gbGVuKGNhdGVfZGF0ZXMpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dG9kYXlfZGF1X3V2LCA=</text>
+        <text encoding="base64">IGxpbmVbMTBd</text>
       </register>
       <register name="/" type="4">
         <text>today_new</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHksIG0sIGQgPSBtYXAoaW50LCBkYXRlLnNwbGl0KCctJykpCg==</text>
+        <text encoding="base64">ICAgIGNhdGVfZGF1W2tleV1bMV0gLz0gbGVuKGNhdGVfZGF0ZXMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dG9kYXlfbmV3X2FjY291bnQgPSAwCg==</text>
+        <text encoding="base64">ICAgICMgcHJpbnQoY2F0ZV9kYXVbbGluZVsxXV0pCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICBpZiB3ZWVrZGF5ID09IDA6CiAgICAgICAgaWYgbGluZV9kYXRlID09IG5fZGF5c19iZWZvcmUoZGF0ZSwgNykgYW5kIGxpbmVbMV0gPT0gItfczOUiOgogICAgICAgICAgICBsYXN0ZGF5X25ld19hY2NvdW50ID0gbGluZVszXQogICAgICAgICAgICBsYXN0ZGF5X2NvbXBsZXRlX2FjY291bnQgPSBsaW5lWzVdCiAgICBlbHNlOg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAjIHByaW50KGxpbmUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgcHJpbnQobGluZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bGFzdGRhdGVzID0gbWFwKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGFzdGRheV9kYXVfbmV3X3V2ID0gbGluZVsxMF0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGFzdGRheV9kYXVfcHYgPSBsaW5lWzddCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIHdlZWtkYXkgPT0gMDoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGFzdGRheV9kYXVfdXYgPSBsaW5lWzVdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJlZV9kYXRhID0gKG5fZGF5c19hZnRlcigpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGFzdGRheV9kYXVfYml6ID0gbGluZVs0XQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cmVwb3J0X2RhdGUgPSAK</text>
+        <text encoding="base64">ICAgICAgICBpZiBsaW5lX2RhdGUgPT0gbl9kYXlzX2JlZm9yZShkYXRlLCAxKSBhbmQgbGluZVsxXSA9PSAiyKuyvyIgYW5kIGxpbmVbMl0gPT0gIsirsr8iOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnQocmVwb3J0X2RhdGVfZm9ybWF0KCIyMDE3LTAzLTI2IikpCg==</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -345,6 +346,18 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
