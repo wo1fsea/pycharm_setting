@@ -22,7 +22,7 @@
       <file name="/fragment.py" timestamp="1475568342889">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1490462375033">
+      <file name="/a.dummy" timestamp="1493049490761">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="F:/super_handler/utils.py" timestamp="1490465232445">
@@ -60,14 +60,17 @@
       <file name="$USER_HOME$/Documents/PyTexturePacker/__init__.py" timestamp="1477839593099">
         <mark key="[" line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/PyTexturePacker/setup.py" timestamp="1490715025078">
-        <mark key="[" line="6" column="19" />
+      <file name="$USER_HOME$/Documents/PyTexturePacker/setup.py" timestamp="1493049146150">
+        <mark key="[" line="11" column="80" />
         <mark key="]" line="11" column="79" />
         <mark key="^" line="11" column="79" />
         <mark key="." line="11" column="79" />
       </file>
       <file name="$USER_HOME$/Documents/PykerStars/handranks.py" timestamp="1486143744144">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/PyTexturePacker/dist/PyTexturePacker-0.0.6/setup.py" timestamp="1493049153278">
+        <mark key="[" line="11" column="80" />
       </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/Test/__init__.py" timestamp="1478342967692">
         <mark key="[" line="0" column="0" />
@@ -158,6 +161,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Utils.py" timestamp="1493049117536">
+        <mark key="[" line="113" column="61" />
+        <mark key="]" line="107" column="4" />
+        <mark key="^" line="107" column="4" />
+        <mark key="." line="107" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/Test/testRect.py" timestamp="1478335376502">
         <mark key="[" line="5" column="0" />
