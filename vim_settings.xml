@@ -21,7 +21,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1490465603260">
+      <file name="/Python Console" timestamp="1493785750712">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1475568342889">
@@ -52,6 +52,12 @@
       <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Atlas.py" timestamp="1493137261742">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" timestamp="1493785621012">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="40" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="14" column="39" />
+      </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/GuillotinePacker/GuillotinePacker.py" timestamp="1493742418818">
         <mark key="[" line="11" column="20" />
         <mark key="]" line="11" column="21" />
@@ -79,7 +85,7 @@
         <mark key="^" line="11" column="79" />
         <mark key="." line="11" column="79" />
       </file>
-      <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/MaxRectsPacker/MaxRectsAtlas.py" timestamp="1493742855287">
+      <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/MaxRectsPacker/MaxRectsAtlas.py" timestamp="1493785323724">
         <mark key="[" line="198" column="0" />
         <mark key="]" line="198" column="0" />
         <mark key="." line="198" column="0" />
@@ -189,10 +195,10 @@
         <mark key="^" line="107" column="4" />
         <mark key="." line="107" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/GuillotinePacker/GuillotineAtlas.py" timestamp="1493743625946">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
+      <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/GuillotinePacker/GuillotineAtlas.py" timestamp="1493785379942">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/Test/testRect.py" timestamp="1478335376502">
         <mark key="[" line="5" column="0" />
@@ -310,7 +316,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJlY3RfbGlzdCA9IF9uZXdfcmVjdF9saXN0Cg==</text>
+        <text encoding="base64">VFlQRV9NQVhfUkVDVFNfQklOX1BBQ0sgPSBNYXhSZWN0c1BhY2tlcgo=</text>
       </register>
       <register name="-" type="4">
         <text>PackerInterface</text>
@@ -318,35 +324,35 @@
       <register name="/" type="4">
         <text>today_new</text>
       </register>
-      <register name="0" type="4">
-        <text>sub_rect.bottom</text>
+      <register name="0" type="2">
+        <text encoding="base64">VFlQRV9NQVhfUkVDVFNfQklOX1BBQ0sgPSBNYXhSZWN0c1BhY2tlcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJlY3RfbGlzdCA9IF9uZXdfcmVjdF9saXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJlY3RfbGlzdCA9IGxpc3QoZmlsdGVyKHNlbGYuX3JlY3RfbGlzdF9wcnVuaW5nLCBfbmV3X3JlY3RfbGlzdCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm1heF9yZWN0X2xpc3QgPSBfbmV3X21heF9yZWN0X2xpc3QK</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">IAogICAgICAgIGZvciBpLCByZWN0IGluIGVudW1lcmF0ZShzZWxmLnJlY3RfbGlzdCk6CiAgICAgICAgICAgIGlmIGZha2VfaW1hZ2VfcmVjdC5pc19vdmVybGFwZWQocmVjdCk6CiAgICAgICAgICAgICAgICBfbmV3X3JlY3RfbGlzdC5leHRlbmQoc2VsZi5jdXQocmVjdCwgZmFrZV9pbWFnZV9yZWN0KSkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIF9yZWN0X2xpc3QuYXBwZW5kKHJlY3QpCgogICAgICAgIHNlbGYucmVjdF9saXN0ID0gbGlzdChmaWx0ZXIoc2VsZi5fcmVjdF9saXN0X3BydW5pbmcsIF9uZXdfcmVjdF9saXN0KSkKICAgICAgICBzZWxmLnJlY3RfbGlzdC5leHRlbmQoX3JlY3RfbGlzdCk=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICBkZWYgcmFuayhzZWxmLCBtYWluX3JlY3QsIHN1Yl9yZWN0LCBtZXRob2Q9UkFOS19CU1NGKToKICAgICAgICAiIiIKICAgICAgICByYW5rCiAgICAgICAgOnBhcmFtIG1haW5fcmVjdDoKICAgICAgICA6cGFyYW0gc3ViX3JlY3Q6CiAgICAgICAgOnBhcmFtIG1ldGhvZDoKICAgICAgICA6cmV0dXJuOgogICAgICAgICIiIgogICAgICAgIGlmIG1ldGhvZCA9PSBzZWxmLlJBTktfQlNTRjoKICAgICAgICAgICAgdG1wID0gbWFpbl9yZWN0LndpZHRoIC0gc3ViX3JlY3Qud2lkdGggaWYgbWFpbl9yZWN0LndpZHRoIDwgbWFpbl9yZWN0LmhlaWdodCBcCiAgICAgICAgICAgICAgICBlbHNlIG1haW5fcmVjdC5oZWlnaHQgLSBzdWJfcmVjdC5oZWlnaHQKICAgICAgICBlbGlmIG1ldGhvZCA9PSBzZWxmLlJBTktfQkxTRjoKICAgICAgICAgICAgdG1wID0gbWFpbl9yZWN0LndpZHRoIC0gc3ViX3JlY3Qud2lkdGggaWYgbWFpbl9yZWN0LndpZHRoID4gbWFpbl9yZWN0LmhlaWdodCBcCiAgICAgICAgICAgICAgICBlbHNlIG1haW5fcmVjdC5oZWlnaHQgLSBzdWJfcmVjdC5oZWlnaHQKICAgICAgICBlbGlmIG1ldGhvZCA9PSBzZWxmLlJBTktfQkFGOgogICAgICAgICAgICB0bXAgPSBtYWluX3JlY3QuYXJlYSAtIHN1Yl9yZWN0LmFyZWEKCiAgICAgICAgYXNzZXJ0IHRtcCA8IE1BWF9SQU5LCiAgICAgICAgaWYgdG1wIDwgMCBcCiAgICAgICAgICAgICAgICBvciBtYWluX3JlY3Qud2lkdGggLSBzdWJfcmVjdC53aWR0aCA8IDIgKiBzZWxmLmlubmVyX3BhZGRpbmcgKyBzZWxmLnNoYXBlX3BhZGRpbmcgXAogICAgICAgICAgICAgICAgb3IgbWFpbl9yZWN0LmhlaWdodCAtIHN1Yl9yZWN0LmhlaWdodCA8IDIgKiBzZWxmLmlubmVyX3BhZGRpbmcgKyBzZWxmLnNoYXBlX3BhZGRpbmc6CiAgICAgICAgICAgIHJldHVybiBNQVhfUkFOSwogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJldHVybiB0bXAKCiAgICBkZWYgZmluZF9iZXN0X3Jhbmsoc2VsZiwgaW1hZ2VfcmVjdCwgZW5hYmxlX3JvdGF0ZWQ9RmFsc2UpOgogICAgICAgIGlmIGVuYWJsZV9yb3RhdGVkOgogICAgICAgICAgICByZXR1cm4gc2VsZi5maW5kX2Jlc3RfcmFua193aXRoX3JvdGF0ZShpbWFnZV9yZWN0KQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJldHVybiBzZWxmLmZpbmRfYmVzdF9yYW5rX3dpdGhvdXRfcm90YXRlKGltYWdlX3JlY3QpCgogICAgZGVmIGZpbmRfYmVzdF9yYW5rX3dpdGhvdXRfcm90YXRlKHNlbGYsIGltYWdlX3JlY3QpOgogICAgICAgIGJlc3RfcmFuayA9IE1BWF9SQU5LCiAgICAgICAgYmVzdF9pbmRleCA9IC0xCiAgICAgICAgZm9yIGksIHJlY3QgaW4gZW51bWVyYXRlKHNlbGYucmVjdF9saXN0KToKICAgICAgICAgICAgcmFuayA9IHNlbGYucmFuayhyZWN0LCBpbWFnZV9yZWN0KQogICAgICAgICAgICBpZiByYW5rIDwgYmVzdF9yYW5rOgogICAgICAgICAgICAgICAgYmVzdF9yYW5rID0gcmFuawogICAgICAgICAgICAgICAgYmVzdF9pbmRleCA9IGkKICAgICAgICByZXR1cm4gYmVzdF9pbmRleCwgYmVzdF9yYW5rLCBGYWxzZQoKICAgIGRlZiBmaW5kX2Jlc3RfcmFua193aXRoX3JvdGF0ZShzZWxmLCBpbWFnZV9yZWN0KToKICAgICAgICBpbWFnZV9yZWN0X3IgPSBpbWFnZV9yZWN0LmNsb25lKCkKICAgICAgICBpbWFnZV9yZWN0X3Iucm90YXRlKCkKCiAgICAgICAgaW5kZXgsIHJhbmssIF8gPSBzZWxmLmZpbmRfYmVzdF9yYW5rX3dpdGhvdXRfcm90YXRlKGltYWdlX3JlY3QpCiAgICAgICAgaW5kZXhfciwgcmFua19yLCBfID0gc2VsZi5maW5kX2Jlc3RfcmFua193aXRob3V0X3JvdGF0ZShpbWFnZV9yZWN0X3IpCgogICAgICAgIGlmIHJhbmsgPCByYW5rX3I6CiAgICAgICAgICAgIHJldHVybiBpbmRleCwgcmFuaywgRmFsc2UKICAgICAgICBlbHNlOgogICAgICAgICAgICByZXR1cm4gaW5kZXhfciwgcmFuaywgVHJ1ZQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBfbmV3X3JlY3RfbGlzdCA9IFtdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSAuTWF4UmVjdHNBdGxhcyBpbXBvcnQgTWF4UmVjdHNBdGxhcywgTUFYX1JBTksK</text>
+        <text encoding="base64">ICAgICAgICBfcmVjdF9saXN0ID0gW10K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSAuLlJlY3QgaW1wCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJlY3RfbGlzdCA9IF9uZXdfcmVjdF9saXN0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgcHJpbnQoY2F0ZV9kYXVbbGluZVsxXV0pCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJlY3RfbGlzdCA9IGxpc3QoZmlsdGVyKHNlbGYuX3JlY3RfbGlzdF9wcnVuaW5nLCBfbmV3X3JlY3RfbGlzdCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
