@@ -21,7 +21,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1493785750712">
+      <file name="/Python Console" timestamp="1493787474859">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1475568342889">
@@ -52,10 +52,10 @@
       <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Atlas.py" timestamp="1493137261742">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" timestamp="1493785621012">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="40" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" timestamp="1493787623383">
+        <mark key="[" line="18" column="23" />
+        <mark key="]" line="18" column="23" />
+        <mark key="." line="18" column="23" />
         <mark key="^" line="14" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/GuillotinePacker/GuillotinePacker.py" timestamp="1493742418818">
@@ -85,10 +85,10 @@
         <mark key="^" line="11" column="79" />
         <mark key="." line="11" column="79" />
       </file>
-      <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/MaxRectsPacker/MaxRectsAtlas.py" timestamp="1493785323724">
+      <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/MaxRectsPacker/MaxRectsAtlas.py" timestamp="1493786645056">
         <mark key="[" line="198" column="0" />
-        <mark key="]" line="198" column="0" />
-        <mark key="." line="198" column="0" />
+        <mark key="]" line="199" column="0" />
+        <mark key="." line="199" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PykerStars/handranks.py" timestamp="1486143744144">
         <mark key="[" line="0" column="0" />
@@ -165,6 +165,7 @@
       <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Image.py" timestamp="1475379944934">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/PackerInterface/PackerInterface.py" timestamp="1493785955906" />
       <file name="$USER_HOME$/Documents/PyTexturePacker/docs/index.rst" timestamp="1490717032778">
         <mark key="[" line="9" column="59" />
         <mark key="]" line="9" column="59" />
@@ -195,17 +196,16 @@
         <mark key="^" line="107" column="4" />
         <mark key="." line="107" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/GuillotinePacker/GuillotineAtlas.py" timestamp="1493785379942">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
+      <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/GuillotinePacker/GuillotineAtlas.py" timestamp="1493787477771">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/Test/testRect.py" timestamp="1478335376502">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/MaxRectsPacker/MaxRectsPacker.py" timestamp="1493742294251" />
       <file name="$USER_HOME$/Documents/PyBaler/PyBaler/Baler.py" timestamp="1483538292671">
         <mark key="[" line="24" column="29" />
         <mark key="]" line="9" column="13" />
@@ -315,11 +315,11 @@
       <jump line="132" column="44" filename="F:/super_handler/daily_report.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">VFlQRV9NQVhfUkVDVFNfQklOX1BBQ0sgPSBNYXhSZWN0c1BhY2tlcgo=</text>
+      <register name="&quot;" type="4">
+        <text>TYPE_GUILLOTINE_PACK</text>
       </register>
       <register name="-" type="4">
-        <text>PackerInterface</text>
+        <text>TYPE_GUILLOTINE_PACK</text>
       </register>
       <register name="/" type="4">
         <text>today_new</text>
@@ -328,31 +328,31 @@
         <text encoding="base64">VFlQRV9NQVhfUkVDVFNfQklOX1BBQ0sgPSBNYXhSZWN0c1BhY2tlcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gVHJ1ZQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBGYWxzZQo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IAogICAgICAgIGZvciBpLCByZWN0IGluIGVudW1lcmF0ZShzZWxmLnJlY3RfbGlzdCk6CiAgICAgICAgICAgIGlmIGZha2VfaW1hZ2VfcmVjdC5pc19vdmVybGFwZWQocmVjdCk6CiAgICAgICAgICAgICAgICBfbmV3X3JlY3RfbGlzdC5leHRlbmQoc2VsZi5jdXQocmVjdCwgZmFrZV9pbWFnZV9yZWN0KSkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIF9yZWN0X2xpc3QuYXBwZW5kKHJlY3QpCgogICAgICAgIHNlbGYucmVjdF9saXN0ID0gbGlzdChmaWx0ZXIoc2VsZi5fcmVjdF9saXN0X3BydW5pbmcsIF9uZXdfcmVjdF9saXN0KSkKICAgICAgICBzZWxmLnJlY3RfbGlzdC5leHRlbmQoX3JlY3RfbGlzdCk=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgdF9yZWN0IGluIHJlY3QgYW5kIHRfcmVjdCAhPSByZWN0Ogo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgcmVjdCBpbiBzZWxmLm1heF9yZWN0X2xpc3Q6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBfbmV3X3JlY3RfbGlzdCA9IFtdCg==</text>
+        <text encoding="base64">ICAgIGRlZiBfcmVjdF9saXN0X3BydW5pbmcoc2VsZiwgdF9yZWN0KToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBfcmVjdF9saXN0ID0gW10K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJlY3RfbGlzdCA9IF9uZXdfcmVjdF9saXN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJlY3RfbGlzdCA9IGxpc3QoZmlsdGVyKHNlbGYuX3JlY3RfbGlzdF9wcnVuaW5nLCBfbmV3X3JlY3RfbGlzdCkpCg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
