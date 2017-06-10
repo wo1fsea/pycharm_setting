@@ -6,7 +6,6 @@
       <file name="/start_script.py" timestamp="1483538622308">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/PyTexturePacker/PyTexturePacker/PackerInterface/PackerInterface.py" timestamp="1497096028946" />
       <file name="F:/supper_handler/utils.py" timestamp="1490462861905">
         <mark key="[" line="58" column="4" />
         <mark key="]" line="72" column="0" />
@@ -168,6 +167,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="E:/TensorFlow/test/a.py" timestamp="1497120275140">
+        <mark key="[" line="195" column="65" />
+        <mark key="]" line="195" column="56" />
+        <mark key="^" line="195" column="56" />
+        <mark key="." line="195" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/setup.py" timestamp="1487776918299">
         <mark key="[" line="6" column="18" />
@@ -385,6 +390,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
