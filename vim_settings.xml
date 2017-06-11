@@ -11,7 +11,7 @@
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1497160780632">
+      <file name="/Python Console" timestamp="1497161087845">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1475568342889">
@@ -122,7 +122,9 @@
         <mark key="^" line="15" column="31" />
         <mark key="." line="15" column="31" />
       </file>
-      <file name="E:/TensorFlow/test/mnist_softmax.py" timestamp="1497160776529" />
+      <file name="E:/TensorFlow/test/mnist_softmax.py" timestamp="1497161628164">
+        <mark key="[" line="50" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/PykerStars/pykerstars/handranks.py" timestamp="1488211360771">
         <mark key="[" line="172" column="16" />
         <mark key="]" line="172" column="38" />
