@@ -98,9 +98,11 @@
         <mark key="." line="88" column="8" />
         <mark key="^" line="88" column="7" />
       </file>
-      <file name="D:/GITHUB/PykerStars/pykerstars/game.py" timestamp="1497455232993">
-        <mark key="[" line="39" column="14" />
-        <mark key="^" line="10" column="0" />
+      <file name="D:/GITHUB/PykerStars/pykerstars/game.py" timestamp="1497456488362">
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="13" column="17" />
+        <mark key="^" line="13" column="16" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="D:/GITHUB/PyTexturePacker/PyTexturePacker/MaxRectsBinPacker/MaxRectsAtlas.py" timestamp="1493222293587">
         <mark key="[" line="227" column="0" />
@@ -121,6 +123,9 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
+      </file>
+      <file name="D:/GITHUB/PykerStars/pykerstars/player.py" timestamp="1497455696289">
+        <mark key="[" line="12" column="0" />
       </file>
       <file name="D:/GITHUB/PykerStars/pykerstars/cards.py" timestamp="1497455156182">
         <mark key="[" line="11" column="0" />
@@ -316,7 +321,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBweWtlcnN0YXJzLnV0aWxzLnBva2VyZW51bSBpbXBvcnQgUG9rZXJFbnVtCg==</text>
+        <text encoding="base64">ICAgIGJpZ19ibGluZCA9IDIK</text>
       </register>
       <register name="-" type="4">
         <text>game</text>
@@ -325,7 +330,7 @@
         <text>today_new</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBweWtlcnN0YXJzLnV0aWxzLnBva2VyZW51bSBpbXBvcnQgUG9rZXJFbnVtCg==</text>
+        <text encoding="base64">ICAgIGJpZ19ibGluZCA9IDIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
