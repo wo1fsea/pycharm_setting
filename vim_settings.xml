@@ -148,11 +148,11 @@
         <mark key="." line="88" column="8" />
         <mark key="^" line="88" column="7" />
       </file>
-      <file name="D:/GITHUB/PykerStars/pykerstars/game.py" timestamp="1497543462652">
-        <mark key="[" line="64" column="26" />
-        <mark key="]" line="64" column="26" />
-        <mark key="." line="64" column="26" />
-        <mark key="^" line="24" column="17" />
+      <file name="D:/GITHUB/PykerStars/pykerstars/game.py" timestamp="1497545423006">
+        <mark key="[" line="123" column="33" />
+        <mark key="]" line="123" column="34" />
+        <mark key="." line="122" column="0" />
+        <mark key="^" line="117" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/PykerStars/pykerstars/utils.py" timestamp="1486132151393">
         <mark key="[" line="93" column="26" />
@@ -337,43 +337,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text encoding="base64">ICAgICAgICBwYXNz</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">ICAgICAgICBwYXNz</text>
       </register>
       <register name="/" type="4">
         <text>today_new</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmluaXRfc3RhY2sgPSBbXQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICBzZWxmLmN1cl9oYW5kLmJvYXJkLmFwcGVuZChzZWxmLmNhcmRzW3NlbGYuX2N1cl9jYXJkc19pbmRleF0pCiAgICAgICAgc2VsZi5fY3VyX2NhcmRzX2luZGV4ICs9IDE=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLl9jdXJfY2FyZHNfaW5kZXggKz0gMiAqIHNlbGYuX2N1cl9wbGF5ZXJfbnVtCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwbGF5ZXJfbnVtID0gbGVuKHNlbGYudGFibGUucGxheWVycykK</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">aW1wb3J0IHN5cwoKaWYgc3lzLnZlcnNpb25faW5mbyA8ICgzLCAwKToKICAgIGZyb20gLl9wb2tlcmVudW0yIGltcG9ydCBfUG9rZXJFbnVtCmVsc2U6CiAgICBmcm9tIC5fcG9rZXJlbnVtMyBpbXBvcnQgX1Bva2VyRW51bQ==</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CmNsYXNzIFBva2VyRW51bU1ldGEodHlwZSk6CiAgICBkZWYgX19uZXdfXyhtY3MsIGNscywgYmFzZXMsIGNsYXNzZGljdCk6CgogICAgICAgIGNscyA9IHN1cGVyKFBva2VyRW51bU1ldGEsIG1jcykuX19uZXdfXyhtY3MsIGNscywgYmFzZXMsIGNsYXNzZGljdCkKCiAgICAgICAgX29yZGVyID0gY2xhc3NkaWN0LnBvcCgnX19vcmRlcl9fJywgTm9uZSkKICAgICAgICBlbnVtX25hbWVzID0gX29yZGVyLnNwbGl0KCkgaWYgX29yZGVyIGVsc2UgW10KCiAgICAgICAgZW51bTJ2YWx1ZV9tYXAgPSBkaWN0KFsoZW51bV9uYW1lLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzZGljdFtlbnVtX25hbWVdIGlmIGlzaW5zdGFuY2UoY2xhc3NkaWN0W2VudW1fbmFtZV0sICh0dXBsZSwgbGlzdCkpIGVsc2UgKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjbGFzc2RpY3RbZW51bV9uYW1lXSwpKSBmb3IgZW51bV9uYW1lIGluIGVudW1fbmFtZXNdKQogICAgICAgIHZhbHVlMmVudW1fbWFwID0ge30KCiAgICAgICAgZm9yIG5hbWUsIHZhbHVlcyBpbiBlbnVtMnZhbHVlX21hcC5pdGVtcygpOgogICAgICAgICAgICBmb3IgdiBpbiB2YWx1ZXM6CiAgICAgICAgICAgICAgICB2YWx1ZTJlbnVtX21hcFt2XSA9IG5hbWUKCiAgICAgICAgICAgIHNldGF0dHIoY2xzLCBuYW1lLCBOb25lKQoKICAgICAgICBjbHMuX2VudW1fbmFtZXMgPSBlbnVtX25hbWVzCiAgICAgICAgY2xzLl9lbnVtMnZhbHVlX21hcCA9IGVudW0ydmFsdWVfbWFwCiAgICAgICAgY2xzLl92YWx1ZTJlbnVtX21hcCA9IHZhbHVlMmVudW1fbWFwCgogICAgICAgIGZvciBuYW1lLCB2YWx1ZXMgaW4gZW51bTJ2YWx1ZV9tYXAuaXRlbXMoKToKICAgICAgICAgICAgc2V0YXR0cihjbHMsIG5hbWUsIGNscyh2YWx1ZXNbMF0pKQoKICAgICAgICByZXR1cm4gY2xzCgogICAgZGVmIF9fZ2V0aXRlbV9fKHNlbGYsIG5hbWUpOgogICAgICAgIHJldHVybiBnZXRhdHRyKHNlbGYsIG5hbWUpCgogICAgZGVmIF9faXRlcl9fKHNlbGYpOgogICAgICAgIHJldHVybiAoZ2V0YXR0cihzZWxmLCBuYW1lKSBmb3IgbmFtZSBpbiBzZWxmLl9lbnVtX25hbWVzKQoKICAgIGRlZiBfX2xlbl9fKHNlbGYpOgogICAgICAgIHJldHVybiBsZW4oc2VsZi5fZW51bV9uYW1lcykK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZWxzZToK</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBfX21ldGFjbGFzc19fID0gUG9rZXJFbnVtTWV0YQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgY2xhc3MgX1Bva2VyRW51bShvYmplY3QpOgo=</text>
+        <text encoding="base64">ZWxzZToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">ICAgICAgICBfX21ldGFjbGFzc19fID0gUG9rZXJFbnVtTWV0YQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">ICAgY2xhc3MgX1Bva2VyRW51bShvYmplY3QpOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -430,6 +430,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
