@@ -20,10 +20,10 @@
       <file name="D:/GITHUB/PykerStars/pykerstars/table.py" timestamp="1497448052160">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/PyTWEANN/pytweann/genome.py" timestamp="1497887281244">
-        <mark key="[" line="48" column="13" />
-        <mark key="]" line="48" column="13" />
-        <mark key="." line="48" column="13" />
+      <file name="D:/GITHUB/PyTWEANN/pytweann/genome.py" timestamp="1497969421772">
+        <mark key="[" line="23" column="18" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PyBaler/PyBaler/Baler.py" timestamp="1483538292671">
         <mark key="[" line="24" column="29" />
@@ -56,6 +56,9 @@
       </file>
       <file name="$USER_HOME$/Documents/PykerStars/handranks.py" timestamp="1486143744144">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/GITHUB/PyTWEANN/.gitignore" timestamp="1497890267596">
+        <mark key="[" line="91" column="0" />
       </file>
       <file name="D:/GITHUB/PyTexturePacker/PyTexturePacker/MaxRectsBinPacker/MaxRectsAtlas.py" timestamp="1493222293587">
         <mark key="[" line="227" column="0" />
@@ -94,11 +97,10 @@
         <mark key="^" line="195" column="56" />
         <mark key="." line="195" column="56" />
       </file>
-      <file name="D:/GITHUB/PyTWEANN/pytweann/pytweann.py" timestamp="1497882297737">
-        <mark key="[" line="9" column="79" />
-        <mark key="]" line="9" column="12" />
-        <mark key="^" line="9" column="12" />
-        <mark key="." line="9" column="12" />
+      <file name="D:/GITHUB/PyTWEANN/pytweann/pytweann.py" timestamp="1497970284468">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/setup.py" timestamp="1487776918299">
         <mark key="[" line="6" column="18" />
@@ -155,10 +157,10 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="D:/GITHUB/PyTWEANN/pytweann/config.py" timestamp="1497888295532">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="D:/GITHUB/PyTWEANN/pytweann/config.py" timestamp="1497969707315">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/__init__.py" timestamp="1477839593099">
         <mark key="[" line="0" column="29" />
@@ -249,8 +251,10 @@
       <file name="D:/GITHUB/PykerStars/pykerstars/utils/_poker_enum2.py" timestamp="1497540869769">
         <mark key="[" line="0" column="14" />
       </file>
-      <file name="D:/GITHUB/PyTWEANN/pytweann/neuron_network.py" timestamp="1497887643882">
-        <mark key="[" line="14" column="13" />
+      <file name="D:/GITHUB/PyTWEANN/pytweann/neuron_network.py" timestamp="1497970332020">
+        <mark key="[" line="28" column="31" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="D:/GITHUB/PyTexturePacker/PyTexturePacker/Rect.py" timestamp="1494172222736">
         <mark key="[" line="76" column="74" />
@@ -361,7 +365,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNwZWNpZXMgPSBbXQo=</text>
       </register>
       <register name="-" type="4">
         <text>population</text>
@@ -369,35 +373,35 @@
       <register name="/" type="4">
         <text>today_new</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICJub2RlX211dGF0aW9uX2NoYW5jZSI6IDAuMjUsCg==</text>
+      <register name="0" type="4">
+        <text>t k in self.config, &quot;p</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNwZWNpZXMgPSBbXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+        <text encoding="base64">ICAgICJtYXhfbm9kZXNfc2l6ZSI6IDEwMDAwMDAsCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9pbm5vdmF0aW9uID0gMAo=</text>
+        <text encoding="base64">ICAgICJjcm9zc292ZXJfY2hhbmNlIjogMC43NSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICJwZXJ0dXJiX2NoYW5jZSI6IDAuOSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9jdXJfY2FyZHNfaW5kZXggKz0gMiAqIHNlbGYuX2N1cl9wbGF5ZXJfbnVtCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwbGF5ZXJfbnVtID0gbGVuKHNlbGYudGFibGUucGxheWVycykK</text>
+        <text encoding="base64">ICAgICJzdGVwX3NpemUiOiAwLjEsCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">aW1wb3J0IHN5cwoKaWYgc3lzLnZlcnNpb25faW5mbyA8ICgzLCAwKToKICAgIGZyb20gLl9wb2tlcmVudW0yIGltcG9ydCBfUG9rZXJFbnVtCmVsc2U6CiAgICBmcm9tIC5fcG9rZXJlbnVtMyBpbXBvcnQgX1Bva2VyRW51bQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICJmdW5jdGlvbmluZ19tdXRhdGlvbl9jaGFuY2UiOiAwLjQsCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CmNsYXNzIFBva2VyRW51bU1ldGEodHlwZSk6CiAgICBkZWYgX19uZXdfXyhtY3MsIGNscywgYmFzZXMsIGNsYXNzZGljdCk6CgogICAgICAgIGNscyA9IHN1cGVyKFBva2VyRW51bU1ldGEsIG1jcykuX19uZXdfXyhtY3MsIGNscywgYmFzZXMsIGNsYXNzZGljdCkKCiAgICAgICAgX29yZGVyID0gY2xhc3NkaWN0LnBvcCgnX19vcmRlcl9fJywgTm9uZSkKICAgICAgICBlbnVtX25hbWVzID0gX29yZGVyLnNwbGl0KCkgaWYgX29yZGVyIGVsc2UgW10KCiAgICAgICAgZW51bTJ2YWx1ZV9tYXAgPSBkaWN0KFsoZW51bV9uYW1lLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzZGljdFtlbnVtX25hbWVdIGlmIGlzaW5zdGFuY2UoY2xhc3NkaWN0W2VudW1fbmFtZV0sICh0dXBsZSwgbGlzdCkpIGVsc2UgKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjbGFzc2RpY3RbZW51bV9uYW1lXSwpKSBmb3IgZW51bV9uYW1lIGluIGVudW1fbmFtZXNdKQogICAgICAgIHZhbHVlMmVudW1fbWFwID0ge30KCiAgICAgICAgZm9yIG5hbWUsIHZhbHVlcyBpbiBlbnVtMnZhbHVlX21hcC5pdGVtcygpOgogICAgICAgICAgICBmb3IgdiBpbiB2YWx1ZXM6CiAgICAgICAgICAgICAgICB2YWx1ZTJlbnVtX21hcFt2XSA9IG5hbWUKCiAgICAgICAgICAgIHNldGF0dHIoY2xzLCBuYW1lLCBOb25lKQoKICAgICAgICBjbHMuX2VudW1fbmFtZXMgPSBlbnVtX25hbWVzCiAgICAgICAgY2xzLl9lbnVtMnZhbHVlX21hcCA9IGVudW0ydmFsdWVfbWFwCiAgICAgICAgY2xzLl92YWx1ZTJlbnVtX21hcCA9IHZhbHVlMmVudW1fbWFwCgogICAgICAgIGZvciBuYW1lLCB2YWx1ZXMgaW4gZW51bTJ2YWx1ZV9tYXAuaXRlbXMoKToKICAgICAgICAgICAgc2V0YXR0cihjbHMsIG5hbWUsIGNscyh2YWx1ZXNbMF0pKQoKICAgICAgICByZXR1cm4gY2xzCgogICAgZGVmIF9fZ2V0aXRlbV9fKHNlbGYsIG5hbWUpOgogICAgICAgIHJldHVybiBnZXRhdHRyKHNlbGYsIG5hbWUpCgogICAgZGVmIF9faXRlcl9fKHNlbGYpOgogICAgICAgIHJldHVybiAoZ2V0YXR0cihzZWxmLCBuYW1lKSBmb3IgbmFtZSBpbiBzZWxmLl9lbnVtX25hbWVzKQoKICAgIGRlZiBfX2xlbl9fKHNlbGYpOgogICAgICAgIHJldHVybiBsZW4oc2VsZi5fZW51bV9uYW1lcykK</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICJub2RlX211dGF0aW9uX2NoYW5jZSI6IDAuNSwK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
