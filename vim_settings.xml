@@ -20,11 +20,11 @@
       <file name="D:/GITHUB/PykerStars/pykerstars/table.py" timestamp="1497448052160">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/PyTWEANN/pytweann/genome.py" timestamp="1498060868505">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="60" column="64" />
-        <mark key="." line="58" column="1" />
-        <mark key="^" line="54" column="7" />
+      <file name="D:/GITHUB/PyTWEANN/pytweann/genome.py" timestamp="1498145681798">
+        <mark key="[" line="20" column="13" />
+        <mark key="]" line="20" column="13" />
+        <mark key="." line="20" column="13" />
+        <mark key="^" line="57" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/PyBaler/PyBaler/Baler.py" timestamp="1483538292671">
         <mark key="[" line="24" column="29" />
@@ -163,7 +163,7 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="D:/GITHUB/PyTWEANN/pytweann/config.py" timestamp="1497969707315">
+      <file name="D:/GITHUB/PyTWEANN/pytweann/config.py" timestamp="1498145703608">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
@@ -210,7 +210,7 @@
         <mark key="." line="47" column="26" />
         <mark key="^" line="47" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495355582325">
+      <file name="/Dummy.txt" timestamp="1498145705167">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/main.py" timestamp="1481465720794">
@@ -371,10 +371,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICBpbm5vdmF0aW9uMSA9IHNldChbZ2VuZS5pbm5vdmF0aW9uIGZvciBnZW5lIGluIHNlbGYuZ2VuZXNdKQogICAgICAgIGlubm92YXRpb24yID0gc2V0KFtnZW5lLmlubm92YXRpb24gZm9yIGdlbmUgaW4gZ2Vub21lLmdlbmVzXSkKICAgICAgICBkaXNqb2ludCA9IGlubm92YXRpb24xLnN5bW1ldHJpY19kaWZmZXJlbmNlKGlubm92YXRpb24yKQ==</text>
+        <text>functioning</text>
       </register>
       <register name="-" type="4">
-        <text>genome</text>
+        <text>functioning</text>
       </register>
       <register name="/" type="4">
         <text>today_new</text>
