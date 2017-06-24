@@ -20,6 +20,11 @@
       <file name="D:/GITHUB/PykerStars/pykerstars/table.py" timestamp="1497448052160">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/GITHUB/PyTWEANN/pytweann/genome.py" timestamp="1498309238630">
+        <mark key="[" line="49" column="13" />
+        <mark key="]" line="49" column="13" />
+        <mark key="." line="49" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/PyBaler/PyBaler/Baler.py" timestamp="1483538292671">
         <mark key="[" line="24" column="29" />
         <mark key="]" line="9" column="13" />
@@ -45,6 +50,9 @@
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
         <mark key="^" line="91" column="38" />
+      </file>
+      <file name="D:/GITHUB/PyTWEANN/pytweann/environment.py" timestamp="1498308706609">
+        <mark key="[" line="3" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/PykerStars/.gitignore" timestamp="1486071398335">
         <mark key="[" line="1" column="0" />
@@ -93,9 +101,7 @@
         <mark key="." line="195" column="56" />
       </file>
       <file name="D:/GITHUB/PyTWEANN/pytweann/pytweann.py" timestamp="1497974023164">
-        <mark key="[" line="27" column="6" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+        <mark key="[" line="12" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/setup.py" timestamp="1487776918299">
         <mark key="[" line="6" column="18" />
@@ -147,18 +153,18 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="D:/GITHUB/PyTWEANN/pytweann/species.py" timestamp="1497974009119">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="D:/GITHUB/PyTWEANN/pytweann/species.py" timestamp="1498308743201">
+        <mark key="[" line="23" column="14" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PyBaler/PyBaler/TextureSorter.py" timestamp="1483538518021">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="D:/GITHUB/PyTWEANN/pytweann/config.py" timestamp="1498145703608">
-        <mark key="[" line="36" column="0" />
+      <file name="D:/GITHUB/PyTWEANN/pytweann/config.py" timestamp="1498308725330">
+        <mark key="[" line="21" column="13" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
@@ -251,11 +257,11 @@
       <file name="D:/GITHUB/PykerStars/pykerstars/utils/_poker_enum2.py" timestamp="1497540869769">
         <mark key="[" line="0" column="14" />
       </file>
-      <file name="D:/GITHUB/PyTWEANN/pytweann/neuron_network.py" timestamp="1498148278619">
-        <mark key="[" line="55" column="8" />
-        <mark key="]" line="55" column="23" />
-        <mark key="." line="55" column="0" />
-        <mark key="^" line="54" column="0" />
+      <file name="D:/GITHUB/PyTWEANN/pytweann/neuron_network.py" timestamp="1498308885272">
+        <mark key="[" line="33" column="70" />
+        <mark key="]" line="33" column="71" />
+        <mark key="." line="33" column="27" />
+        <mark key="^" line="32" column="67" />
       </file>
       <file name="D:/GITHUB/PyTexturePacker/PyTexturePacker/Rect.py" timestamp="1494172222736">
         <mark key="[" line="76" column="74" />
@@ -365,17 +371,17 @@
       <jump line="132" column="44" filename="F:/super_handler/daily_report.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmaWx0ZXIobGFtYmRhIHg6IHguaW5ub3ZhdGlvbiBpbiBjb2luY2lkZW5jZSwgc2VsZi5nZW5lcykK</text>
+      <register name="&quot;" type="4">
+        <text>max_neuron</text>
       </register>
       <register name="-" type="4">
-        <text>weight2</text>
+        <text>max_neuron</text>
       </register>
       <register name="/" type="4">
         <text>today_new</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3ZWlnaHQxID0gZGljdChtYXAobGFtYmRhIHg6ICh4Lmlubm92YXRpb24sIHgud2VpZ2h0KSwgc2VsZi5nZW5lcykpCg==</text>
+      <register name="0" type="4">
+        <text>self.genome.environment.config[&quot;input_size&quot;]</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBmaWx0ZXIobGFtYmRhIHg6IHguaW5ub3ZhdGlvbiBpbiBjb2luY2lkZW5jZSwgc2VsZi5nZW5lcykK</text>
