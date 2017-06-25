@@ -20,10 +20,10 @@
       <file name="D:/GITHUB/PykerStars/pykerstars/table.py" timestamp="1497448052160">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/PyTWEANN/pytweann/genome.py" timestamp="1498309238630">
-        <mark key="[" line="49" column="13" />
-        <mark key="]" line="49" column="13" />
-        <mark key="." line="49" column="13" />
+      <file name="D:/GITHUB/PyTWEANN/pytweann/genome.py" timestamp="1498372394274">
+        <mark key="[" line="61" column="5" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PyBaler/PyBaler/Baler.py" timestamp="1483538292671">
         <mark key="[" line="24" column="29" />
@@ -51,8 +51,8 @@
         <mark key="." line="91" column="0" />
         <mark key="^" line="91" column="38" />
       </file>
-      <file name="D:/GITHUB/PyTWEANN/pytweann/environment.py" timestamp="1498308706609">
-        <mark key="[" line="3" column="4" />
+      <file name="D:/GITHUB/PyTWEANN/pytweann/environment.py" timestamp="1498372438427">
+        <mark key="[" line="25" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/PykerStars/.gitignore" timestamp="1486071398335">
         <mark key="[" line="1" column="0" />
@@ -100,8 +100,10 @@
         <mark key="^" line="195" column="56" />
         <mark key="." line="195" column="56" />
       </file>
-      <file name="D:/GITHUB/PyTWEANN/pytweann/pytweann.py" timestamp="1497974023164">
-        <mark key="[" line="12" column="6" />
+      <file name="D:/GITHUB/PyTWEANN/pytweann/pytweann.py" timestamp="1498372097806">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/setup.py" timestamp="1487776918299">
         <mark key="[" line="6" column="18" />
@@ -117,7 +119,7 @@
         <mark key="^" line="26" column="70" />
         <mark key="." line="26" column="37" />
       </file>
-      <file name="/Python Console" timestamp="1497540569516">
+      <file name="/Python Console" timestamp="1498322325312">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1475568342889">
@@ -257,11 +259,10 @@
       <file name="D:/GITHUB/PykerStars/pykerstars/utils/_poker_enum2.py" timestamp="1497540869769">
         <mark key="[" line="0" column="14" />
       </file>
-      <file name="D:/GITHUB/PyTWEANN/pytweann/neuron_network.py" timestamp="1498308885272">
-        <mark key="[" line="33" column="70" />
-        <mark key="]" line="33" column="71" />
-        <mark key="." line="33" column="27" />
-        <mark key="^" line="32" column="67" />
+      <file name="D:/GITHUB/PyTWEANN/pytweann/neuron_network.py" timestamp="1498322324222">
+        <mark key="[" line="55" column="57" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="D:/GITHUB/PyTexturePacker/PyTexturePacker/Rect.py" timestamp="1494172222736">
         <mark key="[" line="76" column="74" />
@@ -371,8 +372,8 @@
       <jump line="132" column="44" filename="F:/super_handler/daily_report.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>max_neuron</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmFkanVzdGVkX2ZpdG5lc3MgPSAwCg==</text>
       </register>
       <register name="-" type="4">
         <text>max_neuron</text>
@@ -380,35 +381,35 @@
       <register name="/" type="4">
         <text>today_new</text>
       </register>
-      <register name="0" type="4">
-        <text>self.genome.environment.config[&quot;input_size&quot;]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGdlbm9tZS5nZW5lcy5hcHBlbmQoZ2VuZTEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmaWx0ZXIobGFtYmRhIHg6IHguaW5ub3ZhdGlvbiBpbiBjb2luY2lkZW5jZSwgc2VsZi5nZW5lcykK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFkanVzdGVkX2ZpdG5lc3MgPSAwCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGdlbmUyID0gaW5ub3ZhdGlvbjJbZ2VuZS5pbm5vdmF0aW9uXQo=</text>
+        <text encoding="base64">ICAgIHNlbGYuY29uZmlnID0gY29uZmlnLm5ld19jb25maWcoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb2luY2lkZW5jZSA9IGlubm92YXRpb24xLmludGVyc2VjdGlvbihpbm5vdmF0aW9uMikK</text>
+        <text encoding="base64">Y2xhc3MgUHlFTkFUKG9iamVjdCk6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBvdXRwdXRfc2l6ZSA9IDAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3ZWlnaHQyID0gZGljdChtYXAobGFtYmRhIHg6ICh4Lmlubm92YXRpb24sIHgud2VpZ2h0KSwgZ2Vub21lLmdlbmVzKSkK</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dF9zaXplID0gMAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3ZWlnaHQxID0gZGljdChtYXAobGFtYmRhIHg6ICh4Lmlubm92YXRpb24sIHgud2VpZ2h0KSwgc2VsZi5nZW5lcykpCg==</text>
+        <text encoding="base64">ICAgICAgICBmaWx0ZXIobGFtYmRhIHg6IHguaW5ub3ZhdGlvbiBpbiBjb2luY2lkZW5jZSwgc2VsZi5nZW5lcykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2NvbnRhaW5zX18oc2VsZiwgZ2Vub21lKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGdlbmUyID0gaW5ub3ZhdGlvbjJbZ2VuZS5pbm5vdmF0aW9uXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNqb2ludCA9IChpbm5vdmF0aW9uMSAtIGlubm92YXRpb24yKS51bmlvbihpbm5vdmF0aW9uMiAtIGlubm92YXRpb24xKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb2luY2lkZW5jZSA9IGlubm92YXRpb24xLmludGVyc2VjdGlvbihpbm5vdmF0aW9uMikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBnZW5lLmlubm92YXRpb24K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
