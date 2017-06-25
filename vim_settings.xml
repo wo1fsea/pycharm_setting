@@ -20,7 +20,7 @@
       <file name="D:/GITHUB/PykerStars/pykerstars/table.py" timestamp="1497448052160">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/PyTWEANN/pytweann/genome.py" timestamp="1498402388281">
+      <file name="D:/GITHUB/PyTWEANN/pytweann/genome.py" timestamp="1498405341515">
         <mark key="[" line="109" column="47" />
         <mark key="]" line="109" column="47" />
         <mark key="." line="109" column="47" />
@@ -52,7 +52,7 @@
         <mark key="." line="91" column="0" />
         <mark key="^" line="91" column="38" />
       </file>
-      <file name="D:/GITHUB/PyTWEANN/pytweann/environment.py" timestamp="1498404246620">
+      <file name="D:/GITHUB/PyTWEANN/pytweann/environment.py" timestamp="1498405389238">
         <mark key="[" line="70" column="68" />
         <mark key="]" line="70" column="68" />
         <mark key="." line="70" column="68" />
@@ -84,11 +84,11 @@
       <file name="E:/TensorFlow/test/mnist_softmax.py" timestamp="1497161628164">
         <mark key="[" line="50" column="3" />
       </file>
-      <file name="D:/GITHUB/PyTWEANN/main.py" timestamp="1498403417176">
-        <mark key="[" line="25" column="21" />
-        <mark key="]" line="25" column="21" />
-        <mark key="^" line="25" column="21" />
-        <mark key="." line="25" column="21" />
+      <file name="D:/GITHUB/PyTWEANN/main.py" timestamp="1498404604632">
+        <mark key="[" line="23" column="24" />
+        <mark key="]" line="23" column="24" />
+        <mark key="^" line="26" column="21" />
+        <mark key="." line="23" column="24" />
       </file>
       <file name="D:/GITHUB/PykerStars/pykerstars/handranks.py" timestamp="1497539680393">
         <mark key="[" line="63" column="15" />
@@ -128,7 +128,7 @@
         <mark key="^" line="26" column="70" />
         <mark key="." line="26" column="37" />
       </file>
-      <file name="/Python Console" timestamp="1498404077640">
+      <file name="/Python Console" timestamp="1498404694336">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1498404218381">
@@ -165,10 +165,10 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="D:/GITHUB/PyTWEANN/pytweann/species.py" timestamp="1498401262611">
-        <mark key="[" line="35" column="25" />
-        <mark key="]" line="48" column="52" />
-        <mark key="." line="48" column="52" />
-        <mark key="^" line="49" column="13" />
+        <mark key="[" line="37" column="25" />
+        <mark key="]" line="50" column="52" />
+        <mark key="." line="50" column="52" />
+        <mark key="^" line="51" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/PyBaler/PyBaler/TextureSorter.py" timestamp="1483538518021">
         <mark key="[" line="19" column="0" />
@@ -223,7 +223,7 @@
         <mark key="." line="47" column="26" />
         <mark key="^" line="47" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498400512197">
+      <file name="/Dummy.txt" timestamp="1498405345388">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/main.py" timestamp="1481465720794">
@@ -384,10 +384,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fitness</text>
+        <text>XOR</text>
       </register>
       <register name="-" type="4">
-        <text>fitness</text>
+        <text>XOR</text>
       </register>
       <register name="/" type="4">
         <text>today_new</text>
