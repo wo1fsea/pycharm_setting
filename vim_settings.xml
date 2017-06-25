@@ -20,9 +20,10 @@
       <file name="D:/GITHUB/PykerStars/pykerstars/table.py" timestamp="1497448052160">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/PyTWEANN/pytweann/genome.py" timestamp="1498383100610">
-        <mark key="[" line="210" column="9" />
-        <mark key="." line="210" column="8" />
+      <file name="D:/GITHUB/PyTWEANN/pytweann/genome.py" timestamp="1498401039438">
+        <mark key="[" line="109" column="47" />
+        <mark key="]" line="109" column="47" />
+        <mark key="." line="109" column="47" />
         <mark key="^" line="210" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/PyBaler/PyBaler/Baler.py" timestamp="1483538292671">
@@ -51,10 +52,10 @@
         <mark key="." line="91" column="0" />
         <mark key="^" line="91" column="38" />
       </file>
-      <file name="D:/GITHUB/PyTWEANN/pytweann/environment.py" timestamp="1498397883228">
-        <mark key="[" line="65" column="37" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+      <file name="D:/GITHUB/PyTWEANN/pytweann/environment.py" timestamp="1498399898059">
+        <mark key="[" line="93" column="85" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PykerStars/.gitignore" timestamp="1486071398335">
         <mark key="[" line="1" column="0" />
@@ -82,6 +83,12 @@
       </file>
       <file name="E:/TensorFlow/test/mnist_softmax.py" timestamp="1497161628164">
         <mark key="[" line="50" column="3" />
+      </file>
+      <file name="D:/GITHUB/PyTWEANN/main.py" timestamp="1498401079902">
+        <mark key="[" line="25" column="21" />
+        <mark key="]" line="25" column="21" />
+        <mark key="^" line="25" column="21" />
+        <mark key="." line="25" column="21" />
       </file>
       <file name="D:/GITHUB/PykerStars/pykerstars/handranks.py" timestamp="1497539680393">
         <mark key="[" line="63" column="15" />
@@ -121,10 +128,10 @@
         <mark key="^" line="26" column="70" />
         <mark key="." line="26" column="37" />
       </file>
-      <file name="/Python Console" timestamp="1498378828956">
+      <file name="/Python Console" timestamp="1498401419997">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1475568342889">
+      <file name="/fragment.py" timestamp="1498401317932">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/Test/__init__.py" timestamp="1478342967692">
@@ -157,8 +164,8 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="D:/GITHUB/PyTWEANN/pytweann/species.py" timestamp="1498397244974">
-        <mark key="[" line="48" column="52" />
+      <file name="D:/GITHUB/PyTWEANN/pytweann/species.py" timestamp="1498401262611">
+        <mark key="[" line="35" column="25" />
         <mark key="]" line="48" column="52" />
         <mark key="." line="48" column="52" />
         <mark key="^" line="49" column="13" />
@@ -168,10 +175,11 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="D:/GITHUB/PyTWEANN/pytweann/config.py" timestamp="1498397358568">
-        <mark key="[" line="21" column="17" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="D:/GITHUB/PyTWEANN/pytweann/config.py" timestamp="1498400285724">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/__init__.py" timestamp="1477839593099">
         <mark key="[" line="0" column="29" />
@@ -215,7 +223,7 @@
         <mark key="." line="47" column="26" />
         <mark key="^" line="47" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498145705167">
+      <file name="/Dummy.txt" timestamp="1498400512197">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/main.py" timestamp="1481465720794">
@@ -262,7 +270,7 @@
       <file name="D:/GITHUB/PykerStars/pykerstars/utils/_poker_enum2.py" timestamp="1497540869769">
         <mark key="[" line="0" column="14" />
       </file>
-      <file name="D:/GITHUB/PyTWEANN/pytweann/neuron_network.py" timestamp="1498378827597">
+      <file name="D:/GITHUB/PyTWEANN/pytweann/neuron_network.py" timestamp="1498401317336">
         <mark key="[" line="47" column="8" />
         <mark key="]" line="47" column="45" />
         <mark key="." line="47" column="0" />
@@ -375,44 +383,44 @@
       <jump line="132" column="44" filename="F:/super_handler/daily_report.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>distance</text>
       </register>
       <register name="/" type="4">
         <text>today_new</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IHAgPSBzZWxmLm11dGF0aW9uX3JhdGVzWyJsaW5rIl0KICAgICAgICB3aGlsZSBwID4gMDoKICAgICAgICAgICAgaWYgcmFuZG9tLnJhbmRvbSgpIDwgcDoKICAgICAgICAgICAgICAgIHNlbGYubGlua19tdXRhdGUoRmFsc2UpCiAgICAgICAgICAgIHAgLT0gMQogICAgICAgIAogICAgICAgIA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwb3B1bGF0aW9uID0gc2VsZi5jb25maWdbInBvcHVsYXRpb24iXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFRydWUK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBjdXRfdG9fb25lOgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2Vub21lLmcK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgZ2Vub21lIGluIHNlbGYuZ2Vub21lczoK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICJtYXhfbm9kZXNfc2l6ZSI6IDEwMDAwMDAsCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwb3B1bGF0aW9uID0gc2VsZi5jb25maWdbInBvcHVsYXRpb24iXQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnBvcHVsYXRpb24gPSBzZWxmLmNvbmZpZ1sicG9wdWxhdGlvbiJdCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFRydWUK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0b3RhbF9maXRuZXNzID0gMAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiByZW5ld19hdmVyYWdlX2ZpdG5lc3Moc2VsZik6Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBjdXRfdG9fb25lOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByb2JsZW1zIDIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2Vub21lLmcK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
