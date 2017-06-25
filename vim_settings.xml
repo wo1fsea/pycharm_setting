@@ -51,10 +51,10 @@
         <mark key="." line="91" column="0" />
         <mark key="^" line="91" column="38" />
       </file>
-      <file name="D:/GITHUB/PyTWEANN/pytweann/environment.py" timestamp="1498385561739">
-        <mark key="[" line="49" column="37" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+      <file name="D:/GITHUB/PyTWEANN/pytweann/environment.py" timestamp="1498393702656">
+        <mark key="[" line="59" column="37" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PykerStars/.gitignore" timestamp="1486071398335">
         <mark key="[" line="1" column="0" />
@@ -157,17 +157,18 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="D:/GITHUB/PyTWEANN/pytweann/species.py" timestamp="1498386116359">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="D:/GITHUB/PyTWEANN/pytweann/species.py" timestamp="1498393364053">
+        <mark key="[" line="48" column="52" />
+        <mark key="]" line="48" column="52" />
+        <mark key="." line="48" column="52" />
+        <mark key="^" line="49" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/PyBaler/PyBaler/TextureSorter.py" timestamp="1483538518021">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="D:/GITHUB/PyTWEANN/pytweann/config.py" timestamp="1498385891279">
+      <file name="D:/GITHUB/PyTWEANN/pytweann/config.py" timestamp="1498393688023">
         <mark key="[" line="21" column="17" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
@@ -374,11 +375,11 @@
       <jump line="132" column="44" filename="F:/super_handler/daily_report.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>include</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>today_new</text>
@@ -387,31 +388,31 @@
         <text encoding="base64">IHAgPSBzZWxmLm11dGF0aW9uX3JhdGVzWyJsaW5rIl0KICAgICAgICB3aGlsZSBwID4gMDoKICAgICAgICAgICAgaWYgcmFuZG9tLnJhbmRvbSgpIDwgcDoKICAgICAgICAgICAgICAgIHNlbGYubGlua19tdXRhdGUoRmFsc2UpCiAgICAgICAgICAgIHAgLT0gMQogICAgICAgIAogICAgICAgIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFRydWUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBjdXRfdG9fb25lOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2Vub21lLmcK</text>
+        <text encoding="base64">ICAgICAgICBpZiBjdXRfdG9fb25lOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgZ2Vub21lIGluIHNlbGYuZ2Vub21lczoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2Vub21lLmcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgZ2Vub21lIGluIHNlbGYuZ2Vub21lczoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0b3RhbF9maXRuZXNzID0gMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiByZW5ld19hdmVyYWdlX2ZpdG5lc3Moc2VsZik6Cg==</text>
+        <text encoding="base64">ICAgICAgICB0b3RhbF9maXRuZXNzID0gMAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByb2JsZW1zIDIK</text>
+        <text encoding="base64">ICAgIGRlZiByZW5ld19hdmVyYWdlX2ZpdG5lc3Moc2VsZik6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdfZ2Vub21lLmFkanVzdGVkX2ZpdG5lc3MgPSBzZWxmLmFkanVzdGVkX2ZpdG5lc3MK</text>
+        <text encoding="base64">ICAgICAgICAjIHByb2JsZW1zIDIK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
