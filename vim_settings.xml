@@ -20,10 +20,10 @@
       <file name="D:/GITHUB/PykerStars/pykerstars/table.py" timestamp="1497448052160">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/PyTWEANN/pytweann/genome.py" timestamp="1498381349760">
-        <mark key="[" line="169" column="0" />
-        <mark key="]" line="201" column="0" />
-        <mark key="." line="201" column="0" />
+      <file name="D:/GITHUB/PyTWEANN/pytweann/genome.py" timestamp="1498383100610">
+        <mark key="[" line="210" column="9" />
+        <mark key="." line="210" column="8" />
+        <mark key="^" line="210" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/PyBaler/PyBaler/Baler.py" timestamp="1483538292671">
         <mark key="[" line="24" column="29" />
@@ -51,8 +51,8 @@
         <mark key="." line="91" column="0" />
         <mark key="^" line="91" column="38" />
       </file>
-      <file name="D:/GITHUB/PyTWEANN/pytweann/environment.py" timestamp="1498376491449">
-        <mark key="[" line="25" column="0" />
+      <file name="D:/GITHUB/PyTWEANN/pytweann/environment.py" timestamp="1498383918496">
+        <mark key="[" line="29" column="81" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
@@ -157,10 +157,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="D:/GITHUB/PyTWEANN/pytweann/species.py" timestamp="1498308743201">
-        <mark key="[" line="23" column="14" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="D:/GITHUB/PyTWEANN/pytweann/species.py" timestamp="1498383644656">
+        <mark key="[" line="39" column="8" />
+        <mark key="]" line="39" column="8" />
+        <mark key="." line="39" column="8" />
+        <mark key="^" line="40" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/PyBaler/PyBaler/TextureSorter.py" timestamp="1483538518021">
         <mark key="[" line="19" column="0" />
@@ -374,44 +375,44 @@
       <jump line="132" column="44" filename="F:/super_handler/daily_report.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdfZ2Vub21lLmFkanVzdGVkX2ZpdG5lc3MgPSBzZWxmLmFkanVzdGVkX2ZpdG5lc3MK</text>
+      <register name="&quot;" type="4">
+        <text>include</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXMgYSBiaWFzIA==</text>
+        <text>include</text>
       </register>
       <register name="/" type="4">
         <text>today_new</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IGdlbmUxID0gZ2VuZS5jb3B5KCkKICAgICAgICBnZW5lMS5uZXdfaW5ub3ZhdGlvbigpCiAgICAgICAgZ2VuZTEudG9fbm9kZSA9IHNlbGYuaW5wdXRfc2l6ZSArIHNlbGYub3V0cHV0X3NpemUgKyBzZWxmLmhpZGRlbl9zaXplCiAgICAgICAgZ2VuZTEud2VpZ2h0ID0gMQogICAgICAgIGdlbmUxLmVuYWJsZSA9IFRydWUKICAgICAgICBzZWxmLmdlbmVzLmFwcGVuZChnZW5lMSkKICAgICAgICAKICAgICAgICA=</text>
+        <text encoding="base64">IHAgPSBzZWxmLm11dGF0aW9uX3JhdGVzWyJsaW5rIl0KICAgICAgICB3aGlsZSBwID4gMDoKICAgICAgICAgICAgaWYgcmFuZG9tLnJhbmRvbSgpIDwgcDoKICAgICAgICAgICAgICAgIHNlbGYubGlua19tdXRhdGUoRmFsc2UpCiAgICAgICAgICAgIHAgLT0gMQogICAgICAgIAogICAgICAgIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdfZ2Vub21lLmFkanVzdGVkX2ZpdG5lc3MgPSBzZWxmLmFkanVzdGVkX2ZpdG5lc3MK</text>
+        <text encoding="base64">ICAgICAgICAjIHByb2JsZW1zIDIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBuZXdfZ2Vub21lLmFkanVzdGVkX2ZpdG5lc3MgPSBzZWxmLmFkanVzdGVkX2ZpdG5lc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIG1heSBub3QgcmlnaHQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmdlbmVzID0gW10K</text>
+        <text encoding="base64">ICAgICAgICAjIG1heSBub3QgcmlnaHQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjaGlsZCA9IEdlbm9tZShzZWxmLmVudmlyb25tZW50KQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmdlbmVzID0gW10K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFkZCBudW1iZXIgMSB0byBpbnB1dCBkYXRhIGFzIGEgYmlhcywgYWxzbyBzZWUgbmV1cm9uX25ldHdvcmsucHksIGNsYXNzIE5ldXJvbk5ldHdvcmsgbWV0aG9kIGV2YWx1YXRlCg==</text>
+        <text encoding="base64">ICAgICAgICBjaGlsZCA9IEdlbm9tZShzZWxmLmVudmlyb25tZW50KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm5ldXJvbnNbc2VsZi5pbnB1dF9zaXplIC0gMV0gPSAxCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGFkZCBudW1iZXIgMSB0byBpbnB1dCBkYXRhIGFzIGEgYmlhcywgYWxzbyBzZWUgbmV1cm9uX25ldHdvcmsucHksIGNsYXNzIE5ldXJvbk5ldHdvcmsgbWV0aG9kIGV2YWx1YXRlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBnZW5lLmVuYWJsZSA9IEZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm5ldXJvbnNbc2VsZi5pbnB1dF9zaXplIC0gMV0gPSAxCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBnZW5lMi5lbmFibGUgPSBUcnVlCg==</text>
+        <text encoding="base64">ICAgICAgICBnZW5lLmVuYWJsZSA9IEZhbHNlCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
