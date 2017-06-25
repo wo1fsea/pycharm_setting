@@ -20,10 +20,10 @@
       <file name="D:/GITHUB/PykerStars/pykerstars/table.py" timestamp="1497448052160">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/PyTWEANN/pytweann/genome.py" timestamp="1498378986076">
-        <mark key="[" line="120" column="37" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
+      <file name="D:/GITHUB/PyTWEANN/pytweann/genome.py" timestamp="1498381349760">
+        <mark key="[" line="169" column="0" />
+        <mark key="]" line="201" column="0" />
+        <mark key="." line="201" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PyBaler/PyBaler/Baler.py" timestamp="1483538292671">
         <mark key="[" line="24" column="29" />
@@ -375,7 +375,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFkZCBudW1iZXIgMSB0byBpbnB1dCBkYXRhIGFzIGEgYmlhcywgYWxzbyBzZWUgbmV1cm9uX25ldHdvcmsucHksIGNsYXNzIE5ldXJvbk5ldHdvcmsgbWV0aG9kIGV2YWx1YXRlCg==</text>
+        <text encoding="base64">ICAgICAgICBuZXdfZ2Vub21lLmFkanVzdGVkX2ZpdG5lc3MgPSBzZWxmLmFkanVzdGVkX2ZpdG5lc3MK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">YXMgYSBiaWFzIA==</text>
@@ -387,31 +387,31 @@
         <text encoding="base64">IGdlbmUxID0gZ2VuZS5jb3B5KCkKICAgICAgICBnZW5lMS5uZXdfaW5ub3ZhdGlvbigpCiAgICAgICAgZ2VuZTEudG9fbm9kZSA9IHNlbGYuaW5wdXRfc2l6ZSArIHNlbGYub3V0cHV0X3NpemUgKyBzZWxmLmhpZGRlbl9zaXplCiAgICAgICAgZ2VuZTEud2VpZ2h0ID0gMQogICAgICAgIGdlbmUxLmVuYWJsZSA9IFRydWUKICAgICAgICBzZWxmLmdlbmVzLmFwcGVuZChnZW5lMSkKICAgICAgICAKICAgICAgICA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFkZCBudW1iZXIgMSB0byBpbnB1dCBkYXRhIGFzIGEgYmlhcywgYWxzbyBzZWUgbmV1cm9uX25ldHdvcmsucHksIGNsYXNzIE5ldXJvbk5ldHdvcmsgbWV0aG9kIGV2YWx1YXRlCg==</text>
+        <text encoding="base64">ICAgICAgICBuZXdfZ2Vub21lLmFkanVzdGVkX2ZpdG5lc3MgPSBzZWxmLmFkanVzdGVkX2ZpdG5lc3MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm5ldXJvbnNbc2VsZi5pbnB1dF9zaXplIC0gMV0gPSAxCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBnZW5lLmVuYWJsZSA9IEZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICAjIG1heSBub3QgcmlnaHQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBnZW5lMi5lbmFibGUgPSBUcnVlCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmdlbmVzID0gW10K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBnZW5lMS5lbmFibGUgPSBUcnVlCg==</text>
+        <text encoding="base64">ICAgICAgICBjaGlsZCA9IEdlbm9tZShzZWxmLmVudmlyb25tZW50KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBnZW5lMi53ZWlnaHQgPSAxCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGFkZCBudW1iZXIgMSB0byBpbnB1dCBkYXRhIGFzIGEgYmlhcywgYWxzbyBzZWUgbmV1cm9uX25ldHdvcmsucHksIGNsYXNzIE5ldXJvbk5ldHdvcmsgbWV0aG9kIGV2YWx1YXRlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBnZW5lMS5uZXdfaW5ub3ZhdGlvbigpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm5ldXJvbnNbc2VsZi5pbnB1dF9zaXplIC0gMV0gPSAxCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmlubm92YXRpb24gPSAwCg==</text>
+        <text encoding="base64">ICAgICAgICBnZW5lLmVuYWJsZSA9IEZhbHNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5nZW5lX2lubm92YXRpb24K</text>
+        <text encoding="base64">ICAgICAgICBnZW5lMi5lbmFibGUgPSBUcnVlCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
