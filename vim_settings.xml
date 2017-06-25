@@ -20,11 +20,10 @@
       <file name="D:/GITHUB/PykerStars/pykerstars/table.py" timestamp="1497448052160">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/PyTWEANN/pytweann/genome.py" timestamp="1498378370769">
-        <mark key="[" line="60" column="90" />
-        <mark key="]" line="60" column="90" />
-        <mark key="." line="60" column="80" />
-        <mark key="^" line="60" column="79" />
+      <file name="D:/GITHUB/PyTWEANN/pytweann/genome.py" timestamp="1498378986076">
+        <mark key="[" line="120" column="37" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PyBaler/PyBaler/Baler.py" timestamp="1483538292671">
         <mark key="[" line="24" column="29" />
@@ -122,7 +121,7 @@
         <mark key="^" line="26" column="70" />
         <mark key="." line="26" column="37" />
       </file>
-      <file name="/Python Console" timestamp="1498322325312">
+      <file name="/Python Console" timestamp="1498378828956">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1475568342889">
@@ -262,7 +261,7 @@
       <file name="D:/GITHUB/PykerStars/pykerstars/utils/_poker_enum2.py" timestamp="1497540869769">
         <mark key="[" line="0" column="14" />
       </file>
-      <file name="D:/GITHUB/PyTWEANN/pytweann/neuron_network.py" timestamp="1498378581462">
+      <file name="D:/GITHUB/PyTWEANN/pytweann/neuron_network.py" timestamp="1498378827597">
         <mark key="[" line="47" column="8" />
         <mark key="]" line="47" column="45" />
         <mark key="." line="47" column="0" />
@@ -376,7 +375,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm5ldXJvbnNbc2VsZi5pbnB1dF9zaXplIC0gMV0gPSAxCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGFkZCBudW1iZXIgMSB0byBpbnB1dCBkYXRhIGFzIGEgYmlhcywgYWxzbyBzZWUgbmV1cm9uX25ldHdvcmsucHksIGNsYXNzIE5ldXJvbk5ldHdvcmsgbWV0aG9kIGV2YWx1YXRlCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">YXMgYSBiaWFzIA==</text>
@@ -388,31 +387,31 @@
         <text encoding="base64">IGdlbmUxID0gZ2VuZS5jb3B5KCkKICAgICAgICBnZW5lMS5uZXdfaW5ub3ZhdGlvbigpCiAgICAgICAgZ2VuZTEudG9fbm9kZSA9IHNlbGYuaW5wdXRfc2l6ZSArIHNlbGYub3V0cHV0X3NpemUgKyBzZWxmLmhpZGRlbl9zaXplCiAgICAgICAgZ2VuZTEud2VpZ2h0ID0gMQogICAgICAgIGdlbmUxLmVuYWJsZSA9IFRydWUKICAgICAgICBzZWxmLmdlbmVzLmFwcGVuZChnZW5lMSkKICAgICAgICAKICAgICAgICA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm5ldXJvbnNbc2VsZi5pbnB1dF9zaXplIC0gMV0gPSAxCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGFkZCBudW1iZXIgMSB0byBpbnB1dCBkYXRhIGFzIGEgYmlhcywgYWxzbyBzZWUgbmV1cm9uX25ldHdvcmsucHksIGNsYXNzIE5ldXJvbk5ldHdvcmsgbWV0aG9kIGV2YWx1YXRlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBnZW5lLmVuYWJsZSA9IEZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm5ldXJvbnNbc2VsZi5pbnB1dF9zaXplIC0gMV0gPSAxCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBnZW5lMi5lbmFibGUgPSBUcnVlCg==</text>
+        <text encoding="base64">ICAgICAgICBnZW5lLmVuYWJsZSA9IEZhbHNlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBnZW5lMS5lbmFibGUgPSBUcnVlCg==</text>
+        <text encoding="base64">ICAgICAgICBnZW5lMi5lbmFibGUgPSBUcnVlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBnZW5lMi53ZWlnaHQgPSAxCg==</text>
+        <text encoding="base64">ICAgICAgICBnZW5lMS5lbmFibGUgPSBUcnVlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBnZW5lMS5uZXdfaW5ub3ZhdGlvbigpCg==</text>
+        <text encoding="base64">ICAgICAgICBnZW5lMi53ZWlnaHQgPSAxCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmlubm92YXRpb24gPSAwCg==</text>
+        <text encoding="base64">ICAgICAgICBnZW5lMS5uZXdfaW5ub3ZhdGlvbigpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5nZW5lX2lubm92YXRpb24K</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmlubm92YXRpb24gPSAwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmhpZGRlbl9zaXplICs9IDEK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5nZW5lX2lubm92YXRpb24K</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
