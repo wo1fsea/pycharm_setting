@@ -20,7 +20,7 @@
       <file name="D:/GITHUB/PykerStars/pykerstars/table.py" timestamp="1497448052160">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/PyTWEANN/pytweann/genome.py" timestamp="1498401039438">
+      <file name="D:/GITHUB/PyTWEANN/pytweann/genome.py" timestamp="1498402388281">
         <mark key="[" line="109" column="47" />
         <mark key="]" line="109" column="47" />
         <mark key="." line="109" column="47" />
@@ -52,10 +52,10 @@
         <mark key="." line="91" column="0" />
         <mark key="^" line="91" column="38" />
       </file>
-      <file name="D:/GITHUB/PyTWEANN/pytweann/environment.py" timestamp="1498399898059">
-        <mark key="[" line="93" column="85" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
+      <file name="D:/GITHUB/PyTWEANN/pytweann/environment.py" timestamp="1498403568651">
+        <mark key="[" line="70" column="68" />
+        <mark key="]" line="70" column="68" />
+        <mark key="." line="70" column="68" />
       </file>
       <file name="$USER_HOME$/Documents/PykerStars/.gitignore" timestamp="1486071398335">
         <mark key="[" line="1" column="0" />
@@ -84,7 +84,7 @@
       <file name="E:/TensorFlow/test/mnist_softmax.py" timestamp="1497161628164">
         <mark key="[" line="50" column="3" />
       </file>
-      <file name="D:/GITHUB/PyTWEANN/main.py" timestamp="1498401079902">
+      <file name="D:/GITHUB/PyTWEANN/main.py" timestamp="1498403417176">
         <mark key="[" line="25" column="21" />
         <mark key="]" line="25" column="21" />
         <mark key="^" line="25" column="21" />
@@ -128,7 +128,7 @@
         <mark key="^" line="26" column="70" />
         <mark key="." line="26" column="37" />
       </file>
-      <file name="/Python Console" timestamp="1498401419997">
+      <file name="/Python Console" timestamp="1498403571562">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1498401317932">
@@ -383,11 +383,11 @@
       <jump line="132" column="44" filename="F:/super_handler/daily_report.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>fitness</text>
       </register>
       <register name="-" type="4">
-        <text>distance</text>
+        <text>fitness</text>
       </register>
       <register name="/" type="4">
         <text>today_new</text>
