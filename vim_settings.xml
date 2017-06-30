@@ -78,7 +78,9 @@
       <file name="E:/TensorFlow/test/mnist_softmax.py" timestamp="1497161628164">
         <mark key="[" line="50" column="3" />
       </file>
-      <file name="D:/GITHUB/PyTWEANN/pyenat/neuron_network.py" timestamp="1498835562854" />
+      <file name="D:/GITHUB/PyTWEANN/pyenat/neuron_network.py" timestamp="1498841896763">
+        <mark key="[" line="86" column="57" />
+      </file>
       <file name="D:/GITHUB/PykerStars/pykerstars/handranks.py" timestamp="1497539680393">
         <mark key="[" line="63" column="15" />
       </file>
@@ -190,8 +192,8 @@
         <mark key="]" line="85" column="14" />
         <mark key="." line="85" column="14" />
       </file>
-      <file name="D:/GITHUB/PyTWEANN/tests/test_neuron_network.py" timestamp="1498835621769">
-        <mark key="[" line="22" column="12" />
+      <file name="D:/GITHUB/PyTWEANN/tests/test_neuron_network.py" timestamp="1498841272022">
+        <mark key="[" line="22" column="34" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
