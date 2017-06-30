@@ -78,11 +78,7 @@
       <file name="E:/TensorFlow/test/mnist_softmax.py" timestamp="1497161628164">
         <mark key="[" line="50" column="3" />
       </file>
-      <file name="D:/GITHUB/PyTWEANN/pyenat/neuron_network.py" timestamp="1498753388190">
-        <mark key="[" line="47" column="8" />
-        <mark key="]" line="47" column="8" />
-        <mark key="." line="47" column="8" />
-      </file>
+      <file name="D:/GITHUB/PyTWEANN/pyenat/neuron_network.py" timestamp="1498835562854" />
       <file name="D:/GITHUB/PykerStars/pykerstars/handranks.py" timestamp="1497539680393">
         <mark key="[" line="63" column="15" />
       </file>
@@ -194,10 +190,10 @@
         <mark key="]" line="85" column="14" />
         <mark key="." line="85" column="14" />
       </file>
-      <file name="D:/GITHUB/PyTWEANN/tests/test_neuron_network.py" timestamp="1498667270107">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="D:/GITHUB/PyTWEANN/tests/test_neuron_network.py" timestamp="1498835621769">
+        <mark key="[" line="22" column="12" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="D:/GITHUB/PykerStars/pykerstars/utils/pokerenum.py" timestamp="1497540383386">
         <mark key="[" line="16" column="16" />
@@ -262,7 +258,6 @@
         <mark key="^" line="9" column="49" />
         <mark key="." line="9" column="49" />
       </file>
-      <file name="D:/GITHUB/neat-python/neat/nn/recurrent.py" timestamp="1498752369423" />
       <file name="D:/GITHUB/PyTexturePacker/setup.py" timestamp="1495355603176">
         <mark key="[" line="6" column="18" />
       </file>
@@ -377,8 +372,8 @@
       <jump line="132" column="44" filename="F:/super_handler/daily_report.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>evaluate</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBweWVuYXQubmV1cm9uX25ldHdvcmsgaW1wb3J0IE5ldXJvbgo=</text>
       </register>
       <register name="-" type="4">
         <text>evaluate</text>
@@ -387,34 +382,34 @@
         <text>today_new</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwb3B1bGF0aW9uID0gc2VsZi5jb25maWdbInBvcHVsYXRpb24iXQo=</text>
+        <text encoding="base64">ZnJvbSBweWVuYXQubmV1cm9uX25ldHdvcmsgaW1wb3J0IE5ldXJvbgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBweWVuYXQubmV1cm9uX25ldHdvcmsgaW1wb3J0IE5ldXJvbgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VEVTVF9JTUFHRV9QQVRIID0gInRlc3RfaW1hZ2UvMzMucG5nIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBjaGFyIGltYWdlICchJwo=</text>
+        <text encoding="base64">VEVTVF9JTUFHRV9QQVRIID0gInRlc3RfaW1hZ2UvMzMucG5nIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBpbF9pbWFnZV9vYmplY3QgPSBJbWFnZS5vcGVuKFRFU1RfSU1BR0VfUEFUSCkK</text>
+        <text encoding="base64">IyBjaGFyIGltYWdlICchJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRlc3Rfb2JqZWN0ID0gSW1hZ2VSZWN0LkltYWdlUmVjdChURVNUX0lNQUdFX1BBVEgpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnBpbF9pbWFnZV9vYmplY3QgPSBJbWFnZS5vcGVuKFRFU1RfSU1BR0VfUEFUSCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBQeVRleHR1cmVQYWNrZXIgaW1wb3J0IEltYWdlUmVjdAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnRlc3Rfb2JqZWN0ID0gSW1hZ2VSZWN0LkltYWdlUmVjdChURVNUX0lNQUdFX1BBVEgpCg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ZnJvbSBQeVRleHR1cmVQYWNrZXIgaW1wb3J0IEltYWdlUmVjdAo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ZnJvbSBQSUwgaW1wb3J0IEltYWdlCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CmRlZiBtYWluKCk6CiAgICBmcm9tIGdlbm9tZSBpbXBvcnQgR2Vub21lLCBHZW5lCiAgICBmcm9tIGVudmlyb25tZW50IGltcG9ydCBFbnZpcm9ubWVudAogICAgZnJvbSBjb25maWcgaW1wb3J0IG5ld19jb25maWcKICAgIGNvbmZpZyA9IG5ld19jb25maWcoKQogICAgY29uZmlnWyJpbnB1dF9zaXplIl0gPSAyCiAgICBjb25maWdbIm91dHB1dF9zaXplIl0gPSAxCiAgICBlbnZpcm9ubWVudCA9IEVudmlyb25tZW50KGNvbmZpZykKICAgIGdlbm9tZSA9IEdlbm9tZShlbnZpcm9ubWVudCkKICAgIGdlbmUxID0gR2VuZSgpCiAgICBnZW5lMS5mcm9tX25vZGUgPSAxCiAgICBnZW5lMS50b19ub2RlID0gMwogICAgZ2VuZTEud2VpZ2h0ID0gMQogICAgZ2VuZTIgPSBHZW5lKCkKICAgIGdlbmUyLmZyb21fbm9kZSA9IDIKICAgIGdlbmUyLnRvX25vZGUgPSAzCiAgICBnZW5lMi53ZWlnaHQgPSAyCiAgICBnZW5vbWUuZ2VuZXMuYXBwZW5kKGdlbmUxKQogICAgZ2Vub21lLmdlbmVzLmFwcGVuZChnZW5lMikKICAgIG5lcm9uX25ldHdvcmsgPSBOZXVyb25OZXR3b3JrKGdlbm9tZSkKICAgIHByaW50KG5lcm9uX25ldHdvcmsuZXZhbHVhdGUoWzEsIC0wLjFdKSkKCgppZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgogICAgbWFpbigp</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
