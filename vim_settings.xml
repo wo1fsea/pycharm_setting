@@ -78,6 +78,12 @@
       <file name="E:/TensorFlow/test/mnist_softmax.py" timestamp="1497161628164">
         <mark key="[" line="50" column="3" />
       </file>
+      <file name="D:/GITHUB/PyTWEANN/pyenat/genome.py" timestamp="1499530994976">
+        <mark key="[" line="21" column="38" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="28" column="7" />
+      </file>
       <file name="D:/GITHUB/PykerStars/pykerstars/handranks.py" timestamp="1497539680393">
         <mark key="[" line="63" column="15" />
       </file>
@@ -158,6 +164,9 @@
         <mark key="." line="50" column="52" />
         <mark key="^" line="51" column="13" />
       </file>
+      <file name="D:/GITHUB/PyTWEANN/pyenat/config.py" timestamp="1499531017616">
+        <mark key="[" line="17" column="10" />
+      </file>
       <file name="$USER_HOME$/Documents/PyBaler/PyBaler/TextureSorter.py" timestamp="1483538518021">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="31" column="0" />
@@ -216,7 +225,7 @@
         <mark key="." line="47" column="26" />
         <mark key="^" line="47" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498493390495">
+      <file name="/Dummy.txt" timestamp="1499531032468">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/main.py" timestamp="1481465720794">
@@ -372,7 +381,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgQHN0YXRpY21ldGhvZAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="-" type="4">
         <text>evaluate</text>
@@ -384,53 +393,31 @@
         <text encoding="base64">ICAgICAgICBuMyA9IDAuMSAqIGlucHV0X2RhdGFbMF0gKyAxLiAqIGlucHV0X2RhdGFbMV0gKyAxMC4gKiBpbnB1dF9kYXRhWzJdICsgMTAwLiAqIG40ICsgMTAwMC4gKiBuNQogICAgICAgIG40ID0gMS4gKiBuMwogICAgICAgIG41ID0gMi4gKiBuMw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgQHN0YXRpY21ldGhvZAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>def main():
-    neron_network = NeuronNetwork()
-    neron_network.input_size = 2
-    neron_network.output_size = 2
-    neron_network.hidden_size = 1
-
-    for i in range(neron_network.input_size + neron_network.output_size + neron_network.hidden_size + 1):
-        neron_network.neurons.append(Neuron())
-
-    neron_network.neurons[3].incoming_link[0] = 0.1
-    neron_network.neurons[3].incoming_link[1] = 0.1
-    neron_network.neurons[3].incoming_link[5] = 0.1
-
-    neron_network.neurons[4].incoming_link[3] = 1
-
-    neron_network.neurons[5].incoming_link[4] = 1
-
-    print(neron_network.activate([1, 2]))
-    print(neron_network.activate([1, 2]))
-
-
-if __name__ == '__main__':
-    main()</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGRlZiAoc2VsZik6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRwdXQ6IG40ID0gYWN0aXZhdGlvbl9mdW5jdGlvbigxLiAqIG4zKSwgbjUgPSBhY3RpdmF0aW9uX2Z1bmN0aW9uKDIuICogbjMpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBweWVuYXQubmV1cm9uX25ldHdvcmsgaW1wb3J0IE5ldXJvbgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">VEVTVF9JTUFHRV9QQVRIID0gInRlc3RfaW1hZ2UvMzMucG5nIgo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBuZXdfZ2VuZS5pbm5vdmF0aW9uID0gc2VsZi5pbm5vdmF0aW9uCg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICBkZWYgbmV3X2lubm92YXRpb24oc2VsZik6CiAgICAgICAgR2VuZS5nZW5lX2lubm92YXRpb24gKz0gMQogICAgICAgIHNlbGYuaW5ub3ZhdGlvbiA9IEdlbmUuZ2VuZV9pbm5vdmF0aW9uCg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAgaWYgaW5ub3ZhdGlvbjoKICAgICAgICAgICAgc2VsZi5uZXdfaW5ub3ZhdGlvbigpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBjaGFyIGltYWdlICchJwo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmlubm92YXRpb24gPSAwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBpbF9pbWFnZV9vYmplY3QgPSBJbWFnZS5vcGVuKFRFU1RfSU1BR0VfUEFUSCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRlc3Rfb2JqZWN0ID0gSW1hZ2VSZWN0LkltYWdlUmVjdChURVNUX0lNQUdFX1BBVEgpCg==</text>
+        <text encoding="base64">ICAgIGdlbmVfaW5ub3ZhdGlvbiA9IDAK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
