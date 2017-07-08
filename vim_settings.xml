@@ -6,11 +6,6 @@
       <file name="/start_script.py" timestamp="1483538622308">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PyBaler/PyBaler/PlistParser.py" timestamp="1483453776966">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="F:/supper_handler/utils.py" timestamp="1490462861905">
         <mark key="[" line="58" column="4" />
         <mark key="]" line="72" column="0" />
@@ -20,12 +15,6 @@
         <mark key="[" line="14" column="22" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1493817438664">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1475568342889">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1490462375033">
         <mark key="[" line="0" column="0" />
@@ -43,15 +32,6 @@
         <mark key="." line="173" column="0" />
         <mark key="^" line="169" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/PyTexturePacker/Test/TestRect.py" timestamp="1478344760322">
-        <mark key="[" line="88" column="16" />
-        <mark key="]" line="89" column="75" />
-        <mark key="." line="88" column="8" />
-        <mark key="^" line="88" column="7" />
-      </file>
-      <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Atlas.py" timestamp="1493137261742">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" timestamp="1493817927981">
         <mark key="[" line="18" column="23" />
         <mark key="]" line="18" column="23" />
@@ -64,26 +44,21 @@
         <mark key="." line="11" column="21" />
         <mark key="^" line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/PykerStars/pykerstars/handranks.py" timestamp="1488211360771">
-        <mark key="[" line="172" column="16" />
-        <mark key="]" line="172" column="38" />
-        <mark key="." line="172" column="0" />
-        <mark key="^" line="171" column="16" />
-      </file>
       <file name="$USER_HOME$/Documents/PykerStars/pykerstars/cards.py" timestamp="1486143798170">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="48" />
         <mark key="." line="59" column="0" />
         <mark key="^" line="59" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/PyTexturePacker/__init__.py" timestamp="1477839593099">
-        <mark key="[" line="0" column="29" />
+      <file name="$USER_HOME$/Documents/PyTWEANN/tests/test_neuron_network.py" timestamp="1499094064368">
+        <mark key="[" line="156" column="0" />
+        <mark key="]" line="156" column="0" />
+        <mark key="." line="156" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PyTexturePacker/setup.py" timestamp="1487776918299">
-        <mark key="[" line="6" column="18" />
-        <mark key="]" line="11" column="79" />
-        <mark key="^" line="11" column="79" />
-        <mark key="." line="11" column="79" />
+      <file name="$USER_HOME$/Documents/PyTWEANN/test.py" timestamp="1499093456486">
+        <mark key="[" line="14" column="23" />
+        <mark key="]" line="14" column="23" />
+        <mark key="." line="14" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/MaxRectsPacker/MaxRectsAtlas.py" timestamp="1493786645056">
         <mark key="[" line="198" column="0" />
@@ -93,39 +68,13 @@
       <file name="$USER_HOME$/Documents/PykerStars/handranks.py" timestamp="1486143744144">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PyTexturePacker/dist/PyTexturePacker-0.0.6/setup.py" timestamp="1493049153278">
-        <mark key="[" line="11" column="80" />
-      </file>
-      <file name="$USER_HOME$/Documents/PyTexturePacker/Test/__init__.py" timestamp="1478342967692">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/main.py" timestamp="1493817433171">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1483458154890">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/MaxRectsBinPacker/MaxRectsBinPacker.py" timestamp="1493138790098">
         <mark key="[" line="14" column="22" />
-      </file>
-      <file name="$USER_HOME$/Documents/PyTexturePacker/profile.py" timestamp="1478345418889">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/PykerStars/pykerstars/texasholdem.py" timestamp="1486143308173">
-        <mark key="[" line="9" column="79" />
-        <mark key="]" line="9" column="11" />
-        <mark key="^" line="9" column="11" />
-        <mark key="." line="9" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/PyTexturePacker/test.py" timestamp="1478343884063">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="0" column="38" />
-        <mark key="." line="31" column="0" />
       </file>
       <file name="F:/daily_data_handler/app_daily_analysis/py_function.py" timestamp="1490463354719">
         <mark key="'" line="88" column="0" />
@@ -144,16 +93,100 @@
         <mark key="]" line="10" column="15" />
         <mark key="." line="10" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/PyBaler/PyBaler/TextureSorter.py" timestamp="1483538518021">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/PackerInterface.py" timestamp="1481035123738">
         <mark key="[" line="26" column="54" />
         <mark key="]" line="26" column="55" />
         <mark key="^" line="26" column="70" />
         <mark key="." line="26" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/PackerInterface/PackerInterface.py" timestamp="1493817786473">
+        <mark key="[" line="187" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Utils.py" timestamp="1493049117536">
+        <mark key="[" line="113" column="61" />
+        <mark key="]" line="107" column="4" />
+        <mark key="^" line="107" column="4" />
+        <mark key="." line="107" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/PyBaler/PyBaler/Baler.py" timestamp="1483538292671">
+        <mark key="[" line="24" column="29" />
+        <mark key="]" line="9" column="13" />
+        <mark key="^" line="9" column="13" />
+        <mark key="." line="9" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/PyBaler/PyBaler/PlistParser.py" timestamp="1483453776966">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1493817438664">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1475568342889">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/PyTexturePacker/Test/TestRect.py" timestamp="1478344760322">
+        <mark key="[" line="88" column="16" />
+        <mark key="]" line="89" column="75" />
+        <mark key="." line="88" column="8" />
+        <mark key="^" line="88" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Atlas.py" timestamp="1493137261742">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/PykerStars/pykerstars/handranks.py" timestamp="1488211360771">
+        <mark key="[" line="172" column="16" />
+        <mark key="]" line="172" column="38" />
+        <mark key="." line="172" column="0" />
+        <mark key="^" line="171" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/PyTexturePacker/__init__.py" timestamp="1477839593099">
+        <mark key="[" line="0" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/PyTWEANN/pyenat/neuron_network.py" timestamp="1499094082386">
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="131" column="0" />
+        <mark key="." line="131" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/PyTexturePacker/setup.py" timestamp="1487776918299">
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="11" column="79" />
+        <mark key="^" line="11" column="79" />
+        <mark key="." line="11" column="79" />
+      </file>
+      <file name="$USER_HOME$/Documents/PyTexturePacker/dist/PyTexturePacker-0.0.6/setup.py" timestamp="1493049153278">
+        <mark key="[" line="11" column="80" />
+      </file>
+      <file name="$USER_HOME$/Documents/PyTexturePacker/Test/__init__.py" timestamp="1478342967692">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1483458154890">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/PyTexturePacker/profile.py" timestamp="1478345418889">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/PyTWEANN/pyenat/genome.py" timestamp="1499094451629">
+        <mark key="[" line="92" column="70" />
+      </file>
+      <file name="$USER_HOME$/Documents/PykerStars/pykerstars/texasholdem.py" timestamp="1486143308173">
+        <mark key="[" line="9" column="79" />
+        <mark key="]" line="9" column="11" />
+        <mark key="^" line="9" column="11" />
+        <mark key="." line="9" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/PyTexturePacker/test.py" timestamp="1478343884063">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="0" column="38" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/PyBaler/PyBaler/TextureSorter.py" timestamp="1483538518021">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="F:/supper_handler/daily_report.py" timestamp="1490462783949">
         <mark key="[" line="9" column="79" />
@@ -163,9 +196,6 @@
       </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Image.py" timestamp="1475379944934">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/PackerInterface/PackerInterface.py" timestamp="1493817786473">
-        <mark key="[" line="187" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/docs/index.rst" timestamp="1490717032778">
         <mark key="[" line="9" column="59" />
@@ -191,12 +221,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Utils.py" timestamp="1493049117536">
-        <mark key="[" line="113" column="61" />
-        <mark key="]" line="107" column="4" />
-        <mark key="^" line="107" column="4" />
-        <mark key="." line="107" column="4" />
-      </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/GuillotinePacker/GuillotineAtlas.py" timestamp="1493817420112">
         <mark key="'" line="34" column="18" />
         <mark key="[" line="64" column="0" />
@@ -207,13 +231,6 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/MaxRectsPacker/MaxRectsPacker.py" timestamp="1493788608581" />
-      <file name="$USER_HOME$/Documents/PyBaler/PyBaler/Baler.py" timestamp="1483538292671">
-        <mark key="[" line="24" column="29" />
-        <mark key="]" line="9" column="13" />
-        <mark key="^" line="9" column="13" />
-        <mark key="." line="9" column="13" />
       </file>
     </filemarks>
     <jumps>
@@ -319,11 +336,11 @@
       <jump line="34" column="18" filename="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/GuillotinePacker/GuillotineAtlas.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>TYPE_GUILLOTINE_PACK</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGdlbmUudG9fbm9kZSwgZ2VuZS5mcm9tX25vZGUpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>TYPE_GUILLOTINE_PACK</text>
+        <text>self</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZWN0XD4=</text>
@@ -332,31 +349,31 @@
         <text encoding="base64">VFlQRV9NQVhfUkVDVFNfQklOX1BBQ0sgPSBNYXhSZWN0c1BhY2tlcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGdlbmUudG9fbm9kZSwgZ2VuZS5mcm9tX25vZGUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gVHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGxlbihuZXVyb25fbmV0d29yay5uZXVyb25zKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiQSIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBGYWxzZQo=</text>
+        <text encoding="base64">ICAgIGlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgdF9yZWN0IGluIHJlY3QgYW5kIHRfcmVjdCAhPSByZWN0Ogo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gVHJ1ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgcmVjdCBpbiBzZWxmLm1heF9yZWN0X2xpc3Q6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBfcmVjdF9saXN0X3BydW5pbmcoc2VsZiwgdF9yZWN0KToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBGYWxzZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgdF9yZWN0IGluIHJlY3QgYW5kIHRfcmVjdCAhPSByZWN0Ogo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgcmVjdCBpbiBzZWxmLm1heF9yZWN0X2xpc3Q6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
