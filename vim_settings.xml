@@ -138,8 +138,10 @@
       <file name="$USER_HOME$/Documents/PyTexturePacker/Test/__init__.py" timestamp="1478342967692">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/neat-python/examples/xor/evolve-minimal.py" timestamp="1499608137457">
-        <mark key="[" line="14" column="26" />
+      <file name="D:/GITHUB/neat-python/examples/xor/evolve-minimal.py" timestamp="1499608312089">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="D:/GITHUB/PyTexturePacker/PyTexturePacker/PackerInterface/AtlasInterface.py" timestamp="1493221547039">
         <mark key="[" line="23" column="0" />
@@ -399,8 +401,8 @@
       <jump line="132" column="44" filename="F:/super_handler/daily_report.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>global_rank</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgeGksIHhvIGluIHppcCh4b3JfaW5wdXRzLCB4b3Jfb3V0cHV0cyk6Cg==</text>
       </register>
       <register name="-" type="4">
         <text>global_rank</text>
@@ -412,31 +414,31 @@
         <text encoding="base64">ICAgICAgICBuMyA9IDAuMSAqIGlucHV0X2RhdGFbMF0gKyAxLiAqIGlucHV0X2RhdGFbMV0gKyAxMC4gKiBpbnB1dF9kYXRhWzJdICsgMTAwLiAqIG40ICsgMTAwMC4gKiBuNQogICAgICAgIG40ID0gMS4gKiBuMwogICAgICAgIG41ID0gMi4gKiBuMw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmlubm92YXRpb24gPSAwCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgeGksIHhvIGluIHppcCh4b3JfaW5wdXRzLCB4b3Jfb3V0cHV0cyk6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYyA9IDAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmlubm92YXRpb24gPSAwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBnZW5lMi5uZXdfaW5ub3ZhdGlvbigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYyA9IDAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBnZW5lMS5uZXdfaW5ub3ZhdGlvbigpCg==</text>
+        <text encoding="base64">ICAgICAgICBnZW5lMi5uZXdfaW5ub3ZhdGlvbigpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBnZW5lMS5uZXdfaW5ub3ZhdGlvbigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIiVkLSVkIiAlIChzZWxmLmZyb21fbm9kZSwgc2VsZi50b19ub2RlKQo=</text>
+        <text encoding="base64">ICAgICAgICBnZW5lMS5uZXdfaW5ub3ZhdGlvbigpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIiVkLSVkIiAlIChzZWxmLmZyb21fbm9kZSwgc2VsZi50b19ub2RlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiAoc2VsZik6Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiAoc2VsZik6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
