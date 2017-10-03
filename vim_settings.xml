@@ -70,6 +70,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="D:/GITHUB/neat-python/neat/config.py" timestamp="1499611414182" />
       <file name="$USER_HOME$/Documents/PyTexturePacker/profile.py" timestamp="1478345418889">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -78,10 +79,23 @@
       <file name="E:/TensorFlow/test/mnist_softmax.py" timestamp="1497161628164">
         <mark key="[" line="50" column="3" />
       </file>
-      <file name="D:/GITHUB/PyTWEANN/pyenat/neuron_network.py" timestamp="1498835562854" />
+      <file name="D:/GITHUB/PyTWEANN/pyenat/neuron_network.py" timestamp="1499531926102" />
+      <file name="D:/GITHUB/PyTWEANN/pyenat/genome.py" timestamp="1499587049587">
+        <mark key="[" line="120" column="30" />
+        <mark key="]" line="120" column="30" />
+        <mark key="." line="120" column="30" />
+        <mark key="^" line="155" column="29" />
+      </file>
+      <file name="D:/GITHUB/PyTWEANN/main.py" timestamp="1499608186749">
+        <mark key="[" line="39" column="38" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
       <file name="D:/GITHUB/PykerStars/pykerstars/handranks.py" timestamp="1497539680393">
         <mark key="[" line="63" column="15" />
       </file>
+      <file name="D:/GITHUB/neat-python/neat/species.py" timestamp="1499606565445" />
+      <file name="D:/GITHUB/neat-python/neat/population.py" timestamp="1499611479962" />
       <file name="D:/GITHUB/PykerStars/pykerstars/utils/_pokerenum2.py" timestamp="1497540251315">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -117,7 +131,8 @@
         <mark key="^" line="26" column="70" />
         <mark key="." line="26" column="37" />
       </file>
-      <file name="/Python Console" timestamp="1498579789742">
+      <file name="D:/GITHUB/neat-python/neat/genes.py" timestamp="1499614020781" />
+      <file name="/Python Console" timestamp="1499613814329">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1498404218381">
@@ -125,6 +140,11 @@
       </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/Test/__init__.py" timestamp="1478342967692">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/GITHUB/neat-python/examples/xor/evolve-minimal.py" timestamp="1499608312089">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="D:/GITHUB/PyTexturePacker/PyTexturePacker/PackerInterface/AtlasInterface.py" timestamp="1493221547039">
         <mark key="[" line="23" column="0" />
@@ -159,6 +179,11 @@
         <mark key="." line="50" column="52" />
         <mark key="^" line="51" column="13" />
       </file>
+      <file name="D:/GITHUB/PyTWEANN/pyenat/config.py" timestamp="1499588002691">
+        <mark key="[" line="15" column="20" />
+        <mark key="]" line="15" column="20" />
+        <mark key="." line="15" column="20" />
+      </file>
       <file name="$USER_HOME$/Documents/PyBaler/PyBaler/TextureSorter.py" timestamp="1483538518021">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="31" column="0" />
@@ -185,15 +210,22 @@
         <mark key="." line="122" column="0" />
         <mark key="^" line="117" column="33" />
       </file>
+      <file name="D:/GITHUB/PyTWEANN/pyenat/environment.py" timestamp="1499589264514">
+        <mark key="[" line="55" column="50" />
+        <mark key="]" line="55" column="50" />
+        <mark key="^" line="26" column="8" />
+        <mark key="." line="55" column="50" />
+      </file>
+      <file name="D:/GITHUB/neat-python/neat/reproduction.py" timestamp="1499611818105" />
       <file name="$USER_HOME$/Documents/PykerStars/pykerstars/utils.py" timestamp="1486132151393">
         <mark key="[" line="93" column="26" />
         <mark key="]" line="85" column="14" />
         <mark key="." line="85" column="14" />
       </file>
-      <file name="D:/GITHUB/PyTWEANN/tests/test_neuron_network.py" timestamp="1498835621769">
-        <mark key="[" line="22" column="12" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="D:/GITHUB/PyTWEANN/tests/test_neuron_network.py" timestamp="1498843663873">
+        <mark key="[" line="27" column="8" />
+        <mark key="]" line="27" column="84" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="D:/GITHUB/PykerStars/pykerstars/utils/pokerenum.py" timestamp="1497540383386">
         <mark key="[" line="16" column="16" />
@@ -217,7 +249,7 @@
         <mark key="." line="47" column="26" />
         <mark key="^" line="47" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498493390495">
+      <file name="/Dummy.txt" timestamp="1499611792227">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/main.py" timestamp="1481465720794">
@@ -226,6 +258,7 @@
         <mark key="^" line="15" column="31" />
         <mark key="." line="15" column="31" />
       </file>
+      <file name="D:/GITHUB/PyTWEANN/pyenat/species.py" timestamp="1499587764286" />
       <file name="D:/GITHUB/PykerStars/pykerstars/utils/poker_enum_meta.py" timestamp="1497540600907">
         <mark key="[" line="0" column="1" />
       </file>
@@ -373,43 +406,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBweWVuYXQubmV1cm9uX25ldHdvcmsgaW1wb3J0IE5ldXJvbgo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgeGksIHhvIGluIHppcCh4b3JfaW5wdXRzLCB4b3Jfb3V0cHV0cyk6Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>evaluate</text>
+        <text>global_rank</text>
       </register>
       <register name="/" type="4">
         <text>today_new</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBweWVuYXQubmV1cm9uX25ldHdvcmsgaW1wb3J0IE5ldXJvbgo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICBuMyA9IDAuMSAqIGlucHV0X2RhdGFbMF0gKyAxLiAqIGlucHV0X2RhdGFbMV0gKyAxMC4gKiBpbnB1dF9kYXRhWzJdICsgMTAwLiAqIG40ICsgMTAwMC4gKiBuNQogICAgICAgIG40ID0gMS4gKiBuMwogICAgICAgIG41ID0gMi4gKiBuMw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBweWVuYXQubmV1cm9uX25ldHdvcmsgaW1wb3J0IE5ldXJvbgo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgeGksIHhvIGluIHppcCh4b3JfaW5wdXRzLCB4b3Jfb3V0cHV0cyk6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmlubm92YXRpb24gPSAwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">VEVTVF9JTUFHRV9QQVRIID0gInRlc3RfaW1hZ2UvMzMucG5nIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYyA9IDAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBjaGFyIGltYWdlICchJwo=</text>
+        <text encoding="base64">ICAgICAgICBnZW5lMi5uZXdfaW5ub3ZhdGlvbigpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBpbF9pbWFnZV9vYmplY3QgPSBJbWFnZS5vcGVuKFRFU1RfSU1BR0VfUEFUSCkK</text>
+        <text encoding="base64">ICAgICAgICBnZW5lMS5uZXdfaW5ub3ZhdGlvbigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRlc3Rfb2JqZWN0ID0gSW1hZ2VSZWN0LkltYWdlUmVjdChURVNUX0lNQUdFX1BBVEgpCg==</text>
+        <text encoding="base64">ICAgICAgICBnZW5lMS5uZXdfaW5ub3ZhdGlvbigpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBQeVRleHR1cmVQYWNrZXIgaW1wb3J0IEltYWdlUmVjdAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIiVkLSVkIiAlIChzZWxmLmZyb21fbm9kZSwgc2VsZi50b19ub2RlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBQSUwgaW1wb3J0IEltYWdlCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CmRlZiBtYWluKCk6CiAgICBmcm9tIGdlbm9tZSBpbXBvcnQgR2Vub21lLCBHZW5lCiAgICBmcm9tIGVudmlyb25tZW50IGltcG9ydCBFbnZpcm9ubWVudAogICAgZnJvbSBjb25maWcgaW1wb3J0IG5ld19jb25maWcKICAgIGNvbmZpZyA9IG5ld19jb25maWcoKQogICAgY29uZmlnWyJpbnB1dF9zaXplIl0gPSAyCiAgICBjb25maWdbIm91dHB1dF9zaXplIl0gPSAxCiAgICBlbnZpcm9ubWVudCA9IEVudmlyb25tZW50KGNvbmZpZykKICAgIGdlbm9tZSA9IEdlbm9tZShlbnZpcm9ubWVudCkKICAgIGdlbmUxID0gR2VuZSgpCiAgICBnZW5lMS5mcm9tX25vZGUgPSAxCiAgICBnZW5lMS50b19ub2RlID0gMwogICAgZ2VuZTEud2VpZ2h0ID0gMQogICAgZ2VuZTIgPSBHZW5lKCkKICAgIGdlbmUyLmZyb21fbm9kZSA9IDIKICAgIGdlbmUyLnRvX25vZGUgPSAzCiAgICBnZW5lMi53ZWlnaHQgPSAyCiAgICBnZW5vbWUuZ2VuZXMuYXBwZW5kKGdlbmUxKQogICAgZ2Vub21lLmdlbmVzLmFwcGVuZChnZW5lMikKICAgIG5lcm9uX25ldHdvcmsgPSBOZXVyb25OZXR3b3JrKGdlbm9tZSkKICAgIHByaW50KG5lcm9uX25ldHdvcmsuZXZhbHVhdGUoWzEsIC0wLjFdKSkKCgppZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgogICAgbWFpbigp</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGRlZiAoc2VsZik6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
