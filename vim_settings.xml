@@ -110,6 +110,9 @@
         <mark key="^" line="26" column="70" />
         <mark key="." line="26" column="37" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/input/window_manager_win32.py" timestamp="1507123703233">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="E:/TensorFlow/test/a.py" timestamp="1497120275140">
         <mark key="[" line="195" column="65" />
         <mark key="]" line="195" column="56" />
@@ -132,9 +135,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/input/window_manager.py" timestamp="1507121568540">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/input/window_manager.py" timestamp="1507123506511" />
       <file name="/Python Console" timestamp="1507117281853">
         <mark key="[" line="0" column="0" />
       </file>
@@ -202,7 +203,7 @@
         <mark key="." line="172" column="0" />
         <mark key="^" line="171" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/SerpentAI/serpent/window_controllers/win32_window_controller.py" timestamp="1507121965854" />
+      <file name="$USER_HOME$/Documents/GitHub/SerpentAI/serpent/window_controllers/win32_window_controller.py" timestamp="1507122574567" />
       <file name="D:/GITHUB/PyTWEANN/tests/test_neuron_network.py" timestamp="1498843663873">
         <mark key="[" line="27" column="8" />
         <mark key="]" line="27" column="84" />
@@ -251,8 +252,8 @@
         <mark key="^" line="9" column="11" />
         <mark key="." line="9" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/main.py" timestamp="1507108886264">
-        <mark key="[" line="16" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/main.py" timestamp="1507124236059">
+        <mark key="[" line="16" column="44" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
@@ -291,6 +292,7 @@
       <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Image.py" timestamp="1475379944934">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/SerpentAI/serpent/window_controller.py" timestamp="1507122586897" />
       <file name="$USER_HOME$/Documents/PykerStars/.gitignore" timestamp="1486071398335">
         <mark key="[" line="1" column="0" />
       </file>
@@ -429,8 +431,8 @@
       <jump line="132" column="44" filename="F:/super_handler/daily_report.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCB0aW1laXQK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CmNsYXNzIFdpbmRvd0NvbnRyb2xsZXJFcnJvcihCYXNlRXhjZXB0aW9uKToKICAgIHBhc3M=</text>
       </register>
       <register name="-" type="4">
         <text>global_rank</text>
@@ -441,32 +443,32 @@
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICBuMyA9IDAuMSAqIGlucHV0X2RhdGFbMF0gKyAxLiAqIGlucHV0X2RhdGFbMV0gKyAxMC4gKiBpbnB1dF9kYXRhWzJdICsgMTAwLiAqIG40ICsgMTAwMC4gKiBuNQogICAgICAgIG40ID0gMS4gKiBuMwogICAgICAgIG41ID0gMi4gKiBuMw==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCB0aW1laXQK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CmNsYXNzIFdpbmRvd0NvbnRyb2xsZXJFcnJvcihCYXNlRXhjZXB0aW9uKToKICAgIHBhc3M=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgeGksIHhvIGluIHppcCh4b3JfaW5wdXRzLCB4b3Jfb3V0cHV0cyk6Cg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCB0aW1laXQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmlubm92YXRpb24gPSAwCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgeGksIHhvIGluIHppcCh4b3JfaW5wdXRzLCB4b3Jfb3V0cHV0cyk6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYyA9IDAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmlubm92YXRpb24gPSAwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBnZW5lMi5uZXdfaW5ub3ZhdGlvbigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYyA9IDAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBnZW5lMS5uZXdfaW5ub3ZhdGlvbigpCg==</text>
+        <text encoding="base64">ICAgICAgICBnZW5lMi5uZXdfaW5ub3ZhdGlvbigpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBnZW5lMS5uZXdfaW5ub3ZhdGlvbigpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIiVkLSVkIiAlIChzZWxmLmZyb21fbm9kZSwgc2VsZi50b19ub2RlKQo=</text>
+        <text encoding="base64">ICAgICAgICBnZW5lMS5uZXdfaW5ub3ZhdGlvbigpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIiVkLSVkIiAlIChzZWxmLmZyb21fbm9kZSwgc2VsZi50b19ub2RlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
