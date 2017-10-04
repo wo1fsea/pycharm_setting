@@ -135,8 +135,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/input/window_manager.py" timestamp="1507123506511" />
-      <file name="/Python Console" timestamp="1507117281853">
+      <file name="/Python Console" timestamp="1507126101848">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1498404218381">
@@ -203,7 +202,6 @@
         <mark key="." line="172" column="0" />
         <mark key="^" line="171" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/SerpentAI/serpent/window_controllers/win32_window_controller.py" timestamp="1507122574567" />
       <file name="D:/GITHUB/PyTWEANN/tests/test_neuron_network.py" timestamp="1498843663873">
         <mark key="[" line="27" column="8" />
         <mark key="]" line="27" column="84" />
@@ -252,10 +250,10 @@
         <mark key="^" line="9" column="11" />
         <mark key="." line="9" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/main.py" timestamp="1507124236059">
-        <mark key="[" line="16" column="44" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/main.py" timestamp="1507126093114">
+        <mark key="[" line="23" column="16" />
+        <mark key="]" line="23" column="17" />
+        <mark key="." line="23" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/output/output_base.py" timestamp="1507110286412">
         <mark key="[" line="9" column="79" />
@@ -288,11 +286,9 @@
         <mark key="^" line="9" column="49" />
         <mark key="." line="9" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/pyautogui/pyautogui/screenshotUtil.py" timestamp="1507107289934" />
       <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Image.py" timestamp="1475379944934">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/SerpentAI/serpent/window_controller.py" timestamp="1507122586897" />
       <file name="$USER_HOME$/Documents/PykerStars/.gitignore" timestamp="1486071398335">
         <mark key="[" line="1" column="0" />
       </file>
@@ -432,10 +428,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CmNsYXNzIFdpbmRvd0NvbnRyb2xsZXJFcnJvcihCYXNlRXhjZXB0aW9uKToKICAgIHBhc3M=</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>global_rank</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>today_new</text>
@@ -443,32 +439,32 @@
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICBuMyA9IDAuMSAqIGlucHV0X2RhdGFbMF0gKyAxLiAqIGlucHV0X2RhdGFbMV0gKyAxMC4gKiBpbnB1dF9kYXRhWzJdICsgMTAwLiAqIG40ICsgMTAwMC4gKiBuNQogICAgICAgIG40ID0gMS4gKiBuMwogICAgICAgIG41ID0gMi4gKiBuMw==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CmNsYXNzIFdpbmRvd0NvbnRyb2xsZXJFcnJvcihCYXNlRXhjZXB0aW9uKToKICAgIHBhc3M=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCB0aW1laXQK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiA6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgeGksIHhvIGluIHppcCh4b3JfaW5wdXRzLCB4b3Jfb3V0cHV0cyk6Cg==</text>
+        <text encoding="base64">ICAgIHdoaWxlIFRydWU6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmlubm92YXRpb24gPSAwCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYyA9IDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICwgbnVtYmVyPTEwMCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBnZW5lMi5uZXdfaW5ub3ZhdGlvbigpCg==</text>
+        <text encoding="base64">ICAgIHMgPSB0aW1laXQudGltZWl0KCIiIgo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBnZW5lMS5uZXdfaW5ub3ZhdGlvbigpCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CmNsYXNzIFdpbmRvd0NvbnRyb2xsZXJFcnJvcihCYXNlRXhjZXB0aW9uKToKICAgIHBhc3M=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBnZW5lMS5uZXdfaW5ub3ZhdGlvbigpCg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCB0aW1laXQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIiVkLSVkIiAlIChzZWxmLmZyb21fbm9kZSwgc2VsZi50b19ub2RlKQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgeGksIHhvIGluIHppcCh4b3JfaW5wdXRzLCB4b3Jfb3V0cHV0cyk6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
