@@ -12,8 +12,10 @@
         <mark key="^" line="9" column="78" />
         <mark key="." line="9" column="78" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/communication/connection.py" timestamp="1507212454030">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/communication/connection.py" timestamp="1507218549810">
+        <mark key="[" line="13" column="6" />
+        <mark key="]" line="13" column="6" />
+        <mark key="." line="13" column="6" />
       </file>
       <file name="D:/GITHUB/PykerStars/pykerstars/table.py" timestamp="1497448052160">
         <mark key="[" line="0" column="0" />
@@ -59,11 +61,11 @@
       <file name="$USER_HOME$/Documents/PykerStars/handranks.py" timestamp="1486143744144">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/frame_capture.py" timestamp="1507215652211">
-        <mark key="[" line="9" column="79" />
-        <mark key="]" line="9" column="13" />
-        <mark key="^" line="9" column="13" />
-        <mark key="." line="9" column="13" />
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/frame_capture.py" timestamp="1507218602347">
+        <mark key="[" line="29" column="4" />
+        <mark key="]" line="29" column="23" />
+        <mark key="^" line="28" column="7" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/main.py" timestamp="1481465720794">
         <mark key="[" line="16" column="79" />
@@ -93,16 +95,19 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/__init__.py" timestamp="1507134191616">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/config_reader.py" timestamp="1507214001823">
-        <mark key="[" line="33" column="12" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/config_reader.py" timestamp="1507219432734">
+        <mark key="[" line="22" column="19" />
+        <mark key="]" line="22" column="19" />
+        <mark key="." line="22" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/PackerInterface.py" timestamp="1481035123738">
         <mark key="[" line="26" column="54" />
         <mark key="]" line="26" column="55" />
         <mark key="^" line="26" column="70" />
         <mark key="." line="26" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/utils/singleton.py" timestamp="1507218047957">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/input/window_manager_win32.py" timestamp="1507123703233">
         <mark key="[" line="0" column="0" />
@@ -368,17 +373,17 @@
       <jump line="132" column="44" filename="F:/super_handler/daily_report.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
+      <register name="&quot;" type="4">
+        <text>object</text>
       </register>
       <register name="-" type="4">
-        <text>self</text>
+        <text>object</text>
       </register>
       <register name="/" type="4">
         <text>today_new</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWdfcGF0aCA9IG9zLnBhdGguam9pbihDT05GSUdfUEFUSCwgQ09ORklHX0ZJTEUpCg==</text>
+        <text encoding="base64">ICAgIGNvbjEgPSBDb25uZWN0aW9uKCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
