@@ -179,11 +179,11 @@
         <mark key="^" line="9" column="11" />
         <mark key="." line="9" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/main.py" timestamp="1507195131363">
-        <mark key="[" line="146" column="4" />
-        <mark key="]" line="158" column="0" />
-        <mark key="." line="158" column="0" />
-        <mark key="^" line="158" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/main.py" timestamp="1507196075605">
+        <mark key="[" line="160" column="6" />
+        <mark key="]" line="161" column="0" />
+        <mark key="." line="161" column="0" />
+        <mark key="^" line="161" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/output/output_base.py" timestamp="1507110286412">
         <mark key="[" line="9" column="79" />
@@ -346,7 +346,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIkFGIikK</text>
+        <text encoding="base64">ICAgIHByaW50KCJEIikK</text>
       </register>
       <register name="-" type="4">
         <text>focused_window_id</text>
@@ -358,31 +358,31 @@
         <text encoding="base64">aW1wb3J0IGFwcGxlc2NyaXB0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIkFGIikK</text>
+        <text encoding="base64">ICAgIHByaW50KCJEIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIkJGIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIkFGIikK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIkJGIikK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgiQUFkIikK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CmRlZiBtYWluNSgpOgogICAgIyAhL3Vzci9iaW4vcHl0aG9uCgogICAgaW1wb3J0IHN1YnByb2Nlc3MKCiAgICBkZWYgYXNydW4oYXNjcmlwdCk6CiAgICAgICAgIlJ1biB0aGUgZ2l2ZW4gQXBwbGVTY3JpcHQgYW5kIHJldHVybiB0aGUgc3RhbmRhcmQgb3V0cHV0IGFuZCBlcnJvci4iCgogICAgICAgIG9zYSA9IHN1YnByb2Nlc3MuUG9wZW4oWydvc2FzY3JpcHQnLCAnLSddLAogICAgICAgIAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IGFwcGxlc2NyaXB0Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ZnJvbSBjb3JlLndpbmRvd19tYW5hZ2VyLndpbmRvd19tYW5hZ2VyX2RhcndpbiBpbXBvcnQgV2luZG93TWFuYWdlckRhcndpbgo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0Ogo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0Ogo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
