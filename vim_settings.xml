@@ -33,10 +33,10 @@
       <file name="D:/GITHUB/PyTWEANN/.gitignore" timestamp="1497890267596">
         <mark key="[" line="91" column="0" />
       </file>
-      <file name="/usr/local/lib/python3.6/site-packages/mss/darwin.py" timestamp="1507138332861" />
+      <file name="/usr/local/lib/python3.6/site-packages/mss/darwin.py" timestamp="1507144432963" />
       <file name="$USER_HOME$/Documents/GitHub/SerpentAI/serpent/window_controllers/darwin_window_controller.py" timestamp="1507137953592" />
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/input/input_base.py" timestamp="1507109821147">
-        <mark key="[" line="9" column="79" />
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/input/input_base.py" timestamp="1507179432180">
+        <mark key="[" line="15" column="11" />
         <mark key="]" line="9" column="12" />
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
@@ -99,7 +99,7 @@
         <mark key="^" line="9" column="13" />
         <mark key="." line="9" column="13" />
       </file>
-      <file name="/Python Console" timestamp="1507139275763">
+      <file name="/Python Console" timestamp="1507144420924">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1498404218381">
@@ -182,10 +182,10 @@
         <mark key="^" line="9" column="11" />
         <mark key="." line="9" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/main.py" timestamp="1507141639326">
-        <mark key="[" line="134" column="5" />
-        <mark key="]" line="127" column="0" />
-        <mark key="." line="127" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/main.py" timestamp="1507179278390">
+        <mark key="[" line="163" column="0" />
+        <mark key="]" line="163" column="0" />
+        <mark key="." line="163" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/output/output_base.py" timestamp="1507110286412">
         <mark key="[" line="9" column="79" />
@@ -193,10 +193,11 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_manager/window_manager_darwin.py" timestamp="1507140463906">
-        <mark key="[" line="48" column="15" />
-        <mark key="]" line="48" column="15" />
-        <mark key="." line="48" column="15" />
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_manager/window_manager_darwin.py" timestamp="1507179128348">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="18" />
+        <mark key="^" line="12" column="17" />
+        <mark key="." line="12" column="17" />
       </file>
       <file name="D:/GITHUB/PyTexturePacker/main.py" timestamp="1493221831197">
         <mark key="[" line="11" column="5" />
@@ -347,7 +348,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>focused_window_id</text>
+        <text encoding="base64">CmRlZiBtYWluNSgpOgogICAgIyAhL3Vzci9iaW4vcHl0aG9uCgogICAgaW1wb3J0IHN1YnByb2Nlc3MKCiAgICBkZWYgYXNydW4oYXNjcmlwdCk6CiAgICAgICAgIlJ1biB0aGUgZ2l2ZW4gQXBwbGVTY3JpcHQgYW5kIHJldHVybiB0aGUgc3RhbmRhcmQgb3V0cHV0IGFuZCBlcnJvci4iCgogICAgICAgIG9zYSA9IHN1YnByb2Nlc3MuUG9wZW4oWydvc2FzY3JpcHQnLCAnLSddLAogICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>focused_window_id</text>
@@ -356,35 +357,34 @@
         <text>today_new</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFwcCA9IFFBcHBsaWNhdGlvbihzeXMuYXJndikK</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGFwcCA9IFFBcHBsaWNhdGlvbihbXSkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">IyBnID0gd20uZ2V0X3dpbmRvd19nZW9tZXRyeSh3bS5sb2NhdGVfd2luZG93KCJQb2tlckhEIikpCg==</text>
-      </register>
-      <register name="4" type="4">
-        <text>from core.window_manager.window_manager_darwin import WindowManagerDarwin
-wm = WindowManagerDarwin()</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBhcHBsZXNjcmlwdAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IGFwcGxlc2NyaXB0Cg==</text>
       </register>
+      <register name="1" type="4">
+        <text encoding="base64">CmRlZiBtYWluNSgpOgogICAgIyAhL3Vzci9iaW4vcHl0aG9uCgogICAgaW1wb3J0IHN1YnByb2Nlc3MKCiAgICBkZWYgYXNydW4oYXNjcmlwdCk6CiAgICAgICAgIlJ1biB0aGUgZ2l2ZW4gQXBwbGVTY3JpcHQgYW5kIHJldHVybiB0aGUgc3RhbmRhcmQgb3V0cHV0IGFuZCBlcnJvci4iCgogICAgICAgIG9zYSA9IHN1YnByb2Nlc3MuUG9wZW4oWydvc2FzY3JpcHQnLCAnLSddLAogICAgICAgIAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGFwcGxlc2NyaXB0Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZnJvbSBjb3JlLndpbmRvd19tYW5hZ2VyLndpbmRvd19tYW5hZ2VyX2RhcndpbiBpbXBvcnQgV2luZG93TWFuYWdlckRhcndpbgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0Ogo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbnQod20pCg==</text>
+        <text encoding="base64">ICAgIGFwcCA9IFFBcHBsaWNhdGlvbihbXSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJBQUEiKQo=</text>
+        <text encoding="base64">IyBnID0gd20uZ2V0X3dpbmRvd19nZW9tZXRyeSh3bS5sb2NhdGVfd2luZG93KCJQb2tlckhEIikpCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
