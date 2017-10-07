@@ -14,7 +14,7 @@
       <file name="D:/GITHUB/PykerStars/pykerstars/table.py" timestamp="1497448052160">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1507224265279">
+      <file name="/a.dummy" timestamp="1507311265889">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="F:/super_handler/utils.py" timestamp="1490503404701">
@@ -36,6 +36,11 @@
         <mark key="]" line="9" column="12" />
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/monitor.py" timestamp="1507311289275">
+        <mark key="[" line="24" column="29" />
+        <mark key="]" line="24" column="29" />
+        <mark key="." line="24" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/PykerStars/handranks.py" timestamp="1486143744144">
         <mark key="[" line="0" column="0" />
@@ -524,11 +529,11 @@
       <jump line="132" column="44" filename="F:/super_handler/daily_report.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWdfcmVhZGVyID0gCg==</text>
+      <register name="&quot;" type="4">
+        <text>debugger</text>
       </register>
       <register name="-" type="4">
-        <text>item</text>
+        <text>debugger</text>
       </register>
       <register name="/" type="4">
         <text>today_new</text>
