@@ -37,18 +37,18 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/monitor.py" timestamp="1507311289275">
-        <mark key="[" line="24" column="29" />
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/monitor.py" timestamp="1507361781142">
+        <mark key="[" line="48" column="32" />
         <mark key="]" line="24" column="29" />
         <mark key="." line="24" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/PykerStars/handranks.py" timestamp="1486143744144">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/config/config.json" timestamp="1507227532221">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/config/config.json" timestamp="1507362865863">
+        <mark key="[" line="12" column="11" />
+        <mark key="]" line="12" column="12" />
+        <mark key="." line="12" column="12" />
       </file>
       <file name="E:/TensorFlow/test/mnist_softmax.py" timestamp="1497161628164">
         <mark key="[" line="50" column="3" />
@@ -74,9 +74,9 @@
         <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/communication/table.py" timestamp="1507266359286">
-        <mark key="[" line="20" column="49" />
-        <mark key="]" line="20" column="49" />
-        <mark key="." line="20" column="49" />
+        <mark key="[" line="22" column="49" />
+        <mark key="]" line="22" column="49" />
+        <mark key="." line="22" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/utils/singleton.py" timestamp="1507218047957">
         <mark key="[" line="0" column="0" />
@@ -97,7 +97,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1507227154275">
+      <file name="/Python Console" timestamp="1507361831444">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1498404218381">
@@ -181,8 +181,8 @@
         <mark key="]" line="197" column="0" />
         <mark key="." line="197" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_manager/window_manager_win32.py" timestamp="1507223487167">
-        <mark key="[" line="12" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_manager/window_manager_win32.py" timestamp="1507361424717">
+        <mark key="[" line="52" column="26" />
         <mark key="]" line="12" column="15" />
         <mark key="^" line="11" column="0" />
         <mark key="." line="12" column="0" />
@@ -239,10 +239,11 @@
       <file name="D:/GITHUB/PyTWEANN/.gitignore" timestamp="1497890267596">
         <mark key="[" line="91" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/config/default.json" timestamp="1507222570433">
-        <mark key="[" line="7" column="19" />
-        <mark key="]" line="11" column="13" />
-        <mark key="." line="11" column="13" />
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/config/default.json" timestamp="1507362877901">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="16" />
       </file>
       <file name="D:/GITHUB/PyTexturePacker/PyTexturePacker/MaxRectsBinPacker/MaxRectsAtlas.py" timestamp="1493222293587">
         <mark key="[" line="227" column="0" />
@@ -260,11 +261,11 @@
         <mark key="." line="59" column="0" />
         <mark key="^" line="59" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/frame_capture.py" timestamp="1507267396399">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="30" column="15" />
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/frame_capture.py" timestamp="1507362692752">
+        <mark key="[" line="38" column="55" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="35" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/main.py" timestamp="1481465720794">
         <mark key="[" line="16" column="79" />
@@ -375,7 +376,7 @@
         <mark key="." line="47" column="26" />
         <mark key="^" line="47" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507225567270">
+      <file name="/Dummy.txt" timestamp="1507362868947">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/SerpentAI/serpent/frame_grabber.py" timestamp="1507198538089" />
@@ -385,8 +386,8 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_manager/window_manager_darwin.py" timestamp="1507222964945">
-        <mark key="[" line="12" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_manager/window_manager_darwin.py" timestamp="1507361414843">
+        <mark key="[" line="73" column="26" />
         <mark key="]" line="12" column="18" />
         <mark key="^" line="12" column="17" />
         <mark key="." line="12" column="17" />
@@ -395,8 +396,10 @@
         <mark key="[" line="11" column="5" />
       </file>
       <file name="/usr/local/lib/python3.6/site-packages/mss/linux.py" timestamp="1507223036487" />
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/communication/queue.py" timestamp="1507262133720">
-        <mark key="[" line="27" column="48" />
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/communication/queue.py" timestamp="1507361855571">
+        <mark key="[" line="32" column="12" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="F:/supper_handler/daily_report.py" timestamp="1490462783949">
         <mark key="[" line="9" column="79" />
@@ -529,11 +532,11 @@
       <jump line="132" column="44" filename="F:/super_handler/daily_report.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>debugger</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJmcmFtZV9zaXplX2RrZXkiOiAiZnJhbWVfc2l6ZSIsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>debugger</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>today_new</text>
@@ -542,31 +545,31 @@
         <text encoding="base64">ICAgICAgICBzZWxmLl90YWJsZSA9IFRhYmxlKGNvbmZpZ1siZnJhbWVfc2l6ZV9rZXkiXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWdfcmVhZGVyID0gCg==</text>
+        <text encoding="base64">ICAgICJmcmFtZV9zaXplX2RrZXkiOiAiZnJhbWVfc2l6ZSIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWdfcmVhZGVyID0gQ29uZmlnUmVhZGVyKCkK</text>
+        <text encoding="base64">ICAgICAgICBlbmRfdGltZSA9IHRpbWUudGltZSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxlZnQgPSAxMAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VsZi5fZnJhbWVfaW50ZXJ2YWwsIGludGVydmFsKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRvcCA9IDEwCg==</text>
+        <text encoding="base64">ZnJvbSBQSUwgaW1wb3J0IEltYWdlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmYy5zZXRfZ2VvbWV0cnkod2dbInhfb2Zmc2V0Il0sIHdnWyJ5X29mZnNldCJdLCB3Z1sid2lkdGgiXSwgd2dbImhlaWdodCJdKQo=</text>
+        <text encoding="base64">ZnJvbSBjb3JlLmNvbW11bmljYXRpb24udGFibGUgaW1wb3J0IFRhYmxlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3ZyA9IHdtLmdldF93aW5kb3dfZ2VvbWV0cnkoIlBva2VySEQiKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9pc19jYXB0dXJpbmcgPSBGYWxzZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0KCkuYwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBiaXRlbToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdnID0gd20uZ2V0X3dpbmRvd19nZW9tZXRyeSgiUG9rZXJIRCIpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25maWdfcmVhZGVyID0gCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
