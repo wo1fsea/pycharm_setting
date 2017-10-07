@@ -14,7 +14,7 @@
       <file name="D:/GITHUB/PykerStars/pykerstars/table.py" timestamp="1497448052160">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1507311265889">
+      <file name="/a.dummy" timestamp="1507365433075">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="F:/super_handler/utils.py" timestamp="1490503404701">
@@ -164,11 +164,10 @@
         <mark key="^" line="9" column="11" />
         <mark key="." line="9" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/main.py" timestamp="1507224289224">
-        <mark key="[" line="160" column="6" />
-        <mark key="]" line="161" column="0" />
-        <mark key="." line="161" column="0" />
-        <mark key="^" line="161" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/main.py" timestamp="1507365817425">
+        <mark key="[" line="15" column="28" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/test.py" timestamp="1478343884063">
         <mark key="[" line="31" column="0" />
@@ -186,6 +185,12 @@
         <mark key="]" line="12" column="15" />
         <mark key="^" line="11" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/utils/uuid_generator.py" timestamp="1507364914867">
+        <mark key="[" line="9" column="79" />
+        <mark key="]" line="9" column="12" />
+        <mark key="^" line="9" column="12" />
+        <mark key="." line="9" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_manager/window_manager.py" timestamp="1507133963396">
         <mark key="[" line="47" column="38" />
@@ -401,6 +406,7 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/utils/uuid.py" timestamp="1507365455517" />
       <file name="F:/supper_handler/daily_report.py" timestamp="1490462783949">
         <mark key="[" line="9" column="79" />
         <mark key="]" line="9" column="49" />
@@ -533,43 +539,187 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJmcmFtZV9zaXplX2RrZXkiOiAiZnJhbWVfc2l6ZSIsCg==</text>
+        <text encoding="base64">ICAgIHN0ZG91dCwgc3RkZXJyID0gcHJvY2Vzcy5jb21tdW5pY2F0ZSgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>process</text>
       </register>
       <register name="/" type="4">
         <text>today_new</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl90YWJsZSA9IFRhYmxlKGNvbmZpZ1siZnJhbWVfc2l6ZV9rZXkiXSkK</text>
+        <text encoding="base64">ICAgIHByb2Nlc3MgPSBQb3BlbihbJy4vZnJhbWVfY2FwdHVyZS9mcmFtZV9jYXB0dXJlLnB5J10sIHN0ZG91dD1QSVBFLCBzdGRlcnI9UElQRSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJmcmFtZV9zaXplX2RrZXkiOiAiZnJhbWVfc2l6ZSIsCg==</text>
+        <text encoding="base64">ICAgIHN0ZG91dCwgc3RkZXJyID0gcHJvY2Vzcy5jb21tdW5pY2F0ZSgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlbmRfdGltZSA9IHRpbWUudGltZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VsZi5fZnJhbWVfaW50ZXJ2YWwsIGludGVydmFsKQo=</text>
+        <text encoding="base64">ICAgIGZyb20gc3VicHJvY2VzcyBpbXBvcnQgUG9wZW4sIFBJUEUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBQSUwgaW1wb3J0IEltYWdlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBjb3JlLmNvbW11bmljYXRpb24udGFibGUgaW1wb3J0IFRhYmxlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9pc19jYXB0dXJpbmcgPSBGYWxzZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+      <register name="7" type="4">
+        <text>def main():
+    # import pyautogui
+    # screenWidth, screenHeight = pyautogui.size()
+    # pyautogui.moveTo(screenWidth / 2, screenHeight / 2)
+    # pyautogui.typewrite('aa', interval=0.25)
+
+    import timeit
+    # s = timeit.timeit(&quot;from PIL import ImageGrab;ImageGrab.grab();&quot;, number=100)
+    # print(s)
+    s = timeit.timeit(&quot;&quot;&quot;
+import mss
+from PIL import Image
+with mss.mss() as sct:
+        # The screen part to capture
+        monitor = {'top': 0, 'left': 0, 'width': 1280, 'height': 900}
+        output = 'sct-{top}x{left}_{width}x{height}.png'.format(**monitor)
+
+        # Grab the data
+        sct_img = sct.grab(monitor)
+        img = Image.frombytes('RGB', sct_img.size, sct_img.rgb)
+        # print(&quot;A&quot;)
+&quot;&quot;&quot;, number=100)
+    print(s)
+
+
+def main2():
+    # !/usr/bin/env python3
+
+    import time
+    from multiprocessing import Process, Queue
+
+    q = Queue()  # 创建列队，不传数字表示列队不限数量
+
+    def A():
+        while 1:
+            try:
+                num = q.get_nowait()
+                print('我是进程A,取出数字:%d' % num)
+                time.sleep(1)
+            except:
+                break
+
+    def B():
+        pass
+
+    p1 = Process(target=A)
+    p2 = Process(target=B)
+    p1.start()
+    p2.start()
+
+
+from multiprocessing import Process, Queue
+from PIL.ImageQt import toqpixmap
+
+q = Queue(10)
+
+
+# import applescript
+
+# from core.window_manager import WindowManager
+# wm = WindowManager()
+# g = wm.get_window_geometry(wm.locate_window(&quot;PokerHD&quot;))
+from Foundation import NSAppleScript
+
+s = NSAppleScript.alloc().initWithSource_('''tell application &quot;System Events&quot;
+             return title of first application process whose frontmost is true
+         end tell''')
+ss = s.executeAndReturnError_(None)
+
+def main4_1():
+    import mss
+    from PIL import Image
+
+    with mss.mss() as sct:
+        # import applescript
+        while 1:
+            # The screen part to capture
+            # from core.window_manager import WindowManager
+            # wm = WindowManager()
+            # g = wm.get_window_geometry(wm.locate_window(&quot;PokerHD&quot;))
+
+            monitor = {'top': 87, 'left': 710, 'width': 730, 'height': 570}
+            # monitor = {'top': g[&quot;y_offset&quot;], 'left': g[&quot;x_offset&quot;], 'width': g[&quot;width&quot;], 'height': g[&quot;height&quot;]}
+            # Grab the data
+            sct_img = sct.grab(monitor)
+            img = Image.frombytes('RGB', sct_img.size, sct_img.rgb)
+            q.put(img)
+
+
+def main4_2():
+    import sys
+    from PyQt5.QtWidgets import QApplication, QWidget, QLabel
+    from PyQt5.QtGui import QIcon, QPixmap
+    from PyQt5.QtCore import QTimer
+
+    class App(QWidget):
+        def __init__(self):
+            super().__init__()
+            self.title = 'PyQt5 image - pythonspot.com'
+            self.left = 10
+            self.top = 10
+            self.width = 640
+            self.height = 480
+            self.initUI()
+
+        def initUI(self):
+            self.setWindowTitle(self.title)
+            self.setGeometry(self.left, self.top, self.width, self.height)
+
+            # Create widget
+            self.label = QLabel(self)
+
+            self.timer = QTimer(self)
+            self.timer.timeout.connect(self.timeOut)
+            self.timer.start(30)
+            self.show()
+
+        def timeOut(self):
+            if not q.empty():
+                frame = q.get_nowait()
+                pixmap = toqpixmap(frame)
+                self.label.setPixmap(pixmap)
+                self.label.resize(pixmap.width(), pixmap.height())
+                self.resize(pixmap.width(), pixmap.height())
+
+    # app = QApplication(sys.argv)
+
+    app = QApplication(sys.argv)
+    ex = App()
+    app.exec_()
+
+
+def main4():
+    p1 = Process(target=main4_1)
+    # #p2 = Process(target=main4_2)
+    p1.start()
+    # p2.start()
+    main4_2()
+    # p1.join()
+    import AppKit
+    # print(AppKit.NSWorkspace.sharedWorkspace().frontmostApplication().localizedName())
+    # s = AppKit.NSWorkspace.sharedWorkspace().frontmostApplication()
+    # s.keyWindow().setFrameOrigin(AppKit.NSPoint(0, 0))
+    import time
+    # time.sleep(10000)</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBiaXRlbToK</text>
+        <text encoding="base64">ICAgICJmcmFtZV9zaXplX2RrZXkiOiAiZnJhbWVfc2l6ZSIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWdfcmVhZGVyID0gCg==</text>
+        <text encoding="base64">ICAgICAgICBlbmRfdGltZSA9IHRpbWUudGltZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
