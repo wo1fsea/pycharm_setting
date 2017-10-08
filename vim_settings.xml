@@ -204,10 +204,11 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/requirements.txt" timestamp="1507369916418">
         <mark key="[" line="6" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/communication/rpc.py" timestamp="1507379944571">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/communication/rpc.py" timestamp="1507462662001">
+        <mark key="e" line="35" column="47" />
+        <mark key="[" line="35" column="44" />
+        <mark key="]" line="35" column="44" />
+        <mark key="." line="35" column="44" />
       </file>
       <file name="D:/GITHUB/PyTWEANN/.gitignore" timestamp="1497890267596">
         <mark key="[" line="91" column="0" />
@@ -454,44 +455,44 @@
       <jump line="132" column="44" filename="F:/super_handler/daily_report.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSAqIHBhcmFtcwo=</text>
+      <register name="&quot;" type="4">
+        <text>func</text>
       </register>
       <register name="-" type="4">
-        <text>no_request</text>
+        <text>func</text>
       </register>
       <register name="/" type="4">
         <text>today_new</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Q0FMTF9JRF9QUkVGSVggPSAiQ0FMTF8iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBycGNfZGF0YVsicmV0dXJuX3ZhbHVlIl0gPSByZXR1cm5fdmFsdWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSAqIHBhcmFtcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJtZXRob2RfbmFtZSI6IE5vbmUsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJtZXRob2RfbmFtZSI6IE5vbmUsCg==</text>
+        <text encoding="base64">ICAgIGRlZiBfcHVzaF9ycGNfcmV0dWBybihzZWxmLCBycGNfaWQsIHJwY19kYXRhKToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSB1dGlscy5zaW5nbGV0b24gaW1wb3J0IFNpbmdsZXRvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">TUlOX1NJWkUgPSAyNTYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBRdWV1ZSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">ZnJvbSB1dGlscy5zaW5nbGV0b24gaW1wb3J0IFNpbmdsZXRvbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ZnJvbSAuIGltcG9ydCAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgbGF1bmNoZXIob2JqZWN0KToK</text>
+        <text encoding="base64">UkVUVVJOX0lEX1BSRUZJWCA9ICJSRVRVUk5fIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
