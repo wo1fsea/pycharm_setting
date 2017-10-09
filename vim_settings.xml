@@ -194,10 +194,11 @@
         <mark key="." line="88" column="8" />
         <mark key="^" line="88" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/launcher.py" timestamp="1507370002117">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/launcher.py" timestamp="1507561745137">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="27" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="14" column="26" />
       </file>
       <file name="D:/GITHUB/PyTWEANN/pytweann/species.py" timestamp="1498401262611">
         <mark key="[" line="37" column="25" />
@@ -279,11 +280,10 @@
         <mark key="^" line="9" column="11" />
         <mark key="." line="9" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/main.py" timestamp="1507367507357">
-        <mark key="[" line="16" column="53" />
-        <mark key="]" line="16" column="53" />
-        <mark key="." line="16" column="53" />
-        <mark key="^" line="16" column="53" />
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/main.py" timestamp="1507561778780">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="89" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/output/output_base.py" timestamp="1507110286412">
         <mark key="[" line="9" column="79" />
@@ -353,6 +353,13 @@
         <mark key="." line="78" column="0" />
         <mark key="^" line="77" column="52" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/redis_docker/redis_docker.py" timestamp="1507561510104">
+        <mark key="[" line="9" column="79" />
+        <mark key="]" line="9" column="78" />
+        <mark key="^" line="9" column="78" />
+        <mark key="." line="9" column="78" />
+      </file>
+      <file name="/usr/local/lib/python3.6/site-packages/docker/models/containers.py" timestamp="1507561701529" />
       <file name="D:/GITHUB/PykerStars/pykerstars/utils/_poker_enum2.py" timestamp="1497540869769">
         <mark key="[" line="0" column="14" />
       </file>
@@ -466,43 +473,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJycGNfaWQiOiBOb25lLAo=</text>
+        <text encoding="base64">ICAgIHJlZGlzID0gUG9wZW4oWydweXRob24zJywgJy4vbGF1bmNoZXIucHknLCAncmVkaXNfZG9ja2VyJ10sIHN0ZG91dD1QSVBFLCBzdGRlcnI9UElQRSkK</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>monitor</text>
       </register>
       <register name="/" type="4">
         <text>today_new</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRvRG86IG5vdCBhIGdvb2QgbmFtZQo=</text>
+        <text encoding="base64">ICAgIG1vbml0b3IgPSBQb3BlbihbJ3B5dGhvbjMnLCAnLi9sYXVuY2hlci5weScsICdtb25pdG9yJ10sIHN0ZG91dD1QSVBFLCBzdGRlcnI9UElQRSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJycGNfaWQiOiBOb25lLAo=</text>
+        <text encoding="base64">ICAgIHJlZGlzID0gUG9wZW4oWydweXRob24zJywgJy4vbGF1bmNoZXIucHknLCAncmVkaXNfZG9ja2VyJ10sIHN0ZG91dD1QSVBFLCBzdGRlcnI9UElQRSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWV0aG9kX25hbWUgPSBycGNfZGF0YVsibWV0aG9kX25hbWUiXQo=</text>
+        <text encoding="base64">ICAgICJycGNfaWQiOiBOb25lLAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbWV0aG9kX25hbWUgPSBycGNfZGF0YVsibWV0aG9kX25hbWUiXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgbWV0aG9kX25hbWUsIG1ldGhvZCBpbiBzZWxmLl9yZW1vdGVfbWV0aG9kcy5pdGVtcygpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWV0aG9kX25hbWUgPSBycGNfZGF0YVsibWV0aG9kX25hbWUiXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgbWV0aG9kX25hbWUsIG1ldGhvZCBpbiBzZWxmLl9yZW1vdGVfbWV0aG9kcy5pdGVtcygpOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBoYXNfcmVxdWVzdCA9IEZhbHNlCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBoYXNfcmVxdWVzdCA9IEZhbHNlCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaGFzX3JlcXVlc3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGhhc19yZXF1ZXN0ID0gVHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaGFzX3JlcXVlc3QK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
