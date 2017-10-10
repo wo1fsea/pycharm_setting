@@ -46,8 +46,8 @@
       <file name="/usr/local/lib/python3.6/site-packages/pytesseract/pytesseract.py" timestamp="1507307141189">
         <mark key="[" line="87" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/requirements.txt" timestamp="1507369916418">
-        <mark key="[" line="6" column="5" />
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/requirements.txt" timestamp="1507563829243">
+        <mark key="[" line="7" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_manager/__init__.py" timestamp="1507134074779">
         <mark key="[" line="0" column="0" />
@@ -173,7 +173,7 @@
         <mark key="^" line="9" column="13" />
         <mark key="." line="9" column="13" />
       </file>
-      <file name="/Python Console" timestamp="1507559442498">
+      <file name="/Python Console" timestamp="1507563172217">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1507464875970">
@@ -217,8 +217,8 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/frame_capture/frame_capture.py" timestamp="1507367599678">
-        <mark key="[" line="45" column="23" />
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/frame_capture/frame_capture.py" timestamp="1507562450485">
+        <mark key="[" line="34" column="81" />
         <mark key="]" line="53" column="0" />
         <mark key="^" line="54" column="15" />
         <mark key="." line="53" column="0" />
@@ -271,6 +271,9 @@
       <file name="/Dummy.txt" timestamp="1507362868947">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/monitor/monitor.py" timestamp="1507562485788">
+        <mark key="[" line="48" column="26" />
+      </file>
       <file name="D:/GITHUB/PykerStars/pykerstars/utils/poker_enum_meta.py" timestamp="1497540600907">
         <mark key="[" line="0" column="1" />
       </file>
@@ -280,8 +283,8 @@
         <mark key="^" line="9" column="11" />
         <mark key="." line="9" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/main.py" timestamp="1507561778780">
-        <mark key="[" line="15" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/main.py" timestamp="1507563740195">
+        <mark key="[" line="15" column="6" />
         <mark key="]" line="15" column="89" />
         <mark key="." line="15" column="0" />
       </file>
@@ -353,13 +356,13 @@
         <mark key="." line="78" column="0" />
         <mark key="^" line="77" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/redis_docker/redis_docker.py" timestamp="1507561510104">
-        <mark key="[" line="9" column="79" />
-        <mark key="]" line="9" column="78" />
-        <mark key="^" line="9" column="78" />
-        <mark key="." line="9" column="78" />
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/redis_docker/redis_docker.py" timestamp="1507563820137">
+        <mark key="[" line="16" column="4" />
+        <mark key="]" line="16" column="21" />
+        <mark key="^" line="16" column="21" />
+        <mark key="." line="16" column="21" />
       </file>
-      <file name="/usr/local/lib/python3.6/site-packages/docker/models/containers.py" timestamp="1507561701529" />
+      <file name="/usr/local/lib/python3.6/site-packages/docker/models/containers.py" timestamp="1507562642394" />
       <file name="D:/GITHUB/PykerStars/pykerstars/utils/_poker_enum2.py" timestamp="1497540869769">
         <mark key="[" line="0" column="14" />
       </file>
