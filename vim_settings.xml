@@ -49,10 +49,10 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_manager/__init__.py" timestamp="1507134074779">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/communication/rpc.py" timestamp="1507821717301">
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/communication/rpc.py" timestamp="1508674930636">
         <mark key="e" line="35" column="47" />
         <mark key="i" line="45" column="33" />
-        <mark key="[" line="90" column="18" />
+        <mark key="[" line="49" column="37" />
         <mark key="]" line="90" column="18" />
         <mark key="." line="90" column="18" />
         <mark key="^" line="44" column="7" />
@@ -323,11 +323,11 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/output/output.py" timestamp="1508081577260">
         <mark key="[" line="3" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/communication/queue.py" timestamp="1507466438157">
-        <mark key="[" line="38" column="10" />
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/communication/queue.py" timestamp="1508674955506">
+        <mark key="[" line="15" column="22" />
         <mark key="]" line="25" column="31" />
         <mark key="." line="25" column="0" />
-        <mark key="^" line="37" column="30" />
+        <mark key="^" line="38" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_manager/window_manager.py" timestamp="1507133963396">
         <mark key="[" line="47" column="38" />
