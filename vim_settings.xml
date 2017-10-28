@@ -17,28 +17,21 @@
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
       </file>
-      <file name="D:/GITHUB/PykerStars/pykerstars/table.py" timestamp="1497448052160">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/PyBaler/PyBaler/Baler.py" timestamp="1483538292671">
-        <mark key="[" line="24" column="29" />
-        <mark key="]" line="9" column="13" />
-        <mark key="^" line="9" column="13" />
-        <mark key="." line="9" column="13" />
-      </file>
-      <file name="/a.dummy" timestamp="1498667196821">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/PyTexturePacker/test.py" timestamp="1478343884063">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="0" column="38" />
-        <mark key="." line="31" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/tests/TestRect.py" timestamp="1480522410150">
         <mark key="[" line="20" column="35" />
         <mark key="]" line="20" column="35" />
         <mark key="." line="20" column="35" />
+      </file>
+      <file name="D:/GITHUB/PykerStars/pykerstars/table.py" timestamp="1497448052160">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/PykerStars/pykerstars/utils.py" timestamp="1486132151393">
+        <mark key="[" line="93" column="26" />
+        <mark key="]" line="85" column="14" />
+        <mark key="." line="85" column="14" />
+      </file>
+      <file name="/a.dummy" timestamp="1509207089500">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="F:/super_handler/utils.py" timestamp="1490503404701">
         <mark key="[" line="91" column="0" />
@@ -51,14 +44,16 @@
         <mark key="]" line="70" column="68" />
         <mark key="." line="70" column="68" />
       </file>
-      <file name="$USER_HOME$/Documents/PykerStars/.gitignore" timestamp="1486071398335">
-        <mark key="[" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/PykerStars/handranks.py" timestamp="1486143744144">
-        <mark key="[" line="0" column="0" />
+      <file name="D:/GITHUB/TheChineseRoom/core/communication/rpc.py" timestamp="1509206712650">
+        <mark key="[" line="37" column="44" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="D:/GITHUB/PyTWEANN/.gitignore" timestamp="1497890267596">
         <mark key="[" line="91" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/PyTexturePacker/Test/__init__.py" timestamp="1478342967692">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/GITHUB/PyTexturePacker/PyTexturePacker/MaxRectsBinPacker/MaxRectsAtlas.py" timestamp="1493222293587">
         <mark key="[" line="227" column="0" />
@@ -70,16 +65,21 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="D:/GITHUB/neat-python/neat/config.py" timestamp="1499611414182" />
-      <file name="$USER_HOME$/Documents/PyTexturePacker/profile.py" timestamp="1478345418889">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Documents/PykerStars/pykerstars/cards.py" timestamp="1486143798170">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="48" />
+        <mark key="." line="59" column="0" />
+        <mark key="^" line="59" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/PackerInterface.py" timestamp="1481035123738">
+        <mark key="[" line="26" column="54" />
+        <mark key="]" line="26" column="55" />
+        <mark key="^" line="26" column="70" />
+        <mark key="." line="26" column="37" />
       </file>
       <file name="E:/TensorFlow/test/mnist_softmax.py" timestamp="1497161628164">
         <mark key="[" line="50" column="3" />
       </file>
-      <file name="D:/GITHUB/PyTWEANN/pyenat/neuron_network.py" timestamp="1499531926102" />
       <file name="D:/GITHUB/PyTWEANN/pyenat/genome.py" timestamp="1499587049587">
         <mark key="[" line="120" column="30" />
         <mark key="]" line="120" column="30" />
@@ -91,20 +91,34 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/PyBaler/PyBaler/TextureSorter.py" timestamp="1483538518021">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="D:/GITHUB/PykerStars/pykerstars/handranks.py" timestamp="1497539680393">
         <mark key="[" line="63" column="15" />
       </file>
-      <file name="D:/GITHUB/neat-python/neat/species.py" timestamp="1499606565445" />
-      <file name="D:/GITHUB/neat-python/neat/population.py" timestamp="1499611479962" />
       <file name="D:/GITHUB/PykerStars/pykerstars/utils/_pokerenum2.py" timestamp="1497540251315">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PyBaler/PyBaler/PlistParser.py" timestamp="1483453776966">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Documents/PyTexturePacker/main.py" timestamp="1481465720794">
+        <mark key="[" line="16" column="79" />
+        <mark key="]" line="15" column="31" />
+        <mark key="^" line="15" column="31" />
+        <mark key="." line="15" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/PyTexturePacker/profile.py" timestamp="1478345418889">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="D:/GITHUB/TheChineseRoom/core/communication/db_connection.py" timestamp="1509207056697">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="E:/TensorFlow/test/a.py" timestamp="1497120275140">
         <mark key="[" line="195" column="65" />
@@ -117,28 +131,31 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="D:/GITHUB/TheChineseRoom/core/communication/table.py" timestamp="1509207308109">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="39" />
+      </file>
+      <file name="$USER_HOME$/Documents/PyTexturePacker/__init__.py" timestamp="1477839593099">
+        <mark key="[" line="0" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/PyTexturePacker/Test/testRect.py" timestamp="1478335376502">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/PykerStars/pykerstars/handranks.py" timestamp="1488211360771">
+        <mark key="[" line="172" column="16" />
+        <mark key="]" line="172" column="38" />
+        <mark key="." line="172" column="0" />
+        <mark key="^" line="171" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/setup.py" timestamp="1487776918299">
         <mark key="[" line="6" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/PykerStars/pykerstars/game.py" timestamp="1486146013484">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/PackerInterface.py" timestamp="1481035123738">
-        <mark key="[" line="26" column="54" />
-        <mark key="]" line="26" column="55" />
-        <mark key="^" line="26" column="70" />
-        <mark key="." line="26" column="37" />
-      </file>
-      <file name="D:/GITHUB/neat-python/neat/genes.py" timestamp="1499614020781" />
       <file name="/Python Console" timestamp="1499613814329">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1498404218381">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/PyTexturePacker/Test/__init__.py" timestamp="1478342967692">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/GITHUB/neat-python/examples/xor/evolve-minimal.py" timestamp="1499608312089">
@@ -151,11 +168,8 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PykerStars/pykerstars/cards.py" timestamp="1486143798170">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="48" />
-        <mark key="." line="59" column="0" />
-        <mark key="^" line="59" column="15" />
+      <file name="$USER_HOME$/Documents/PykerStars/handranks.py" timestamp="1486143744144">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PykerStars/pykerstars/texasholdem.py" timestamp="1486143308173">
         <mark key="[" line="9" column="79" />
@@ -184,25 +198,20 @@
         <mark key="]" line="15" column="20" />
         <mark key="." line="15" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/PyBaler/PyBaler/TextureSorter.py" timestamp="1483538518021">
-        <mark key="[" line="19" column="0" />
+      <file name="$USER_HOME$/Documents/PyTexturePacker/test.py" timestamp="1478343884063">
+        <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
+        <mark key="^" line="0" column="38" />
         <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/PykerStars/.gitignore" timestamp="1486071398335">
+        <mark key="[" line="1" column="0" />
       </file>
       <file name="D:/GITHUB/PyTWEANN/pytweann/config.py" timestamp="1498579577032">
         <mark key="[" line="19" column="24" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
         <mark key="^" line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/PyTexturePacker/__init__.py" timestamp="1477839593099">
-        <mark key="[" line="0" column="29" />
-      </file>
-      <file name="$USER_HOME$/Documents/PyTexturePacker/Test/TestRect.py" timestamp="1478344760322">
-        <mark key="[" line="88" column="16" />
-        <mark key="]" line="89" column="75" />
-        <mark key="." line="88" column="8" />
-        <mark key="^" line="88" column="7" />
       </file>
       <file name="D:/GITHUB/PykerStars/pykerstars/game.py" timestamp="1497545423006">
         <mark key="[" line="123" column="33" />
@@ -216,12 +225,6 @@
         <mark key="^" line="26" column="8" />
         <mark key="." line="55" column="50" />
       </file>
-      <file name="D:/GITHUB/neat-python/neat/reproduction.py" timestamp="1499611818105" />
-      <file name="$USER_HOME$/Documents/PykerStars/pykerstars/utils.py" timestamp="1486132151393">
-        <mark key="[" line="93" column="26" />
-        <mark key="]" line="85" column="14" />
-        <mark key="." line="85" column="14" />
-      </file>
       <file name="D:/GITHUB/PyTWEANN/tests/test_neuron_network.py" timestamp="1498843663873">
         <mark key="[" line="27" column="8" />
         <mark key="]" line="27" column="84" />
@@ -232,10 +235,8 @@
         <mark key="]" line="11" column="36" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PyTexturePacker/Test/testRect.py" timestamp="1478335376502">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Image.py" timestamp="1475379944934">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/GITHUB/PykerStars/pykerstars/utils/_poker_enum3.py" timestamp="1497540865696">
         <mark key="[" line="14" column="7" />
@@ -252,21 +253,19 @@
       <file name="/Dummy.txt" timestamp="1499611792227">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PyTexturePacker/main.py" timestamp="1481465720794">
-        <mark key="[" line="16" column="79" />
-        <mark key="]" line="15" column="31" />
-        <mark key="^" line="15" column="31" />
-        <mark key="." line="15" column="31" />
-      </file>
-      <file name="D:/GITHUB/PyTWEANN/pyenat/species.py" timestamp="1499587764286" />
       <file name="D:/GITHUB/PykerStars/pykerstars/utils/poker_enum_meta.py" timestamp="1497540600907">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/PykerStars/pykerstars/handranks.py" timestamp="1488211360771">
-        <mark key="[" line="172" column="16" />
-        <mark key="]" line="172" column="38" />
-        <mark key="." line="172" column="0" />
-        <mark key="^" line="171" column="16" />
+      <file name="$USER_HOME$/Documents/PyTexturePacker/tests/TestMaxRects.py" timestamp="1480522227205">
+        <mark key="[" line="78" column="39" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+        <mark key="^" line="77" column="52" />
+      </file>
+      <file name="$USER_HOME$/Documents/PykerStars/pykerstars/game.py" timestamp="1486146013484">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/GITHUB/PyTexturePacker/main.py" timestamp="1493221831197">
         <mark key="[" line="11" column="5" />
@@ -276,20 +275,34 @@
         <mark key="]" line="197" column="0" />
         <mark key="." line="197" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/PyTexturePacker/tests/TestMaxRects.py" timestamp="1480522227205">
-        <mark key="[" line="78" column="39" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
-        <mark key="^" line="77" column="52" />
+      <file name="$USER_HOME$/Documents/PyBaler/PyBaler/Baler.py" timestamp="1483538292671">
+        <mark key="[" line="24" column="29" />
+        <mark key="]" line="9" column="13" />
+        <mark key="^" line="9" column="13" />
+        <mark key="." line="9" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Image.py" timestamp="1475379944934">
+      <file name="$USER_HOME$/Documents/PyBaler/PyBaler/PlistParser.py" timestamp="1483453776966">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="F:/supper_handler/daily_report.py" timestamp="1490462783949">
         <mark key="[" line="9" column="79" />
         <mark key="]" line="9" column="49" />
         <mark key="^" line="9" column="49" />
         <mark key="." line="9" column="49" />
+      </file>
+      <file name="$USER_HOME$/Documents/PyTexturePacker/Test/TestRect.py" timestamp="1478344760322">
+        <mark key="[" line="88" column="16" />
+        <mark key="]" line="89" column="75" />
+        <mark key="." line="88" column="8" />
+        <mark key="^" line="88" column="7" />
+      </file>
+      <file name="D:/GITHUB/TheChineseRoom/core/communication/redis_object.py" timestamp="1509207312067">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="39" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="D:/GITHUB/PyTexturePacker/setup.py" timestamp="1495355603176">
         <mark key="[" line="6" column="18" />
@@ -406,7 +419,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgeGksIHhvIGluIHppcCh4b3JfaW5wdXRzLCB4b3Jfb3V0cHV0cyk6Cg==</text>
+        <text encoding="base64">ZnJvbSAuZGJfY29ubmVjdGlvbiBpbXBvcnQgREJDb25uZWN0aW9uCg==</text>
       </register>
       <register name="-" type="4">
         <text>global_rank</text>
@@ -414,35 +427,35 @@
       <register name="/" type="4">
         <text>today_new</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICBuMyA9IDAuMSAqIGlucHV0X2RhdGFbMF0gKyAxLiAqIGlucHV0X2RhdGFbMV0gKyAxMC4gKiBpbnB1dF9kYXRhWzJdICsgMTAwLiAqIG40ICsgMTAwMC4gKiBuNQogICAgICAgIG40ID0gMS4gKiBuMwogICAgICAgIG41ID0gMi4gKiBuMw==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZnJvbSAuZGJfY29ubmVjdGlvbiBpbXBvcnQgREJDb25uZWN0aW9uCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgeGksIHhvIGluIHppcCh4b3JfaW5wdXRzLCB4b3Jfb3V0cHV0cyk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9yZWRpcy5leHBpcmUoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmlubm92YXRpb24gPSAwCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9rZXkgPSBrZXkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYyA9IDAK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgeGksIHhvIGluIHppcCh4b3JfaW5wdXRzLCB4b3Jfb3V0cHV0cyk6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBnZW5lMi5uZXdfaW5ub3ZhdGlvbigpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmlubm92YXRpb24gPSAwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBnZW5lMS5uZXdfaW5ub3ZhdGlvbigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYyA9IDAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBnZW5lMS5uZXdfaW5ub3ZhdGlvbigpCg==</text>
+        <text encoding="base64">ICAgICAgICBnZW5lMi5uZXdfaW5ub3ZhdGlvbigpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIiVkLSVkIiAlIChzZWxmLmZyb21fbm9kZSwgc2VsZi50b19ub2RlKQo=</text>
+        <text encoding="base64">ICAgICAgICBnZW5lMS5uZXdfaW5ub3ZhdGlvbigpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgICAgICBnZW5lMS5uZXdfaW5ub3ZhdGlvbigpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiAoc2VsZik6Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIiVkLSVkIiAlIChzZWxmLmZyb21fbm9kZSwgc2VsZi50b19ub2RlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
