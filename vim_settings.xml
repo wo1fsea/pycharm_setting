@@ -33,7 +33,6 @@
       <file name="/a.dummy" timestamp="1509207089500">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Python35/Lib/collections/__init__.py" timestamp="1509208396892" />
       <file name="F:/super_handler/utils.py" timestamp="1490503404701">
         <mark key="[" line="91" column="0" />
         <mark key="]" line="91" column="0" />
@@ -46,9 +45,9 @@
         <mark key="." line="70" column="68" />
       </file>
       <file name="D:/GITHUB/TheChineseRoom/core/communication/rpc.py" timestamp="1509206712650">
-        <mark key="[" line="37" column="44" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+        <mark key="[" line="36" column="44" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="D:/GITHUB/PyTWEANN/.gitignore" timestamp="1497890267596">
         <mark key="[" line="91" column="0" />
@@ -122,10 +121,10 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/communication/db_connection.py" timestamp="1509211421147">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="D:/GITHUB/TheChineseRoom/core/communication/db_connection.py" timestamp="1509212026481">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="E:/TensorFlow/test/a.py" timestamp="1497120275140">
         <mark key="[" line="195" column="65" />
@@ -167,7 +166,7 @@
       <file name="/fragment.py" timestamp="1498404218381">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/communication/queue.py" timestamp="1509210399161">
+      <file name="D:/GITHUB/TheChineseRoom/core/communication/queue.py" timestamp="1509211935714">
         <mark key="[" line="22" column="32" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
@@ -264,7 +263,7 @@
         <mark key="." line="47" column="26" />
         <mark key="^" line="47" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499611792227">
+      <file name="/Dummy.txt" timestamp="1509211839678">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/GITHUB/PykerStars/pykerstars/utils/poker_enum_meta.py" timestamp="1497540600907">
@@ -317,14 +316,12 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/communication/redis_object.py" timestamp="1509210532605">
-        <mark key="[" line="35" column="19" />
-        <mark key="]" line="18" column="23" />
-        <mark key="^" line="18" column="21" />
-        <mark key="." line="18" column="21" />
+      <file name="D:/GITHUB/TheChineseRoom/core/communication/redis_object.py" timestamp="1509211900731">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="7" />
+        <mark key="^" line="13" column="7" />
+        <mark key="." line="13" column="7" />
       </file>
-      <file name="C:/Python35/Lib/site-packages/msgpack/fallback.py" timestamp="1509207980756" />
-      <file name="C:/Python35/Lib/_collections_abc.py" timestamp="1509209074960" />
       <file name="D:/GITHUB/PyTexturePacker/setup.py" timestamp="1495355603176">
         <mark key="[" line="6" column="18" />
       </file>
@@ -440,10 +437,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnRlcnZhbCwgc2VsZi5fZnJhbWVfaW50ZXJ2YWwpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>dict(</text>
+        <text>redis</text>
       </register>
       <register name="/" type="4">
         <text>today_new</text>
@@ -452,31 +449,32 @@
         <text encoding="base64">ICAgICAgICBiX2tleSA9IHNlbGYucGFja2Ioa2V5KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnRlcnZhbCwgc2VsZi5fZnJhbWVfaW50ZXJ2YWwpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmRiX2Nvbm5lY3Rpb24gPSBEQkNvbm5lY3Rpb24oKS5yZWRpcwo=</text>
+        <text encoding="base64">ZnJvbSB1dGlscy5zaW5nbGV0b24gaW1wb3J0IFNpbmdsZXRvbgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG1zZ3BhY2sK</text>
+        <text encoding="base64">ICAgIHJldHVybiBzZWxmLl9yZWRpcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSAuZGJfY29ubmVjdGlvbiBpbXBvcnQgREJDb25uZWN0aW9uCg==</text>
+        <text encoding="base64">ZGVmIHJlZGlzKHNlbGYpOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBiX2tleSA9IHNlbGYucGFja2Ioa2V5KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4ga2V5IGluIHNlbGYuZGF0YQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2NvbnRhaW5zX18oc2VsZiwga2V5KToK</text>
+        <text encoding="base64">QHByb3BlcnR5Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICMgTW9kaWZ5IF9fY29udGFpbnNfXyB0byB3b3JrIGNvcnJlY3RseSB3aGVuIF9fbWlzc2luZ19fIGlzIHByZXNlbnQK</text>
+      <register name="9" type="4">
+        <text>class DBConnection(Singleton):
+    def __init__(self):</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
