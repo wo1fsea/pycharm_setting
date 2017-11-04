@@ -44,11 +44,10 @@
         <mark key="]" line="70" column="68" />
         <mark key="." line="70" column="68" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/communication/rpc.py" timestamp="1509794896915">
-        <mark key="[" line="165" column="0" />
-        <mark key="]" line="77" column="8" />
-        <mark key="." line="77" column="8" />
-        <mark key="^" line="24" column="29" />
+      <file name="D:/GITHUB/TheChineseRoom/core/communication/rpc.py" timestamp="1509797366404">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="D:/GITHUB/PyTWEANN/.gitignore" timestamp="1497890267596">
         <mark key="[" line="91" column="0" />
@@ -441,8 +440,8 @@
       <jump line="132" column="44" filename="F:/super_handler/daily_report.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">YXNzZXJ0ICJtZXRob2RfbGlzdCIgbm90IGluIHNlcnZpY2VfZGF0YSBvciA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">YXNzZXJ0ICJtZXRob2RfbGlzdCIgbm90IGluIHNlcnZpY2VfZGF0YSBvciA=</text>
@@ -454,32 +453,32 @@
         <text encoding="base64">U0VSVklDRV9JRF9QUkVGSVggPSAic2VydmljZV8iCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAnRC5zZXRkZWZhdWx0KGtbLGRdKSAtPiBELmdldChrLGQpLCBhbHNvIHNldCBEW2tdPWQgaWYgayBub3QgaW4gRCcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAnRC5zZXRkZWZhdWx0KGtbLGRdKSAtPiBELmdldChrLGQpLCBhbHNvIHNldCBEW2tdPWQgaWYgayBub3QgaW4gRCcK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAnRC5zZXRkZWZhdWx0KGtbLGRdKSAtPiBELmdldChrLGQpLCBhbHNvIHNldCBEW2tdPWQgaWYgayBub3QgaW4gRCcK</text>
+      </register>
+      <register name="5" type="4">
         <text>,
     &quot;last_heartbeat_time&quot;: None</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">UlBDX01BTkFHRVJfS0VZID0gIkdMT0JBTCIK</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICJyZXF1ZXN0X3F1ZXVlX2lkIjogIiIsCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLl9rZXkgPSBrZXkK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJlZGlzLnRpbWUoKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSB1dGlscy5zaW5nbGV0b24gaW1wb3J0IFNpbmdsZXRvbgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJlZGlzLnRpbWUoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
