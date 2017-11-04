@@ -44,11 +44,11 @@
         <mark key="]" line="70" column="68" />
         <mark key="." line="70" column="68" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/communication/rpc.py" timestamp="1509798104892">
-        <mark key="[" line="177" column="8" />
-        <mark key="]" line="177" column="51" />
-        <mark key="." line="177" column="0" />
-        <mark key="^" line="176" column="7" />
+      <file name="D:/GITHUB/TheChineseRoom/core/communication/rpc.py" timestamp="1509799277932">
+        <mark key="[" line="160" column="0" />
+        <mark key="]" line="160" column="0" />
+        <mark key="." line="160" column="0" />
+        <mark key="^" line="184" column="22" />
       </file>
       <file name="D:/GITHUB/PyTWEANN/.gitignore" timestamp="1497890267596">
         <mark key="[" line="91" column="0" />
@@ -104,6 +104,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/GITHUB/TheChineseRoom/rpc_test1.py" timestamp="1509799297297">
+        <mark key="[" line="11" column="56" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/main.py" timestamp="1481465720794">
         <mark key="[" line="16" column="79" />
@@ -166,7 +171,7 @@
       <file name="$USER_HOME$/Documents/PyTexturePacker/setup.py" timestamp="1487776918299">
         <mark key="[" line="6" column="18" />
       </file>
-      <file name="/Python Console" timestamp="1499613814329">
+      <file name="/Python Console" timestamp="1509799685790">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1498404218381">
@@ -322,6 +327,7 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
+      <file name="D:/GITHUB/TheChineseRoom/redis_docker/redis_docker.py" timestamp="1509799690480" />
       <file name="D:/GITHUB/TheChineseRoom/core/communication/redis_object.py" timestamp="1509271252457">
         <mark key="[" line="47" column="56" />
         <mark key="]" line="22" column="0" />
@@ -442,7 +448,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNlcnZpY2VfbmFtZSA9IHNlbGYuX19jbGFzc19fLl9fbmFtZV9fCg==</text>
+        <text encoding="base64">ICAgIGlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">YXNzZXJ0ICJtZXRob2RfbGlzdCIgbm90IGluIHNlcnZpY2VfZGF0YSBvciA=</text>
@@ -454,32 +460,32 @@
         <text encoding="base64">U0VSVklDRV9JRF9QUkVGSVggPSAic2VydmljZV8iCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNlcnZpY2VfbmFtZSA9IHNlbGYuX19jbGFzc19fLl9fbmFtZV9fCg==</text>
+        <text encoding="base64">ICAgIGlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNlcnZpY2VfbmFtZSA9IHNlbGYuX19jbGFzc19fLl9fbmFtZV9fCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIHJwY19tYW5hZ2VyID0gUlBDTWFuYWdlcigpCiAgICBycGNfbWFuYWdlci5yZWdpc3Rlcl9tZXRob2QobWV0aG9kX25hbWUsIG1ldGhvZCk=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNlcnZpY2VfbmFtZSA9IHNlbGYuX19jbGFzc19fLl9fbmFtZV9fCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNlcnZpY2VfbmFtZSA9IHNlbGYuX19jbGFzc19fLl9fbmFtZV9fCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAnRC5zZXRkZWZhdWx0KGtbLGRdKSAtPiBELmdldChrLGQpLCBhbHNvIHNldCBEW2tdPWQgaWYgayBub3QgaW4gRCcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAnRC5zZXRkZWZhdWx0KGtbLGRdKSAtPiBELmdldChrLGQpLCBhbHNvIHNldCBEW2tdPWQgaWYgayBub3QgaW4gRCcK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAnRC5zZXRkZWZhdWx0KGtbLGRdKSAtPiBELmdldChrLGQpLCBhbHNvIHNldCBEW2tdPWQgaWYgayBub3QgaW4gRCcK</text>
+      </register>
+      <register name="9" type="4">
         <text>,
     &quot;last_heartbeat_time&quot;: None</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">UlBDX01BTkFHRVJfS0VZID0gIkdMT0JBTCIK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICJyZXF1ZXN0X3F1ZXVlX2lkIjogIiIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
