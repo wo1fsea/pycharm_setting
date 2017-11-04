@@ -44,11 +44,11 @@
         <mark key="]" line="70" column="68" />
         <mark key="." line="70" column="68" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/communication/rpc.py" timestamp="1509802814650">
-        <mark key="[" line="163" column="4" />
-        <mark key="]" line="163" column="41" />
-        <mark key="^" line="163" column="41" />
-        <mark key="." line="163" column="0" />
+      <file name="D:/GITHUB/TheChineseRoom/core/communication/rpc.py" timestamp="1509806750082">
+        <mark key="'" line="177" column="32" />
+        <mark key="[" line="208" column="7" />
+        <mark key="]" line="210" column="0" />
+        <mark key="." line="210" column="0" />
       </file>
       <file name="D:/GITHUB/PyTWEANN/.gitignore" timestamp="1497890267596">
         <mark key="[" line="91" column="0" />
@@ -105,10 +105,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/rpc_test1.py" timestamp="1509802089500">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="D:/GITHUB/TheChineseRoom/rpc_test1.py" timestamp="1509805494026">
+        <mark key="[" line="22" column="5" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/main.py" timestamp="1481465720794">
         <mark key="[" line="16" column="79" />
@@ -171,8 +171,8 @@
       <file name="$USER_HOME$/Documents/PyTexturePacker/setup.py" timestamp="1487776918299">
         <mark key="[" line="6" column="18" />
       </file>
-      <file name="/Python Console" timestamp="1509801311439">
-        <mark key="[" line="0" column="8" />
+      <file name="/Python Console" timestamp="1509806706655">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -197,6 +197,11 @@
       </file>
       <file name="$USER_HOME$/Documents/PykerStars/handranks.py" timestamp="1486143744144">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/GITHUB/TheChineseRoom/rpc_test2.py" timestamp="1509807062491">
+        <mark key="[" line="15" column="23" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PykerStars/pykerstars/texasholdem.py" timestamp="1486143308173">
         <mark key="[" line="9" column="79" />
@@ -331,8 +336,8 @@
         <mark key="." line="37" column="0" />
       </file>
       <file name="D:/GITHUB/TheChineseRoom/redis_docker/redis_docker.py" timestamp="1509799690480" />
-      <file name="D:/GITHUB/TheChineseRoom/core/communication/redis_object.py" timestamp="1509271252457">
-        <mark key="[" line="47" column="56" />
+      <file name="D:/GITHUB/TheChineseRoom/core/communication/redis_object.py" timestamp="1509804072307">
+        <mark key="[" line="31" column="7" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
@@ -349,7 +354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="30" filename="$USER_HOME$/PycharmProjects/Packer/Packer.py" />
       <jump line="80" column="4" filename="$USER_HOME$/PycharmProjects/Packer/Packer.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" />
       <jump line="101" column="19" filename="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" />
@@ -448,56 +452,65 @@
       <jump line="128" column="0" filename="F:/super_handler/daily_report.py" />
       <jump line="131" column="28" filename="F:/super_handler/daily_report.py" />
       <jump line="132" column="44" filename="F:/super_handler/daily_report.py" />
+      <jump line="160" column="4" filename="D:/GITHUB/TheChineseRoom/core/communication/rpc.py" />
+      <jump line="177" column="32" filename="D:/GITHUB/TheChineseRoom/core/communication/rpc.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1ldGhvZF9uYW1lID0gbWV0aG9kLl9fY29kZV9fLmNvX25hbWUK</text>
+        <text encoding="base64">aW1wb3J0IHRpbWVpdAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXNzZXJ0ICJtZXRob2RfbGlzdCIgbm90IGluIHNlcnZpY2VfZGF0YSBvciA=</text>
+        <text>rpcm = RPCManager()</text>
       </register>
       <register name="/" type="4">
-        <text>today_new</text>
+        <text encoding="base64">XDxhc3NlcnRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYuZl9iYWNrLmZfbG9jYWxzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5faGVhcnRiZWF0X3RpbWVyLmNhbmNlbCgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1ldGhvZF9uYW1lID0gbWV0aG9kLl9fY29kZV9fLmNvX25hbWUK</text>
+        <text encoding="base64">aW1wb3J0IHRpbWVpdAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1ldGhvZF9uYW1lID0gbWV0aG9kLl9fY29kZV9fLmNvX25hbWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZmCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJwY19tZXRob2RzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZmYpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpbnNwZWN0Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWYgZGQoc2VsZiwgZmYpOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYuZl9iYWNrLmZfbG9jYWxzKQo=</text>
+        <text encoding="base64">ICAgIGNsYXNzIGEob2JqZWN0KToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QGNsYXNzbWV0aG9kCg==</text>
+        <text encoding="base64">ICAgICIsIG51bWJlcj0xMDAwKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBAc3RhdGljbWV0aG9kCg==</text>
+        <text encoding="base64">ZnJvbSBjb3JlLmNvbW11bmljYXRpb24ucnBjIGltcG9ydCByZW1vdGVfbWV0aG9kLCBSUENNYW5hZ2VyOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KHRpbWUpCg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ICAgIHJwY19tYW5hZ2VyID0gUlBDTWFuYWdlcigpCiAgICBycGNfbWFuYWdlci5yZWdpc3Rlcl9tZXRob2QobWV0aG9kX25hbWUsIG1ldGhvZCk=</text>
+        <text>#     time = timeit.timeit('a.dd(&quot;ff&quot;)', &quot;&quot;&quot;
+# class aa(object):
+#     def dd(self, ff):
+#         print(ff)
+#         return ff
+# a = aa()
+#     &quot;&quot;&quot;, number=1000)
+#     print(time)</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>today_new</last-search>
+      <last-search encoding="base64">XDxhc3NlcnRcPg==</last-search>
       <last-offset />
-      <last-pattern>today_new</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxhc3NlcnRcPg==</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -505,6 +518,7 @@
         <entry>rect</entry>
         <entry>year</entry>
         <entry>today_new</entry>
+        <entry encoding="base64">XDxhc3NlcnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
