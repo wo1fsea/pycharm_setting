@@ -44,12 +44,12 @@
         <mark key="]" line="70" column="68" />
         <mark key="." line="70" column="68" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/communication/rpc.py" timestamp="1509808858328">
+      <file name="D:/GITHUB/TheChineseRoom/core/communication/rpc.py" timestamp="1509809861234">
         <mark key="'" line="177" column="32" />
-        <mark key="[" line="208" column="7" />
-        <mark key="]" line="101" column="53" />
-        <mark key="." line="101" column="53" />
-        <mark key="^" line="101" column="53" />
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
+        <mark key="^" line="113" column="17" />
       </file>
       <file name="D:/GITHUB/PyTWEANN/.gitignore" timestamp="1497890267596">
         <mark key="[" line="91" column="0" />
@@ -459,10 +459,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9kZWx0YV90aW1lID0gTm9uZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIjEiKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bG9jYWxfdGltZSAtIA==</text>
+        <text encoding="base64">aWYgc2VydmljZV9uYW1lIGluIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhc3NlcnRcPg==</text>
@@ -471,31 +471,31 @@
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi5faGVhcnRiZWF0X3RpbWVyLmNhbmNlbCgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9kZWx0YV90aW1lID0gTm9uZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIjEiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJwY20uX3NlcnZpY2VfbWFwLnRpbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiMiIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KHRpbWUudGltZSgpKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9kZWx0YV90aW1lID0gTm9uZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZWRpc190aW1lID0gCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHJwY20uX3NlcnZpY2VfbWFwLnRpbWUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aW1lLnRpbWUoKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KHRpbWUudGltZSgpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWVpdAo=</text>
+        <text encoding="base64">ICAgICAgICByZWRpc190aW1lID0gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZmCg==</text>
+        <text encoding="base64">ICAgICAgICB0aW1lLnRpbWUoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZmYpCg==</text>
+        <text encoding="base64">aW1wb3J0IHRpbWVpdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgZGQoc2VsZiwgZmYpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZmCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
