@@ -44,10 +44,10 @@
         <mark key="]" line="70" column="68" />
         <mark key="." line="70" column="68" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/communication/rpc.py" timestamp="1509272429432">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="30" />
-        <mark key="." line="25" column="0" />
+      <file name="D:/GITHUB/TheChineseRoom/core/communication/rpc.py" timestamp="1509787690140">
+        <mark key="[" line="165" column="0" />
+        <mark key="]" line="77" column="8" />
+        <mark key="." line="77" column="8" />
         <mark key="^" line="24" column="29" />
       </file>
       <file name="D:/GITHUB/PyTWEANN/.gitignore" timestamp="1497890267596">
@@ -151,7 +151,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="C:/Python35/Lib/site-packages/redis/client.py" timestamp="1509265101585" />
       <file name="D:/GITHUB/TheChineseRoom/table_test.py" timestamp="1509270417186">
         <mark key="[" line="9" column="79" />
         <mark key="]" line="9" column="13" />
@@ -324,11 +323,10 @@
         <mark key="." line="37" column="0" />
       </file>
       <file name="D:/GITHUB/TheChineseRoom/core/communication/redis_object.py" timestamp="1509271252457">
-        <mark key="[" line="48" column="56" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+        <mark key="[" line="47" column="56" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
-      <file name="C:/Python35/Lib/_collections_abc.py" timestamp="1509271963531" />
       <file name="D:/GITHUB/PyTexturePacker/setup.py" timestamp="1495355603176">
         <mark key="[" line="6" column="18" />
       </file>
@@ -443,11 +441,11 @@
       <jump line="132" column="44" filename="F:/super_handler/daily_report.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAnRC5zZXRkZWZhdWx0KGtbLGRdKSAtPiBELmdldChrLGQpLCBhbHNvIHNldCBEW2tdPWQgaWYgayBub3QgaW4gRCcK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">YXNzZXJ0ICJtZXRob2RfbGlzdCIgbm90IGluIHNlcnZpY2VfZGF0YSBvciA=</text>
       </register>
       <register name="-" type="4">
-        <text>service_name</text>
+        <text encoding="base64">YXNzZXJ0ICJtZXRob2RfbGlzdCIgbm90IGluIHNlcnZpY2VfZGF0YSBvciA=</text>
       </register>
       <register name="/" type="4">
         <text>today_new</text>
