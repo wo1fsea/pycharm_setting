@@ -44,7 +44,7 @@
         <mark key="]" line="70" column="68" />
         <mark key="." line="70" column="68" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/communication/rpc.py" timestamp="1509806750082">
+      <file name="D:/GITHUB/TheChineseRoom/core/communication/rpc.py" timestamp="1509807743060">
         <mark key="'" line="177" column="32" />
         <mark key="[" line="208" column="7" />
         <mark key="]" line="210" column="0" />
@@ -143,10 +143,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/communication/table.py" timestamp="1509272085266">
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
+      <file name="D:/GITHUB/TheChineseRoom/core/communication/table.py" timestamp="1509807554504">
+        <mark key="[" line="15" column="10" />
+        <mark key="]" line="15" column="10" />
+        <mark key="." line="15" column="10" />
+        <mark key="^" line="15" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/__init__.py" timestamp="1477839593099">
         <mark key="[" line="0" column="29" />
@@ -282,7 +283,7 @@
         <mark key="." line="47" column="26" />
         <mark key="^" line="47" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509211839678">
+      <file name="/Dummy.txt" timestamp="1509807464283">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/GITHUB/PykerStars/pykerstars/utils/poker_enum_meta.py" timestamp="1497540600907">
