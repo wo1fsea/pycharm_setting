@@ -211,6 +211,11 @@
         <mark key="^" line="54" column="15" />
         <mark key="." line="53" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/async_test.py" timestamp="1510496679343">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
       <file name="D:/GITHUB/PykerStars/pykerstars/game.py" timestamp="1497545423006">
         <mark key="[" line="123" column="33" />
         <mark key="]" line="123" column="34" />
@@ -457,7 +462,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">5paw55qE5YWz6ZSu5a2X5Lya6K6p5oiR5Lus55qE56iL5bqP55yL5LiK5Y675pu05Yqg5riF5pmw44CC5LiN6L+H5LuO5omn6KGM5pWI546H5LiK55yL77yM546w5Zyo6L+Y5piv55u46L6DIDMuNC4zIOacieS4gOS6m+mAgOatpe+8mgo=</text>
       </register>
       <register name="-" type="4">
         <text>func</text>
@@ -469,31 +474,31 @@
         <text encoding="base64">ICAgIG1vbml0b3IgPSBQb3BlbihbJ3B5dGhvbjMnLCAnLi9sYXVuY2hlci5weScsICdtb25pdG9yJ10sIHN0ZG91dD1QSVBFLCBzdGRlcnI9UElQRSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">5paw55qE5YWz6ZSu5a2X5Lya6K6p5oiR5Lus55qE56iL5bqP55yL5LiK5Y675pu05Yqg5riF5pmw44CC5LiN6L+H5LuO5omn6KGM5pWI546H5LiK55yL77yM546w5Zyo6L+Y5piv55u46L6DIDMuNC4zIOacieS4gOS6m+mAgOatpe+8mgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IGFzeW5jaW8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgaGFzYXR0cihzZWxmLCAicmVxdWVzdF9xdWV1ZV9jYWNoZSIpOgo=</text>
+        <text encoding="base64">5q+U5aaC5Zyo5LiK5LiA6IqC5Lit55qE5L6L5a2Q5pS56YCg5oiQ5Li6Ogo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UlBDX01BTkFHRVJfS0VZID0gIkdMT0JBTCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UlBDX1JFUVVFU1RfUVVFVUVfS0VZID0gInJwY19yZXF1ZXN0Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgaGFzYXR0cihzZWxmLCAicmVxdWVzdF9xdWV1ZV9jYWNoZSIpOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">TUFYX0hBTkRMRV9JTlRFUlZBTCA9IDAuMQo=</text>
+        <text encoding="base64">UlBDX01BTkFHRVJfS0VZID0gIkdMT0JBTCIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UlBDX1JFUVVFU1RfUVVFVUVfS0VZID0gInJwY19yZXF1ZXN0Igo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
