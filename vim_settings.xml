@@ -49,6 +49,11 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_manager/__init__.py" timestamp="1507134074779">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/communication/rpc.py" timestamp="1510486094080">
+        <mark key="[" line="66" column="56" />
+        <mark key="]" line="104" column="0" />
+        <mark key="." line="104" column="0" />
+      </file>
       <file name="D:/GITHUB/PyTWEANN/.gitignore" timestamp="1497890267596">
         <mark key="[" line="91" column="0" />
       </file>
@@ -251,7 +256,7 @@
         <mark key="." line="47" column="26" />
         <mark key="^" line="47" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508676717286">
+      <file name="/Dummy.txt" timestamp="1510486090001">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/GITHUB/PykerStars/pykerstars/utils/poker_enum_meta.py" timestamp="1497540600907">
@@ -452,7 +457,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">UlBDX01BTkFHRVJfS0VZID0gIkdMT0JBTCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>func</text>
@@ -464,31 +469,31 @@
         <text encoding="base64">ICAgIG1vbml0b3IgPSBQb3BlbihbJ3B5dGhvbjMnLCAnLi9sYXVuY2hlci5weScsICdtb25pdG9yJ10sIHN0ZG91dD1QSVBFLCBzdGRlcnI9UElQRSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UlBDX01BTkFHRVJfS0VZID0gIkdMT0JBTCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UlBDX1JFUVVFU1RfUVVFVUVfS0VZID0gInJwY19yZXF1ZXN0Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgaGFzYXR0cihzZWxmLCAicmVxdWVzdF9xdWV1ZV9jYWNoZSIpOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">TUFYX0hBTkRMRV9JTlRFUlZBTCA9IDAuMQo=</text>
+        <text encoding="base64">UlBDX01BTkFHRVJfS0VZID0gIkdMT0JBTCIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UlBDX1JFUVVFU1RfUVVFVUVfS0VZID0gInJwY19yZXF1ZXN0Igo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQoZC5hKQo=</text>
+        <text encoding="base64">TUFYX0hBTkRMRV9JTlRFUlZBTCA9IDAuMQo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CmNsYXNzIFByb3BlcnR5Q2FjaGU6CiAgICAiIiIgYSBkZWNvcmF0b3IgdG8gY2FjaGUgcHJvcGVydHkKICAgICIiIgoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBmdW5jKToKICAgICAgICBzZWxmLmZ1bmMgPSBmdW5jCgogICAgZGVmIF9fZ2V0X18oc2VsZiwgb2JqLCBjbHMpOgogICAgICAgIGlmIG5vdCBvYmo6CiAgICAgICAgICAgIHJldHVybiBzZWxmCiAgICAgICAgdmFsdWUgPSBzZWxmLmZ1bmMob2JqKQogICAgICAgIHNldGF0dHIob2JqLCBzZWxmLmZ1bmMuX19uYW1lX18sIHZhbHVlKQogICAgICAgIHJldHVybiB2YWx1ZQoKCmNsYXNzIEZvbzoKICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBzZWxmLl9wcm9wZXJ0eV90b19iZV9jYWNoZWQgPSAncmVzdWx0JwoKICAgIEBQcm9wZXJ0eUNhY2hlCiAgICBkZWYgcHJvcGVydHlfdG9fYmVfY2FjaGVkKHNlbGYpOgogICAgICAgIHByaW50KCdjb21wdXRlJykKICAgICAgICByZXR1cm4gc2VsZi5fcHJvcGVydHlfdG9fYmVfY2FjaGVkCgoKdGVzdCA9IEZvbygpCgpwcmludCh0ZXN0LnByb3BlcnR5X3RvX2JlX2NhY2hlZCkKcHJpbnQodGVzdC5wcm9wZXJ0eV90b19iZV9jYWNoZWQp</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJwY20ucmVnaXN0ZXJfbWV0aG9kKCJwcmludDIiLCBwcmludF90ZXN0MikK</text>
+        <text encoding="base64">ZAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
