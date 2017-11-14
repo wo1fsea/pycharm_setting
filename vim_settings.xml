@@ -44,11 +44,11 @@
         <mark key="]" line="70" column="68" />
         <mark key="." line="70" column="68" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/communication/rpc.py" timestamp="1510156141943">
-        <mark key="[" line="259" column="4" />
-        <mark key="]" line="259" column="0" />
-        <mark key="^" line="259" column="41" />
-        <mark key="." line="259" column="0" />
+      <file name="D:/GITHUB/TheChineseRoom/core/communication/rpc.py" timestamp="1510671784494">
+        <mark key="[" line="260" column="4" />
+        <mark key="]" line="291" column="0" />
+        <mark key="^" line="291" column="41" />
+        <mark key="." line="291" column="0" />
       </file>
       <file name="D:/GITHUB/PyTWEANN/.gitignore" timestamp="1497890267596">
         <mark key="[" line="91" column="0" />
@@ -111,10 +111,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/rpc_test1.py" timestamp="1509809240097">
-        <mark key="[" line="22" column="5" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="D:/GITHUB/TheChineseRoom/rpc_test1.py" timestamp="1510672510593">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/main.py" timestamp="1481465720794">
         <mark key="[" line="16" column="79" />
@@ -133,10 +133,12 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/communication/db_connection.py" timestamp="1509212026481">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="D:/GITHUB/TheChineseRoom/async_test.py" timestamp="1510672198002" />
+      <file name="D:/GITHUB/TheChineseRoom/core/communication/db_connection.py" timestamp="1510671185491">
+        <mark key="[" line="21" column="44" />
+        <mark key="]" line="28" column="11" />
+        <mark key="." line="28" column="11" />
+        <mark key="^" line="28" column="11" />
       </file>
       <file name="E:/TensorFlow/test/a.py" timestamp="1497120275140">
         <mark key="[" line="195" column="65" />
@@ -149,8 +151,8 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/communication/table.py" timestamp="1509807554504">
-        <mark key="[" line="15" column="10" />
+      <file name="D:/GITHUB/TheChineseRoom/core/communication/table.py" timestamp="1510671248780">
+        <mark key="[" line="23" column="4" />
         <mark key="]" line="15" column="10" />
         <mark key="." line="15" column="10" />
         <mark key="^" line="15" column="10" />
@@ -187,8 +189,8 @@
       <file name="/fragment.py" timestamp="1498404218381">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/communication/queue.py" timestamp="1509211935714">
-        <mark key="[" line="22" column="32" />
+      <file name="D:/GITHUB/TheChineseRoom/core/communication/queue.py" timestamp="1510671312429">
+        <mark key="[" line="38" column="35" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
@@ -205,10 +207,10 @@
       <file name="$USER_HOME$/Documents/PykerStars/handranks.py" timestamp="1486143744144">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/rpc_test2.py" timestamp="1510156032053">
-        <mark key="[" line="16" column="21" />
-        <mark key="]" line="16" column="21" />
-        <mark key="." line="16" column="21" />
+      <file name="D:/GITHUB/TheChineseRoom/rpc_test2.py" timestamp="1510671962090">
+        <mark key="[" line="25" column="17" />
+        <mark key="]" line="25" column="17" />
+        <mark key="." line="25" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/PykerStars/pykerstars/texasholdem.py" timestamp="1486143308173">
         <mark key="[" line="9" column="79" />
@@ -342,10 +344,10 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/communication/redis_object.py" timestamp="1509808498164">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="23" />
-        <mark key="." line="15" column="0" />
+      <file name="D:/GITHUB/TheChineseRoom/core/communication/redis_object.py" timestamp="1510671213281">
+        <mark key="[" line="24" column="8" />
+        <mark key="]" line="24" column="46" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="D:/GITHUB/PyTexturePacker/setup.py" timestamp="1495355603176">
         <mark key="[" line="6" column="18" />
@@ -462,8 +464,11 @@
       <jump line="261" column="20" filename="D:/GITHUB/TheChineseRoom/core/communication/rpc.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfc2VydmljZXMoKToK</text>
+      <register name="&quot;" type="4">
+        <text>[slow_operation(1),
+                  slow_operation(2),
+                  slow_operation(3),
+                  ]</text>
       </register>
       <register name="-" type="4">
         <text>(</text>
@@ -472,34 +477,37 @@
         <text encoding="base64">XDxhc3NlcnRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5faGVhcnRiZWF0X3RpbWVyLmNhbmNlbCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJlZGlzID0gZGJfY29ubmVjdGlvbi5nZXRfcmVkaXMoKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfc2VydmljZXMoKToK</text>
+      <register name="1" type="4">
+        <text>[slow_operation(1),
+                  slow_operation(2),
+                  slow_operation(3),
+                  ]</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfc2VydmljZXMoKToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUlBDTWFuYWdlcigpLmdldF9zZXJ2aWNlcygpCg==</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUlBDTWFuYWdlcigpLmdldF9zZXJ2aWNlcygpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBBdHRyaWJ1dGVFcnJvcgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIjEiKQo=</text>
+        <text encoding="base64">ICAgICAgICBBdHRyaWJ1dGVFcnJvcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiMiIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIjEiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9kZWx0YV90aW1lID0gTm9uZQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiMiIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJwY20uX3NlcnZpY2VfbWFwLnRpbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9kZWx0YV90aW1lID0gTm9uZQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
