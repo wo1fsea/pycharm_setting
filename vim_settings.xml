@@ -135,8 +135,8 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="22" column="11" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr.py" timestamp="1511073441209">
-        <mark key="[" line="29" column="0" />
+      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr.py" timestamp="1511077560150">
+        <mark key="[" line="22" column="44" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
@@ -360,10 +360,10 @@
         <mark key="^" line="9" column="49" />
         <mark key="." line="9" column="49" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_tesseract.py" timestamp="1511076940812">
-        <mark key="[" line="31" column="36" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_tesseract.py" timestamp="1511077654021">
+        <mark key="[" line="17" column="26" />
+        <mark key="]" line="17" column="26" />
+        <mark key="." line="17" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/Test/TestRect.py" timestamp="1478344760322">
         <mark key="[" line="88" column="16" />
@@ -499,44 +499,47 @@
       <jump line="2020" column="44" filename="C:/Python35/Lib/site-packages/PIL/Image.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFdpbmRvd0NvbnRyb2xsZXJEYXJ3aW4K</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>filter(ImageFilter.SHARPEN)</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZSA9IGltYWdlLmZpbHRlcihJbWFnZUZpbHRlci5TTU9PVEhfTU9SRSkK</text>
+        <text encoding="base64">VEVNUF9JTlBVVF9GSUxFID0gInRtcF9pbnB1dC5wbmciCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFdpbmRvd0NvbnRyb2xsZXJEYXJ3aW4K</text>
+        <text encoding="base64">ICAgICAgICBURVNTRVJBQ1RfQ09NTUFORC5mb3JtYXQoaW5wdXRfZmlsZT1URU1QX0lOUFVUX0ZJTEUsIG91dHB1dF9maWxlPVRFTVBfT1VUUFVUX0ZJTEUpCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnJvbSAud2luZG93X2NvbnRyb2xsZXJfZGFyd2luIGltcG9ydCBXaW5kb3dDb250cm9sbGVyRGFyd2luCg==</text>
+      <register name="2" type="4">
+        <text>if sys.platform == &quot;darwin&quot;:
+            pass
+        elif sys.platform == &quot;win32&quot;:
+            pass</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHB5dGVzc2VyYWN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZSA9IGltYWdlLmZpbHRlcihJbWFnZUZpbHRlci5TTU9PVEhfTU9SRSkK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZSA9IGltYWdlLmNvbnZlcnQoIkwiKQo=</text>
+        <text encoding="base64">VEVTU0VSQUNUX0NPTU1BTkQgPSAiJXMge2lucHV0X2ZpbGV9IHtvdXRwdXRfZmlsZX0iICUgb3MucGF0aC5qb2luKFdJTjMyX1RFU1NFUkFDVF9QQVRILCBXSU4zMl9URVNTRVJBQ1RfQklOKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZSA9IGltYWdlLmNvbnZlcnQoIkwiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZSA9IGltYWdlLmZpbHRlcihJbWFnZUZpbHRlci5FREdFX0VOSEFOQ0UpCg==</text>
+        <text encoding="base64">V0lOMzJfQ09NTUFORCA9ICIlcyB7aW5wdXRfZmlsZX0ge291dHB1dF9maWxlfSIgJSBvcy5wYXRoLmpvaW4oV0lOMzJfVEVTU0VSQUNUX1BBVEgsIFdJTjMyX1RFU1NFUkFDVF9CSU4pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZSA9IGltYWdlLmNvbnZlcnQoIkwiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFdpbmRvd0NvbnRyb2xsZXJEYXJ3aW4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZSA9IGltYWdlLmNvbnZlcnQoIjEiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnJvbSAud2luZG93X2NvbnRyb2xsZXJfZGFyd2luIGltcG9ydCBXaW5kb3dDb250cm9sbGVyRGFyd2luCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
