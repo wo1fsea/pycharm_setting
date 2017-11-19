@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/start_script.py" timestamp="1483538622308">
@@ -94,7 +94,6 @@
       <file name="D:/GITHUB/PykerStars/pykerstars/handranks.py" timestamp="1497539680393">
         <mark key="[" line="63" column="15" />
       </file>
-      <file name="C:/Python35/Lib/site-packages/PIL/ImageFilter.py" timestamp="1511071376329" />
       <file name="D:/GITHUB/TheChineseRoom/utils/expire_dict.py" timestamp="1510156227536">
         <mark key="[" line="9" column="79" />
         <mark key="]" line="9" column="12" />
@@ -303,7 +302,7 @@
         <mark key="." line="47" column="26" />
         <mark key="^" line="47" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510673325569">
+      <file name="/Dummy.txt" timestamp="1511079441504">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Python35/Lib/site-packages/PIL/Image.py" timestamp="1511021272256">
@@ -360,10 +359,11 @@
         <mark key="^" line="9" column="49" />
         <mark key="." line="9" column="49" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_tesseract.py" timestamp="1511077654021">
-        <mark key="[" line="17" column="26" />
-        <mark key="]" line="17" column="26" />
-        <mark key="." line="17" column="26" />
+      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_tesseract.py" timestamp="1511079446018">
+        <mark key="[" line="31" column="26" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/Test/TestRect.py" timestamp="1478344760322">
         <mark key="[" line="88" column="16" />
@@ -499,8 +499,8 @@
       <jump line="2020" column="44" filename="C:/Python35/Lib/site-packages/PIL/Image.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -512,34 +512,34 @@
         <text encoding="base64">VEVNUF9JTlBVVF9GSUxFID0gInRtcF9pbnB1dC5wbmciCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBURVNTRVJBQ1RfQ09NTUFORC5mb3JtYXQoaW5wdXRfZmlsZT1URU1QX0lOUFVUX0ZJTEUsIG91dHB1dF9maWxlPVRFTVBfT1VUUFVUX0ZJTEUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>if sys.platform == &quot;darwin&quot;:
-            pass
-        elif sys.platform == &quot;win32&quot;:
-            pass</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0ID0gZnAucmVhZCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">VEVTU0VSQUNUX0NPTU1BTkQgPSAiJXMge2lucHV0X2ZpbGV9IHtvdXRwdXRfZmlsZX0iICUgb3MucGF0aC5qb2luKFdJTjMyX1RFU1NFUkFDVF9QQVRILCBXSU4zMl9URVNTRVJBQ1RfQklOKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChvdXRwdXQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oVEVNUF9PVVRQVVRfRklMRSkgYXMgZnA6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">V0lOMzJfQ09NTUFORCA9ICIlcyB7aW5wdXRfZmlsZX0ge291dHB1dF9maWxlfSIgJSBvcy5wYXRoLmpvaW4oV0lOMzJfVEVTU0VSQUNUX1BBVEgsIFdJTjMyX1RFU1NFUkFDVF9CSU4pCg==</text>
+        <text encoding="base64">ICAgICAgICBURVNTRVJBQ1RfQ09NTUFORC5mb3JtYXQoaW5wdXRfZmlsZT1URU1QX0lOUFVUX0ZJTEUsIG91dHB1dF9maWxlPVRFTVBfT1VUUFVUX0ZJTEUpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFdpbmRvd0NvbnRyb2xsZXJEYXJ3aW4K</text>
+      <register name="8" type="4">
+        <text>if sys.platform == &quot;darwin&quot;:
+            pass
+        elif sys.platform == &quot;win32&quot;:
+            pass</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnJvbSAud2luZG93X2NvbnRyb2xsZXJfZGFyd2luIGltcG9ydCBXaW5kb3dDb250cm9sbGVyRGFyd2luCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
