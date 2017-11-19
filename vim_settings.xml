@@ -94,6 +94,7 @@
       <file name="D:/GITHUB/PykerStars/pykerstars/handranks.py" timestamp="1497539680393">
         <mark key="[" line="63" column="15" />
       </file>
+      <file name="C:/Python35/Lib/site-packages/PIL/ImageFilter.py" timestamp="1511069953797" />
       <file name="D:/GITHUB/TheChineseRoom/utils/expire_dict.py" timestamp="1510156227536">
         <mark key="[" line="9" column="79" />
         <mark key="]" line="9" column="12" />
@@ -220,11 +221,11 @@
         <mark key="^" line="9" column="11" />
         <mark key="." line="9" column="11" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_naive.py" timestamp="1511022611449">
-        <mark key="[" line="39" column="39" />
-        <mark key="]" line="39" column="39" />
-        <mark key="." line="39" column="39" />
-        <mark key="^" line="39" column="39" />
+      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_naive.py" timestamp="1511070584697">
+        <mark key="[" line="62" column="67" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+        <mark key="^" line="61" column="7" />
       </file>
       <file name="E:/TensorFlowPlayground/mnist_sortmax/mnist_softmax.py" timestamp="1497283343440">
         <mark key="[" line="32" column="38" />
@@ -339,7 +340,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_pytesseract.py" timestamp="1511018334724">
+      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_pytesseract.py" timestamp="1511030734576">
         <mark key="[" line="18" column="4" />
         <mark key="]" line="18" column="19" />
         <mark key="." line="18" column="0" />
@@ -485,43 +486,45 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBiYm94Ogo=</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZSA9IGltYWdlLmZpbHRlcihJbWFnZUZpbHRlci5FREdFX0VOSEFOQ0UpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>OCR</text>
+        <text>filter(ImageFilter.SHARPEN)</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJlZGlzID0gZGJfY29ubmVjdGlvbi5nZXRfcmVkaXMoKQo=</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZSA9IGltYWdlLmZpbHRlcihJbWFnZUZpbHRlci5TTU9PVEhfTU9SRSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBiYm94Ogo=</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZSA9IGltYWdlLmZpbHRlcihJbWFnZUZpbHRlci5FREdFX0VOSEFOQ0UpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjCg==</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZSA9IGltYWdlLmNvbnZlcnQoIkwiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjICMgdXNlIGEgYml0bWFwIGZvbnQK</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZSA9IGltYWdlLmNvbnZlcnQoIjEiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIGZvbnQgPSBJbWFnZUZvbnQubG9hZCgiYXJpYWwucGlsIikK</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZSA9IGltYWdlLmZpbHRlcihJbWFnZUZpbHRlci5ERVRBSUwpCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjCg==</text>
+      <register name="5" type="4">
+        <text>,
+                minimun_val=1,
+                minimun_range=2</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIGRyYXcudGV4dCgoMTAsIDEwKSwgImhlbGxvIiwgZm9udD1mb250KQo=</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZSA9IGltYWdlLmNvbnZlcnQoIjEiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdnBzID0gc2VsZi5tZWRpYW5fc3BsaXRfcmFuZ2VzKHZwcykK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZS5zaG93KCkK</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICBkZWYgbWVkaWFuX3NwbGl0X3JhbmdlcyhzZWxmLCBwZWVrX3Jhbmdlcyk6CiAgICAgICAgbmV3X3BlZWtfcmFuZ2VzID0gW10KICAgICAgICB3aWR0aGVzID0gW10KICAgICAgICBmb3IgcGVla19yYW5nZSBpbiBwZWVrX3JhbmdlczoKICAgICAgICAgICAgdyA9IHBlZWtfcmFuZ2VbMV0gLSBwZWVrX3JhbmdlWzBdICsgMQogICAgICAgICAgICB3aWR0aGVzLmFwcGVuZCh3KQogICAgICAgIHdpZHRoZXMgPSBucC5hc2FycmF5KHdpZHRoZXMpCiAgICAgICAgbWVkaWFuX3cgPSBucC5tZWFuKHdpZHRoZXMpCiAgICAgICAgZm9yIGksIHBlZWtfcmFuZ2UgaW4gZW51bWVyYXRlKHBlZWtfcmFuZ2VzKToKICAgICAgICAgICAgbnVtX2NoYXIgPSBpbnQocm91bmQod2lkdGhlc1tpXSAvIG1lZGlhbl93LCAwKSkKICAgICAgICAgICAgaWYgbnVtX2NoYXIgPiAxOgogICAgICAgICAgICAgICAgY2hhcl93ID0gZmxvYXQod2lkdGhlc1tpXSAvIG51bV9jaGFyKQogICAgICAgICAgICAgICAgZm9yIGkgaW4gcmFuZ2UobnVtX2NoYXIpOgogICAgICAgICAgICAgICAgICAgIHN0YXJ0X3BvaW50ID0gcGVla19yYW5nZVswXSArIGludChpICogY2hhcl93KQogICAgICAgICAgICAgICAgICAgIGVuZF9wb2ludCA9IHBlZWtfcmFuZ2VbMF0gKyBpbnQoKGkgKyAxKSAqIGNoYXJfdykKICAgICAgICAgICAgICAgICAgICBuZXdfcGVla19yYW5nZXMuYXBwZW5kKChzdGFydF9wb2ludCwgZW5kX3BvaW50KSkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIG5ld19wZWVrX3Jhbmdlcy5hcHBlbmQocGVla19yYW5nZSkKICAgICAgICByZXR1cm4gbmV3X3BlZWtfcmFuZ2Vz</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIFBJTCBpbXBvcnQgSW1hZ2VGb250LCBJbWFnZURyYXcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
