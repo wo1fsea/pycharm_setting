@@ -223,10 +223,10 @@
         <mark key="^" line="9" column="11" />
         <mark key="." line="9" column="11" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_naive.py" timestamp="1511087374213">
-        <mark key="[" line="99" column="48" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
+      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_naive.py" timestamp="1511098210445">
+        <mark key="[" line="60" column="31" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
       </file>
       <file name="E:/TensorFlowPlayground/mnist_sortmax/mnist_softmax.py" timestamp="1497283343440">
         <mark key="[" line="32" column="38" />
@@ -499,10 +499,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbWFnZV9kYXRhLnNpemUpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChocHMpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>size</text>
+        <text>extract_peek_ranges_from_array</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
@@ -511,31 +511,31 @@
         <text encoding="base64">ICAgICAgICBpbWFnZSA9IGltYWdlLmNvbnZlcnQoIjEiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbWFnZV9kYXRhLnNpemUpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChocHMpCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZSA9IGltYWdlLmNvbnZlcnQoIjEiKQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">aWYgc3RhcnQgaXMgTm9uZToKICAgICAgICAgICAgICAgIHN0YXJ0ID0gaQogICAgICAgICAgICBlbGlmIHZhbCA+IG1pbl92YWwgYW5kIHN0YXJ0IGlzIG5vdCBOb25lOgogICAgICAgICAgICAgICAgcGFzcwogICAgICAgICAgICBlbGlmIHZhbCA8PSBtaW5fdmFsIGFuZCBzdGFydCBpcyBub3QgTm9uZToKICAgICAgICAgICAgICAgIGlmIGkgLSBzdGFydCA+PSBtaW5fcmFuZ2U6CiAgICAgICAgICAgICAgICAgICAgcGVla3MuYXBwZW5kKChzdGFydCwgaSkpCiAgICAgICAgICAgICAgICBzdGFydCA9IE5vbmUKICAgICAgICAgICAgZWxpZiB2YWwgPCBtaW5fdmFsIGFuZCBzdGFydCBpcyBOb25lOgogICAgICAgICAgICAgICAgc3RhcnQgPSBpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCIiKQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIGltYWdlID0gaW1hZ2UuZmlsdGVyKEltYWdlRmlsdGVyLkVER0VfRU5IQU5DRSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVuZF9pID0gTm9uZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZS5zaG93KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVuZF9pID0gaQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbmRfaSA9IE5vbmUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBQSUwgaW1wb3J0IEltYWdlRmlsdGVyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbWFnZV9kYXRhLnNpemUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0ID0gZnAucmVhZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZSA9IGltYWdlLmNvbnZlcnQoIjEiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChvdXRwdXQpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGltYWdlID0gaW1hZ2UuZmlsdGVyKEltYWdlRmlsdGVyLkVER0VfRU5IQU5DRSkK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
