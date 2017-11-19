@@ -223,11 +223,10 @@
         <mark key="^" line="9" column="11" />
         <mark key="." line="9" column="11" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_naive.py" timestamp="1511085805801">
-        <mark key="[" line="95" column="9" />
-        <mark key="]" line="95" column="35" />
-        <mark key="." line="95" column="35" />
-        <mark key="^" line="95" column="35" />
+      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_naive.py" timestamp="1511087374213">
+        <mark key="[" line="99" column="48" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
       </file>
       <file name="E:/TensorFlowPlayground/mnist_sortmax/mnist_softmax.py" timestamp="1497283343440">
         <mark key="[" line="32" column="38" />
@@ -500,10 +499,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZSA9IGltYWdlLmNvbnZlcnQoIjEiKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbWFnZV9kYXRhLnNpemUpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>size</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
@@ -512,16 +511,16 @@
         <text encoding="base64">ICAgICAgICBpbWFnZSA9IGltYWdlLmNvbnZlcnQoIjEiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZSA9IGltYWdlLmNvbnZlcnQoIjEiKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbWFnZV9kYXRhLnNpemUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIGltYWdlID0gaW1hZ2UuZmlsdGVyKEltYWdlRmlsdGVyLkVER0VfRU5IQU5DRSkK</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZSA9IGltYWdlLmNvbnZlcnQoIjEiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZS5zaG93KCkK</text>
+        <text encoding="base64">ICAgICAgICAjIGltYWdlID0gaW1hZ2UuZmlsdGVyKEltYWdlRmlsdGVyLkVER0VfRU5IQU5DRSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZS5zaG93KCkK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -530,13 +529,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0ID0gZnAucmVhZCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChvdXRwdXQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0ID0gZnAucmVhZCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oVEVNUF9PVVRQVVRfRklMRSkgYXMgZnA6Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChvdXRwdXQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
