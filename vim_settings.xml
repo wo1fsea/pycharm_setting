@@ -30,7 +30,7 @@
         <mark key="]" line="85" column="14" />
         <mark key="." line="85" column="14" />
       </file>
-      <file name="/a.dummy" timestamp="1511017505684">
+      <file name="/a.dummy" timestamp="1511075702554">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="F:/super_handler/utils.py" timestamp="1490503404701">
@@ -202,7 +202,7 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/window_controller/window_controller.py" timestamp="1511017579576">
+      <file name="D:/GITHUB/TheChineseRoom/core/window_controller/window_controller.py" timestamp="1511076811654">
         <mark key="[" line="14" column="21" />
       </file>
       <file name="D:/GITHUB/PyTexturePacker/PyTexturePacker/PackerInterface/AtlasInterface.py" timestamp="1493221547039">
@@ -360,6 +360,11 @@
         <mark key="^" line="9" column="49" />
         <mark key="." line="9" column="49" />
       </file>
+      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_tesseract.py" timestamp="1511076940812">
+        <mark key="[" line="31" column="36" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/Test/TestRect.py" timestamp="1478344760322">
         <mark key="[" line="88" column="16" />
         <mark key="]" line="89" column="75" />
@@ -495,7 +500,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZSA9IGltYWdlLmZpbHRlcihJbWFnZUZpbHRlci5TTU9PVEhfTU9SRSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFdpbmRvd0NvbnRyb2xsZXJEYXJ3aW4K</text>
       </register>
       <register name="-" type="4">
         <text>filter(ImageFilter.SHARPEN)</text>
@@ -507,30 +512,28 @@
         <text encoding="base64">ICAgICAgICBpbWFnZSA9IGltYWdlLmZpbHRlcihJbWFnZUZpbHRlci5TTU9PVEhfTU9SRSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZSA9IGltYWdlLmZpbHRlcihJbWFnZUZpbHRlci5TTU9PVEhfTU9SRSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFdpbmRvd0NvbnRyb2xsZXJEYXJ3aW4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZSA9IGltYWdlLmNvbnZlcnQoIkwiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnJvbSAud2luZG93X2NvbnRyb2xsZXJfZGFyd2luIGltcG9ydCBXaW5kb3dDb250cm9sbGVyRGFyd2luCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZSA9IGltYWdlLmNvbnZlcnQoIkwiKQo=</text>
+        <text encoding="base64">aW1wb3J0IHB5dGVzc2VyYWN0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZSA9IGltYWdlLmZpbHRlcihJbWFnZUZpbHRlci5FREdFX0VOSEFOQ0UpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZSA9IGltYWdlLmZpbHRlcihJbWFnZUZpbHRlci5TTU9PVEhfTU9SRSkK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBpbWFnZSA9IGltYWdlLmNvbnZlcnQoIkwiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZSA9IGltYWdlLmNvbnZlcnQoIjEiKQo=</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZSA9IGltYWdlLmNvbnZlcnQoIkwiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZSA9IGltYWdlLmZpbHRlcihJbWFnZUZpbHRlci5ERVRBSUwpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZSA9IGltYWdlLmZpbHRlcihJbWFnZUZpbHRlci5FREdFX0VOSEFOQ0UpCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>,
-                minimun_val=1,
-                minimun_range=2</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpbWFnZSA9IGltYWdlLmNvbnZlcnQoIkwiKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBpbWFnZSA9IGltYWdlLmNvbnZlcnQoIjEiKQo=</text>
