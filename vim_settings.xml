@@ -140,7 +140,9 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="C:/Python35/Lib/site-packages/pytesseract/pytesseract.py" timestamp="1511073668963" />
+      <file name="C:/Python35/Lib/site-packages/pytesseract/pytesseract.py" timestamp="1511075339412">
+        <mark key="[" line="20" column="17" />
+      </file>
       <file name="E:/TensorFlow/test/a.py" timestamp="1497120275140">
         <mark key="[" line="195" column="65" />
         <mark key="]" line="195" column="56" />
