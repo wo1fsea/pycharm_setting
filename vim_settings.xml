@@ -79,6 +79,7 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
+      <file name="D:/GITHUB/attention-ocr/aocr/model/seq2seq.py" timestamp="1511188106861" />
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/launcher.py" timestamp="1507561745137">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="27" />
@@ -121,6 +122,9 @@
         <mark key="]" line="9" column="12" />
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
+      </file>
+      <file name="D:/GITHUB/attention-ocr/aocr/model/model.py" timestamp="1511188139120">
+        <mark key="[" line="20" column="7" />
       </file>
       <file name="D:/GITHUB/TheChineseRoom/rpc_test1.py" timestamp="1510672765840">
         <mark key="[" line="18" column="20" />
@@ -362,6 +366,9 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="C:/Python35/Lib/site-packages/tensorflow/contrib/rnn/python/ops/rnn_cell.py" timestamp="1511188100688">
+        <mark key="'" line="1083" column="10" />
+      </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/PackerInterface.py" timestamp="1481035123738">
         <mark key="[" line="26" column="54" />
         <mark key="]" line="26" column="55" />
@@ -590,25 +597,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="30" filename="$USER_HOME$/PycharmProjects/Packer/Packer.py" />
-      <jump line="80" column="4" filename="$USER_HOME$/PycharmProjects/Packer/Packer.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" />
-      <jump line="101" column="19" filename="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" />
-      <jump line="103" column="8" filename="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" />
-      <jump line="109" column="25" filename="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" />
-      <jump line="115" column="12" filename="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" />
-      <jump line="116" column="30" filename="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" />
-      <jump line="118" column="21" filename="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" />
-      <jump line="123" column="31" filename="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" />
-      <jump line="8" column="12" filename="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" />
-      <jump line="20" column="17" filename="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" />
-      <jump line="21" column="19" filename="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" />
-      <jump line="44" column="33" filename="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" />
-      <jump line="45" column="19" filename="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" />
-      <jump line="46" column="20" filename="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" />
-      <jump line="47" column="19" filename="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" />
-      <jump line="48" column="20" filename="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" />
-      <jump line="50" column="33" filename="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" />
       <jump line="51" column="42" filename="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" />
       <jump line="52" column="25" filename="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" />
       <jump line="55" column="32" filename="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" />
@@ -689,6 +677,26 @@
       <jump line="128" column="0" filename="F:/super_handler/daily_report.py" />
       <jump line="131" column="28" filename="F:/super_handler/daily_report.py" />
       <jump line="132" column="44" filename="F:/super_handler/daily_report.py" />
+      <jump line="107" column="45" filename="C:/Python35/Lib/site-packages/tensorflow/contrib/rnn/python/ops/rnn_cell.py" />
+      <jump line="249" column="12" filename="C:/Python35/Lib/site-packages/tensorflow/contrib/rnn/python/ops/rnn_cell.py" />
+      <jump line="251" column="12" filename="C:/Python35/Lib/site-packages/tensorflow/contrib/rnn/python/ops/rnn_cell.py" />
+      <jump line="264" column="9" filename="C:/Python35/Lib/site-packages/tensorflow/contrib/rnn/python/ops/rnn_cell.py" />
+      <jump line="383" column="12" filename="C:/Python35/Lib/site-packages/tensorflow/contrib/rnn/python/ops/rnn_cell.py" />
+      <jump line="385" column="12" filename="C:/Python35/Lib/site-packages/tensorflow/contrib/rnn/python/ops/rnn_cell.py" />
+      <jump line="436" column="9" filename="C:/Python35/Lib/site-packages/tensorflow/contrib/rnn/python/ops/rnn_cell.py" />
+      <jump line="727" column="12" filename="C:/Python35/Lib/site-packages/tensorflow/contrib/rnn/python/ops/rnn_cell.py" />
+      <jump line="730" column="12" filename="C:/Python35/Lib/site-packages/tensorflow/contrib/rnn/python/ops/rnn_cell.py" />
+      <jump line="763" column="12" filename="C:/Python35/Lib/site-packages/tensorflow/contrib/rnn/python/ops/rnn_cell.py" />
+      <jump line="766" column="12" filename="C:/Python35/Lib/site-packages/tensorflow/contrib/rnn/python/ops/rnn_cell.py" />
+      <jump line="894" column="17" filename="C:/Python35/Lib/site-packages/tensorflow/contrib/rnn/python/ops/rnn_cell.py" />
+      <jump line="1018" column="4" filename="C:/Python35/Lib/site-packages/tensorflow/contrib/rnn/python/ops/rnn_cell.py" />
+      <jump line="1019" column="37" filename="C:/Python35/Lib/site-packages/tensorflow/contrib/rnn/python/ops/rnn_cell.py" />
+      <jump line="1020" column="4" filename="C:/Python35/Lib/site-packages/tensorflow/contrib/rnn/python/ops/rnn_cell.py" />
+      <jump line="1041" column="48" filename="C:/Python35/Lib/site-packages/tensorflow/contrib/rnn/python/ops/rnn_cell.py" />
+      <jump line="1057" column="51" filename="C:/Python35/Lib/site-packages/tensorflow/contrib/rnn/python/ops/rnn_cell.py" />
+      <jump line="1081" column="10" filename="C:/Python35/Lib/site-packages/tensorflow/contrib/rnn/python/ops/rnn_cell.py" />
+      <jump line="1082" column="10" filename="C:/Python35/Lib/site-packages/tensorflow/contrib/rnn/python/ops/rnn_cell.py" />
+      <jump line="1083" column="10" filename="C:/Python35/Lib/site-packages/tensorflow/contrib/rnn/python/ops/rnn_cell.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -698,7 +706,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>today_new</text>
+        <text>lin</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG1vbml0b3IgPSBQb3BlbihbJ3B5dGhvbjMnLCAnLi9sYXVuY2hlci5weScsICdtb25pdG9yJ10sIHN0ZG91dD1QSVBFLCBzdGRlcnI9UElQRSkK</text>
@@ -735,9 +743,9 @@
       </register>
     </registers>
     <search>
-      <last-search>today_new</last-search>
+      <last-search>lin</last-search>
       <last-offset />
-      <last-pattern>today_new</last-pattern>
+      <last-pattern>lin</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -749,6 +757,7 @@
         <entry encoding="base64">XDxhc3NlcnRcPg==</entry>
         <entry>create</entry>
         <entry>uint8</entry>
+        <entry>lin</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
