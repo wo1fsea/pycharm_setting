@@ -22,6 +22,11 @@
         <mark key="]" line="20" column="35" />
         <mark key="." line="20" column="35" />
       </file>
+      <file name="D:/GITHUB/TheChineseRoom/requirements.txt" timestamp="1511102010640">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="D:/GITHUB/PykerStars/pykerstars/table.py" timestamp="1497448052160">
         <mark key="[" line="0" column="0" />
       </file>
@@ -223,10 +228,10 @@
         <mark key="^" line="9" column="11" />
         <mark key="." line="9" column="11" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_naive.py" timestamp="1511101395170">
-        <mark key="[" line="114" column="36" />
-        <mark key="]" line="115" column="0" />
-        <mark key="." line="112" column="1" />
+      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_naive.py" timestamp="1511106867048">
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="144" column="0" />
+        <mark key="." line="144" column="0" />
       </file>
       <file name="E:/TensorFlowPlayground/mnist_sortmax/mnist_softmax.py" timestamp="1497283343440">
         <mark key="[" line="32" column="38" />
@@ -396,7 +401,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="30" filename="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" />
       <jump line="118" column="21" filename="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" />
       <jump line="123" column="31" filename="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" />
       <jump line="8" column="12" filename="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" />
@@ -496,55 +500,56 @@
       <jump line="1841" column="25" filename="C:/Python35/Lib/site-packages/PIL/Image.py" />
       <jump line="1945" column="33" filename="C:/Python35/Lib/site-packages/PIL/Image.py" />
       <jump line="2020" column="44" filename="C:/Python35/Lib/site-packages/PIL/Image.py" />
+      <jump line="179" column="38" filename="D:/GITHUB/TheChineseRoom/core/ocr/ocr_naive.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICBpbWFnZSA9IGltYWdlLmNvbnZlcnQoIlJHQiIpCiAgICAgICAgZHJhdyA9IEltYWdlRHJhdy5EcmF3KGltYWdlKQo=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpbWFnZSA9IGltYWdlLmZpbHRlcihJbWFnZUZpbHRlci5TTU9PVEhfTU9SRSkK</text>
       </register>
       <register name="-" type="4">
-        <text>vertical_peek_ranges2d</text>
+        <text>BLUR</text>
       </register>
       <register name="/" type="4">
-        <text>create</text>
+        <text>uint8</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZSA9IGltYWdlLmNvbnZlcnQoIjEiKQo=</text>
+        <text encoding="base64">ICAgIEltYWdlLmZyb21hcnJheShvY3JuLl9iYXNlX2RhdGFbIjMiXSkuc2hvdygpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICBpbWFnZSA9IGltYWdlLmNvbnZlcnQoIlJHQiIpCiAgICAgICAgZHJhdyA9IEltYWdlRHJhdy5EcmF3KGltYWdlKQo=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBpbWFnZSA9IGltYWdlLmZpbHRlcihJbWFnZUZpbHRlci5TTU9PVEhfTU9SRSkK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICBmb3IgcywgZSBpbiBocHM6CiAgICAgICAgICAgIGRyYXcubGluZSgoKDAsIHMpLCAoaW1hZ2Uuc2l6ZVswXSwgcykpLCAoMjU1LCAwLCAwKSwgMSkKICAgICAgICAgICAgZHJhdy5saW5lKCgoMCwgZSksIChpbWFnZS5zaXplWzBdLCBlKSksICgyNTUsIDAsIDApLCAxKQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpbWFnZSA9IGltYWdlLmZpbHRlcihJbWFnZUZpbHRlci5CTFVSKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZSA9IGltYWdlLmNvbnZlcnQoIlJHQiIpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZSA9IGltYWdlLmNvbnZlcnQoIkwiKQo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICBkcmF3ID0gSW1hZ2VEcmF3LkRyYXcoaW1hZ2UpCiAgICAgICAgZm9yIHMsIGUgaW4gaHBzOgogICAgICAgICAgICBkcmF3LmxpbmUoKCgwLCBzKSwgKGltYWdlLnNpemVbMF0sIHMpKSwgKDI1NSwgMCwgMCksIDEpCiAgICAgICAgICAgIGRyYXcubGluZSgoKDAsIGUpLCAoaW1hZ2Uuc2l6ZVswXSwgZSkpLCAoMjU1LCAwLCAwKSwgMSk=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpbWFnZSA9IGltYWdlLnJlc2l6ZSgoRk9OVF9TSVpFLCBGT05UX1NJWkUpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZSA9IGltYWdlLmZpbHRlcihJbWFnZUZpbHRlci5TSEFSUEVOKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRyYXcubGluZSgoKGUsIHN0YXJ0X3kpLCAoZSwgZW5kX3kpKSwgKDI1NSwgMCwgMCksIDEpCg==</text>
+        <text encoding="base64">ICAgIEltYWdlLmZyb21hcnJheShvY3JuLl9iYXNlX2RhdGFbJzAnXSkuc2hvdygpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRyYXcubGluZSgoKHMsIHN0YXJ0X3kpLCAocywgZW5kX3kpKSwgKDI1NSwgMCwgMCksIDEpCg==</text>
+        <text encoding="base64">ICAgIEltYWdlLmZyb21hcnJheShvY3JuLl9iYXNlX2RhdGFbY10pLnNob3coKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIHMsIGUgaW4gdnBzOgo=</text>
+        <text encoding="base64">ICAgIGltZ3NbMF1bMF0uc2hvdygpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0eXBlYmJveCkK</text>
+        <text encoding="base64">ICAgIGMgPSBvY3JuLl9tYXRjaF9jaGFyKGltZ3NbMF1bMF0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>create</last-search>
+      <last-search>uint8</last-search>
       <last-offset />
-      <last-pattern>create</last-pattern>
+      <last-pattern>uint8</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -555,6 +560,7 @@
         <entry>today_new</entry>
         <entry encoding="base64">XDxhc3NlcnRcPg==</entry>
         <entry>create</entry>
+        <entry>uint8</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
