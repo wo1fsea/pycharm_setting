@@ -34,6 +34,7 @@
         <mark key="." line="91" column="0" />
         <mark key="^" line="91" column="38" />
       </file>
+      <file name="$USER_HOME$/Documents/Attention-OCR/src/model/seq2seq.py" timestamp="1511616098770" />
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/rpc_test2.py" timestamp="1507820854146">
         <mark key="[" line="11" column="47" />
         <mark key="]" line="31" column="0" />
@@ -183,6 +184,7 @@
         <mark key="^" line="9" column="30" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Attention-OCR/src/model/seq2seq_model.py" timestamp="1511616523257" />
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_manager/window_manager_osx.py" timestamp="1507133534680">
         <mark key="[" line="0" column="0" />
       </file>
@@ -373,7 +375,7 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/communication/__init__.py" timestamp="1507212401116">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Attention-OCR/src/model/model.py" timestamp="1511612930680" />
+      <file name="$USER_HOME$/Documents/Attention-OCR/src/model/model.py" timestamp="1511616389635" />
     </filemarks>
     <jumps>
       <jump line="14" column="30" filename="$USER_HOME$/PycharmProjects/Packer/Packer.py" />
