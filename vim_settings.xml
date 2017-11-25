@@ -43,6 +43,11 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/frame_capture_lancher.py" timestamp="1507367280303">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/ocr/ocr_naive.py" timestamp="1511611676887">
+        <mark key="[" line="141" column="54" />
+        <mark key="]" line="122" column="0" />
+        <mark key="." line="122" column="0" />
+      </file>
       <file name="/usr/local/lib/python3.6/site-packages/pytesseract/pytesseract.py" timestamp="1507307141189">
         <mark key="[" line="87" column="0" />
       </file>
@@ -166,7 +171,7 @@
         <mark key="^" line="9" column="13" />
         <mark key="." line="9" column="13" />
       </file>
-      <file name="/Python Console" timestamp="1509166377563">
+      <file name="/Python Console" timestamp="1511611522770">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1507464875970">
@@ -252,6 +257,7 @@
       <file name="$USER_HOME$/Documents/PyTexturePacker/setup.py" timestamp="1487776918299">
         <mark key="[" line="6" column="18" />
       </file>
+      <file name="/usr/local/lib/python3.6/site-packages/PIL/Image.py" timestamp="1511610862393" />
       <file name="$USER_HOME$/Documents/PyTexturePacker/Test/__init__.py" timestamp="1478342967692">
         <mark key="[" line="0" column="0" />
       </file>
@@ -470,8 +476,8 @@
       <jump line="132" column="44" filename="F:/super_handler/daily_report.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>await</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCh0eXBlKGltYWdlX2RhdGEpKQo=</text>
       </register>
       <register name="-" type="4">
         <text>await</text>
@@ -483,31 +489,31 @@
         <text encoding="base64">ICAgIG1vbml0b3IgPSBQb3BlbihbJ3B5dGhvbjMnLCAnLi9sYXVuY2hlci5weScsICdtb25pdG9yJ10sIHN0ZG91dD1QSVBFLCBzdGRlcnI9UElQRSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IG1haW4oKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh0eXBlKGltYWdlX2RhdGEpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YXN5bmMgIGRlZiBhKCk6Cg==</text>
+        <text encoding="base64">ICAgIGF3YWl0IG1haW4oKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Cg==</text>
+        <text encoding="base64">YXN5bmMgIGRlZiBhKCk6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">5paw55qE5YWz6ZSu5a2X5Lya6K6p5oiR5Lus55qE56iL5bqP55yL5LiK5Y675pu05Yqg5riF5pmw44CC5LiN6L+H5LuO5omn6KGM5pWI546H5LiK55yL77yM546w5Zyo6L+Y5piv55u46L6DIDMuNC4zIOacieS4gOS6m+mAgOatpe+8mgo=</text>
+        <text encoding="base64">Pj4+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGFzeW5jaW8K</text>
+        <text encoding="base64">5paw55qE5YWz6ZSu5a2X5Lya6K6p5oiR5Lus55qE56iL5bqP55yL5LiK5Y675pu05Yqg5riF5pmw44CC5LiN6L+H5LuO5omn6KGM5pWI546H5LiK55yL77yM546w5Zyo6L+Y5piv55u46L6DIDMuNC4zIOacieS4gOS6m+mAgOatpe+8mgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">5q+U5aaC5Zyo5LiK5LiA6IqC5Lit55qE5L6L5a2Q5pS56YCg5oiQ5Li6Ogo=</text>
+        <text encoding="base64">aW1wb3J0IGFzeW5jaW8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">5q+U5aaC5Zyo5LiK5LiA6IqC5Lit55qE5L6L5a2Q5pS56YCg5oiQ5Li6Ogo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgaGFzYXR0cihzZWxmLCAicmVxdWVzdF9xdWV1ZV9jYWNoZSIpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
