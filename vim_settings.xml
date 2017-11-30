@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="/start_script.py" timestamp="1483538622308">
@@ -79,7 +79,6 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="D:/GITHUB/attention-ocr/aocr/model/seq2seq.py" timestamp="1511188106861" />
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/launcher.py" timestamp="1507561745137">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="27" />
@@ -183,7 +182,7 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1507559442498">
+      <file name="/Python Console" timestamp="1512054997263">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="8" />
@@ -216,10 +215,10 @@
       <file name="$USER_HOME$/Documents/PykerStars/handranks.py" timestamp="1486143744144">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_naive.py" timestamp="1511106867048">
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="0" />
-        <mark key="." line="144" column="0" />
+      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_naive.py" timestamp="1512055312987">
+        <mark key="[" line="191" column="32" />
+        <mark key="]" line="207" column="0" />
+        <mark key="." line="207" column="0" />
       </file>
       <file name="E:/TensorFlowPlayground/mnist_sortmax/mnist_softmax.py" timestamp="1497283343440">
         <mark key="[" line="32" column="38" />
@@ -705,43 +704,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChkaXIodGYuY29udHJpYi5ybm4pKQo=</text>
+        <text encoding="base64">ICAgIG9jcm4uX2NvZGVfY2hhcihvY3JuLl9iYXNlX2RhdGFbIjAiXSkK</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>_debug_print</text>
       </register>
       <register name="/" type="4">
         <text>lin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1vbml0b3IgPSBQb3BlbihbJ3B5dGhvbjMnLCAnLi9sYXVuY2hlci5weScsICdtb25pdG9yJ10sIHN0ZG91dD1QSVBFLCBzdGRlcnI9UElQRSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBkID0gbnAuc3VtKChzZWxmLl9jb2RlX2NoYXIoaW1hZ2VfZGF0YSkgLSBzZWxmLl9jb2RlX2NoYXIoZGF0YSkpICoqIDIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChkaXIodGYuY29udHJpYi5ybm4pKQo=</text>
+        <text encoding="base64">ICAgIG9jcm4uX2NvZGVfY2hhcihvY3JuLl9iYXNlX2RhdGFbIjAiXSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZGlyKHRmLmNvbnRyaWIucm5uKSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbWFnZV9kYXRhWzE6MjBdWzE6MjBdKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlZGlzID0gUG9wZW4oWydweXRob24zJywgJy4vbGF1bmNoZXIucHknLCAncmVkaXNfZG9ja2VyJ10sIHN0ZG91dD1QSVBFLCBzdGRlcnI9UElQRSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbWFnZV9kYXRhKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJycGNfaWQiOiBOb25lLAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChkaXIodGYuY29udHJpYi5ybm4pKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWV0aG9kX25hbWUgPSBycGNfZGF0YVsibWV0aG9kX25hbWUiXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZGlyKHRmLmNvbnRyaWIucm5uKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWV0aG9kX25hbWUgPSBycGNfZGF0YVsibWV0aG9kX25hbWUiXQo=</text>
+        <text encoding="base64">ICAgIHJlZGlzID0gUG9wZW4oWydweXRob24zJywgJy4vbGF1bmNoZXIucHknLCAncmVkaXNfZG9ja2VyJ10sIHN0ZG91dD1QSVBFLCBzdGRlcnI9UElQRSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgbWV0aG9kX25hbWUsIG1ldGhvZCBpbiBzZWxmLl9yZW1vdGVfbWV0aG9kcy5pdGVtcygpOgo=</text>
+        <text encoding="base64">ICAgICJycGNfaWQiOiBOb25lLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWV0aG9kX25hbWUgPSBycGNfZGF0YVsibWV0aG9kX25hbWUiXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBoYXNfcmVxdWVzdCA9IEZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWV0aG9kX25hbWUgPSBycGNfZGF0YVsibWV0aG9kX25hbWUiXQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
