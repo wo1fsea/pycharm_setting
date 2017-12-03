@@ -103,7 +103,7 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="14" column="26" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/input_controller/input_controller_pyuserinput.py" timestamp="1512301404616">
+      <file name="D:/GITHUB/TheChineseRoom/core/input_controller/input_controller_pyuserinput.py" timestamp="1512314269485">
         <mark key="[" line="22" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/PykerStars/pykerstars/cards.py" timestamp="1486143798170">
@@ -124,6 +124,7 @@
       <file name="E:/TensorFlow/test/mnist_softmax.py" timestamp="1497161628164">
         <mark key="[" line="50" column="3" />
       </file>
+      <file name="D:/GITHUB/TheChineseRoom/core/input_controller/keys.py" timestamp="1512314730794" />
       <file name="D:/GITHUB/PyTWEANN/pyenat/genome.py" timestamp="1499587049587">
         <mark key="[" line="120" column="30" />
         <mark key="]" line="120" column="30" />
@@ -226,9 +227,6 @@
         <mark key="]" line="24" column="29" />
         <mark key="." line="24" column="29" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/input_recorder_test.py" timestamp="1512302151691">
-        <mark key="[" line="13" column="32" />
-      </file>
       <file name="$USER_HOME$/Documents/PykerStars/handranks.py" timestamp="1486143744144">
         <mark key="[" line="0" column="0" />
       </file>
@@ -271,6 +269,7 @@
         <mark key="^" line="26" column="8" />
         <mark key="." line="55" column="50" />
       </file>
+      <file name="C:/Python35/Lib/site-packages/pykeyboard/mac.py" timestamp="1512314043704" />
       <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Image.py" timestamp="1475379944934">
         <mark key="[" line="0" column="0" />
       </file>
@@ -328,10 +327,10 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/launcher/laucher.py" timestamp="1507368669618">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/input_recorder/input_recorder_pyuserinput.py" timestamp="1512302698875">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="D:/GITHUB/TheChineseRoom/core/input_recorder/input_recorder_pyuserinput.py" timestamp="1512314844552">
+        <mark key="[" line="20" column="12" />
+        <mark key="]" line="20" column="12" />
+        <mark key="." line="20" column="12" />
       </file>
       <file name="D:/GITHUB/PyTexturePacker/main.py" timestamp="1493221831197">
         <mark key="[" line="11" column="5" />
@@ -377,6 +376,8 @@
         <mark key="]" line="14" column="9" />
         <mark key="." line="14" column="9" />
       </file>
+      <file name="C:/Python35/Lib/site-packages/pykeyboard/__init__.py" timestamp="1512314073985" />
+      <file name="D:/GITHUB/TheChineseRoom/core/input_controller/input_controller.py" timestamp="1512314676580" />
       <file name="D:/GITHUB/PykerStars/pykerstars/utils/_poker_enum2.py" timestamp="1497540869769">
         <mark key="[" line="0" column="14" />
       </file>
@@ -486,44 +487,44 @@
       <jump line="132" column="44" filename="F:/super_handler/daily_report.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBweW1vdXNlIGltcG9ydCBQdQo=</text>
+      <register name="&quot;" type="4">
+        <text>KEYBOARD_MAP</text>
       </register>
       <register name="-" type="4">
-        <text>await</text>
+        <text>KEYBOARD_MAP</text>
       </register>
       <register name="/" type="4">
         <text>today_new</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1vbml0b3IgPSBQb3BlbihbJ3B5dGhvbjMnLCAnLi9sYXVuY2hlci5weScsICdtb25pdG9yJ10sIHN0ZG91dD1QSVBFLCBzdGRlcnI9UElQRSkK</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIHB5a2V5Ym9hcmQubWFjIGltcG9ydCBrZXlfY29kZV90cmFuc2xhdGVfdGFibGUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBweW1vdXNlIGltcG9ydCBQdQo=</text>
+        <text encoding="base64">ZnJvbSAuLmlucHV0X2NvbnRyb2xsZXIuaW5wdXRfY29udHJvbGxlcl9weWF1dG9ndWkgaW1wb3J0IFBZQVVUT0dVSV9LRVlCT0FSRF9NQVAsIFBZQVVUT0dVSV9NT1VTRV9NQVAK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0eXBlKGltYWdlX2RhdGEpKQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">Cl9tb3VzZSA9IFB5TW91c2UoKQpfa2V5Ym9hcmQgPSBQeUtleWJvYXJkKCkKClBZVVNFUklOUFVUX01PVVNFX01BUCA9IHsKICAgIE1vdXNlLkJVVFRPTl9MRUZUOiAxLAogICAgTW91c2UuQlVUVE9OX01JRERMRTogMywKICAgIE1vdXNlLkJVVFRPTl9SSUdIVDogMiwKfQoKUFlVU0VSSU5QVVRfS0VZQk9BUkRfTUFQID0gewogICAgS2V5Ym9hcmQuS0VZX0VTQ0FQRTogX2tleWJvYXJkLmVzY2FwZV9rZXksCiAgICBLZXlib2FyZC5LRVlfRjE6IF9rZXlib2FyZC5mdW5jdGlvbl9rZXlzWzFdLAogICAgS2V5Ym9hcmQuS0VZX0YyOiBfa2V5Ym9hcmQuZnVuY3Rpb25fa2V5c1syXSwKICAgIEtleWJvYXJkLktFWV9GMzogX2tleWJvYXJkLmZ1bmN0aW9uX2tleXNbM10sCiAgICBLZXlib2FyZC5LRVlfRjQ6IF9rZXlib2FyZC5mdW5jdGlvbl9rZXlzWzRdLAogICAgS2V5Ym9hcmQuS0VZX0Y1OiBfa2V5Ym9hcmQuZnVuY3Rpb25fa2V5c1s1XSwKICAgIEtleWJvYXJkLktFWV9GNjogX2tleWJvYXJkLmZ1bmN0aW9uX2tleXNbNl0sCiAgICBLZXlib2FyZC5LRVlfRjc6IF9rZXlib2FyZC5mdW5jdGlvbl9rZXlzWzddLAogICAgS2V5Ym9hcmQuS0VZX0Y4OiBfa2V5Ym9hcmQuZnVuY3Rpb25fa2V5c1s4XSwKICAgIEtleWJvYXJkLktFWV9GOTogX2tleWJvYXJkLmZ1bmN0aW9uX2tleXNbOV0sCiAgICBLZXlib2FyZC5LRVlfRjEwOiBfa2V5Ym9hcmQuZnVuY3Rpb25fa2V5c1sxMF0sCiAgICBLZXlib2FyZC5LRVlfRjExOiBfa2V5Ym9hcmQuZnVuY3Rpb25fa2V5c1sxMV0sCiAgICBLZXlib2FyZC5LRVlfRjEyOiBfa2V5Ym9hcmQuZnVuY3Rpb25fa2V5c1sxMl0sCiAgICBLZXlib2FyZC5LRVlfREVMRVRFOiBfa2V5Ym9hcmQuZGVsZXRlX2tleSwKCiAgICBLZXlib2FyZC5LRVlfR1JBVkU6ICJgIiwKICAgIEtleWJvYXJkLktFWV8xOiAiMSIsCiAgICBLZXlib2FyZC5LRVlfMjogIjIiLAogICAgS2V5Ym9hcmQuS0VZXzM6ICIzIiwKICAgIEtleWJvYXJkLktFWV80OiAiNCIsCiAgICBLZXlib2FyZC5LRVlfNTogIjUiLAogICAgS2V5Ym9hcmQuS0VZXzY6ICI2IiwKICAgIEtleWJvYXJkLktFWV83OiAiNyIsCiAgICBLZXlib2FyZC5LRVlfODogIjgiLAogICAgS2V5Ym9hcmQuS0VZXzk6ICI5IiwKICAgIEtleWJvYXJkLktFWV8wOiAiMCIsCiAgICBLZXlib2FyZC5LRVlfTUlOVVM6ICItIiwKICAgIEtleWJvYXJkLktFWV9FUVVBTFM6ICI9IiwKICAgIEtleWJvYXJkLktFWV9CQUNLU1BBQ0U6IF9rZXlib2FyZC5iYWNrc3BhY2Vfa2V5LAoKICAgIEtleWJvYXJkLktFWV9UQUI6IF9rZXlib2FyZC50YWJfa2V5LAogICAgS2V5Ym9hcmQuS0VZX1E6ICJxIiwKICAgIEtleWJvYXJkLktFWV9XOiAidyIsCiAgICBLZXlib2FyZC5LRVlfRTogImUiLAogICAgS2V5Ym9hcmQuS0VZX1I6ICJyIiwKICAgIEtleWJvYXJkLktFWV9UOiAidCIsCiAgICBLZXlib2FyZC5LRVlfWTogInkiLAogICAgS2V5Ym9hcmQuS0VZX1U6ICJ1IiwKICAgIEtleWJvYXJkLktFWV9JOiAiaSIsCiAgICBLZXlib2FyZC5LRVlfTzogIm8iLAogICAgS2V5Ym9hcmQuS0VZX1A6ICJwIiwKICAgIEtleWJvYXJkLktFWV9MRUZUX0JSQUNLRVQ6ICJbIiwKICAgIEtleWJvYXJkLktFWV9SSUdIVF9CUkFDS0VUOiAiXSIsCiAgICBLZXlib2FyZC5LRVlfQkFDS1NMQVNIOiAiXFwiLAoKICAgIEtleWJvYXJkLktFWV9DQVBTTE9DSzogX2tleWJvYXJkLmNhcHNfbG9ja19rZXksCiAgICBLZXlib2FyZC5LRVlfQTogImEiLAogICAgS2V5Ym9hcmQuS0VZX1M6ICJzIiwKICAgIEtleWJvYXJkLktFWV9EOiAiZCIsCiAgICBLZXlib2FyZC5LRVlfRjogImYiLAogICAgS2V5Ym9hcmQuS0VZX0c6ICJnIiwKICAgIEtleWJvYXJkLktFWV9IOiAiaCIsCiAgICBLZXlib2FyZC5LRVlfSjogImoiLAogICAgS2V5Ym9hcmQuS0VZX0s6ICJrIiwKICAgIEtleWJvYXJkLktFWV9MOiAibCIsCiAgICBLZXlib2FyZC5LRVlfU0VNSUNPTE9OOiAiOyIsCiAgICBLZXlib2FyZC5LRVlfQVBPU1RST1BIRTogIiciLAogICAgS2V5Ym9hcmQuS0VZX0VOVEVSOiBfa2V5Ym9hcmQuZW50ZXJfa2V5LAoKICAgIEtleWJvYXJkLktFWV9MRUZUX1NISUZUOiBfa2V5Ym9hcmQuc2hpZnRfbF9rZXksCiAgICBLZXlib2FyZC5LRVlfWjogInoiLAogICAgS2V5Ym9hcmQuS0VZX1g6ICJ4IiwKICAgIEtleWJvYXJkLktFWV9DOiAiYyIsCiAgICBLZXlib2FyZC5LRVlfVjogInYiLAogICAgS2V5Ym9hcmQuS0VZX0I6ICJiIiwKICAgIEtleWJvYXJkLktFWV9OOiAibiIsCiAgICBLZXlib2FyZC5LRVlfTTogIm0iLAogICAgS2V5Ym9hcmQuS0VZX0NPTU1BOiAiLCIsCiAgICBLZXlib2FyZC5LRVlfUEVSSU9EOiAiLiIsCiAgICBLZXlib2FyZC5LRVlfU0xBU0g6ICIvIiwKICAgIEtleWJvYXJkLktFWV9SSUdIVF9TSElGVDogX2tleWJvYXJkLnNoaWZ0X3Jfa2V5LAoKICAgIEtleWJvYXJkLktFWV9MRUZUX0NUUkw6IF9rZXlib2FyZC5jb250cm9sX2xfa2V5LAogICAgS2V5Ym9hcmQuS0VZX0xFRlRfV0lORE9XUzogX2tleWJvYXJkLndpbmRvd3NfbF9rZXksCiAgICBLZXlib2FyZC5LRVlfTEVGVF9BTFQ6IF9rZXlib2FyZC5hbHRfbF9rZXksCiAgICBLZXlib2FyZC5LRVlfU1BBQ0U6IF9rZXlib2FyZC5zcGFjZV9rZXksCiAgICBLZXlib2FyZC5LRVlfUklHSFRfQUxUOiBfa2V5Ym9hcmQuYWx0X3Jfa2V5LAogICAgS2V5Ym9hcmQuS0VZX1JJR0hUX0NUUkw6IF9rZXlib2FyZC5jb250cm9sX3Jfa2V5LAoKICAgIEtleWJvYXJkLktFWV9VUDogX2tleWJvYXJkLnVwX2tleSwKICAgIEtleWJvYXJkLktFWV9MRUZUOiBfa2V5Ym9hcmQubGVmdF9rZXksCiAgICBLZXlib2FyZC5LRVlfRE9XTjogX2tleWJvYXJkLmRvd25fa2V5LAogICAgS2V5Ym9hcmQuS0VZX1JJR0hUOiBfa2V5Ym9hcmQucmlnaHRfa2V5LAp9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IG1haW4oKQo=</text>
+        <text encoding="base64">ICAgIGZyb20gcHlrZXlib2FyZC5tYWMgaW1wb3J0IGtleV9jb2RlX3RyYW5zbGF0ZV90YWJsZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YXN5bmMgIGRlZiBhKCk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIHB5a2V5Ym9hcmQubWFjIGltcG9ydCBrZXlfY29kZV90cmFuc2xhdGVfdGFibGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnRhcCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">5paw55qE5YWz6ZSu5a2X5Lya6K6p5oiR5Lus55qE56iL5bqP55yL5LiK5Y675pu05Yqg5riF5pmw4z+C5LiN6L+H5LuO5omn6KGM5pWI546H5LiK55yL77yM546w5Zyo6L+Y5piv55u46L4/IDMuNC4zIOacieS4gOS6m+k/P+atpe+8mgo=</text>
+        <text encoding="base64">ZnJvbSBweW1vdXNlIGltcG9ydCBQdQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGFzeW5jaW8K</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh0eXBlKGltYWdlX2RhdGEpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">5q+U5aaC5Zyo5LiK5Lg/6IqC5Lit55qE5L6L5a2Q5pS56YCg5oiQ5Lg/Ogo=</text>
+        <text encoding="base64">ICAgIGF3YWl0IG1haW4oKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXN5bmMgIGRlZiBhKCk6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
