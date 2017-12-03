@@ -25,7 +25,7 @@
       <file name="D:/GITHUB/PykerStars/pykerstars/table.py" timestamp="1497448052160">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1508082015273">
+      <file name="/a.dummy" timestamp="1512288372887">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="F:/super_handler/utils.py" timestamp="1490503404701">
@@ -160,6 +160,7 @@
         <mark key="^" line="195" column="56" />
         <mark key="." line="195" column="56" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/input_controller/input_controller_pyautogui.py" timestamp="1512288743663" />
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/orc.py" timestamp="1507370286946">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="14" />
@@ -171,6 +172,7 @@
         <mark key="^" line="9" column="13" />
         <mark key="." line="9" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_controller/window_controller.py" timestamp="1512288596835" />
       <file name="/Python Console" timestamp="1511611522770">
         <mark key="[" line="0" column="0" />
       </file>
@@ -334,8 +336,11 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/input_controller/input_controller.py" timestamp="1512235853727">
-        <mark key="[" line="131" column="49" />
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/input_controller/input_controller.py" timestamp="1512289154524">
+        <mark key="[" line="18" column="32" />
+        <mark key="]" line="18" column="32" />
+        <mark key="." line="18" column="32" />
+        <mark key="^" line="32" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/utils/uuid.py" timestamp="1507464750423">
         <mark key="[" line="14" column="4" />
@@ -478,11 +483,11 @@
       <jump line="132" column="44" filename="F:/super_handler/daily_report.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0eXBlKGltYWdlX2RhdGEpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>pyautogui</text>
       </register>
       <register name="-" type="4">
-        <text>await</text>
+        <text>pyautogui</text>
       </register>
       <register name="/" type="4">
         <text>today_new</text>
@@ -491,31 +496,31 @@
         <text encoding="base64">ICAgIG1vbml0b3IgPSBQb3BlbihbJ3B5dGhvbjMnLCAnLi9sYXVuY2hlci5weScsICdtb25pdG9yJ10sIHN0ZG91dD1QSVBFLCBzdGRlcnI9UElQRSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0eXBlKGltYWdlX2RhdGEpKQo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IG1haW4oKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YXN5bmMgIGRlZiBhKCk6Cg==</text>
+        <text encoding="base64">ICAgICJweWF1dG9ndWkiOiAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Pj4+Cg==</text>
+        <text encoding="base64">QkFDS0VORF9NQVAgPSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">5paw55qE5YWz6ZSu5a2X5Lya6K6p5oiR5Lus55qE56iL5bqP55yL5LiK5Y675pu05Yqg5riF5pmw44CC5LiN6L+H5LuO5omn6KGM5pWI546H5LiK55yL77yM546w5Zyo6L+Y5piv55u46L6DIDMuNC4zIOacieS4gOS6m+mAgOatpe+8mgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh0eXBlKGltYWdlX2RhdGEpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGFzeW5jaW8K</text>
+        <text encoding="base64">ICAgIGF3YWl0IG1haW4oKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">5q+U5aaC5Zyo5LiK5LiA6IqC5Lit55qE5L6L5a2Q5pS56YCg5oiQ5Li6Ogo=</text>
+        <text encoding="base64">YXN5bmMgIGRlZiBhKCk6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">5paw55qE5YWz6ZSu5a2X5Lya6K6p5oiR5Lus55qE56iL5bqP55yL5LiK5Y675pu05Yqg5riF5pmw44CC5LiN6L+H5LuO5omn6KGM5pWI546H5LiK55yL77yM546w5Zyo6L+Y5piv55u46L6DIDMuNC4zIOacieS4gOS6m+mAgOatpe+8mgo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
