@@ -34,7 +34,6 @@
         <mark key="." line="91" column="0" />
         <mark key="^" line="91" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/Attention-OCR/src/model/seq2seq.py" timestamp="1511616098770" />
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/rpc_test2.py" timestamp="1507820854146">
         <mark key="[" line="11" column="47" />
         <mark key="]" line="31" column="0" />
@@ -184,7 +183,6 @@
         <mark key="^" line="9" column="30" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Attention-OCR/src/model/seq2seq_model.py" timestamp="1511616523257" />
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_manager/window_manager_osx.py" timestamp="1507133534680">
         <mark key="[" line="0" column="0" />
       </file>
@@ -259,7 +257,6 @@
       <file name="$USER_HOME$/Documents/PyTexturePacker/setup.py" timestamp="1487776918299">
         <mark key="[" line="6" column="18" />
       </file>
-      <file name="/usr/local/lib/python3.6/site-packages/PIL/Image.py" timestamp="1511610862393" />
       <file name="$USER_HOME$/Documents/PyTexturePacker/Test/__init__.py" timestamp="1478342967692">
         <mark key="[" line="0" column="0" />
       </file>
@@ -337,6 +334,9 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/input_controller/input_controller.py" timestamp="1512235853727">
+        <mark key="[" line="131" column="49" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/utils/uuid.py" timestamp="1507464750423">
         <mark key="[" line="14" column="4" />
         <mark key="]" line="14" column="9" />
@@ -375,7 +375,6 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/communication/__init__.py" timestamp="1507212401116">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Attention-OCR/src/model/model.py" timestamp="1511616389635" />
     </filemarks>
     <jumps>
       <jump line="14" column="30" filename="$USER_HOME$/PycharmProjects/Packer/Packer.py" />
