@@ -67,6 +67,7 @@
         <mark key="^" line="9" column="78" />
         <mark key="." line="9" column="78" />
       </file>
+      <file name="D:/GITHUB/TheChineseRoom/core/input_recorder/input_recorder.py" timestamp="1512300047161" />
       <file name="D:/GITHUB/attention-ocr/aocr/test.py" timestamp="1511187011714">
         <mark key="[" line="0" column="0" />
       </file>
@@ -315,10 +316,10 @@
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/requirements.txt" timestamp="1511102010640">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="D:/GITHUB/TheChineseRoom/requirements.txt" timestamp="1512299989582">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/frame_capture/frame_capture.py" timestamp="1507367599678">
         <mark key="[" line="45" column="23" />
@@ -530,6 +531,12 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/launcher/laucher.py" timestamp="1507368669618">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/GITHUB/TheChineseRoom/core/input_recorder/input_recorder_pyuserinput.py" timestamp="1512300905753">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/PykerStars/pykerstars/game.py" timestamp="1486146013484">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -703,44 +710,44 @@
       <jump line="1083" column="10" filename="C:/Python35/Lib/site-packages/tensorflow/contrib/rnn/python/ops/rnn_cell.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG9jcm4uX2NvZGVfY2hhcihvY3JuLl9iYXNlX2RhdGFbIjAiXSkK</text>
+      <register name="&quot;" type="4">
+        <text>pyuserinput</text>
       </register>
       <register name="-" type="4">
-        <text>_debug_print</text>
+        <text>pyuserinput</text>
       </register>
       <register name="/" type="4">
         <text>lin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBkID0gbnAuc3VtKChzZWxmLl9jb2RlX2NoYXIoaW1hZ2VfZGF0YSkgLSBzZWxmLl9jb2RlX2NoYXIoZGF0YSkpICoqIDIpCg==</text>
+        <text encoding="base64">cHlhdXRvZ3VpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG9jcm4uX2NvZGVfY2hhcihvY3JuLl9iYXNlX2RhdGFbIjAiXSkK</text>
+        <text encoding="base64">cHlvYmpjCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbWFnZV9kYXRhWzE6MjBdWzE6MjBdKQo=</text>
+        <text encoding="base64">cHlvYmpjLWNvcmUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbWFnZV9kYXRhKQo=</text>
+        <text encoding="base64">ICAgIG9jcm4uX2NvZGVfY2hhcihvY3JuLl9iYXNlX2RhdGFbIjAiXSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChkaXIodGYuY29udHJpYi5ybm4pKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbWFnZV9kYXRhWzE6MjBdWzE6MjBdKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZGlyKHRmLmNvbnRyaWIucm5uKSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbWFnZV9kYXRhKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlZGlzID0gUG9wZW4oWydweXRob24zJywgJy4vbGF1bmNoZXIucHknLCAncmVkaXNfZG9ja2VyJ10sIHN0ZG91dD1QSVBFLCBzdGRlcnI9UElQRSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChkaXIodGYuY29udHJpYi5ybm4pKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJycGNfaWQiOiBOb25lLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZGlyKHRmLmNvbnRyaWIucm5uKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWV0aG9kX25hbWUgPSBycGNfZGF0YVsibWV0aG9kX25hbWUiXQo=</text>
+        <text encoding="base64">ICAgIHJlZGlzID0gUG9wZW4oWydweXRob24zJywgJy4vbGF1bmNoZXIucHknLCAncmVkaXNfZG9ja2VyJ10sIHN0ZG91dD1QSVBFLCBzdGRlcnI9UElQRSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWV0aG9kX25hbWUgPSBycGNfZGF0YVsibWV0aG9kX25hbWUiXQo=</text>
+        <text encoding="base64">ICAgICJycGNfaWQiOiBOb25lLAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
