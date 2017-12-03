@@ -69,11 +69,6 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/output/output.py" timestamp="1508081577260">
         <mark key="[" line="3" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/main.py" timestamp="1508674266911">
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/redis_docker/redis_docker.py" timestamp="1507563820137">
         <mark key="[" line="16" column="4" />
         <mark key="]" line="16" column="21" />
@@ -103,7 +98,7 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="14" column="26" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/input_controller/input_controller_pyuserinput.py" timestamp="1512314269485">
+      <file name="D:/GITHUB/TheChineseRoom/core/input_controller/input_controller_pyuserinput.py" timestamp="1512315929724">
         <mark key="[" line="22" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/PykerStars/pykerstars/cards.py" timestamp="1486143798170">
@@ -124,7 +119,9 @@
       <file name="E:/TensorFlow/test/mnist_softmax.py" timestamp="1497161628164">
         <mark key="[" line="50" column="3" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/input_controller/keys.py" timestamp="1512314730794" />
+      <file name="D:/GITHUB/TheChineseRoom/core/input_controller/keys.py" timestamp="1512316609872">
+        <mark key="[" line="8" column="6" />
+      </file>
       <file name="D:/GITHUB/PyTWEANN/pyenat/genome.py" timestamp="1499587049587">
         <mark key="[" line="120" column="30" />
         <mark key="]" line="120" column="30" />
@@ -202,6 +199,11 @@
         <mark key="." line="172" column="0" />
         <mark key="^" line="171" column="16" />
       </file>
+      <file name="D:/GITHUB/TheChineseRoom/core/input_controller/__init__.py" timestamp="1512316635936">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="41" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/setup.py" timestamp="1487776918299">
         <mark key="[" line="6" column="18" />
       </file>
@@ -211,7 +213,7 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1511611522770">
+      <file name="/Python Console" timestamp="1512316342791">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1507464875970">
@@ -226,6 +228,11 @@
         <mark key="[" line="48" column="32" />
         <mark key="]" line="24" column="29" />
         <mark key="." line="24" column="29" />
+      </file>
+      <file name="D:/GITHUB/TheChineseRoom/input_recorder_test.py" timestamp="1512316660856">
+        <mark key="[" line="11" column="10" />
+        <mark key="]" line="11" column="10" />
+        <mark key="." line="11" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/PykerStars/handranks.py" timestamp="1486143744144">
         <mark key="[" line="0" column="0" />
@@ -327,10 +334,10 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/launcher/laucher.py" timestamp="1507368669618">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/input_recorder/input_recorder_pyuserinput.py" timestamp="1512314844552">
-        <mark key="[" line="20" column="12" />
-        <mark key="]" line="20" column="12" />
-        <mark key="." line="20" column="12" />
+      <file name="D:/GITHUB/TheChineseRoom/core/input_recorder/input_recorder_pyuserinput.py" timestamp="1512316516087">
+        <mark key="[" line="55" column="78" />
+        <mark key="]" line="55" column="78" />
+        <mark key="." line="55" column="78" />
       </file>
       <file name="D:/GITHUB/PyTexturePacker/main.py" timestamp="1493221831197">
         <mark key="[" line="11" column="5" />
@@ -488,16 +495,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>KEYBOARD_MAP</text>
+        <text>input_recorder</text>
       </register>
       <register name="-" type="4">
-        <text>KEYBOARD_MAP</text>
+        <text>input_recorder</text>
       </register>
       <register name="/" type="4">
         <text>today_new</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIHB5a2V5Ym9hcmQubWFjIGltcG9ydCBrZXlfY29kZV90cmFuc2xhdGVfdGFibGUK</text>
+        <text encoding="base64">ZnJvbSAuaW5wdXRfcmVjb3JkZXIgaW1wb3J0IElucHV0UmVjb3JkZXIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZnJvbSAuLmlucHV0X2NvbnRyb2xsZXIuaW5wdXRfY29udHJvbGxlcl9weWF1dG9ndWkgaW1wb3J0IFBZQVVUT0dVSV9LRVlCT0FSRF9NQVAsIFBZQVVUT0dVSV9NT1VTRV9NQVAK</text>
