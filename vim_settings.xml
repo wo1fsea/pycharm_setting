@@ -119,10 +119,11 @@
       <file name="E:/TensorFlow/test/mnist_softmax.py" timestamp="1497161628164">
         <mark key="[" line="50" column="3" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/input_controller/keys.py" timestamp="1513093734031">
-        <mark key="[" line="20" column="4" />
-        <mark key="]" line="20" column="34" />
-        <mark key="." line="20" column="0" />
+      <file name="D:/GITHUB/TheChineseRoom/core/input_controller/keys.py" timestamp="1513096288020">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="21" />
+        <mark key="." line="13" column="20" />
+        <mark key="^" line="13" column="20" />
       </file>
       <file name="D:/GITHUB/PyTWEANN/pyenat/genome.py" timestamp="1499587049587">
         <mark key="[" line="120" column="30" />
@@ -171,11 +172,11 @@
         <mark key="^" line="15" column="31" />
         <mark key="." line="15" column="31" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/input_controller/input_recorder_pynput.py" timestamp="1513094350888">
-        <mark key="[" line="51" column="8" />
-        <mark key="]" line="51" column="32" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="27" column="31" />
+      <file name="D:/GITHUB/TheChineseRoom/core/input_controller/input_recorder_pynput.py" timestamp="1513096232092">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="22" column="25" />
+        <mark key="." line="22" column="25" />
+        <mark key="^" line="22" column="25" />
       </file>
       <file name="E:/TensorFlow/test/a.py" timestamp="1497120275140">
         <mark key="[" line="195" column="65" />
@@ -238,10 +239,10 @@
         <mark key="]" line="24" column="29" />
         <mark key="." line="24" column="29" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/input_recorder_test.py" timestamp="1513009583060">
-        <mark key="[" line="15" column="2" />
-        <mark key="]" line="11" column="10" />
-        <mark key="." line="11" column="10" />
+      <file name="D:/GITHUB/TheChineseRoom/input_recorder_test.py" timestamp="1513095712582">
+        <mark key="[" line="17" column="1" />
+        <mark key="]" line="12" column="10" />
+        <mark key="." line="12" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/PykerStars/handranks.py" timestamp="1486143744144">
         <mark key="[" line="0" column="0" />
@@ -362,11 +363,11 @@
         <mark key="^" line="9" column="13" />
         <mark key="." line="9" column="13" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/input_controller/input_recorder.py" timestamp="1513094641861">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="58" column="8" />
-        <mark key="^" line="58" column="8" />
-        <mark key="." line="58" column="8" />
+      <file name="D:/GITHUB/TheChineseRoom/core/input_controller/input_recorder.py" timestamp="1513095621180">
+        <mark key="[" line="41" column="55" />
+        <mark key="]" line="41" column="58" />
+        <mark key="." line="41" column="55" />
+        <mark key="^" line="41" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_manager/__init__.py" timestamp="1507134074779">
         <mark key="[" line="0" column="0" />
@@ -516,43 +517,45 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9yZWNvcmRfdGltZSA9IE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9kYXRhLmFwcGVuZCgoSW5wdXRFdmVudC5TVEFSVCwgdGltZS50aW1lKCkpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>join</text>
+        <text>press</text>
       </register>
       <register name="/" type="4">
         <text>today_new</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9yZWNvcmRfdGltZSA9IE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9kYXRhLmFwcGVuZCgoSW5wdXRFdmVudC5TVEFSVCwgdGltZS50aW1lKCkpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSB0aHJlYWRpbmcgaW1wb3J0IFRocmVhZAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9yZWNvcmRfdGllID0gTm9uZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChrZXkpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9yZWNvcmRfdGltZSA9IHRpbWUudGltZSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEtFWV9DQUwgPSAiS0VZX0NBTCIK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChLRVlCT0FSRF9SRVZFUlNFX01BUC5nZXQoa2V5LCBLZXlib2FyZC5LRVlfVU5LTk9XTikpCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGtleWJvYXJkLktleS4K</text>
+      <register name="4" type="4">
+        <text>(dy, (x, y))
+        print(</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9tb3VzZV9saXN0ZW5lci5zdG9wKCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh4LCB5LCBkeCwgZHkpCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>)
+        print(x, y,</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9tb3VzZV9saXN0ZW5lciA9IE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgc2VsZi5faXNfbG9nZ2luZywgImlzIG5vdCBsb2dnaW5nIG5vdyIK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgc2VsZi5fa2V5Ym9hcmRfbGlzdGVuZXIuc3RvcCgpCiAgICAgICAgc2VsZi5fa2V5Ym9hcmRfbGlzdGVuZXIgPSBOb25l</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgc2VsZi5faXNfbG9nZ2luZywgImlzIG5vdCBsb2dnaW5nIG5vdyIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgc2VsZi5faXNfbG9nZ2luZywgImlzIG5vdCBsb2dnaW5nIG5vdyIK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
