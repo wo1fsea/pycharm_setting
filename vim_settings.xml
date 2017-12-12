@@ -172,11 +172,10 @@
         <mark key="^" line="15" column="31" />
         <mark key="." line="15" column="31" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/input_controller/input_recorder_pynput.py" timestamp="1513096232092">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="22" column="25" />
-        <mark key="." line="22" column="25" />
-        <mark key="^" line="22" column="25" />
+      <file name="D:/GITHUB/TheChineseRoom/core/input_controller/input_recorder_pynput.py" timestamp="1513097609927">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="E:/TensorFlow/test/a.py" timestamp="1497120275140">
         <mark key="[" line="195" column="65" />
@@ -325,7 +324,7 @@
         <mark key="^" line="9" column="30" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510498100701">
+      <file name="/Dummy.txt" timestamp="1513097634838">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/output/keys.py" timestamp="1508081272612">
@@ -357,6 +356,7 @@
       <file name="D:/GITHUB/PyTexturePacker/main.py" timestamp="1493221831197">
         <mark key="[" line="11" column="5" />
       </file>
+      <file name="C:/Python35/Lib/site-packages/pynput/keyboard/_base.py" timestamp="1513097389748" />
       <file name="$USER_HOME$/Documents/PyBaler/PyBaler/Baler.py" timestamp="1483538292671">
         <mark key="[" line="24" column="29" />
         <mark key="]" line="9" column="13" />
@@ -517,7 +517,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9kYXRhLmFwcGVuZCgoSW5wdXRFdmVudC5TVEFSVCwgdGltZS50aW1lKCkpKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChkaXIoa2V5KSkK</text>
       </register>
       <register name="-" type="4">
         <text>press</text>
@@ -526,36 +526,36 @@
         <text>today_new</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9kYXRhLmFwcGVuZCgoSW5wdXRFdmVudC5TVEFSVCwgdGltZS50aW1lKCkpKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9sb2dnZXIubG9nX2tleV9wcmVzcyhLRVlCT0FSRF9SRVZFUlNFX01BUC5nZXQoa2V5LmNoYXIgaWYga2V5LmNoYXIgaXMgbm90IE5vbmUgZWxzZSBrZXksIEtleWJvYXJkLktFWV9VTktOT1dOKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9yZWNvcmRfdGllID0gTm9uZQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChkaXIoa2V5KSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9yZWNvcmRfdGltZSA9IHRpbWUudGltZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9sb2dnZXIubG9nX2tleV9yZWxlYXNlKEtFWUJPQVJEX1JFVkVSU0VfTUFQLmdldChrZXksIEtleWJvYXJkLktFWV9VTktOT1dOKSkK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCh0eXBlKGtleSkpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLl9yZWNvcmRfdGllID0gTm9uZQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLl9yZWNvcmRfdGltZSA9IHRpbWUudGltZSgpCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBwcmludChLRVlCT0FSRF9SRVZFUlNFX01BUC5nZXQoa2V5LCBLZXlib2FyZC5LRVlfVU5LTk9XTikpCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>(dy, (x, y))
         print(</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh4LCB5LCBkeCwgZHkpCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>)
         print(x, y,</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgc2VsZi5faXNfbG9nZ2luZywgImlzIG5vdCBsb2dnaW5nIG5vdyIK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgc2VsZi5faXNfbG9nZ2luZywgImlzIG5vdCBsb2dnaW5nIG5vdyIK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgc2VsZi5faXNfbG9nZ2luZywgImlzIG5vdCBsb2dnaW5nIG5vdyIK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
