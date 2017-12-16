@@ -16,10 +16,10 @@
         <mark key="]" line="25" column="3" />
         <mark key="." line="25" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/console_test.py" timestamp="1513359714470">
-        <mark key="[" line="221" column="7" />
-        <mark key="]" line="221" column="7" />
-        <mark key="." line="221" column="7" />
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/console_test.py" timestamp="1513405929681">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
         <mark key="^" line="221" column="7" />
       </file>
       <file name="D:/GITHUB/PykerStars/pykerstars/table.py" timestamp="1497448052160">
@@ -43,7 +43,6 @@
       <file name="/usr/local/lib/python3.6/site-packages/pytesseract/pytesseract.py" timestamp="1507307141189">
         <mark key="[" line="87" column="0" />
       </file>
-      <file name="/usr/local/lib/python3.6/site-packages/pykeyboard/windows.py" timestamp="1512312487278" />
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_manager/__init__.py" timestamp="1507134074779">
         <mark key="[" line="0" column="0" />
       </file>
@@ -57,6 +56,12 @@
         <mark key="[" line="48" column="32" />
         <mark key="]" line="24" column="29" />
         <mark key="." line="24" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/console/console.py" timestamp="1513404930159">
+        <mark key="[" line="9" column="79" />
+        <mark key="]" line="9" column="12" />
+        <mark key="^" line="9" column="12" />
+        <mark key="." line="9" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/PykerStars/handranks.py" timestamp="1486143744144">
         <mark key="[" line="0" column="0" />
@@ -87,7 +92,6 @@
         <mark key="." line="120" column="30" />
         <mark key="^" line="155" column="29" />
       </file>
-      <file name="/usr/local/lib/python3.6/site-packages/pykeyboard/base.py" timestamp="1512312214452" />
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/launcher/laucher.py" timestamp="1507368669618">
         <mark key="[" line="0" column="0" />
       </file>
@@ -108,7 +112,6 @@
       <file name="/fragment.py" timestamp="1507464875970">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/usr/local/lib/python3.6/site-packages/prompt_toolkit/interface.py" timestamp="1513359605765" />
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_manager/window_manager_osx.py" timestamp="1507133534680">
         <mark key="[" line="0" column="0" />
       </file>
@@ -118,7 +121,6 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="14" column="26" />
       </file>
-      <file name="/usr/local/lib/python3.6/site-packages/objc/_lazyimport.py" timestamp="1512310725438" />
       <file name="D:/GITHUB/PyTWEANN/pytweann/config.py" timestamp="1498579577032">
         <mark key="[" line="19" column="24" />
         <mark key="]" line="33" column="0" />
@@ -205,7 +207,6 @@
         <mark key="^" line="16" column="21" />
         <mark key="." line="16" column="21" />
       </file>
-      <file name="/usr/local/lib/python3.6/site-packages/pymouse/mac.py" timestamp="1512312523323" />
       <file name="D:/GITHUB/PykerStars/pykerstars/utils/_poker_enum2.py" timestamp="1497540869769">
         <mark key="[" line="0" column="14" />
       </file>
@@ -355,7 +356,6 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="/usr/local/lib/python3.6/site-packages/prompt_toolkit/shortcuts.py" timestamp="1513359696402" />
       <file name="$USER_HOME$/Documents/PykerStars/pykerstars/handranks.py" timestamp="1488211360771">
         <mark key="[" line="172" column="16" />
         <mark key="]" line="172" column="38" />
@@ -377,7 +377,7 @@
         <mark key="." line="47" column="26" />
         <mark key="^" line="47" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512311275960">
+      <file name="/Dummy.txt" timestamp="1513405821916">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/input_recorder/input_recoder.py" timestamp="1512293005236">
@@ -538,11 +538,11 @@
       <jump line="201" column="38" filename="/usr/local/lib/python3.6/site-packages/pykeyboard/x11.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>main2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>main2</text>
+        <text>unicode_literals</text>
       </register>
       <register name="/" type="4">
         <text>handle</text>
@@ -551,31 +551,31 @@
         <text encoding="base64">ZnJvbSB0aHJlYWRpbmcgaW1wb3J0IFRocmVhZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXNkZgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dwo=</text>
+        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBtdWx0aXByb2Nlc3NpbmcgaW1wb3J0IFByb2Nlc3MK</text>
+        <text encoding="base64">YXNkZgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgdGltZQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">dwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">ZnJvbSBtdWx0aXByb2Nlc3NpbmcgaW1wb3J0IFByb2Nlc3MK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgdGltZQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">dwo=</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">CmZyb20gdGhyZWFkaW5nIGltcG9ydCBUaHJlYWQKCmRlZiBmMSgpOgogICAgd2hpbGUgMToKICAgICAgICBwcmludCgiQUFBIikKCmRlZiBmMigpOgogICAgd2hpbGUgMToKICAgICAgICBwcmludCgiQkJCIikKClQxID0gVGhyZWFkKHRhcmdldD1mMSkKVDIgPSBUaHJlYWQodGFyZ2V0PWYyKQoKVDEuc3RhcnQoKQpUMi5zdGFydCgpCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CiAgICBkZWYgX3J1bl9yZWNvcmQoc2VsZik6CiAgICAgICAgIyBzZWxmLl9tb3VzZV9saXN0ZW5lci5ydW4oKQogICAgICAgIHNlbGYuX2tleWJvYXJkX2xpc3RlbmVyLnJ1bigpCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9tb3VzZV9yZWNvcmRfdGhyZWFkID0gTm9uZQo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9tb3VzZV9yZWNvcmRfdGhyZWFkID0gTm9uZQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
