@@ -16,11 +16,11 @@
         <mark key="]" line="25" column="3" />
         <mark key="." line="25" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/console_test.py" timestamp="1513416154451">
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/console_test.py" timestamp="1513418123846">
         <mark key="'" line="164" column="0" />
-        <mark key="[" line="114" column="28" />
-        <mark key="]" line="114" column="28" />
-        <mark key="." line="114" column="28" />
+        <mark key="[" line="117" column="32" />
+        <mark key="]" line="117" column="32" />
+        <mark key="." line="117" column="32" />
         <mark key="^" line="22" column="48" />
       </file>
       <file name="D:/GITHUB/PykerStars/pykerstars/table.py" timestamp="1497448052160">
@@ -93,7 +93,7 @@
         <mark key="." line="120" column="30" />
         <mark key="^" line="155" column="29" />
       </file>
-      <file name="/usr/local/lib/python3.6/site-packages/prompt_toolkit/buffer.py" timestamp="1513411784938" />
+      <file name="/usr/local/lib/python3.6/site-packages/prompt_toolkit/buffer.py" timestamp="1513417734478" />
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/launcher/laucher.py" timestamp="1507368669618">
         <mark key="[" line="0" column="0" />
       </file>
@@ -116,11 +116,6 @@
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_manager/window_manager_osx.py" timestamp="1507133534680">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/a.py" timestamp="1513413383762">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/launcher.py" timestamp="1507561745137">
         <mark key="[" line="15" column="0" />
@@ -283,6 +278,7 @@
         <mark key="^" line="15" column="31" />
         <mark key="." line="15" column="31" />
       </file>
+      <file name="/usr/local/lib/python3.6/site-packages/prompt_toolkit/layout/menus.py" timestamp="1513417590589" />
       <file name="D:/GITHUB/PykerStars/pykerstars/handranks.py" timestamp="1497539680393">
         <mark key="[" line="63" column="15" />
       </file>
@@ -363,7 +359,7 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="/usr/local/lib/python3.6/site-packages/prompt_toolkit/shortcuts.py" timestamp="1513416125735">
+      <file name="/usr/local/lib/python3.6/site-packages/prompt_toolkit/shortcuts.py" timestamp="1513418055121">
         <mark key="[" line="369" column="0" />
         <mark key="]" line="369" column="35" />
       </file>
@@ -551,7 +547,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>display_completions_in_columns</text>
+        <text encoding="base64">SGFzRm9jdXMoREVGQVVMVF9CVUZGRVIpICYKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="-" type="4">
         <text>display_completions_in_columns</text>
@@ -562,32 +558,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb21wbGV0ZV93aGlsZV90eXBpbmc9VHJ1ZSwK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgY29tcGxldGVfd2hpbGVfdHlwaW5nPVRydWUsCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">SGFzRm9jdXMoREVGQVVMVF9CVUZGRVIpICYKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KGNsLCBfLnRleHQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgY29tcGxldGVfd2hpbGVfdHlwaW5nPVRydWUsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIClkLAo=</text>
+        <text encoding="base64">ICAgIHByaW50KGNsLCBfLnRleHQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJ1ZmZlcnNbREVGQVVMVF9CVUZGRVJdLmFwcGVuZF90b19oaXN0b3J5KCkK</text>
+        <text encoding="base64">ICAgIClkLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KGJ1ZmZlcnNbREVGQVVMVF9CVUZGRVJdLmRvY3VtZW50KQo=</text>
+        <text encoding="base64">ICAgIGJ1ZmZlcnNbREVGQVVMVF9CVUZGRVJdLmFwcGVuZF90b19oaXN0b3J5KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICdjb21wbGV0aW9uLW1lbnUuY29tcGxldGlvbic6ICdiZzojMDA4ODg4ICNmZmZmZmYnLAo=</text>
+        <text encoding="base64">ICAgIHByaW50KGJ1ZmZlcnNbREVGQVVMVF9CVUZGRVJdLmRvY3VtZW50KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICdjb21wbGV0aW9uLW1lbnUuY3VycmVudC1jb21wbGV0aW9uJzogJ2JnOiMwMGFhYWEgIzAwMDAwMCcsCg==</text>
+        <text encoding="base64">ICAgICdjb21wbGV0aW9uLW1lbnUuY29tcGxldGlvbic6ICdiZzojMDA4ODg4ICNmZmZmZmYnLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFRva2VuLgo=</text>
+        <text encoding="base64">ICAgICdjb21wbGV0aW9uLW1lbnUuY3VycmVudC1jb21wbGV0aW9uJzogJ2JnOiMwMGFhYWEgIzAwMDAwMCcsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBweWdtZW50cy5sZXhlcnMgaW1wb3J0IFNxbExleGVyCg==</text>
+        <text encoding="base64">ICAgIFRva2VuLgo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
