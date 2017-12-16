@@ -16,12 +16,12 @@
         <mark key="]" line="25" column="3" />
         <mark key="." line="25" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/console_test.py" timestamp="1513411860872">
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/console_test.py" timestamp="1513416154451">
         <mark key="'" line="164" column="0" />
-        <mark key="[" line="165" column="14" />
-        <mark key="]" line="165" column="0" />
-        <mark key="." line="165" column="0" />
-        <mark key="^" line="165" column="20" />
+        <mark key="[" line="114" column="28" />
+        <mark key="]" line="114" column="28" />
+        <mark key="." line="114" column="28" />
+        <mark key="^" line="22" column="48" />
       </file>
       <file name="D:/GITHUB/PykerStars/pykerstars/table.py" timestamp="1497448052160">
         <mark key="[" line="0" column="0" />
@@ -117,7 +117,7 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_manager/window_manager_osx.py" timestamp="1507133534680">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/a.py" timestamp="1513408935316">
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/a.py" timestamp="1513413383762">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
@@ -363,9 +363,9 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="/usr/local/lib/python3.6/site-packages/prompt_toolkit/shortcuts.py" timestamp="1513411234913">
-        <mark key="[" line="392" column="0" />
-        <mark key="]" line="392" column="51" />
+      <file name="/usr/local/lib/python3.6/site-packages/prompt_toolkit/shortcuts.py" timestamp="1513416125735">
+        <mark key="[" line="369" column="0" />
+        <mark key="]" line="369" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/PykerStars/pykerstars/handranks.py" timestamp="1488211360771">
         <mark key="[" line="172" column="16" />
@@ -550,44 +550,44 @@
       <jump line="164" column="0" filename="$USER_HOME$/Documents/GitHub/TheChineseRoom/console_test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KGNsLCBfLnRleHQpCg==</text>
+      <register name="&quot;" type="4">
+        <text>display_completions_in_columns</text>
       </register>
       <register name="-" type="4">
-        <text>RETURN_DOCUMENT</text>
+        <text>display_completions_in_columns</text>
       </register>
       <register name="/" type="4">
         <text>handle</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhY2NlcHRfYWN0aW9uPUFjY2VwdEFjdGlvbi5SRVRVUk5fRE9DVU1FTlQsCg==</text>
+        <text encoding="base64">ICAgICAgICBjb21wbGV0ZV93aGlsZV90eXBpbmc9VHJ1ZSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGNsLCBfLnRleHQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgY29tcGxldGVfd2hpbGVfdHlwaW5nPVRydWUsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIClkLAo=</text>
+        <text encoding="base64">ICAgIHByaW50KGNsLCBfLnRleHQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJ1ZmZlcnNbREVGQVVMVF9CVUZGRVJdLmFwcGVuZF90b19oaXN0b3J5KCkK</text>
+        <text encoding="base64">ICAgIClkLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KGJ1ZmZlcnNbREVGQVVMVF9CVUZGRVJdLmRvY3VtZW50KQo=</text>
+        <text encoding="base64">ICAgIGJ1ZmZlcnNbREVGQVVMVF9CVUZGRVJdLmFwcGVuZF90b19oaXN0b3J5KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICdjb21wbGV0aW9uLW1lbnUuY29tcGxldGlvbic6ICdiZzojMDA4ODg4ICNmZmZmZmYnLAo=</text>
+        <text encoding="base64">ICAgIHByaW50KGJ1ZmZlcnNbREVGQVVMVF9CVUZGRVJdLmRvY3VtZW50KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICdjb21wbGV0aW9uLW1lbnUuY3VycmVudC1jb21wbGV0aW9uJzogJ2JnOiMwMGFhYWEgIzAwMDAwMCcsCg==</text>
+        <text encoding="base64">ICAgICdjb21wbGV0aW9uLW1lbnUuY29tcGxldGlvbic6ICdiZzojMDA4ODg4ICNmZmZmZmYnLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFRva2VuLgo=</text>
+        <text encoding="base64">ICAgICdjb21wbGV0aW9uLW1lbnUuY3VycmVudC1jb21wbGV0aW9uJzogJ2JnOiMwMGFhYWEgIzAwMDAwMCcsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBweWdtZW50cy5sZXhlcnMgaW1wb3J0IFNxbExleGVyCg==</text>
+        <text encoding="base64">ICAgIFRva2VuLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBweWdtZW50cy5sZXhlcnMgaW1wb3J0IFNxbExleGVyCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
