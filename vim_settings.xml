@@ -54,6 +54,7 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/output/output.py" timestamp="1508081577260">
         <mark key="[" line="3" column="4" />
       </file>
+      <file name="C:/Python35/Lib/site-packages/prompt_toolkit/eventloop/asyncio_posix.py" timestamp="1513697086979" />
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/redis_docker/redis_docker.py" timestamp="1507563820137">
         <mark key="[" line="16" column="4" />
         <mark key="]" line="16" column="21" />
@@ -75,6 +76,7 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="14" column="26" />
       </file>
+      <file name="C:/Python35/Lib/site-packages/prompt_toolkit/utils.py" timestamp="1513697219537" />
       <file name="$USER_HOME$/Documents/PykerStars/pykerstars/cards.py" timestamp="1486143798170">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="48" />
@@ -129,7 +131,11 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="54" column="0" />
       </file>
-      <file name="C:/Python35/Lib/site-packages/prompt_toolkit/eventloop/asyncio_win32.py" timestamp="1513696275870" />
+      <file name="C:/Python35/Lib/site-packages/prompt_toolkit/eventloop/asyncio_win32.py" timestamp="1513699015994">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+      </file>
       <file name="E:/TensorFlow/test/a.py" timestamp="1497120275140">
         <mark key="[" line="195" column="65" />
         <mark key="]" line="195" column="56" />
@@ -192,6 +198,9 @@
         <mark key="^" line="26" column="8" />
         <mark key="." line="55" column="50" />
       </file>
+      <file name="C:/Python35/Lib/asyncio/selector_events.py" timestamp="1513698699391">
+        <mark key="'" line="93" column="47" />
+      </file>
       <file name="C:/Python35/Lib/site-packages/prompt_toolkit/terminal/win32_input.py" timestamp="1513696246392">
         <mark key="[" line="139" column="0" />
         <mark key="]" line="139" column="0" />
@@ -234,10 +243,10 @@
         <mark key="]" line="121" column="0" />
         <mark key="." line="121" column="0" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/console/console.py" timestamp="1513696101836">
-        <mark key="[" line="141" column="4" />
-        <mark key="]" line="141" column="56" />
-        <mark key="." line="141" column="0" />
+      <file name="D:/GITHUB/TheChineseRoom/console/console.py" timestamp="1513699321231">
+        <mark key="[" line="182" column="0" />
+        <mark key="]" line="182" column="36" />
+        <mark key="." line="182" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/input/window_manager_win32.py" timestamp="1507123703233">
         <mark key="[" line="0" column="0" />
@@ -267,6 +276,7 @@
         <mark key="^" line="9" column="78" />
         <mark key="." line="9" column="78" />
       </file>
+      <file name="C:/Python35/Lib/asyncio/windows_events.py" timestamp="1513699536921" />
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/frame_capture/frame_capture.py" timestamp="1507562450485">
         <mark key="[" line="34" column="81" />
         <mark key="]" line="53" column="0" />
@@ -289,6 +299,7 @@
         <mark key="]" line="11" column="13" />
         <mark key="." line="11" column="13" />
       </file>
+      <file name="C:/Python35/Lib/site-packages/prompt_toolkit/eventloop/callbacks.py" timestamp="1513696746803" />
       <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/PackerInterface.py" timestamp="1481035123738">
         <mark key="[" line="26" column="54" />
         <mark key="]" line="26" column="55" />
@@ -318,6 +329,7 @@
         <mark key="^" line="30" column="18" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="C:/Python35/Lib/asyncio/base_events.py" timestamp="1513698820333" />
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/input_recorder/input_recorder_pyuserinput.py" timestamp="1512307637176">
         <mark key="[" line="53" column="8" />
         <mark key="]" line="53" column="52" />
@@ -378,7 +390,7 @@
       <file name="$USER_HOME$/Documents/PykerStars/.gitignore" timestamp="1486071398335">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="C:/Python35/Lib/site-packages/prompt_toolkit/interface.py" timestamp="1513694547377" />
+      <file name="C:/Python35/Lib/site-packages/prompt_toolkit/interface.py" timestamp="1513698451400" />
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/input_controller/input_controller_pyautogui.py" timestamp="1512290508581">
         <mark key="[" line="112" column="0" />
         <mark key="]" line="112" column="0" />
@@ -474,11 +486,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="20" filename="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" />
-      <jump line="47" column="19" filename="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" />
-      <jump line="48" column="20" filename="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" />
-      <jump line="50" column="33" filename="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" />
-      <jump line="51" column="42" filename="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" />
       <jump line="52" column="25" filename="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" />
       <jump line="55" column="32" filename="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" />
       <jump line="56" column="23" filename="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" />
@@ -574,55 +581,60 @@
       <jump line="54" column="42" filename="D:/GITHUB/TheChineseRoom/console_test.py" />
       <jump line="70" column="9" filename="D:/GITHUB/TheChineseRoom/console_test.py" />
       <jump line="71" column="9" filename="D:/GITHUB/TheChineseRoom/console_test.py" />
+      <jump line="42" column="26" filename="C:/Python35/Lib/asyncio/selector_events.py" />
+      <jump line="139" column="10" filename="C:/Python35/Lib/asyncio/selector_events.py" />
+      <jump line="416" column="25" filename="C:/Python35/Lib/asyncio/selector_events.py" />
+      <jump line="92" column="19" filename="C:/Python35/Lib/asyncio/selector_events.py" />
+      <jump line="93" column="47" filename="C:/Python35/Lib/asyncio/selector_events.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgYXN5bmNpby5zbGVlcCgwLjMpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>object</text>
       </register>
       <register name="/" type="4">
-        <text>Token</text>
+        <text>run</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuX2NsaS5yZW5kZXJlci5yZW5kZXIoc2VsZi5fY2xpLCBzZWxmLl9sYXlvdXQpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmlucHV0X3RpbWVvdXQgPSAiIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgYXN5bmNpby5zbGVlcCgwLjMpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9jbGkub3V0cHV0LndyaXRlKCJBQSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgiQSIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9jbGkucmVuZGVyZXIucmVuZGVyKHNlbGYuX2NsaSwgc2VsZi5fbGF5b3V0KQo=</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QHJlZ2lzdHJ5LmFkZF9iaW5kaW5nKEtleXMuQ29udHJvbFEsIGVhZ2VyPVRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQgQXR0cmlidXRlRXJyb3I6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRvb2xiYXIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBwcm9tcHRfdG9vbGtpdCBpbXBvcnQgcHJvbXB0Cg==</text>
+        <text encoding="base64">ICAgIEBhYnN0cmFjdG1ldGhvZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJvbXB0KCkK</text>
+        <text encoding="base64">ICAgIEBhYnN0cmFjdG1ldGhvZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJvbXB0KCkK</text>
+        <text encoding="base64">ICAgIEBhYnN0cmFjdG1ldGhvZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IGQpIEFkZCBhdXRvY29tcGxldGlvbi4K</text>
+        <text encoding="base64">ICAgICAgICBleGl0KCkK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>Token</last-search>
+      <last-search>run</last-search>
       <last-offset />
-      <last-pattern>Token</last-pattern>
+      <last-pattern>run</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -632,6 +644,7 @@
         <entry>year</entry>
         <entry>today_new</entry>
         <entry>Token</entry>
+        <entry>run</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
