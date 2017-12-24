@@ -35,82 +35,6 @@
         <mark key="^" line="30" column="18" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="/usr/local/lib/python3.6/site-packages/pytesseract/pytesseract.py" timestamp="1507307141189">
-        <mark key="[" line="87" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_manager/__init__.py" timestamp="1507134074779">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/usr/local/lib/python3.6/site-packages/prompt_toolkit/application.py" timestamp="1513428330263" />
-      <file name="/usr/local/lib/python3.6/site-packages/prompt_toolkit/filters/base.py" timestamp="1513955797382" />
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/monitor.py" timestamp="1507361781142">
-        <mark key="[" line="48" column="32" />
-        <mark key="]" line="24" column="29" />
-        <mark key="." line="24" column="29" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/console/console.py" timestamp="1513955823154">
-        <mark key="'" line="8" column="13" />
-        <mark key="[" line="82" column="100" />
-        <mark key="]" line="210" column="0" />
-        <mark key="." line="210" column="0" />
-        <mark key="^" line="210" column="3" />
-      </file>
-      <file name="$USER_HOME$/Documents/PykerStars/handranks.py" timestamp="1486143744144">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/config/config.json" timestamp="1508168720764">
-        <mark key="[" line="11" column="12" />
-        <mark key="]" line="12" column="12" />
-        <mark key="." line="12" column="12" />
-      </file>
-      <file name="E:/TensorFlow/test/mnist_softmax.py" timestamp="1497161628164">
-        <mark key="[" line="50" column="3" />
-      </file>
-      <file name="/usr/local/lib/python3.6/site-packages/prompt_toolkit/buffer.py" timestamp="1513417734478" />
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/launcher/laucher.py" timestamp="1507368669618">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/orc.py" timestamp="1507370286946">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="14" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1513423730765">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1507464875970">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/usr/local/lib/python3.6/site-packages/prompt_toolkit/interface.py" timestamp="1513428963597" />
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_manager/window_manager_osx.py" timestamp="1507133534680">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/async_test.py" timestamp="1510498607748">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/PyTexturePacker/setup.py" timestamp="1487776918299">
-        <mark key="[" line="6" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/PyTexturePacker/Test/__init__.py" timestamp="1478342967692">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/input_controller/__init__.py" timestamp="1512305416835">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/GITHUB/PykerStars/pykerstars/utils/poker_enum_meta.py" timestamp="1497540600907">
-        <mark key="[" line="0" column="1" />
-      </file>
-      <file name="$USER_HOME$/Documents/PykerStars/.gitignore" timestamp="1486071398335">
-        <mark key="[" line="1" column="0" />
-      </file>
-      <file name="D:/GITHUB/PykerStars/pykerstars/utils/_poker_enum2.py" timestamp="1497540869769">
-        <mark key="[" line="0" column="14" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/communication/__init__.py" timestamp="1507212401116">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/frame_capture_lancher.py" timestamp="1507367280303">
         <mark key="[" line="0" column="0" />
       </file>
@@ -119,6 +43,9 @@
         <mark key="]" line="122" column="0" />
         <mark key="." line="122" column="0" />
       </file>
+      <file name="/usr/local/lib/python3.6/site-packages/pytesseract/pytesseract.py" timestamp="1507307141189">
+        <mark key="[" line="87" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/input_recorder_test.py" timestamp="1512309924785">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -126,6 +53,9 @@
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/requirements.txt" timestamp="1513421309808">
         <mark key="[" line="8" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_manager/__init__.py" timestamp="1507134074779">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/communication/rpc.py" timestamp="1513427208696">
         <mark key="[" line="161" column="0" />
@@ -141,10 +71,32 @@
         <mark key="." line="59" column="0" />
         <mark key="^" line="59" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/monitor.py" timestamp="1507361781142">
+        <mark key="[" line="48" column="32" />
+        <mark key="]" line="24" column="29" />
+        <mark key="." line="24" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/console/console.py" timestamp="1513955823154">
+        <mark key="'" line="8" column="13" />
+        <mark key="[" line="82" column="100" />
+        <mark key="]" line="210" column="0" />
+        <mark key="." line="210" column="0" />
+        <mark key="^" line="210" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/output/keys.py" timestamp="1508081272612">
         <mark key="[" line="16" column="4" />
       </file>
-      <file name="/usr/local/lib/python3.6/site-packages/prompt_toolkit/layout/menus.py" timestamp="1513417590589" />
+      <file name="$USER_HOME$/Documents/PykerStars/handranks.py" timestamp="1486143744144">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/config/config.json" timestamp="1508168720764">
+        <mark key="[" line="11" column="12" />
+        <mark key="]" line="12" column="12" />
+        <mark key="." line="12" column="12" />
+      </file>
+      <file name="E:/TensorFlow/test/mnist_softmax.py" timestamp="1497161628164">
+        <mark key="[" line="50" column="3" />
+      </file>
       <file name="D:/GITHUB/PykerStars/pykerstars/handranks.py" timestamp="1497539680393">
         <mark key="[" line="63" column="15" />
       </file>
@@ -166,6 +118,9 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/input_controller/input_recorder_pynput.py" timestamp="1513356941731">
         <mark key="[" line="72" column="36" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/launcher/laucher.py" timestamp="1507368669618">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/input/window_manager_win32.py" timestamp="1507123703233">
         <mark key="[" line="0" column="0" />
       </file>
@@ -174,13 +129,31 @@
         <mark key="]" line="112" column="0" />
         <mark key="." line="112" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/orc.py" timestamp="1507370286946">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="14" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="vim_settings.xml" timestamp="1513361563762">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_controller/window_controller.py" timestamp="1512293283804">
         <mark key="[" line="46" column="8" />
       </file>
-      <file name="/usr/local/lib/python3.6/site-packages/pygments/token.py" timestamp="1513432842110" />
+      <file name="/Python Console" timestamp="1513423730765">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1507464875970">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_manager/window_manager_osx.py" timestamp="1507133534680">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/async_test.py" timestamp="1510498607748">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="/usr/local/lib/python3.6/site-packages/prompt_toolkit/shortcuts.py" timestamp="1513420810655">
         <mark key="[" line="369" column="0" />
         <mark key="]" line="369" column="35" />
@@ -188,14 +161,26 @@
       <file name="$USER_HOME$/Documents/PyTexturePacker/__init__.py" timestamp="1477839593099">
         <mark key="[" line="0" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/PyTexturePacker/setup.py" timestamp="1487776918299">
+        <mark key="[" line="6" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/PyTexturePacker/Test/__init__.py" timestamp="1478342967692">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/GITHUB/PykerStars/pykerstars/utils/_poker_enum3.py" timestamp="1497540865696">
         <mark key="[" line="14" column="7" />
       </file>
       <file name="D:/GITHUB/PykerStars/pykerstars/player.py" timestamp="1497455696289">
         <mark key="[" line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/input_controller/__init__.py" timestamp="1512305416835">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1513432795851">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/GITHUB/PykerStars/pykerstars/utils/poker_enum_meta.py" timestamp="1497540600907">
+        <mark key="[" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/input_recorder/input_recoder.py" timestamp="1512293005236">
         <mark key="[" line="16" column="19" />
@@ -224,9 +209,23 @@
       <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Image.py" timestamp="1475379944934">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/usr/local/lib/python3.6/site-packages/prompt_toolkit/layout/containers.py" timestamp="1513423887793" />
+      <file name="$USER_HOME$/Documents/PykerStars/.gitignore" timestamp="1486071398335">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/PykerStars/pykerstars/game.py" timestamp="1514117953367">
+        <mark key="[" line="91" column="19" />
+        <mark key="]" line="92" column="7" />
+        <mark key="^" line="92" column="7" />
+        <mark key="." line="92" column="7" />
+      </file>
+      <file name="D:/GITHUB/PykerStars/pykerstars/utils/_poker_enum2.py" timestamp="1497540869769">
+        <mark key="[" line="0" column="14" />
+      </file>
       <file name="D:/GITHUB/PyTexturePacker/setup.py" timestamp="1495355603176">
         <mark key="[" line="6" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/communication/__init__.py" timestamp="1507212401116">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
