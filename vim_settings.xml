@@ -54,7 +54,6 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/output/output.py" timestamp="1508081577260">
         <mark key="[" line="3" column="4" />
       </file>
-      <file name="C:/Python35/Lib/site-packages/prompt_toolkit/eventloop/asyncio_posix.py" timestamp="1513697086979" />
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/redis_docker/redis_docker.py" timestamp="1507563820137">
         <mark key="[" line="16" column="4" />
         <mark key="]" line="16" column="21" />
@@ -76,7 +75,6 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="14" column="26" />
       </file>
-      <file name="C:/Python35/Lib/site-packages/prompt_toolkit/utils.py" timestamp="1513697219537" />
       <file name="$USER_HOME$/Documents/PykerStars/pykerstars/cards.py" timestamp="1486143798170">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="48" />
@@ -243,7 +241,7 @@
         <mark key="]" line="121" column="0" />
         <mark key="." line="121" column="0" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/console/console.py" timestamp="1513701185273">
+      <file name="D:/GITHUB/TheChineseRoom/console/console.py" timestamp="1514384738931">
         <mark key="[" line="182" column="0" />
         <mark key="]" line="182" column="36" />
         <mark key="." line="182" column="0" />
@@ -269,14 +267,12 @@
       <file name="D:/GITHUB/PykerStars/pykerstars/utils/_poker_enum2.py" timestamp="1497540869769">
         <mark key="[" line="0" column="14" />
       </file>
-      <file name="C:/Python35/Lib/site-packages/prompt_toolkit/renderer.py" timestamp="1513696058998" />
       <file name="D:/GITHUB/PyTWEANN/pytweann/configuration.py" timestamp="1497887886104">
         <mark key="[" line="9" column="79" />
         <mark key="]" line="9" column="78" />
         <mark key="^" line="9" column="78" />
         <mark key="." line="9" column="78" />
       </file>
-      <file name="C:/Python35/Lib/asyncio/windows_events.py" timestamp="1513699547515" />
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/frame_capture/frame_capture.py" timestamp="1507562450485">
         <mark key="[" line="34" column="81" />
         <mark key="]" line="53" column="0" />
@@ -299,7 +295,9 @@
         <mark key="]" line="11" column="13" />
         <mark key="." line="11" column="13" />
       </file>
-      <file name="C:/Python35/Lib/site-packages/prompt_toolkit/eventloop/callbacks.py" timestamp="1513696746803" />
+      <file name="D:/GITHUB/TheChineseRoom/monitor/monitor.py" timestamp="1514384959139">
+        <mark key="[" line="48" column="32" />
+      </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/PackerInterface.py" timestamp="1481035123738">
         <mark key="[" line="26" column="54" />
         <mark key="]" line="26" column="55" />
@@ -329,7 +327,6 @@
         <mark key="^" line="30" column="18" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="C:/Python35/Lib/asyncio/base_events.py" timestamp="1513698820333" />
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/input_recorder/input_recorder_pyuserinput.py" timestamp="1512307637176">
         <mark key="[" line="53" column="8" />
         <mark key="]" line="53" column="52" />
@@ -358,7 +355,6 @@
       <file name="$USER_HOME$/Documents/PyTexturePacker/setup.py" timestamp="1487776918299">
         <mark key="[" line="6" column="18" />
       </file>
-      <file name="C:/Python35/Lib/site-packages/prompt_toolkit/output.py" timestamp="1513694423250" />
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/monitor.py" timestamp="1507361781142">
         <mark key="[" line="48" column="32" />
         <mark key="]" line="24" column="29" />
@@ -390,7 +386,6 @@
       <file name="$USER_HOME$/Documents/PykerStars/.gitignore" timestamp="1486071398335">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="C:/Python35/Lib/site-packages/prompt_toolkit/interface.py" timestamp="1513698451400" />
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/input_controller/input_controller_pyautogui.py" timestamp="1512290508581">
         <mark key="[" line="112" column="0" />
         <mark key="]" line="112" column="0" />
@@ -422,7 +417,7 @@
         <mark key="." line="47" column="26" />
         <mark key="^" line="47" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513269186912">
+      <file name="/Dummy.txt" timestamp="1514384852613">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/output/keys.py" timestamp="1508081272612">
@@ -440,7 +435,6 @@
       <file name="D:/GITHUB/PyTexturePacker/main.py" timestamp="1493221831197">
         <mark key="[" line="11" column="5" />
       </file>
-      <file name="C:/Python35/Lib/site-packages/prompt_toolkit/terminal/win32_output.py" timestamp="1513694238079" />
       <file name="$USER_HOME$/Documents/PyBaler/PyBaler/Baler.py" timestamp="1483538292671">
         <mark key="[" line="24" column="29" />
         <mark key="]" line="9" column="13" />
@@ -471,8 +465,8 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_controller/window_controller.py" timestamp="1512293283804">
         <mark key="[" line="46" column="8" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/frame_capture/frame_capture.py" timestamp="1513175279337">
-        <mark key="[" line="21" column="4" />
+      <file name="D:/GITHUB/TheChineseRoom/frame_capture/frame_capture.py" timestamp="1514385042100">
+        <mark key="[" line="38" column="55" />
         <mark key="]" line="21" column="4" />
         <mark key="." line="21" column="4" />
       </file>
