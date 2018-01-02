@@ -35,7 +35,6 @@
         <mark key="]" line="14" column="14" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/communication/rpc.py" timestamp="1514390136912" />
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/frame_capture_lancher.py" timestamp="1507367280303">
         <mark key="[" line="0" column="0" />
       </file>
@@ -153,7 +152,7 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1514391166883">
+      <file name="/Python Console" timestamp="1514909394863">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1507464875970">
@@ -170,6 +169,7 @@
         <mark key="." line="59" column="11" />
         <mark key="^" line="59" column="11" />
       </file>
+      <file name="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1313743207/PIL/_imaging.py" timestamp="1514909342402" />
       <file name="D:/GITHUB/TheChineseRoom/core/communication/queue.py" timestamp="1514390971616">
         <mark key="[" line="31" column="10" />
         <mark key="]" line="31" column="0" />
@@ -228,6 +228,9 @@
         <mark key="^" line="9" column="30" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="C:/Python35/Lib/site-packages/PIL/Image.py" timestamp="1514908081892">
+        <mark key="[" line="420" column="30" />
+      </file>
       <file name="D:/GITHUB/PykerStars/pykerstars/utils/poker_enum_meta.py" timestamp="1497540600907">
         <mark key="[" line="0" column="1" />
       </file>
@@ -246,11 +249,6 @@
         <mark key="[" line="24" column="38" />
         <mark key="]" line="121" column="0" />
         <mark key="." line="121" column="0" />
-      </file>
-      <file name="D:/GITHUB/TheChineseRoom/console/console.py" timestamp="1514384738931">
-        <mark key="[" line="182" column="0" />
-        <mark key="]" line="182" column="36" />
-        <mark key="." line="182" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/input/window_manager_win32.py" timestamp="1507123703233">
         <mark key="[" line="0" column="0" />
@@ -301,11 +299,10 @@
         <mark key="]" line="11" column="13" />
         <mark key="." line="11" column="13" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/monitor/monitor.py" timestamp="1514391199668">
-        <mark key="[" line="51" column="24" />
-        <mark key="]" line="51" column="29" />
-        <mark key="^" line="51" column="29" />
-        <mark key="." line="51" column="29" />
+      <file name="D:/GITHUB/TheChineseRoom/monitor/monitor.py" timestamp="1514909162058">
+        <mark key="[" line="52" column="57" />
+        <mark key="]" line="52" column="57" />
+        <mark key="." line="52" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/PackerInterface.py" timestamp="1481035123738">
         <mark key="[" line="26" column="54" />
@@ -474,10 +471,11 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_controller/window_controller.py" timestamp="1512293283804">
         <mark key="[" line="46" column="8" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/frame_capture/frame_capture.py" timestamp="1514391266618">
-        <mark key="[" line="52" column="38" />
-        <mark key="]" line="52" column="38" />
-        <mark key="." line="52" column="38" />
+      <file name="D:/GITHUB/TheChineseRoom/frame_capture/frame_capture.py" timestamp="1514909495811">
+        <mark key="[" line="39" column="83" />
+        <mark key="]" line="39" column="83" />
+        <mark key="." line="39" column="83" />
+        <mark key="^" line="33" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/utils/uuid.py" timestamp="1507464750423">
         <mark key="[" line="14" column="4" />
@@ -592,10 +590,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>wg[&quot;width&quot;]</text>
+        <text>libtiff</text>
       </register>
       <register name="-" type="4">
-        <text>wg[&quot;width&quot;]</text>
+        <text>libtiff</text>
       </register>
       <register name="/" type="4">
         <text>run</text>
@@ -604,31 +602,31 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmlucHV0X3RpbWVvdXQgPSAiIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnBhY2tfaXRlbToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIkQiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIkREIikK</text>
+        <text encoding="base64">ICAgICAgICBJbWFnZS5JbWFnZS50b2JpdG1hcCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgYXN5bmNpby5zbGVlcCgwLjMpCg==</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIFBJTCBpbXBvcnQgSW1hZ2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgiQSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAjICAgICBleGl0KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGlmIHNlbGYuX3QgPT0gMjA6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgQXR0cmlidXRlRXJyb3I6Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuX3QgKz0gMQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBhYnN0cmFjdG1ldGhvZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIkEiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBhYnN0cmFjdG1ldGhvZAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnBhY2tfaXRlbToK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
