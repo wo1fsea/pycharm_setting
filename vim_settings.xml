@@ -46,6 +46,9 @@
       <file name="/usr/local/lib/python3.6/site-packages/pytesseract/pytesseract.py" timestamp="1507307141189">
         <mark key="[" line="87" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/frame_grabber/frame_grabber.py" timestamp="1515251449618">
+        <mark key="[" line="14" column="5" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/input_recorder_test.py" timestamp="1512309924785">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -128,6 +131,9 @@
         <mark key="[" line="112" column="0" />
         <mark key="]" line="112" column="0" />
         <mark key="." line="112" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/frame_grabber/frame_reader.py" timestamp="1515251483603">
+        <mark key="[" line="14" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/orc.py" timestamp="1507370286946">
         <mark key="[" line="14" column="0" />
