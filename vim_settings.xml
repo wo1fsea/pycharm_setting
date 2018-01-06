@@ -59,10 +59,11 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/requirements.txt" timestamp="1513421309808">
         <mark key="[" line="8" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/grabber/grabber.py" timestamp="1515261916063">
-        <mark key="[" line="22" column="15" />
-        <mark key="]" line="20" column="36" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/grabber/grabber.py" timestamp="1515266220530">
+        <mark key="[" line="29" column="4" />
+        <mark key="]" line="29" column="36" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="22" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_manager/__init__.py" timestamp="1507134074779">
         <mark key="[" line="0" column="0" />
@@ -359,7 +360,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzaXplID0gc3RydWN0LnVucGFjaygiSUkiLCBkYXRhWzo4XSkK</text>
+        <text encoding="base64">ICAgIHdnID0gd20uZ2V0X3dpbmRvd19nZW9tZXRyeSh3aW4pCg==</text>
       </register>
       <register name="-" type="4">
         <text>window_id</text>
@@ -368,34 +369,34 @@
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9xdWV1ZS5wdXQoemxpYi5jb21wcmVzcygoc3RydWN0LnBhY2soIklJIiwgc2N0X2ltZy53aWR0aCwgc2N0X2ltZy5oZWlnaHQpLCBzY3RfaW1nLnJnYiksKSwgMykpCg==</text>
+        <text encoding="base64">ICAgIHdnID0gd20uZ2V0X3dpbmRvd19nZW9tZXRyeSh3aW4pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzaXplID0gc3RydWN0LnVucGFjaygiSUkiLCBkYXRhWzo4XSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2cgPSB3bS5nZXRfd2luZG93X2dlb21ldHJ5KHdpbikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzaXplID0gc2VsZi5fc2l6ZVsid2lkdGgiXSwgc2VsZi5fc2l6ZVsiaGVpZ2h0Il0K</text>
+        <text encoding="base64">ICAgICAgICAjIHdnID0gd20uZ2V0X3dpbmRvd19nZW9tZXRyeSh3aW4pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkID0gc3RydWN0LnBhY2soIklJIiwgc2N0X2ltZy53aWR0aCwgc2N0X2ltZy5oZWlnaHQpICsgc2N0X2ltZy5yZ2IK</text>
+        <text encoding="base64">ICAgICAgICBgIyB3bS5tb3ZlX3dpbmRvdyh3aW4sIDAsIDApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzdHJ1Y3QudW5wYWNrKCJJSSIsIGRbOjhdKSkK</text>
+        <text encoding="base64">ICAgICAgICBzaXplID0gc3RydWN0LnVucGFjaygiSUkiLCBkYXRhWzo4XSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KGQpCg==</text>
+        <text encoding="base64">ICAgICAgICBzaXplID0gc2VsZi5fc2l6ZVsid2lkdGgiXSwgc2VsZi5fc2l6ZVsiaGVpZ2h0Il0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJycnLmZvcm1hdCh3aW5kb3dfaWQ9MSwgeD0yLCB5PTMpCg==</text>
+        <text encoding="base64">ICAgICAgICBkID0gc3RydWN0LnBhY2soIklJIiwgc2N0X2ltZy53aWR0aCwgc2N0X2ltZy5oZWlnaHQpICsgc2N0X2ltZy5yZ2IK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVuZCB0ZWxsCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzdHJ1Y3QudW5wYWNrKCJJSSIsIGRbOjhdKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZXQgcG9zaXRpb24gdG8ge3sge3h9LCB7eX0gfX0K</text>
+        <text encoding="base64">ICAgIHByaW50KGQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlbGwgYXBwbGljYXRpb24gIlN5c3RlbSBFdmVudHMiIHRvIHRlbGwgd2luZG93IDEgb2YgcHJvY2VzcyAie3dpbmRvd19pZH0iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJycnLmZvcm1hdCh3aW5kb3dfaWQ9MSwgeD0yLCB5PTMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
