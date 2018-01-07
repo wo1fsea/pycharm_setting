@@ -35,11 +35,11 @@
         <mark key="]" line="14" column="14" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/communication/rpc.py" timestamp="1515323373756">
-        <mark key="[" line="152" column="65" />
-        <mark key="]" line="152" column="65" />
-        <mark key="." line="152" column="65" />
-        <mark key="^" line="264" column="27" />
+      <file name="D:/GITHUB/TheChineseRoom/core/communication/rpc.py" timestamp="1515325486247">
+        <mark key="'" line="174" column="31" />
+        <mark key="[" line="263" column="90" />
+        <mark key="]" line="263" column="90" />
+        <mark key="." line="263" column="90" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/frame_capture_lancher.py" timestamp="1507367280303">
         <mark key="[" line="0" column="0" />
@@ -180,7 +180,7 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1515322758011">
+      <file name="/Python Console" timestamp="1515325457611">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1507464875970">
@@ -404,6 +404,9 @@
         <mark key="]" line="19" column="22" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="D:/GITHUB/TheChineseRoom/rpc_test2.py" timestamp="1515325527417">
+        <mark key="[" line="24" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/PykerStars/pykerstars/texasholdem.py" timestamp="1486143308173">
         <mark key="[" line="9" column="79" />
         <mark key="]" line="9" column="11" />
@@ -524,9 +527,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="25" filename="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" />
-      <jump line="55" column="32" filename="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" />
-      <jump line="56" column="23" filename="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" />
       <jump line="57" column="28" filename="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" />
       <jump line="59" column="31" filename="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" />
       <jump line="60" column="23" filename="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" />
@@ -624,55 +624,62 @@
       <jump line="416" column="25" filename="C:/Python35/Lib/asyncio/selector_events.py" />
       <jump line="92" column="19" filename="C:/Python35/Lib/asyncio/selector_events.py" />
       <jump line="93" column="47" filename="C:/Python35/Lib/asyncio/selector_events.py" />
+      <jump line="37" column="16" filename="D:/GITHUB/TheChineseRoom/core/communication/rpc.py" />
+      <jump line="126" column="40" filename="D:/GITHUB/TheChineseRoom/core/communication/rpc.py" />
+      <jump line="174" column="31" filename="D:/GITHUB/TheChineseRoom/core/communication/rpc.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>params</text>
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>params</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
-        <text>run</text>
+        <text>params</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHdpbl9uYW1lID0gd20uZ2V0X2ZvY3VzZWRfd2luZG93X25hbWUoKQo=</text>
+        <text encoding="base64">ICAgICAgICBycGNfZGF0YVsiYXJncyJdID0gYXJncwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnBhY2tfaXRlbToK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgqKmt3YXJncykK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBhY2tfaXRlbSA9IHBhY2tfaXRlbQo=</text>
+      <register name="2" type="4">
+        <text>if isinstance(params, dict):
+                    return_value = method(**params)
+                elif isinstance(params, (tuple, list)):
+                    return_value = method(*params)
+                else:</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBpZiBzZWxmLnBhY2tfaXRlbToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnBhY2tfaXRlbSA9IHBhY2tfaXRlbQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnBhY2tfaXRlbToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBwaWNrbGUK</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dHJ5Ogo=</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhjZXB0Ogo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCBwaWNrbGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG1zZ3BhY2sK</text>
+        <text encoding="base64">dHJ5Ogo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>run</last-search>
+      <last-search>params</last-search>
       <last-offset />
-      <last-pattern>run</last-pattern>
+      <last-pattern>params</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -683,6 +690,7 @@
         <entry>today_new</entry>
         <entry>Token</entry>
         <entry>run</entry>
+        <entry>params</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
