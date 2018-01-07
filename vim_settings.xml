@@ -29,11 +29,10 @@
       <file name="/a.dummy" timestamp="1512293017468">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/rpc_test2.py" timestamp="1515318561902">
-        <mark key="[" line="11" column="47" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="30" column="18" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/rpc_test2.py" timestamp="1515336768545">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/frame_capture_lancher.py" timestamp="1507367280303">
         <mark key="[" line="0" column="0" />
@@ -46,10 +45,10 @@
       <file name="/usr/local/lib/python3.6/site-packages/pytesseract/pytesseract.py" timestamp="1507307141189">
         <mark key="[" line="87" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/frame_grabber/frame_grabber.py" timestamp="1515264960063">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/frame_grabber/frame_grabber.py" timestamp="1515337691295">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/input_recorder_test.py" timestamp="1512309924785">
         <mark key="[" line="16" column="0" />
@@ -68,10 +67,11 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_manager/__init__.py" timestamp="1507134074779">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/communication/rpc.py" timestamp="1515318465767">
-        <mark key="[" line="161" column="0" />
-        <mark key="]" line="161" column="56" />
-        <mark key="." line="104" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/communication/rpc.py" timestamp="1515338514725">
+        <mark key="[" line="212" column="37" />
+        <mark key="]" line="212" column="37" />
+        <mark key="." line="212" column="37" />
+        <mark key="^" line="182" column="19" />
       </file>
       <file name="D:/GITHUB/PyTWEANN/.gitignore" timestamp="1497890267596">
         <mark key="[" line="91" column="0" />
@@ -108,6 +108,11 @@
       <file name="E:/TensorFlow/test/mnist_softmax.py" timestamp="1497161628164">
         <mark key="[" line="50" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/communication/collections/redis_object.py" timestamp="1515337965023">
+        <mark key="[" line="12" column="10" />
+        <mark key="]" line="12" column="10" />
+        <mark key="." line="12" column="10" />
+      </file>
       <file name="D:/GITHUB/PykerStars/pykerstars/handranks.py" timestamp="1497539680393">
         <mark key="[" line="63" column="15" />
       </file>
@@ -126,9 +131,11 @@
         <mark key="]" line="17" column="43" />
         <mark key="." line="17" column="43" />
       </file>
+      <file name="/usr/local/Cellar/python3/3.6.1/Frameworks/Python.framework/Versions/3.6/lib/python3.6/collections/__init__.py" timestamp="1515337415922" />
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/input_controller/input_recorder_pynput.py" timestamp="1513356941731">
         <mark key="[" line="72" column="36" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/utils/singleton.py" timestamp="1515337741517" />
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/launcher/laucher.py" timestamp="1507368669618">
         <mark key="[" line="0" column="0" />
       </file>
@@ -156,7 +163,7 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_controller/window_controller.py" timestamp="1515261905372">
         <mark key="[" line="46" column="8" />
       </file>
-      <file name="/Python Console" timestamp="1515264887884">
+      <file name="/Python Console" timestamp="1515337097914">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/frame_grabber/__init__.py" timestamp="1515252648015">
@@ -199,7 +206,7 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/input_controller/__init__.py" timestamp="1512305416835">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515318377966">
+      <file name="/Dummy.txt" timestamp="1515337742451">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/monitor/monitor.py" timestamp="1515257785817">
@@ -223,11 +230,11 @@
       <file name="D:/GITHUB/PyTexturePacker/main.py" timestamp="1493221831197">
         <mark key="[" line="11" column="5" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/communication/redis_object.py" timestamp="1515336256148">
+        <mark key="[" line="68" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/output/output.py" timestamp="1508081577260">
         <mark key="[" line="3" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/communication/queue.py" timestamp="1510498878016">
-        <mark key="[" line="32" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/utils/uuid.py" timestamp="1507464750423">
         <mark key="[" line="14" column="4" />
@@ -359,44 +366,44 @@
       <jump line="25" column="33" filename="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_controller/window_controller_darwin.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHdnID0gd20uZ2V0X3dpbmRvd19nZW9tZXRyeSh3aW4pCg==</text>
+      <register name="&quot;" type="4">
+        <text>request_queue</text>
       </register>
       <register name="-" type="4">
-        <text>window_id</text>
+        <text>request_queue</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHdnID0gd20uZ2V0X3dpbmRvd19nZW9tZXRyeSh3aW4pCg==</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHRfcXVldWUgPSBRdWV1ZShycGNfaWQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2cgPSB3bS5nZXRfd2luZG93X2dlb21ldHJ5KHdpbikK</text>
+        <text encoding="base64">ICAgICAgICBpZiBycGNfZGF0YToK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIHdnID0gd20uZ2V0X3dpbmRvd19nZW9tZXRyeSh3aW4pCg==</text>
+        <text encoding="base64">ICAgICAgICBycGNfZGF0YSA9IHJlcXVlc3RfcXVldWUuYmdldCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBgIyB3bS5tb3ZlX3dpbmRvdyh3aW4sIDAsIDApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGltZW91dCArPSBBU1lOQ19HRVRfUE9MTF9JTlRFUlZBTAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzaXplID0gc3RydWN0LnVucGFjaygiSUkiLCBkYXRhWzo4XSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzaXplID0gc2VsZi5fc2l6ZVsid2lkdGgiXSwgc2VsZi5fc2l6ZVsiaGVpZ2h0Il0K</text>
+        <text encoding="base64">cmMgPSBnZXRfcmVkaXMoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkID0gc3RydWN0LnBhY2soIklJIiwgc2N0X2ltZy53aWR0aCwgc2N0X2ltZy5oZWlnaHQpICsgc2N0X2ltZy5yZ2IK</text>
+        <text encoding="base64">ZnJvbSBjb3JlLmNvbW11bmljYXRpb24uZGJfY29ubmVjdGlvbiBpbXBvcnQgZ2V0X3JlZGlzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzdHJ1Y3QudW5wYWNrKCJJSSIsIGRbOjhdKSkK</text>
+        <text encoding="base64">cmMuZmx1c2hkYigpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KGQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2cgPSB3bS5nZXRfd2luZG93X2dlb21ldHJ5KHdpbikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJycnLmZvcm1hdCh3aW5kb3dfaWQ9MSwgeD0yLCB5PTMpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHdnID0gd20uZ2V0X3dpbmRvd19nZW9tZXRyeSh3aW4pCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
