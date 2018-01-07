@@ -35,10 +35,11 @@
         <mark key="]" line="14" column="14" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/communication/rpc.py" timestamp="1515320237375">
-        <mark key="[" line="297" column="0" />
-        <mark key="]" line="297" column="0" />
-        <mark key="." line="297" column="0" />
+      <file name="D:/GITHUB/TheChineseRoom/core/communication/rpc.py" timestamp="1515323373756">
+        <mark key="[" line="152" column="65" />
+        <mark key="]" line="152" column="65" />
+        <mark key="." line="152" column="65" />
+        <mark key="^" line="264" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/frame_capture_lancher.py" timestamp="1507367280303">
         <mark key="[" line="0" column="0" />
@@ -127,6 +128,12 @@
         <mark key="]" line="33" column="56" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="D:/GITHUB/TheChineseRoom/rpc_test1.py" timestamp="1515323038514">
+        <mark key="[" line="22" column="25" />
+        <mark key="]" line="23" column="18" />
+        <mark key="^" line="23" column="18" />
+        <mark key="." line="23" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/main.py" timestamp="1481465720794">
         <mark key="[" line="16" column="79" />
         <mark key="]" line="15" column="31" />
@@ -173,7 +180,7 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1514996619500">
+      <file name="/Python Console" timestamp="1515322758011">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1507464875970">
@@ -620,10 +627,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>b</text>
+        <text>params</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>params</text>
       </register>
       <register name="/" type="4">
         <text>run</text>
