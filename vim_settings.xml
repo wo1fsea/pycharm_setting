@@ -35,6 +35,11 @@
         <mark key="]" line="14" column="14" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="D:/GITHUB/TheChineseRoom/core/communication/rpc.py" timestamp="1515319660308">
+        <mark key="[" line="297" column="0" />
+        <mark key="]" line="297" column="0" />
+        <mark key="." line="297" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/frame_capture_lancher.py" timestamp="1507367280303">
         <mark key="[" line="0" column="0" />
       </file>
@@ -117,13 +122,23 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="6" column="4" />
       </file>
+      <file name="D:/GITHUB/TheChineseRoom/frame_grabber/frame_reader.py" timestamp="1514996532798">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="56" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/main.py" timestamp="1481465720794">
         <mark key="[" line="16" column="79" />
         <mark key="]" line="15" column="31" />
         <mark key="^" line="15" column="31" />
         <mark key="." line="15" column="31" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/frame_grabber/frame_grabber.py" timestamp="1514995190805" />
+      <file name="D:/GITHUB/TheChineseRoom/frame_grabber/frame_grabber.py" timestamp="1514997290467">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="^" line="60" column="42" />
+        <mark key="." line="63" column="0" />
+      </file>
       <file name="D:/GITHUB/TheChineseRoom/core/input_controller/input_recorder_pynput.py" timestamp="1513180015312">
         <mark key="[" line="54" column="7" />
         <mark key="]" line="54" column="0" />
@@ -141,8 +156,6 @@
         <mark key="^" line="195" column="56" />
         <mark key="." line="195" column="56" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/communication/table.py" timestamp="1514993754497" />
-      <file name="C:/Python35/Lib/site-packages/redis/client.py" timestamp="1514994544210" />
       <file name="$USER_HOME$/Documents/PykerStars/pykerstars/handranks.py" timestamp="1488211360771">
         <mark key="[" line="172" column="16" />
         <mark key="]" line="172" column="38" />
@@ -155,7 +168,7 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1514994009533">
+      <file name="/Python Console" timestamp="1514996619500">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1507464875970">
@@ -236,7 +249,7 @@
       <file name="D:/GITHUB/PykerStars/pykerstars/utils/poker_enum_meta.py" timestamp="1497540600907">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/config/default.json" timestamp="1514994798029">
+      <file name="D:/GITHUB/TheChineseRoom/config/default.json" timestamp="1514995941900">
         <mark key="[" line="7" column="4" />
         <mark key="]" line="7" column="20" />
         <mark key="." line="7" column="0" />
@@ -301,10 +314,10 @@
         <mark key="]" line="11" column="13" />
         <mark key="." line="11" column="13" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/monitor/monitor.py" timestamp="1514909162058">
-        <mark key="[" line="52" column="57" />
-        <mark key="]" line="52" column="57" />
-        <mark key="." line="52" column="57" />
+      <file name="D:/GITHUB/TheChineseRoom/monitor/monitor.py" timestamp="1514995831679">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/PackerInterface.py" timestamp="1481035123738">
         <mark key="[" line="26" column="54" />
@@ -425,7 +438,7 @@
         <mark key="." line="47" column="26" />
         <mark key="^" line="47" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514995177359">
+      <file name="/Dummy.txt" timestamp="1514997257045">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/output/keys.py" timestamp="1508081272612">
@@ -591,43 +604,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9jb25maWcgPSBUYWJsZShjb25maWdbImZyYW1lX3NpemVfa2V5Il0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>libtiff</text>
+        <text>Image.frombytes('RGB', size, zlib.decompress(bytes))</text>
       </register>
       <register name="/" type="4">
         <text>run</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9jb25maWdbIndpZHRoIl0gPSA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHdpbl9uYW1lID0gd20uZ2V0X2ZvY3VzZWRfd2luZG93X25hbWUoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9jb25maWcgPSBUYWJsZShjb25maWdbImZyYW1lX3NpemVfa2V5Il0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICJmcmFtZV9jYXB0dXJlIjoK</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIGRlZiBnZXRfYXN5bmNfbWV0aG9kKHNlbGYsIG1ldGhvZF9uYW1lKToKICAgICAgICBpZiBtZXRob2RfbmFtZSBpbiBzZWxmLl9tZXRob2RfbGlzdDoKICAgICAgICAgICAgcmV0dXJuIEFzeW5jUlBDQ2xpZW50TWV0aG9kKHNlbGYuX3JwY19tYW5hZ2VyLCBzZWxmLl9zZXJ2aWNlX25hbWUsIG1ldGhvZF9uYW1lKQogICAgICAgIHJhaXNlIEF0dHJpYnV0ZUVycm9yKCJ0eXBlIG9iamVjdCAnJXMnIGhhcyBubyBhdHRyaWJ1dGUgJyVzJyIgJSAoc2VsZi5fX2NsYXNzX18uX19uYW1lX18sIG1ldGhvZF9uYW1lKSk=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl90ID0gMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICBleGl0KCkK</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICBpZiBtZXRob2RfbmFtZSBpbiBzZWxmLl9tZXRob2RfbGlzdDoKICAgICAgICAgICAgcmV0dXJuIFJQQ0NsaWVudE1ldGhvZChzZWxmLl9ycGNfbWFuYWdlciwgc2VsZi5fc2VydmljZV9uYW1lLCBtZXRob2RfbmFtZSkKICAgICAgICByYWlzZSBBdHRyaWJ1dGVFcnJvcigidHlwZSBvYmplY3QgJyVzJyBoYXMgbm8gYXR0cmlidXRlICclcyciICUgKHNlbGYuX19jbGFzc19fLl9fbmFtZV9fLCBtZXRob2RfbmFtZSkpCgogICAgZGVmIGdldF9hc3luY19tZXRob2Qoc2VsZiwgbWV0aG9kX25hbWUpOg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIGlmIHNlbGYuX3QgPiAyMDoK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICB3aW5fbmFtZSA9IHdtLmdldF9mb2N1c2VkX3dpbmRvd19uYW1lKCkKICAgICAgICBwcmludCh3aW5fbmFtZSk=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuX3QgKz0gMQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2l6ZSA9IHNlbGYuX3NpemVbIndpZHRoIl0sIHNlbGYuX3NpemVbImhlaWdodCJdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBQSUwgaW1wb3J0IEltYWdlCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9xdWV1ZS5jbGVhcigpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIkQiKQo=</text>
+        <text encoding="base64">ICAgIHdnID0gd20uZ2V0X3dpbmRvd19nZW9tZXRyeSh3bS5sb2NhdGVfd2luZG93KHdtLmdldF9mb2N1c2VkX3dpbmRvd19uYW1lKCkpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBJbWFnZS5JbWFnZS50b2JpdG1hcCgpCg==</text>
+        <text encoding="base64">ICAgIGZjLnNldF9nZW9tZXRyeSh3Z1sieCJdLCB3Z1sieSJdLCB3Z1sid2lkdGgiXSwgd2dbImhlaWdodCJdKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -689,6 +702,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
