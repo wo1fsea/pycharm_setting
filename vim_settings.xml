@@ -99,12 +99,11 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_manager/window_manager_osx.py" timestamp="1507133534680">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/Arbitrager/Arbitrager/okex_test.py" timestamp="1515598784170">
-        <mark key="'" line="43" column="26" />
-        <mark key="[" line="43" column="26" />
-        <mark key="]" line="42" column="47" />
-        <mark key="^" line="42" column="22" />
-        <mark key="." line="42" column="22" />
+      <file name="D:/GITHUB/Arbitrager/Arbitrager/okex_test.py" timestamp="1515600529605">
+        <mark key="'" line="41" column="8" />
+        <mark key="[" line="44" column="22" />
+        <mark key="]" line="44" column="22" />
+        <mark key="." line="44" column="22" />
       </file>
       <file name="E:/TensorFlow/test/mnist_softmax.py" timestamp="1497161628164">
         <mark key="[" line="50" column="3" />
@@ -699,56 +698,56 @@
       <jump line="8" column="13" filename="$USER_HOME$/Documents/GitHub/TheChineseRoom/console/console.py" />
       <jump line="25" column="33" filename="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_controller/window_controller_darwin.py" />
       <jump line="17" column="4" filename="D:/GITHUB/Arbitrager/Arbitrager/okextest.py" />
-      <jump line="41" column="26" filename="D:/GITHUB/Arbitrager/Arbitrager/okex_test.py" />
+      <jump line="41" column="8" filename="D:/GITHUB/Arbitrager/Arbitrager/okex_test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb21wcmVzc0RhdGEgPSBqc29uLmxvYWRzKGNvbXByZXNzRGF0YSkK</text>
+      <register name="&quot;" type="4">
+        <text>compressData</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>compressData</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0cmFkZVN0clw+</text>
+        <text encoding="base64">XDx3c1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb21wcmVzc0RhdGEgPSBqc29uLmxvYWRzKGNvbXByZXNzRGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY29tcHJlc3NEYXRhKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2cgPSB3bS5nZXRfd2luZG93X2dlb21ldHJ5KHdpbikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIHdnID0gd20uZ2V0X3dpbmRvd19nZW9tZXRyeSh3aW4pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2cgPSB3bS5nZXRfd2luZG93X2dlb21ldHJ5KHdpbikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBgIyB3bS5tb3ZlX3dpbmRvdyh3aW4sIDAsIDApCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHdnID0gd20uZ2V0X3dpbmRvd19nZW9tZXRyeSh3aW4pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzaXplID0gc3RydWN0LnVucGFjaygiSUkiLCBkYXRhWzo4XSkK</text>
+        <text encoding="base64">ICAgICAgICBgIyB3bS5tb3ZlX3dpbmRvdyh3aW4sIDAsIDApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzaXplID0gc2VsZi5fc2l6ZVsid2lkdGgiXSwgc2VsZi5fc2l6ZVsiaGVpZ2h0Il0K</text>
+        <text encoding="base64">ICAgICAgICBzaXplID0gc3RydWN0LnVucGFjaygiSUkiLCBkYXRhWzo4XSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkID0gc3RydWN0LnBhY2soIklJIiwgc2N0X2ltZy53aWR0aCwgc2N0X2ltZy5oZWlnaHQpICsgc2N0X2ltZy5yZ2IK</text>
+        <text encoding="base64">ICAgICAgICBzaXplID0gc2VsZi5fc2l6ZVsid2lkdGgiXSwgc2VsZi5fc2l6ZVsiaGVpZ2h0Il0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzdHJ1Y3QudW5wYWNrKCJJSSIsIGRbOjhdKSkK</text>
+        <text encoding="base64">ICAgICAgICBkID0gc3RydWN0LnBhY2soIklJIiwgc2N0X2ltZy53aWR0aCwgc2N0X2ltZy5oZWlnaHQpICsgc2N0X2ltZy5yZ2IK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0cmFkZVN0clw+</last-search>
+      <last-search encoding="base64">XDx3c1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0cmFkZVN0clw+</last-pattern>
+      <last-pattern encoding="base64">XDx3c1w+</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -761,6 +760,7 @@
         <entry>run</entry>
         <entry>params</entry>
         <entry encoding="base64">XDx0cmFkZVN0clw+</entry>
+        <entry encoding="base64">XDx3c1w+</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
