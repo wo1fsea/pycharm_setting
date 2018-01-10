@@ -99,11 +99,12 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_manager/window_manager_osx.py" timestamp="1507133534680">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/Arbitrager/Arbitrager/okex_test.py" timestamp="1515600529605">
+      <file name="D:/GITHUB/Arbitrager/Arbitrager/okex_test.py" timestamp="1515600760233">
         <mark key="'" line="41" column="8" />
-        <mark key="[" line="44" column="22" />
-        <mark key="]" line="44" column="22" />
-        <mark key="." line="44" column="22" />
+        <mark key="[" line="47" column="16" />
+        <mark key="]" line="47" column="52" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="46" column="51" />
       </file>
       <file name="E:/TensorFlow/test/mnist_softmax.py" timestamp="1497161628164">
         <mark key="[" line="50" column="3" />
@@ -122,11 +123,11 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/communication/__init__.py" timestamp="1507212401116">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/Arbitrager/Arbitrager/huobi_test.py" timestamp="1515598768417">
-        <mark key="[" line="5" column="11" />
-        <mark key="]" line="48" column="51" />
-        <mark key="^" line="41" column="61" />
-        <mark key="." line="48" column="0" />
+      <file name="D:/GITHUB/Arbitrager/Arbitrager/huobi_test.py" timestamp="1515601181272">
+        <mark key="[" line="50" column="12" />
+        <mark key="]" line="50" column="41" />
+        <mark key="^" line="49" column="40" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/communication/connection.py" timestamp="1507220895012">
         <mark key="[" line="25" column="3" />
@@ -701,8 +702,8 @@
       <jump line="41" column="8" filename="D:/GITHUB/Arbitrager/Arbitrager/okex_test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>compressData</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXNrcyA9IHJlc3VsdFsiZGF0YSJdWyJhc2tzIl0K</text>
       </register>
       <register name="-" type="4">
         <text>compressData</text>
@@ -711,7 +712,7 @@
         <text encoding="base64">XDx3c1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb21wcmVzc0RhdGEgPSBqc29uLmxvYWRzKGNvbXByZXNzRGF0YSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNrcyA9IHJlc3VsdFsiZGF0YSJdWyJhc2tzIl0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY29tcHJlc3NEYXRhKQo=</text>
