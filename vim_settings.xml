@@ -21,7 +21,7 @@
       <file name="D:/GITHUB/PykerStars/pykerstars/table.py" timestamp="1497448052160">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1515597612803">
+      <file name="/a.dummy" timestamp="1515686574689">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/frame_grabber/frame_reader.py" timestamp="1515265020233">
@@ -89,6 +89,11 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
         <mark key="^" line="14" column="26" />
+      </file>
+      <file name="D:/GITHUB/Arbitrager/Arbitrager/exchange.py" timestamp="1515686746333">
+        <mark key="[" line="15" column="6" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PykerStars/pykerstars/cards.py" timestamp="1513956827361">
         <mark key="[" line="11" column="0" />
@@ -236,7 +241,11 @@
       <file name="$USER_HOME$/Documents/PykerStars/handranks.py" timestamp="1486143744144">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Python35/Lib/site-packages/websocket/_logging.py" timestamp="1515597198438" />
+      <file name="D:/GITHUB/Arbitrager/Arbitrager/exchange_huobi.py" timestamp="1515686002644">
+        <mark key="[" line="174" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+      </file>
       <file name="D:/GITHUB/PyTWEANN/pytweann/config.py" timestamp="1498579577032">
         <mark key="[" line="19" column="24" />
         <mark key="]" line="33" column="0" />
@@ -703,10 +712,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNrcyA9IHJlc3VsdFsiZGF0YSJdWyJhc2tzIl0K</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>compressData</text>
+        <text>com</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3c1w+</text>
@@ -715,31 +724,31 @@
         <text encoding="base64">ICAgICAgICAgICAgYXNrcyA9IHJlc3VsdFsiZGF0YSJdWyJhc2tzIl0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY29tcHJlc3NEYXRhKQo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
+        <text encoding="base64">ICAgICAgIHBhc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgo=</text>
+        <text encoding="base64">ICAgZGVmIF9faW5pdF9fKHNlbGYpOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2cgPSB3bS5nZXRfd2luZG93X2dlb21ldHJ5KHdpbikK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChwYXJhbXMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIHdnID0gd20uZ2V0X3dpbmRvd19nZW9tZXRyeSh3aW4pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY29tcHJlc3NEYXRhKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBgIyB3bS5tb3ZlX3dpbmRvdyh3aW4sIDAsIDApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzaXplID0gc3RydWN0LnVucGFjaygiSUkiLCBkYXRhWzo4XSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzaXplID0gc2VsZi5fc2l6ZVsid2lkdGgiXSwgc2VsZi5fc2l6ZVsiaGVpZ2h0Il0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2cgPSB3bS5nZXRfd2luZG93X2dlb21ldHJ5KHdpbikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkID0gc3RydWN0LnBhY2soIklJIiwgc2N0X2ltZy53aWR0aCwgc2N0X2ltZy5oZWlnaHQpICsgc2N0X2ltZy5yZ2IK</text>
+        <text encoding="base64">ICAgICAgICAjIHdnID0gd20uZ2V0X3dpbmRvd19nZW9tZXRyeSh3aW4pCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
