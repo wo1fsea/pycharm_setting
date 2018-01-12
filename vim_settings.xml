@@ -155,10 +155,10 @@
         <mark key="]" line="33" column="56" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="D:/GITHUB/Arbitrager/Arbitrager/exchange/exchange.py" timestamp="1515772270963">
-        <mark key="[" line="11" column="5" />
-        <mark key="]" line="11" column="5" />
-        <mark key="." line="11" column="5" />
+      <file name="D:/GITHUB/Arbitrager/Arbitrager/exchange/exchange.py" timestamp="1515775254393">
+        <mark key="[" line="15" column="10" />
+        <mark key="]" line="15" column="33" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="D:/GITHUB/TheChineseRoom/rpc_test1.py" timestamp="1515323038514">
         <mark key="[" line="22" column="25" />
@@ -195,11 +195,11 @@
         <mark key="^" line="195" column="56" />
         <mark key="." line="195" column="56" />
       </file>
-      <file name="D:/GITHUB/Arbitrager/Arbitrager/exchange/exchange_huobi/exchange_huobi.py" timestamp="1515772626919">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="39" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="11" column="30" />
+      <file name="D:/GITHUB/Arbitrager/Arbitrager/exchange/exchange_huobi/exchange_huobi.py" timestamp="1515775295684">
+        <mark key="[" line="19" column="32" />
+        <mark key="]" line="20" column="33" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="19" column="32" />
       </file>
       <file name="D:/GITHUB/TheChineseRoom/core/communication/table.py" timestamp="1515321384030">
         <mark key="[" line="18" column="26" />
@@ -218,7 +218,7 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1515597055720">
+      <file name="/Python Console" timestamp="1515775348774">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1507464875970">
@@ -301,10 +301,11 @@
       <file name="C:/Python35/Lib/site-packages/PIL/Image.py" timestamp="1514908081892">
         <mark key="[" line="420" column="30" />
       </file>
-      <file name="D:/GITHUB/Arbitrager/Arbitrager/test.py" timestamp="1515773377442">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="D:/GITHUB/Arbitrager/Arbitrager/test.py" timestamp="1515775382465">
+        <mark key="[" line="29" column="18" />
+        <mark key="]" line="29" column="18" />
+        <mark key="." line="29" column="18" />
+        <mark key="^" line="23" column="10" />
       </file>
       <file name="D:/GITHUB/PykerStars/pykerstars/utils/poker_enum_meta.py" timestamp="1497540600907">
         <mark key="[" line="0" column="1" />
@@ -519,11 +520,11 @@
       <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Image.py" timestamp="1475379944934">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/Arbitrager/Arbitrager/exchange/exchange_okex/exchange_okex.py" timestamp="1515772605469">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="31" column="43" />
+      <file name="D:/GITHUB/Arbitrager/Arbitrager/exchange/exchange_okex/exchange_okex.py" timestamp="1515775282695">
+        <mark key="[" line="12" column="53" />
+        <mark key="]" line="20" column="33" />
+        <mark key="." line="20" column="17" />
+        <mark key="^" line="20" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/frame_capture.py" timestamp="1507362692752">
         <mark key="[" line="38" column="55" />
@@ -746,34 +747,37 @@
       <jump line="41" column="8" filename="D:/GITHUB/Arbitrager/Arbitrager/okex_test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIGJ1eV9hbW91bnQgPSBhc2tzWzBdWzFd</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBTWU1CT0xfT01HX0VUSDogIm9tZ19ldGgiCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIGJ1eV9hbW91bnQgPSBhc2tzWzBdWzFd</text>
+        <text encoding="base64">YW5kIChzZWxsIC0gYnV5KSAvIHNlbGwgPiAwLjAx</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3c1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSAuLmV4Y2hhbmdlIGltcG9ydCBTWU1CT0xfQlRDX1VTRFQgCg==</text>
+        <text encoding="base64">ICAgICAgICBTWU1CT0xfT01HX0VUSDogIm9tZ19ldGgiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvciBiaWQgaW4gYmlkczoK</text>
+        <text encoding="base64">ICAgICAgICBTWU1CT0xfQlRDX1VTRFQ6ICIiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmljZSwgYW1vdW50ID0gYmlkCg==</text>
+        <text encoding="base64">ICAgIGZvciBiaWQgaW4gYmlkczoK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwcmljZSwgYW1vdW50ID0gYmlkCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBpZiBwcmljZSA8IGFzawo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgIGJpZF9zZXQgPSBbXQogICAgYXNrX3NldCA9IFtd</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>,
   &quot;frame_grabber&quot;: {
     &quot;frame_size_key&quot;: &quot;frame_size&quot;,
@@ -784,14 +788,11 @@
   &quot;input_queue_length&quot;: 128,
   &quot;output_queue_length&quot;: 128</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAiZnJhbWVfZ3JhYmJlciI6IHsKICAgICJmcmFtZV9zaXplX2tleSI6ICJmcmFtZV9zaXplIiwKICAgICJmcmFtZV9jYWNoZV9rZXkiOiAiZnJhbWVfY2FjaGUiLAogICAgImZyYW1lX2NhY2hlX2xlbmd0aCI6IDEyLAogICAgImZwcyI6IDEyCiAgfSwKICAiaW5wdXRfcXVldWVfbGVuZ3RoIjogMTI4LAogICJvdXRwdXRfcXVldWVfbGVuZ3RoIjogMTI4</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">CmNsYXNzIE9LQ29pblNwb3Q6CgoKIyCz9cq8u69hcGlrZXmjrHNlY3JldGtleSx1cmwKYXBpa2V5ID0gJ1hYWFgnCnNlY3JldGtleSA9ICdYWFhYWCcKb2tjb2luUkVTVFVSTCA9ICd3d3cub2tleC5jb20nICAjIMfrx/PXotLio7q5+sTa1cu6xdDo0qog0N64xM6qIHd3dy5va2NvaW4uY24KCiMgz9a79UFQSQpva2NvaW5TcG90ID0gT0tDb2luU3BvdChva2NvaW5SRVNUVVJMLCBhcGlrZXksIHNlY3JldGtleSkKCiMgxtq79UFQSQojIG9rY29pbkZ1dHVyZSA9IE9LQ29pbkZ1dHVyZShva2NvaW5SRVNUVVJMLGFwaWtleSxzZWNyZXRrZXkpCgp3aGlsZSBUcnVlOgogICAgYSA9IHRpbWUudGltZSgpCiAgICBwcmludCh1JyDP1rv10NDH6SAnKQogICAgcHJpbnQob2tjb2luU3BvdC50aWNrZXIoJ2J0Y191c2R0JykpCiAgICBwcmludCh0aW1lLnRpbWUoKSAtIGEp</text>
+        <text encoding="base64">ICAiZnJhbWVfZ3JhYmJlciI6IHsKICAgICJmcmFtZV9zaXplX2tleSI6ICJmcmFtZV9zaXplIiwKICAgICJmcmFtZV9jYWNoZV9rZXkiOiAiZnJhbWVfY2FjaGUiLAogICAgImZyYW1lX2NhY2hlX2xlbmd0aCI6IDEyLAogICAgImZwcyI6IDEyCiAgfSwKICAiaW5wdXRfcXVldWVfbGVuZ3RoIjogMTI4LAogICJvdXRwdXRfcXVldWVfbGVuZ3RoIjogMTI4</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
