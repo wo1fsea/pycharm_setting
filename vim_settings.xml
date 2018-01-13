@@ -73,6 +73,9 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/frame_grabber/__init__.py" timestamp="1515252648015">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/GITHUB/TheChineseRoom/grabber/grabber.py" timestamp="1515858734552">
+        <mark key="[" line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/Test/__init__.py" timestamp="1478342967692">
         <mark key="[" line="0" column="0" />
       </file>
@@ -247,10 +250,11 @@
         <mark key="^" line="26" column="102" />
         <mark key="." line="26" column="102" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/watcher/watcher.py" timestamp="1515857366945">
-        <mark key="[" line="42" column="47" />
-        <mark key="]" line="41" column="41" />
-        <mark key="." line="41" column="0" />
+      <file name="D:/GITHUB/TheChineseRoom/core/watcher/watcher.py" timestamp="1515858673673">
+        <mark key="[" line="22" column="23" />
+        <mark key="]" line="22" column="23" />
+        <mark key="." line="22" column="23" />
+        <mark key="^" line="46" column="71" />
       </file>
       <file name="$USER_HOME$/Documents/PykerStars/handranks.py" timestamp="1486143744144">
         <mark key="[" line="0" column="0" />
@@ -331,6 +335,9 @@
       </file>
       <file name="D:/GITHUB/Arbitrager/Arbitrager/exchange/exchange_okex/utils_okex.py" timestamp="1515689191796">
         <mark key="^" line="9" column="11" />
+      </file>
+      <file name="D:/GITHUB/TheChineseRoom/console/console.py" timestamp="1515859560197">
+        <mark key="[" line="205" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/input/window_manager_win32.py" timestamp="1507123703233">
         <mark key="[" line="0" column="0" />
@@ -540,6 +547,12 @@
         <mark key="]" line="159" column="0" />
         <mark key="." line="159" column="0" />
       </file>
+      <file name="D:/GITHUB/TheChineseRoom/grabber_watcher_test.py" timestamp="1515858783914">
+        <mark key="[" line="9" column="79" />
+        <mark key="]" line="9" column="12" />
+        <mark key="^" line="9" column="12" />
+        <mark key="." line="9" column="12" />
+      </file>
       <file name="D:/GITHUB/PykerStars/pykerstars/utils/_poker_enum3.py" timestamp="1497540865696">
         <mark key="[" line="14" column="7" />
       </file>
@@ -630,6 +643,12 @@
         <mark key="[" line="90" column="15" />
         <mark key="]" line="90" column="15" />
         <mark key="." line="90" column="15" />
+      </file>
+      <file name="D:/GITHUB/TheChineseRoom/core/watcher/__init__.py" timestamp="1515858816822">
+        <mark key="[" line="0" column="28" />
+        <mark key="]" line="0" column="27" />
+        <mark key="^" line="0" column="27" />
+        <mark key="." line="0" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/utils/uuid.py" timestamp="1507464750423">
         <mark key="[" line="14" column="4" />
@@ -750,31 +769,40 @@
       <jump line="41" column="8" filename="D:/GITHUB/Arbitrager/Arbitrager/okex_test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl93YXRjaGVyX25hbWUgPSB3YXRjaGVyX25hbWUK</text>
+      <register name="&quot;" type="4">
+        <text>watcher_key</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YW5kIChzZWxsIC0gYnV5KSAvIHNlbGwgPiAwLjAx</text>
+        <text>watcher_key</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3c1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTWU1CT0xfT01HX0VUSDogIm9tZ19ldGgiCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl93YXRjaGVyX3NlcnZpY2UgPSBXYXRjaGVyQ29tbWFuZFNlcnZpY2Uoc2VsZi5fd2F0Y2hlcl9rZXkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl93YXRjaGVyX25hbWUgPSB3YXRjaGVyX25hbWUK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIFdBVENIRVJfU0VSVklDRV9OQU1FID0gIndhdGNoZXJfY29tbWFuZF8lcyIK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLl93YXRjaGVyX25hbWUgPSB3YXRjaGVyX25hbWUK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICEiPyQlXiYqKCkiCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgICAgICBzZWxmLl9zZXJ2aWNlX25hbWUgPSBzZXJ2aWNlX25hbWUKICAgICAgICBzZWxmLl9ycGNfbWFuYWdlciA9IFJQQ01hbmFnZXIoKQoKICAgICAgICBhc3NlcnQgc2VydmljZV9uYW1lIGluIHNlbGYuX3JwY19tYW5hZ2VyLmdldF9zZXJ2aWNlcygpLCAic2VydmljZSBub3QgZm91bmQuIgogICAgICAgIHNlbGYuX21ldGhvZF9saXN0ID0gc2VsZi5fcnBjX21hbmFnZXIuZ2V0X21ldGhvZF9saXN0KHNlcnZpY2VfbmFtZSkKCiAgICBAcHJvcGVydHkKICAgIGRlZiBzZXJ2aWNlX25hbWUoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuc2VydmljZV9uYW1l</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text># -*- coding: utf-8 -*-
 &quot;&quot;&quot;----------------------------------------------------------------------------
 Author:
@@ -786,17 +814,8 @@ Description:
 	watcher
 ----------------------------------------------------------------------------&quot;&quot;&quot;</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTWU1CT0xfQlRDX1VTRFQ6ICIiCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvciBiaWQgaW4gYmlkczoK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmljZSwgYW1vdW50ID0gYmlkCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBwcmljZSA8IGFzawo=</text>
+        <text encoding="base64">ICAgICAgICBTWU1CT0xfQlRDX1VTRFQ6ICIiCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
