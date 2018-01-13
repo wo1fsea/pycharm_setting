@@ -21,7 +21,7 @@
       <file name="D:/GITHUB/PykerStars/pykerstars/table.py" timestamp="1497448052160">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1515860329979">
+      <file name="/a.dummy" timestamp="1515865880065">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="F:/super_handler/utils.py" timestamp="1490503404701">
@@ -123,8 +123,8 @@
         <mark key="^" line="60" column="42" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/launcher.py" timestamp="1515861059286">
-        <mark key="[" line="16" column="5" />
+      <file name="D:/GITHUB/TheChineseRoom/launcher.py" timestamp="1515864990036">
+        <mark key="[" line="27" column="29" />
         <mark key="]" line="16" column="5" />
         <mark key="." line="16" column="5" />
         <mark key="^" line="15" column="36" />
@@ -239,10 +239,11 @@
       <file name="D:/GITHUB/PykerStars/pykerstars/utils/poker_enum_meta.py" timestamp="1497540600907">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/watcher_console/watcher_console.py" timestamp="1515862164145">
-        <mark key="[" line="211" column="63" />
-        <mark key="]" line="132" column="46" />
-        <mark key="." line="132" column="0" />
+      <file name="D:/GITHUB/TheChineseRoom/watcher_console/watcher_console.py" timestamp="1515867342115">
+        <mark key="[" line="211" column="12" />
+        <mark key="]" line="211" column="95" />
+        <mark key="." line="211" column="0" />
+        <mark key="^" line="210" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/tests/TestMaxRects.py" timestamp="1480522227205">
         <mark key="[" line="78" column="39" />
@@ -275,6 +276,7 @@
       <file name="D:/GITHUB/PykerStars/pykerstars/utils/_poker_enum2.py" timestamp="1497540869769">
         <mark key="[" line="0" column="14" />
       </file>
+      <file name="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1313743207/PyQt5/QtMultimedia/QMediaMetaData.py" timestamp="1515866746224" />
       <file name="D:/GITHUB/PyTWEANN/pytweann/configuration.py" timestamp="1497887886104">
         <mark key="[" line="9" column="79" />
         <mark key="]" line="9" column="78" />
@@ -403,8 +405,18 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
+      <file name="D:/GITHUB/TheChineseRoom/core/communication/collections/dict.py" timestamp="1515867624204">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="23" />
+      </file>
       <file name="D:/GITHUB/PykerStars/pykerstars/utils/_poker_enum3.py" timestamp="1497540865696">
         <mark key="[" line="14" column="7" />
+      </file>
+      <file name="D:/GITHUB/TheChineseRoom/core/communication/collections/queue.py" timestamp="1515867636211">
+        <mark key="[" line="17" column="18" />
+        <mark key="]" line="17" column="18" />
+        <mark key="." line="17" column="18" />
+        <mark key="^" line="17" column="18" />
       </file>
       <file name="D:/GITHUB/PykerStars/pykerstars/player.py" timestamp="1497455696289">
         <mark key="[" line="12" column="0" />
@@ -415,7 +427,7 @@
         <mark key="." line="47" column="26" />
         <mark key="^" line="47" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515861067972">
+      <file name="/Dummy.txt" timestamp="1515865027793">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/output/keys.py" timestamp="1508081272612">
@@ -582,68 +594,44 @@
       <jump line="41" column="8" filename="D:/GITHUB/Arbitrager/Arbitrager/okex_test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVG9rZW4uVGl0bGU6ICcjMDAwMDAwIGJnOiNmZmZmZmYnLAo=</text>
+      <register name="&quot;" type="4">
+        <text>x</text>
       </register>
       <register name="-" type="4">
-        <text>Transparent</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3c1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSByZWRpc19kb2NrZXIgaW1wb3J0IHJlZGlzX2RvY2tlcgo=</text>
+        <text encoding="base64">ICAgIFJlZGlzX1R5cGUgPSAiaGFzaCIK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVG9rZW4uVGl0bGU6ICcjMDAwMDAwIGJnOiNmZmZmZmYnLAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIGRlZiBzZXRfbGVmdF90b3BfdGl0bGUoc2VsZiwgdGl0bGUpOgogICAgICAgIHNlbGYuX2xlZnRfdG9wX2J1ZmZlcl90aXRsZSA9IHRpdGxlCgogICAgZGVmIHNldF9sZWZ0X3RvcF90aXRsZShzZWxmLCB0aXRsZSk6CiAgICAgICAgc2VsZi5fbGVmdF90b3BfYnVmZmVyX3RpdGxlID0gdGl0bGU=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICBsX2J1ZmZlciA9ICIiCiAgICByX2J1ZmZlciA9ICIi</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLl9yaWdodF9idWZmZXJfdGl0bGUgPSAiIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2xvYmFsIGxfYnVmZmVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobF9idWZmZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFdpbmRvdyhoZWlnaHQ9RGltLmV4YWN0KDEpLCBjb250ZW50PVRva2VuTGlzdENvbnRyb2woc2VsZi5fZ2V0X3RpdGxlX3Rva2VucywgZGVmYXVsdF9jaGFyPUNoYXIoJyAnLCBUb2tlbi5UaXRsZSksKSksCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFsaWduX2NlbnRlcj1UcnVl</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIHN0YXJ0KCk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdHIod2F0Y2hlcl9jbGllbnQuZ2V0X3N0YXR1cygpKQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>import time
-
-    cmd = &quot;&quot;
-
-
-    def l():
-        return &quot;cmd: %s\n %f&quot; % (cmd, time.time())
-
-
-    def r():
-        return &quot;AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&quot; * 20
-
-
-    def set_cmd(x):
-        global cmd
-        cmd = x
-
-
-    commands = {
-        &quot;set_cmd&quot;: set_cmd,
-        &quot;clear_cmd&quot;: lambda: set_cmd(&quot;&quot;)
-    }
-
-    c = Console(title=&quot;TEST&quot;, commands=commands, get_left_buffer=l, get_right_buffer=r)
-    c.run()</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBidWZmZXJzWyJyaWdodCJdID0gInN0YXR1czolcyIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGFzeW5jaW8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgVG9rZW4uVGl0bGU6ICcjMDAwMDAwIGJnOiNmZmZmZmYnLAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICBsX2J1ZmZlciA9ICIiCiAgICByX2J1ZmZlciA9ICIi</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
