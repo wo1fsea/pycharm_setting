@@ -40,12 +40,10 @@
         <mark key="]" line="14" column="14" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/communication/rpc.py" timestamp="1515326715061">
-        <mark key="'" line="178" column="31" />
-        <mark key="[" line="101" column="47" />
-        <mark key="]" line="101" column="46" />
-        <mark key="." line="101" column="46" />
-        <mark key="^" line="101" column="46" />
+      <file name="D:/GITHUB/TheChineseRoom/core/communication/rpc.py" timestamp="1515856500865">
+        <mark key="[" line="329" column="45" />
+        <mark key="]" line="329" column="0" />
+        <mark key="." line="329" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/frame_capture_lancher.py" timestamp="1507367280303">
         <mark key="[" line="0" column="0" />
@@ -248,6 +246,11 @@
         <mark key="]" line="33" column="51" />
         <mark key="^" line="26" column="102" />
         <mark key="." line="26" column="102" />
+      </file>
+      <file name="D:/GITHUB/TheChineseRoom/core/watcher/watcher.py" timestamp="1515856052866">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PykerStars/handranks.py" timestamp="1486143744144">
         <mark key="[" line="0" column="0" />
@@ -747,8 +750,8 @@
       <jump line="41" column="8" filename="D:/GITHUB/Arbitrager/Arbitrager/okex_test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTWU1CT0xfT01HX0VUSDogIm9tZ19ldGgiCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICBzZWxmLl9zZXJ2aWNlX25hbWUgPSBzZXJ2aWNlX25hbWUKICAgICAgICBzZWxmLl9ycGNfbWFuYWdlciA9IFJQQ01hbmFnZXIoKQoKICAgICAgICBhc3NlcnQgc2VydmljZV9uYW1lIGluIHNlbGYuX3JwY19tYW5hZ2VyLmdldF9zZXJ2aWNlcygpLCAic2VydmljZSBub3QgZm91bmQuIgogICAgICAgIHNlbGYuX21ldGhvZF9saXN0ID0gc2VsZi5fcnBjX21hbmFnZXIuZ2V0X21ldGhvZF9saXN0KHNlcnZpY2VfbmFtZSkKCiAgICBAcHJvcGVydHkKICAgIGRlZiBzZXJ2aWNlX25hbWUoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuc2VydmljZV9uYW1l</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">YW5kIChzZWxsIC0gYnV5KSAvIHNlbGwgPiAwLjAx</text>
@@ -759,25 +762,40 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTWU1CT0xfT01HX0VUSDogIm9tZ19ldGgiCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTWU1CT0xfQlRDX1VTRFQ6ICIiCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICBzZWxmLl9zZXJ2aWNlX25hbWUgPSBzZXJ2aWNlX25hbWUKICAgICAgICBzZWxmLl9ycGNfbWFuYWdlciA9IFJQQ01hbmFnZXIoKQoKICAgICAgICBhc3NlcnQgc2VydmljZV9uYW1lIGluIHNlbGYuX3JwY19tYW5hZ2VyLmdldF9zZXJ2aWNlcygpLCAic2VydmljZSBub3QgZm91bmQuIgogICAgICAgIHNlbGYuX21ldGhvZF9saXN0ID0gc2VsZi5fcnBjX21hbmFnZXIuZ2V0X21ldGhvZF9saXN0KHNlcnZpY2VfbmFtZSkKCiAgICBAcHJvcGVydHkKICAgIGRlZiBzZXJ2aWNlX25hbWUoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuc2VydmljZV9uYW1l</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciBiaWQgaW4gYmlkczoK</text>
+      <register name="2" type="4">
+        <text># -*- coding: utf-8 -*-
+&quot;&quot;&quot;----------------------------------------------------------------------------
+Author:
+	Huang Quanyong
+	gzhuangquanyong@corp.netease.com
+Date:
+	2018/1/13
+Description:
+	watcher
+----------------------------------------------------------------------------&quot;&quot;&quot;</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmljZSwgYW1vdW50ID0gYmlkCg==</text>
+        <text encoding="base64">ICAgICAgICBTWU1CT0xfQlRDX1VTRFQ6ICIiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBwcmljZSA8IGFzawo=</text>
+        <text encoding="base64">ICAgIGZvciBiaWQgaW4gYmlkczoK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIGJpZF9zZXQgPSBbXQogICAgYXNrX3NldCA9IFtd</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwcmljZSwgYW1vdW50ID0gYmlkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBwcmljZSA8IGFzawo=</text>
       </register>
       <register name="7" type="4">
+        <text encoding="base64">ICAgIGJpZF9zZXQgPSBbXQogICAgYXNrX3NldCA9IFtd</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text>,
   &quot;frame_grabber&quot;: {
     &quot;frame_size_key&quot;: &quot;frame_size&quot;,
@@ -787,12 +805,6 @@
   },
   &quot;input_queue_length&quot;: 128,
   &quot;output_queue_length&quot;: 128</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAiZnJhbWVfZ3JhYmJlciI6IHsKICAgICJmcmFtZV9zaXplX2tleSI6ICJmcmFtZV9zaXplIiwKICAgICJmcmFtZV9jYWNoZV9rZXkiOiAiZnJhbWVfY2FjaGUiLAogICAgImZyYW1lX2NhY2hlX2xlbmd0aCI6IDEyLAogICAgImZwcyI6IDEyCiAgfSwKICAiaW5wdXRfcXVldWVfbGVuZ3RoIjogMTI4LAogICJvdXRwdXRfcXVldWVfbGVuZ3RoIjogMTI4</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
