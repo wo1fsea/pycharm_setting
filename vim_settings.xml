@@ -63,11 +63,8 @@
       <file name="D:/GITHUB/PykerStars/pykerstars/handranks.py" timestamp="1497539680393">
         <mark key="[" line="63" column="15" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/communication/collections/list.py" timestamp="1515908260599">
-        <mark key="[" line="61" column="26" />
-        <mark key="]" line="58" column="0" />
-        <mark key="^" line="45" column="34" />
-        <mark key="." line="58" column="0" />
+      <file name="D:/GITHUB/TheChineseRoom/core/communication/collections/list.py" timestamp="1515920697658">
+        <mark key="[" line="21" column="13" />
       </file>
       <file name="D:/GITHUB/TheChineseRoom/core/frame_grabber/frame_reader.py" timestamp="1515321641104">
         <mark key="[" line="16" column="39" />
@@ -291,7 +288,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fX2NsYXNzX18oc2VsZi5kYXRhICogbikK</text>
+        <text encoding="base64">ICAgIGRlZiBfX2dldF8K</text>
       </register>
       <register name="-" type="4">
         <text>.data if isinstance(other, UserList) else other</text>
@@ -303,31 +300,31 @@
         <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fX2NsYXNzX18oc2VsZi5kYXRhICogbikK</text>
+        <text encoding="base64">ICAgIGRlZiBfX2dldF8K</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fX2NsYXNzX18oc2VsZi5kYXRhICogbikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5kYXRhICs9IGxpc3Qob3RoZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fX2NsYXNzX18oc2VsZi5kYXRhICogbikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5kYXRhICs9IGxpc3Qob3RoZXIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5kYXRhICs9IG90aGVyCg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIGlzaW5zdGFuY2Uob3RoZXIsIHR5cGUoc2VsZi5kYXRhKSk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5kYXRhICs9IG90aGVyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5kYXRhICs9IG90aGVyLmRhdGEK</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIGlzaW5zdGFuY2Uob3RoZXIsIHR5cGUoc2VsZi5kYXRhKSk6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKG90aGVyLCBVc2VyTGlzdCk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5kYXRhICs9IG90aGVyLmRhdGEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBkZWYgX19pYWRkX18oc2VsZiwgb3RoZXIpOgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKG90aGVyLCBVc2VyTGlzdCk6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
