@@ -70,7 +70,9 @@
       <file name="D:/GITHUB/TheChineseRoom/core/frame_grabber/frame_reader.py" timestamp="1515321641104">
         <mark key="[" line="16" column="39" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/keras_ocr.py" timestamp="1516518767245" />
+      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/keras_ocr.py" timestamp="1516521031839">
+        <mark key="[" line="497" column="52" />
+      </file>
       <file name="D:/GITHUB/TheChineseRoom/launcher.py" timestamp="1515864990036">
         <mark key="[" line="27" column="29" />
         <mark key="]" line="16" column="5" />
