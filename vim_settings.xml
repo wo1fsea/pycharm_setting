@@ -70,8 +70,10 @@
       <file name="D:/GITHUB/TheChineseRoom/core/frame_grabber/frame_reader.py" timestamp="1515321641104">
         <mark key="[" line="16" column="39" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/keras_ocr.py" timestamp="1516527568206">
-        <mark key="[" line="497" column="52" />
+      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/keras_ocr.py" timestamp="1516536310543">
+        <mark key="[" line="461" column="0" />
+        <mark key="]" line="461" column="0" />
+        <mark key="." line="461" column="0" />
       </file>
       <file name="D:/GITHUB/TheChineseRoom/launcher.py" timestamp="1515864990036">
         <mark key="[" line="27" column="29" />
@@ -290,8 +292,8 @@
       <jump line="41" column="8" filename="D:/GITHUB/Arbitrager/Arbitrager/okex_test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgIGlubmVyID0gRGVuc2UoaW1nX2dlbi5nZXRfb3V0cHV0X3NpemUoKSwga2VybmVsX2luaXRpYWxpemVyPSdoZV9ub3JtYWwnLAogICAgICAgICAgICAgICAgICBuYW1lPSdkZW5zZTInKSg=</text>
       </register>
       <register name="-" type="4">
         <text>Queue</text>
@@ -302,35 +304,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpKQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIGlubmVyID0gRGVuc2UoaW1nX2dlbi5nZXRfb3V0cHV0X3NpemUoKSwga2VybmVsX2luaXRpYWxpemVyPSdoZV9ub3JtYWwnLAogICAgICAgICAgICAgICAgICBuYW1lPSdkZW5zZTInKSg=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChpKQo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>if isinstance(other, UserList):
             self.data.extend(other.data)
         else:
             self.data.extend(other)</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmRhdGEucmV2ZXJzZSgpCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmRhdGEucmVtb3ZlKGl0ZW0pCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2dldF8K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fX2NsYXNzX18oc2VsZi5kYXRhICogbikK</text>
+        <text encoding="base64">ICAgIGRlZiBfX2dldF8K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
