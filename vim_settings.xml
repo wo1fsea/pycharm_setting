@@ -15,7 +15,6 @@
       <file name="/a.dummy" timestamp="1515865880065">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Python35/Lib/collections/__init__.py" timestamp="1515908118411" />
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/frame_capture_lancher.py" timestamp="1507367280303">
         <mark key="[" line="0" column="0" />
       </file>
@@ -71,13 +70,13 @@
       <file name="D:/GITHUB/TheChineseRoom/core/frame_grabber/frame_reader.py" timestamp="1515321641104">
         <mark key="[" line="16" column="39" />
       </file>
+      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/keras_ocr.py" timestamp="1516516857175" />
       <file name="D:/GITHUB/TheChineseRoom/launcher.py" timestamp="1515864990036">
         <mark key="[" line="27" column="29" />
         <mark key="]" line="16" column="5" />
         <mark key="." line="16" column="5" />
         <mark key="^" line="15" column="36" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/communication/db_connection.py" timestamp="1515906885357" />
       <file name="$USER_HOME$/Documents/PyTexturePacker/__init__.py" timestamp="1477839593099">
         <mark key="[" line="0" column="29" />
       </file>
