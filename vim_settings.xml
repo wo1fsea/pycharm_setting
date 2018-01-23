@@ -74,10 +74,11 @@
       <file name="D:/GITHUB/TheChineseRoom/core/frame_grabber/frame_reader.py" timestamp="1515321641104">
         <mark key="[" line="16" column="39" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/keras_ocr.py" timestamp="1516717193118">
-        <mark key="[" line="122" column="15" />
-        <mark key="]" line="121" column="42" />
-        <mark key="." line="121" column="0" />
+      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/keras_ocr.py" timestamp="1516719746847">
+        <mark key="[" line="506" column="70" />
+        <mark key="]" line="506" column="69" />
+        <mark key="." line="506" column="69" />
+        <mark key="^" line="506" column="69" />
       </file>
       <file name="D:/GITHUB/TheChineseRoom/launcher.py" timestamp="1515864990036">
         <mark key="[" line="27" column="29" />
@@ -97,8 +98,8 @@
       <file name="vim_settings.xml" timestamp="1513361563762">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/image_generator.py" timestamp="1516717286193">
-        <mark key="[" line="88" column="0" />
+      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/image_generator.py" timestamp="1516719410754">
+        <mark key="[" line="31" column="19" />
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
       </file>
