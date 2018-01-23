@@ -74,10 +74,10 @@
       <file name="D:/GITHUB/TheChineseRoom/core/frame_grabber/frame_reader.py" timestamp="1515321641104">
         <mark key="[" line="16" column="39" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/keras_ocr.py" timestamp="1516719746847">
-        <mark key="[" line="506" column="70" />
-        <mark key="]" line="506" column="69" />
-        <mark key="." line="506" column="69" />
+      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/keras_ocr.py" timestamp="1516720593005">
+        <mark key="[" line="124" column="34" />
+        <mark key="]" line="124" column="34" />
+        <mark key="." line="124" column="34" />
         <mark key="^" line="506" column="69" />
       </file>
       <file name="D:/GITHUB/TheChineseRoom/launcher.py" timestamp="1515864990036">
@@ -305,8 +305,8 @@
       <jump line="41" column="8" filename="D:/GITHUB/Arbitrager/Arbitrager/okex_test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeCwgeSA9IDAsIDAK</text>
+      <register name="&quot;" type="4">
+        <text>True</text>
       </register>
       <register name="-" type="4">
         <text>True</text>
