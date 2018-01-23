@@ -22,11 +22,7 @@
       <file name="/a.dummy" timestamp="1512293017468">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/ocr/ocr_seq2seq/image_generator.py" timestamp="1516633662737">
-        <mark key="[" line="45" column="47" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/ocr/ocr_seq2seq/image_generator.py" timestamp="1516687713532" />
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/rpc_test2.py" timestamp="1515336768545">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -35,9 +31,9 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/frame_capture_lancher.py" timestamp="1507367280303">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/ocr/ocr_naive.py" timestamp="1511611676887">
-        <mark key="[" line="141" column="54" />
-        <mark key="]" line="122" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/ocr/ocr_naive.py" timestamp="1516635854783">
+        <mark key="[" line="182" column="0" />
+        <mark key="]" line="182" column="34" />
         <mark key="." line="122" column="0" />
       </file>
       <file name="/usr/local/lib/python3.6/site-packages/pytesseract/pytesseract.py" timestamp="1507307141189">
@@ -152,7 +148,7 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_controller/window_controller.py" timestamp="1515261905372">
         <mark key="[" line="46" column="8" />
       </file>
-      <file name="/Python Console" timestamp="1515340407682">
+      <file name="/Python Console" timestamp="1516687949230">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/frame_grabber/__init__.py" timestamp="1515252648015">
@@ -355,44 +351,44 @@
       <jump line="25" column="33" filename="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_controller/window_controller_darwin.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByaW50KGJib3gpCg==</text>
+      <register name="&quot;" type="4">
+        <text>bmp</text>
       </register>
       <register name="-" type="4">
-        <text>imageBig</text>
+        <text>bmp</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9wcm9jZXNzX3RocmVhZC5qb2luKCkK</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZSA9IGltYWdlLmNvbnZlcnQoIkwiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByaW50KGJib3gpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZSA9IGltYWdlLmNvbnZlcnQobW9kZT0iTCIpCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAjIHByaW50KGJib3gpCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIiIgo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">IC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiItLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCkF1dGhvcjoKCUh1YW5nIFF1YW55b25nCglnemh1YW5ncXVhbnlvbmdAY29ycC5uZXRlYXNlLmNvbQpEYXRlOgoJMjAxOC8xLzIyCkRlc2NyaXB0aW9uOgoJaW1hZ2VfZ2VuZXJhdG9yLnB5</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICByZXF1ZXN0X3RpbWUgPSBycGNfZGF0YVsicmVxdWVzdF90aW1lIl0K</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICBkZWYgcmVnaXN0ZXJfbWV0aG9kKHNlbGYsIG1ldGhvZF9uYW1lLCBtZXRob2QpOgogICAgICAgIGFzc2VydCBtZXRob2RfbmFtZSBub3QgaW4gc2VsZi5fcmVtb3RlX21ldGhvZHMsICJzYW1lIG1ldGhvZCBuYW1lICglcykgYWxyZWFkeSBleGlzdHMuIiAlIG1ldGhvZF9uYW1lCiAgICAgICAgc2VsZi5fcmVtb3RlX21ldGhvZHNbbWV0aG9kX25hbWVdID0gbWV0aG9k</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLl9yZW1vdGVfbWV0aG9kcyA9IHt9Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CiAgICBkZWYgaGFuZGxlX2xvb3Aoc2VsZiwgc2VydmljZV9uYW1lKToKICAgICAgICBzZXJ2aWNlX2lkID0gc2VsZi5fc2VydmljZV9tYXAuZ2V0KHNlcnZpY2VfbmFtZSkKICAgICAgICBhc3NlcnQgc2VydmljZV9pZCwgInNlcnZpY2Ugbm90IGZvdW5kLiIKCiAgICAgICAgc2VydmljZV9kYXRhID0gVGFibGUoc2VydmljZV9pZCkKICAgICAgICBhc3NlcnQgc2VydmljZV9kYXRhLmV4aXN0cywgInNlcnZpY2UgZXhwaXJlZC4iCiAgICAgICAgcmVxdWVzdF9xdWV1ZSA9IFF1ZXVlKHNlcnZpY2VfZGF0YVsicmVxdWVzdF9xdWV1ZV9pZCJdKQoKICAgICAgICB3aGlsZSBUcnVlOgogICAgICAgICAgICBycGNfZGF0YSA9IHJlcXVlc3RfcXVldWUuYmdldCgpCiAgICAgICAgICAgIGlmIHJwY19kYXRhOgogICAgICAgICAgICAgICAgc2VsZi5oYW5kbGVfY2FsbF9yZXF1ZXN0KHJwY19kYXRhKQ==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9wcm9jZXNzX3RocmVhZC5zdG9wKCkK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
