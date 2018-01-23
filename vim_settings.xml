@@ -59,7 +59,6 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/communication/__init__.py" timestamp="1507212401116">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Program Files/Python36/Lib/site-packages/keras/layers/core.py" timestamp="1516537034027" />
       <file name="D:/GITHUB/PykerStars/pykerstars/handranks.py" timestamp="1497539680393">
         <mark key="[" line="63" column="15" />
       </file>
@@ -71,10 +70,10 @@
       <file name="D:/GITHUB/TheChineseRoom/core/frame_grabber/frame_reader.py" timestamp="1515321641104">
         <mark key="[" line="16" column="39" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/keras_ocr.py" timestamp="1516537718451">
-        <mark key="[" line="461" column="0" />
-        <mark key="]" line="461" column="0" />
-        <mark key="." line="461" column="0" />
+      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/keras_ocr.py" timestamp="1516714511522">
+        <mark key="[" line="82" column="26" />
+        <mark key="]" line="82" column="26" />
+        <mark key="." line="82" column="26" />
       </file>
       <file name="D:/GITHUB/TheChineseRoom/launcher.py" timestamp="1515864990036">
         <mark key="[" line="27" column="29" />
@@ -91,7 +90,7 @@
       <file name="vim_settings.xml" timestamp="1513361563762">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1515927452305">
+      <file name="/Python Console" timestamp="1516714738837">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1515869778835">
@@ -294,10 +293,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIGlubmVyID0gRGVuc2UoaW1nX2dlbi5nZXRfb3V0cHV0X3NpemUoKSwga2VybmVsX2luaXRpYWxpemVyPSdoZV9ub3JtYWwnLAogICAgICAgICAgICAgICAgICBuYW1lPSdkZW5zZTInKSg=</text>
+        <text>True</text>
       </register>
       <register name="-" type="4">
-        <text>Queue</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3c1w+</text>
