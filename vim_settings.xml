@@ -74,10 +74,10 @@
       <file name="D:/GITHUB/TheChineseRoom/core/frame_grabber/frame_reader.py" timestamp="1515321641104">
         <mark key="[" line="16" column="39" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/keras_ocr.py" timestamp="1516900411968">
-        <mark key="[" line="515" column="27" />
-        <mark key="]" line="515" column="27" />
-        <mark key="." line="515" column="27" />
+      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/keras_ocr.py" timestamp="1516978907059">
+        <mark key="[" line="515" column="28" />
+        <mark key="]" line="515" column="28" />
+        <mark key="." line="515" column="28" />
       </file>
       <file name="D:/GITHUB/TheChineseRoom/launcher.py" timestamp="1515864990036">
         <mark key="[" line="27" column="29" />
@@ -97,10 +97,10 @@
       <file name="vim_settings.xml" timestamp="1513361563762">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/image_generator.py" timestamp="1516899417318">
-        <mark key="[" line="53" column="46" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
+      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/image_generator.py" timestamp="1516978639726">
+        <mark key="[" line="19" column="3" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
       </file>
       <file name="/Python Console" timestamp="1516714738837">
         <mark key="[" line="0" column="0" />
@@ -305,10 +305,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>256</text>
+        <text>1024</text>
       </register>
       <register name="-" type="4">
-        <text>256</text>
+        <text>1024</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3c1w+</text>
@@ -317,34 +317,34 @@
         <text encoding="base64">ZGVmIHBhaW50X3RleHQodGV4dCwgdywgaCwgcm90YXRlPUZhbHNlLCB1ZD1GYWxzZSwgbXVsdGlfZm9udHM9RmFsc2UpOgogICAgc3VyZmFjZSA9IGNhaXJvLkltYWdlU3VyZmFjZShjYWlyby5GT1JNQVRfUkdCMjQsIHcsIGgpCiAgICB3aXRoIGNhaXJvLkNvbnRleHQoc3VyZmFjZSkgYXMgY29udGV4dDoKICAgICAgICBjb250ZXh0LnNldF9zb3VyY2VfcmdiKDEsIDEsIDEpICAjIFdoaXRlCiAgICAgICAgY29udGV4dC5wYWludCgpCiAgICAgICAgIyB0aGlzIGZvbnQgbGlzdCB3b3JrcyBpbiBDZW50T1MgNwogICAgICAgIGlmIG11bHRpX2ZvbnRzOgogICAgICAgICAgICBmb250cyA9IFsnQ2VudHVyeSBTY2hvb2xib29rJywgJ0NvdXJpZXInLCAnU1RJWCcsICdVUlcgQ2hhbmNlcnkgTCcsICdGcmVlTW9ubyddCiAgICAgICAgICAgIGNvbnRleHQuc2VsZWN0X2ZvbnRfZmFjZShucC5yYW5kb20uY2hvaWNlKGZvbnRzKSwgY2Fpcm8uRk9OVF9TTEFOVF9OT1JNQUwsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBucC5yYW5kb20uY2hvaWNlKFtjYWlyby5GT05UX1dFSUdIVF9CT0xELCBjYWlyby5GT05UX1dFSUdIVF9OT1JNQUxdKSkKICAgICAgICBlbHNlOgogICAgICAgICAgICBjb250ZXh0LnNlbGVjdF9mb250X2ZhY2UoJ0NvdXJpZXInLCBjYWlyby5GT05UX1NMQU5UX05PUk1BTCwgY2Fpcm8uRk9OVF9XRUlHSFRfQk9MRCkKICAgICAgICBjb250ZXh0LnNldF9mb250X3NpemUoMjUpCiAgICAgICAgYm94ID0gY29udGV4dC50ZXh0X2V4dGVudHModGV4dCkKICAgICAgICBib3JkZXJfd19oID0gKDQsIDQpCiAgICAgICAgaWYgYm94WzJdID4gKHcgLSAyICogYm9yZGVyX3dfaFsxXSkgb3IgYm94WzNdID4gKGggLSAyICogYm9yZGVyX3dfaFswXSk6CiAgICAgICAgICAgIHJhaXNlIElPRXJyb3IoJ0NvdWxkIG5vdCBmaXQgc3RyaW5nIGludG8gaW1hZ2UuIE1heCBjaGFyIGNvdW50IGlzIHRvbyBsYXJnZSBmb3IgZ2l2ZW4gaW1hZ2Ugd2lkdGguJykKCiAgICAgICAgIyB0ZWFjaCB0aGUgUk5OIHRyYW5zbGF0aW9uYWwgaW52YXJpYW5jZSBieQogICAgICAgICMgZml0dGluZyB0ZXh0IGJveCByYW5kb21seSBvbiBjYW52YXMsIHdpdGggc29tZSByb29tIHRvIHJvdGF0ZQogICAgICAgIG1heF9zaGlmdF94ID0gdyAtIGJveFsyXSAtIGJvcmRlcl93X2hbMF0KICAgICAgICBtYXhfc2hpZnRfeSA9IGggLSBib3hbM10gLSBib3JkZXJfd19oWzFdCiAgICAgICAgdG9wX2xlZnRfeCA9IG5wLnJhbmRvbS5yYW5kaW50KDAsIGludChtYXhfc2hpZnRfeCkpCiAgICAgICAgaWYgdWQ6CiAgICAgICAgICAgIHRvcF9sZWZ0X3kgPSBucC5yYW5kb20ucmFuZGludCgwLCBpbnQobWF4X3NoaWZ0X3kpKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHRvcF9sZWZ0X3kgPSBoIC8vIDIKICAgICAgICBjb250ZXh0Lm1vdmVfdG8odG9wX2xlZnRfeCAtIGludChib3hbMF0pLCB0b3BfbGVmdF95IC0gaW50KGJveFsxXSkpCiAgICAgICAgY29udGV4dC5zZXRfc291cmNlX3JnYigwLCAwLCAwKQogICAgICAgIGNvbnRleHQuc2hvd190ZXh0KHRleHQpCgogICAgYnVmID0gc3VyZmFjZS5nZXRfZGF0YSgpCiAgICBhID0gbnAuZnJvbWJ1ZmZlcihidWYsIG5wLnVpbnQ4KQogICAgYS5zaGFwZSA9IChoLCB3LCA0KQogICAgYSA9IGFbOiwgOiwgMF0gICMgZ3JhYiBzaW5nbGUgY2hhbm5lbAogICAgYSA9IGEuYXN0eXBlKG5wLmZsb2F0MzIpIC8gMjU1CiAgICBhID0gbnAuZXhwYW5kX2RpbXMoYSwgMCkKICAgIGlmIHJvdGF0ZToKICAgICAgICBhID0gaW1hZ2UucmFuZG9tX3JvdGF0aW9uKGEsIDMgKiAodyAtIHRvcF9sZWZ0X3gpIC8gdyArIDEpCiAgICBhID0gc3BlY2tsZShhKQoKICAgIHJldHVybiBh</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICMgb3V0cHV0X2F0dGVudGlvbl9tdWwgPSBtZXJnZShbaW5wdXRzLCBhX3Byb2JzXSwgbmFtZT0nYXR0ZW50aW9uX211bCcsIG1vZGU9J211bCcpCg==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICBpbm5lciA9IFBlcm11dGUoKDIsIDEpKShjb2RlKQogICAgaW5uZXIgPSBEZW5zZShyb3VuZChpbWdfdy9wb29sX3NpemUqKjIpLCBhY3RpdmF0aW9uPSdzb2Z0bWF4JykoaW5uZXIpCiAgICBhdHRlbnRpb24gPSBQZXJtdXRlKCgyLCAxKSwgbmFtZT0nYXR0ZW50aW9uX3ZlYycpKGlubmVyKQogICAgIyBvdXRwdXRfYXR0ZW50aW9uX211bCA9IG1lcmdlKFtpbnB1dHMsIGFfcHJvYnNdLCBuYW1lPSdhdHRlbnRpb25fbXVsJywgbW9kZT0nbXVsJykKICAgIG91dHB1dF9hdHRlbnRpb25fbXVsID0gbXVsdGlwbHkoW2NvZGUsIGF0dGVudGlvbl0sIG5hbWU9J2F0dGVudGlvbl9tdWwnKQoK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgeCwgeSA9IDAsIDAK</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ZnJvbSBpbWFnZV9nZW5lcmF0b3IgaW1wb3J0IEltYWdlR2VuZXJhdG9yCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgIGlubmVyID0gRGVuc2UoaW1nX2dlbi5nZXRfb3V0cHV0X3NpemUoKSwga2VybmVsX2luaXRpYWxpemVyPSdoZV9ub3JtYWwnLAogICAgICAgICAgICAgICAgICBuYW1lPSdkZW5zZTInKSg=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBwcmludChpKQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>if isinstance(other, UserList):
             self.data.extend(other.data)
         else:
             self.data.extend(other)</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmRhdGEucmV2ZXJzZSgpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
