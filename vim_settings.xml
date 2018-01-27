@@ -85,10 +85,10 @@
       <file name="D:/GITHUB/TheChineseRoom/core/frame_grabber/frame_reader.py" timestamp="1515321641104">
         <mark key="[" line="16" column="39" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/keras_ocr.py" timestamp="1517074152339">
-        <mark key="[" line="450" column="28" />
-        <mark key="]" line="450" column="28" />
-        <mark key="." line="450" column="28" />
+      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/keras_ocr.py" timestamp="1517075340132">
+        <mark key="[" line="287" column="44" />
+        <mark key="]" line="287" column="44" />
+        <mark key="." line="287" column="44" />
         <mark key="^" line="287" column="10" />
       </file>
       <file name="D:/GITHUB/TheChineseRoom/launcher.py" timestamp="1515864990036">
@@ -114,10 +114,10 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1516714738837">
+      <file name="/Python Console" timestamp="1517075094593">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1515869778835">
+      <file name="/fragment.py" timestamp="1517074729420">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/requirements.txt" timestamp="1513421309808">
@@ -200,7 +200,9 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_controller/window_controller.py" timestamp="1515261905372">
         <mark key="[" line="46" column="8" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/ctc_decoder.py" timestamp="1517073931145" />
+      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/ctc_decoder.py" timestamp="1517075057568">
+        <mark key="[" line="116" column="19" />
+      </file>
       <file name="D:/GITHUB/TheChineseRoom/core/watcher/__init__.py" timestamp="1515858816822">
         <mark key="[" line="0" column="28" />
         <mark key="]" line="0" column="27" />
@@ -321,10 +323,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>512</text>
+        <text>100</text>
       </register>
       <register name="-" type="4">
-        <text>512</text>
+        <text>100</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3c1w+</text>
