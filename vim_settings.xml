@@ -16,10 +16,10 @@
         <mark key="]" line="25" column="3" />
         <mark key="." line="25" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/ocr/ocr_seq2seq/ocr_model.py" timestamp="1517740691272">
-        <mark key="[" line="178" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="74" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/ocr/ocr_seq2seq/ocr_model.py" timestamp="1517745734573">
+        <mark key="[" line="236" column="49" />
+        <mark key="]" line="236" column="49" />
+        <mark key="." line="236" column="49" />
       </file>
       <file name="D:/GITHUB/PykerStars/pykerstars/table.py" timestamp="1497448052160">
         <mark key="[" line="0" column="0" />
@@ -27,7 +27,12 @@
       <file name="/a.dummy" timestamp="1512293017468">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/ocr/ocr_seq2seq/image_generator.py" timestamp="1517739736334" />
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/ocr/ocr_seq2seq/image_generator.py" timestamp="1517745853012">
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="16" column="13" />
+        <mark key="^" line="17" column="29" />
+        <mark key="." line="17" column="29" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/rpc_test2.py" timestamp="1515336768545">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -179,8 +184,11 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/ocr/ocr_seq2seq/data_generator.py" timestamp="1517739745664">
-        <mark key="[" line="19" column="8" />
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/ocr/ocr_seq2seq/data_generator.py" timestamp="1517746016920">
+        <mark key="[" line="58" column="53" />
+        <mark key="]" line="58" column="53" />
+        <mark key="." line="58" column="53" />
+        <mark key="^" line="12" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/async_test.py" timestamp="1510498607748">
         <mark key="[" line="29" column="0" />
@@ -235,7 +243,7 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/output/output.py" timestamp="1508081577260">
         <mark key="[" line="3" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/ocr/ocr_seq2seq/keras_ocr.py" timestamp="1517740979506">
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/ocr/ocr_seq2seq/keras_ocr.py" timestamp="1517745381699">
         <mark key="[" line="188" column="0" />
         <mark key="]" line="188" column="44" />
         <mark key="." line="446" column="44" />
@@ -262,6 +270,12 @@
       </file>
       <file name="D:/GITHUB/PyTexturePacker/setup.py" timestamp="1495355603176">
         <mark key="[" line="6" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/ocr_model_test1.py" timestamp="1517744906065">
+        <mark key="[" line="9" column="79" />
+        <mark key="]" line="9" column="78" />
+        <mark key="^" line="9" column="78" />
+        <mark key="." line="9" column="78" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/communication/__init__.py" timestamp="1507212401116">
         <mark key="[" line="0" column="0" />
@@ -370,44 +384,44 @@
       <jump line="25" column="33" filename="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_controller/window_controller_darwin.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfYmF0Y2goc2VsZiwgaW5kZXgsIHNpemUsIHRyYWluKToK</text>
+      <register name="&quot;" type="4">
+        <text>(words_per_epoch - val_words) // minibatch_size</text>
       </register>
       <register name="-" type="4">
-        <text>img_w</text>
+        <text>(words_per_epoch - val_words) // minibatch_size</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfYmF0Y2goc2VsZiwgaW5kZXgsIHNpemUsIHRyYWluKToK</text>
+        <text encoding="base64">aW1wb3J0IHJhbmRvbQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBtb2RlbCA9IE1vZGVsKGlucHV0cz1pbnB1dF9kYXRhLCBvdXRwdXRzPXlfcHJlZCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbC5zdW1tYXJ5KCkK</text>
+        <text encoding="base64">ICAgICAgICBzb3VyY2Vfc3RyID0gW10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbW9kZWwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGFiZWxfbGVuZ3RoW2ldID0gbGVuKGxhYmVscykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZSA9IEltYWdlLm5ldyhtb2RlPSJSR0IiLCBzaXplPShzZWxmLndpZHRoLCBzZWxmLmhlaWdodCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzdHJpbmcpCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICBpbnB1dHMgPSB7J3RoZV9pbnB1dCc6IFhfZGF0YSwKICAgICAgICAgICAgICAgICAgJ3RoZV9sYWJlbHMnOiBsYWJlbHMsCiAgICAgICAgICAgICAgICAgICdpbnB1dF9sZW5ndGgnOiBpbnB1dF9sZW5ndGgsCiAgICAgICAgICAgICAgICAgICdsYWJlbF9sZW5ndGgnOiBsYWJlbF9sZW5ndGgsCiAgICAgICAgICAgICAgICAgICdzb3VyY2Vfc3RyJzogc291cmNlX3N0ciAgIyB1c2VkIGZvciB2aXN1YWxpemF0aW9uIG9ubHkKICAgICAgICAgICAgICAgICAgfQogICAgICAgIG91dHB1dHMgPSB7J2N0Yyc6IG5wLnplcm9zKFtzaXplXSl9ICAjIGR1bW15IGRhdGEgZm9yIGR1bW15IGxvc3MgZnVuY3Rpb24KICAgICAgICByZXR1cm4gKGlucHV0cywgb3V0cHV0cyk=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aWcgPSBJbWFnZUdlbmVyYXRvcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc291cmNlX3N0ci5hcHBlbmQoc2VsZi5YX3RleHRbaW5kZXggKyBpXSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZyb20gLmltYWdlX2dlbmVyYXRvciBpbXBvcnQgSW1hZ2VHZW5lcmF0b3IK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIHN1cmZhY2UgPSBjYWlyby5JbWFnZVN1cmZhY2UoY2Fpcm8uRk9STUFUX1JHQjI0LCB3LCBoKQogICAgd2l0aCBjYWlyby5Db250ZXh0KHN1cmZhY2UpIGFzIGNvbnRleHQ6CiAgICAgICAgY29udGV4dC5zZXRfc291cmNlX3JnYigxLCAxLCAxKSAgIyBXaGl0ZQogICAgICAgIGNvbnRleHQucGFpbnQoKQogICAgICAgICMgdGhpcyBmb250IGxpc3Qgd29ya3MgaW4gQ2VudE9TIDcKICAgICAgICBpZiBtdWx0aV9mb250czoKICAgICAgICAgICAgZm9udHMgPSBbJ0NlbnR1cnkgU2Nob29sYm9vaycsICdDb3VyaWVyJywgJ1NUSVgnLCAnVVJXIENoYW5jZXJ5IEwnLCAnRnJlZU1vbm8nXQogICAgICAgICAgICBjb250ZXh0LnNlbGVjdF9mb250X2ZhY2UobnAucmFuZG9tLmNob2ljZShmb250cyksIGNhaXJvLkZPTlRfU0xBTlRfTk9STUFMLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbnAucmFuZG9tLmNob2ljZShbY2Fpcm8uRk9OVF9XRUlHSFRfQk9MRCwgY2Fpcm8uRk9OVF9XRUlHSFRfTk9STUFMXSkpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgY29udGV4dC5zZWxlY3RfZm9udF9mYWNlKCdDb3VyaWVyJywgY2Fpcm8uRk9OVF9TTEFOVF9OT1JNQUwsIGNhaXJvLkZPTlRfV0VJR0hUX0JPTEQpCiAgICAgICAgY29udGV4dC5zZXRfZm9udF9zaXplKDI1KQogICAgICAgIGJveCA9IGNvbnRleHQudGV4dF9leHRlbnRzKHRleHQpCiAgICAgICAgYm9yZGVyX3dfaCA9ICg0LCA0KQogICAgICAgIGlmIGJveFsyXSA+ICh3IC0gMiAqIGJvcmRlcl93X2hbMV0pIG9yIGJveFszXSA+IChoIC0gMiAqIGJvcmRlcl93X2hbMF0pOgogICAgICAgICAgICByYWlzZSBJT0Vycm9yKCdDb3VsZCBub3QgZml0IHN0cmluZyBpbnRvIGltYWdlLiBNYXggY2hhciBjb3VudCBpcyB0b28gbGFyZ2UgZm9yIGdpdmVuIGltYWdlIHdpZHRoLicpCgogICAgICAgICMgdGVhY2ggdGhlIFJOTiB0cmFuc2xhdGlvbmFsIGludmFyaWFuY2UgYnkKICAgICAgICAjIGZpdHRpbmcgdGV4dCBib3ggcmFuZG9tbHkgb24gY2FudmFzLCB3aXRoIHNvbWUgcm9vbSB0byByb3RhdGUKICAgICAgICBtYXhfc2hpZnRfeCA9IHcgLSBib3hbMl0gLSBib3JkZXJfd19oWzBdCiAgICAgICAgbWF4X3NoaWZ0X3kgPSBoIC0gYm94WzNdIC0gYm9yZGVyX3dfaFsxXQogICAgICAgIHRvcF9sZWZ0X3ggPSBucC5yYW5kb20ucmFuZGludCgwLCBpbnQobWF4X3NoaWZ0X3gpKQogICAgICAgIGlmIHVkOgogICAgICAgICAgICB0b3BfbGVmdF95ID0gbnAucmFuZG9tLnJhbmRpbnQoMCwgaW50KG1heF9zaGlmdF95KSkKICAgICAgICBlbHNlOgogICAgICAgICAgICB0b3BfbGVmdF95ID0gaCAvLyAyCiAgICAgICAgY29udGV4dC5tb3ZlX3RvKHRvcF9sZWZ0X3ggLSBpbnQoYm94WzBdKSwgdG9wX2xlZnRfeSAtIGludChib3hbMV0pKQogICAgICAgIGNvbnRleHQuc2V0X3NvdXJjZV9yZ2IoMCwgMCwgMCkKICAgICAgICBjb250ZXh0LnNob3dfdGV4dCh0ZXh0KQoKICAgIGJ1ZiA9IHN1cmZhY2UuZ2V0X2RhdGEoKQogICAgYSA9IG5wLmZyb21idWZmZXIoYnVmLCBucC51aW50OCkKICAgIGEuc2hhcGUgPSAoaCwgdywgNCkKICAgIGEgPSBhWzosIDosIDBdICAjIGdyYWIgc2luZ2xlIGNoYW5uZWwKICAgIGEgPSBhLmFzdHlwZShucC5mbG9hdDMyKSAvIDI1NQogICAgYSA9IG5wLmV4cGFuZF9kaW1zKGEsIDApCiAgICBpZiByb3RhdGU6CiAgICAgICAgYSA9IGltYWdlLnJhbmRvbV9yb3RhdGlvbihhLCAzICogKHcgLSB0b3BfbGVmdF94KSAvIHcgKyAxKQogICAgYSA9IHNwZWNrbGUoYSk=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ZnJvbSBrZXJhcyBpbXBvcnQgYmFja2VuZCBhcyBLCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGJlY2F1c2Ugd2lkdGggaXMgdGhlIHRpbWUgZGltZW5zaW9uIHdoZW4gaXQgZ2V0cyBmZWQgaW50byB0aGUgUk5OCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
