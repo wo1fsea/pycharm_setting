@@ -16,10 +16,10 @@
         <mark key="]" line="25" column="3" />
         <mark key="." line="25" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/ocr/ocr_seq2seq/ocr_model.py" timestamp="1517745734573">
-        <mark key="[" line="236" column="49" />
-        <mark key="]" line="236" column="49" />
-        <mark key="." line="236" column="49" />
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/ocr/ocr_seq2seq/ocr_model.py" timestamp="1517746966982">
+        <mark key="[" line="146" column="49" />
+        <mark key="]" line="146" column="49" />
+        <mark key="." line="146" column="49" />
       </file>
       <file name="D:/GITHUB/PykerStars/pykerstars/table.py" timestamp="1497448052160">
         <mark key="[" line="0" column="0" />
@@ -164,7 +164,7 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_controller/window_controller.py" timestamp="1515261905372">
         <mark key="[" line="46" column="8" />
       </file>
-      <file name="/Python Console" timestamp="1516709403439">
+      <file name="/Python Console" timestamp="1517747011789">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/frame_grabber/__init__.py" timestamp="1515252648015">
@@ -184,11 +184,11 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/ocr/ocr_seq2seq/data_generator.py" timestamp="1517746016920">
-        <mark key="[" line="58" column="53" />
-        <mark key="]" line="58" column="53" />
-        <mark key="." line="58" column="53" />
-        <mark key="^" line="12" column="42" />
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/ocr/ocr_seq2seq/data_generator.py" timestamp="1517747930352">
+        <mark key="[" line="67" column="4" />
+        <mark key="]" line="67" column="34" />
+        <mark key="." line="67" column="0" />
+        <mark key="^" line="66" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/async_test.py" timestamp="1510498607748">
         <mark key="[" line="29" column="0" />
@@ -243,10 +243,11 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/output/output.py" timestamp="1508081577260">
         <mark key="[" line="3" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/ocr/ocr_seq2seq/keras_ocr.py" timestamp="1517745381699">
-        <mark key="[" line="188" column="0" />
-        <mark key="]" line="188" column="44" />
-        <mark key="." line="446" column="44" />
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/ocr/ocr_seq2seq/keras_ocr.py" timestamp="1517748104566">
+        <mark key="[" line="214" column="33" />
+        <mark key="]" line="214" column="33" />
+        <mark key="." line="214" column="33" />
+        <mark key="^" line="60" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/utils/uuid.py" timestamp="1507464750423">
         <mark key="[" line="14" column="4" />
@@ -385,16 +386,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(words_per_epoch - val_words) // minibatch_size</text>
+        <text>_image_width</text>
       </register>
       <register name="-" type="4">
-        <text>(words_per_epoch - val_words) // minibatch_size</text>
+        <text>_image_width</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHJhbmRvbQo=</text>
+        <text encoding="base64">ICAgIGEgPSBhLmFzdHlwZShucC5mbG9hdDMyKSAvIDI1NQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBtb2RlbCA9IE1vZGVsKGlucHV0cz1pbnB1dF9kYXRhLCBvdXRwdXRzPXlfcHJlZCkK</text>
