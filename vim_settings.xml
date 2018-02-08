@@ -32,7 +32,8 @@
         <mark key="]" line="14" column="14" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/ocr_model.py" timestamp="1518103695185">
+      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/ocr_model.py" timestamp="1518107078452">
+        <mark key="'" line="38" column="11" />
         <mark key="[" line="198" column="118" />
         <mark key="]" line="198" column="109" />
         <mark key="^" line="198" column="109" />
@@ -71,6 +72,9 @@
       </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/Test/__init__.py" timestamp="1478342967692">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/utils.py" timestamp="1518106439656">
+        <mark key="[" line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/monitor_launcher.py" timestamp="1507368588899">
         <mark key="[" line="11" column="13" />
@@ -162,12 +166,13 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/communication/redis_object.py" timestamp="1515336256148">
         <mark key="[" line="68" column="0" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/ocr_model_test1.py" timestamp="1518103675589">
+      <file name="D:/GITHUB/TheChineseRoom/ocr_model_test1.py" timestamp="1518106354975">
         <mark key="[" line="19" column="85" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1518103703462">
+      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/image_generator.py" timestamp="1518107124298" />
+      <file name="/Python Console" timestamp="1518107131215">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1507464875970">
@@ -275,7 +280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="30" filename="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" />
       <jump line="118" column="21" filename="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" />
       <jump line="123" column="31" filename="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" />
       <jump line="8" column="12" filename="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" />
@@ -375,6 +379,7 @@
       <jump line="164" column="0" filename="$USER_HOME$/Documents/GitHub/TheChineseRoom/console_test.py" />
       <jump line="8" column="13" filename="$USER_HOME$/Documents/GitHub/TheChineseRoom/console/console.py" />
       <jump line="25" column="33" filename="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_controller/window_controller_darwin.py" />
+      <jump line="38" column="11" filename="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/ocr_model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
