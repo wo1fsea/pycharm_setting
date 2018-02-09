@@ -6,6 +6,7 @@
       <file name="/start_script.py" timestamp="1483538622308">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/Program Files/Python36/Lib/site-packages/keras/backend/tensorflow_backend.py" timestamp="1518190506419" />
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/ocr/ocr_seq2seq/image_generator.py" timestamp="1516713590624">
         <mark key="[" line="75" column="11" />
         <mark key="]" line="75" column="11" />
@@ -32,12 +33,11 @@
         <mark key="]" line="14" column="14" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/ocr_model.py" timestamp="1518107078452">
+      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/ocr_model.py" timestamp="1518190925181">
         <mark key="'" line="38" column="11" />
-        <mark key="[" line="198" column="118" />
-        <mark key="]" line="198" column="109" />
-        <mark key="^" line="198" column="109" />
-        <mark key="." line="198" column="109" />
+        <mark key="[" line="240" column="12" />
+        <mark key="]" line="240" column="0" />
+        <mark key="." line="240" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/frame_capture_lancher.py" timestamp="1507367280303">
         <mark key="[" line="0" column="0" />
@@ -73,8 +73,8 @@
       <file name="$USER_HOME$/Documents/PyTexturePacker/Test/__init__.py" timestamp="1478342967692">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/utils.py" timestamp="1518106439656">
-        <mark key="[" line="49" column="0" />
+      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/utils.py" timestamp="1518190752605">
+        <mark key="[" line="27" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/monitor_launcher.py" timestamp="1507368588899">
         <mark key="[" line="11" column="13" />
@@ -166,13 +166,12 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/communication/redis_object.py" timestamp="1515336256148">
         <mark key="[" line="68" column="0" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/ocr_model_test1.py" timestamp="1518109008944">
-        <mark key="[" line="19" column="85" />
+      <file name="D:/GITHUB/TheChineseRoom/ocr_model_test1.py" timestamp="1518191035421">
+        <mark key="[" line="19" column="86" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/image_generator.py" timestamp="1518107124298" />
-      <file name="/Python Console" timestamp="1518109132962">
+      <file name="/Python Console" timestamp="1518190879889">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1507464875970">
@@ -250,11 +249,9 @@
         <mark key="^" line="92" column="7" />
         <mark key="." line="92" column="7" />
       </file>
+      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/data_generator.py" timestamp="1518190979056" />
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_manager/__init__.py" timestamp="1507134074779">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_controller/window_controller_darwin.py" timestamp="1515263349223">
-        <mark key="'" line="25" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/frame_grabber/frame_grabber.py" timestamp="1515341061398">
         <mark key="[" line="15" column="5" />
@@ -383,7 +380,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIHNlc3MuYXNfZGVmYXVsdCgpOgo=</text>
       </register>
       <register name="-" type="4">
         <text>not</text>
@@ -395,31 +392,31 @@
         <text encoding="base64">ICAgICAgICBpbWFnZV9hcnJheSA9IGltYWdlX2FycmF5WzosIDosIDBdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIHNlc3MuYXNfZGVmYXVsdCgpOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dDEgPSB0aW1lLnRpbWUoKQo=</text>
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dDIgPSB0aW1lLnRpbWUoKQo=</text>
+        <text encoding="base64">dDEgPSB0aW1lLnRpbWUoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZSA9IEltYWdlLm5ldyhtb2RlPSJSR0IiLCBzaXplPShzZWxmLndpZHRoLCBzZWxmLmhlaWdodCkpCg==</text>
+        <text encoding="base64">dDIgPSB0aW1lLnRpbWUoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzdHJpbmcpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZSA9IEltYWdlLm5ldyhtb2RlPSJSR0IiLCBzaXplPShzZWxmLndpZHRoLCBzZWxmLmhlaWdodCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aWcgPSBJbWFnZUdlbmVyYXRvcgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzdHJpbmcpCg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">aWcgPSBJbWFnZUdlbmVyYXRvcgo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGZyb20gLmltYWdlX2dlbmVyYXRvciBpbXBvcnQgSW1hZ2VHZW5lcmF0b3IK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgIHN1cmZhY2UgPSBjYWlyby5JbWFnZVN1cmZhY2UoY2Fpcm8uRk9STUFUX1JHQjI0LCB3LCBoKQogICAgd2l0aCBjYWlyby5Db250ZXh0KHN1cmZhY2UpIGFzIGNvbnRleHQ6CiAgICAgICAgY29udGV4dC5zZXRfc291cmNlX3JnYigxLCAxLCAxKSAgIyBXaGl0ZQogICAgICAgIGNvbnRleHQucGFpbnQoKQogICAgICAgICMgdGhpcyBmb250IGxpc3Qgd29ya3MgaW4gQ2VudE9TIDcKICAgICAgICBpZiBtdWx0aV9mb250czoKICAgICAgICAgICAgZm9udHMgPSBbJ0NlbnR1cnkgU2Nob29sYm9vaycsICdDb3VyaWVyJywgJ1NUSVgnLCAnVVJXIENoYW5jZXJ5IEwnLCAnRnJlZU1vbm8nXQogICAgICAgICAgICBjb250ZXh0LnNlbGVjdF9mb250X2ZhY2UobnAucmFuZG9tLmNob2ljZShmb250cyksIGNhaXJvLkZPTlRfU0xBTlRfTk9STUFMLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbnAucmFuZG9tLmNob2ljZShbY2Fpcm8uRk9OVF9XRUlHSFRfQk9MRCwgY2Fpcm8uRk9OVF9XRUlHSFRfTk9STUFMXSkpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgY29udGV4dC5zZWxlY3RfZm9udF9mYWNlKCdDb3VyaWVyJywgY2Fpcm8uRk9OVF9TTEFOVF9OT1JNQUwsIGNhaXJvLkZPTlRfV0VJR0hUX0JPTEQpCiAgICAgICAgY29udGV4dC5zZXRfZm9udF9zaXplKDI1KQogICAgICAgIGJveCA9IGNvbnRleHQudGV4dF9leHRlbnRzKHRleHQpCiAgICAgICAgYm9yZGVyX3dfaCA9ICg0LCA0KQogICAgICAgIGlmIGJveFsyXSA+ICh3IC0gMiAqIGJvcmRlcl93X2hbMV0pIG9yIGJveFszXSA+IChoIC0gMiAqIGJvcmRlcl93X2hbMF0pOgogICAgICAgICAgICByYWlzZSBJT0Vycm9yKCdDb3VsZCBub3QgZml0IHN0cmluZyBpbnRvIGltYWdlLiBNYXggY2hhciBjb3VudCBpcyB0b28gbGFyZ2UgZm9yIGdpdmVuIGltYWdlIHdpZHRoLicpCgogICAgICAgICMgdGVhY2ggdGhlIFJOTiB0cmFuc2xhdGlvbmFsIGludmFyaWFuY2UgYnkKICAgICAgICAjIGZpdHRpbmcgdGV4dCBib3ggcmFuZG9tbHkgb24gY2FudmFzLCB3aXRoIHNvbWUgcm9vbSB0byByb3RhdGUKICAgICAgICBtYXhfc2hpZnRfeCA9IHcgLSBib3hbMl0gLSBib3JkZXJfd19oWzBdCiAgICAgICAgbWF4X3NoaWZ0X3kgPSBoIC0gYm94WzNdIC0gYm9yZGVyX3dfaFsxXQogICAgICAgIHRvcF9sZWZ0X3ggPSBucC5yYW5kb20ucmFuZGludCgwLCBpbnQobWF4X3NoaWZ0X3gpKQogICAgICAgIGlmIHVkOgogICAgICAgICAgICB0b3BfbGVmdF95ID0gbnAucmFuZG9tLnJhbmRpbnQoMCwgaW50KG1heF9zaGlmdF95KSkKICAgICAgICBlbHNlOgogICAgICAgICAgICB0b3BfbGVmdF95ID0gaCAvLyAyCiAgICAgICAgY29udGV4dC5tb3ZlX3RvKHRvcF9sZWZ0X3ggLSBpbnQoYm94WzBdKSwgdG9wX2xlZnRfeSAtIGludChib3hbMV0pKQogICAgICAgIGNvbnRleHQuc2V0X3NvdXJjZV9yZ2IoMCwgMCwgMCkKICAgICAgICBjb250ZXh0LnNob3dfdGV4dCh0ZXh0KQoKICAgIGJ1ZiA9IHN1cmZhY2UuZ2V0X2RhdGEoKQogICAgYSA9IG5wLmZyb21idWZmZXIoYnVmLCBucC51aW50OCkKICAgIGEuc2hhcGUgPSAoaCwgdywgNCkKICAgIGEgPSBhWzosIDosIDBdICAjIGdyYWIgc2luZ2xlIGNoYW5uZWwKICAgIGEgPSBhLmFzdHlwZShucC5mbG9hdDMyKSAvIDI1NQogICAgYSA9IG5wLmV4cGFuZF9kaW1zKGEsIDApCiAgICBpZiByb3RhdGU6CiAgICAgICAgYSA9IGltYWdlLnJhbmRvbV9yb3RhdGlvbihhLCAzICogKHcgLSB0b3BfbGVmdF94KSAvIHcgKyAxKQogICAgYSA9IHNwZWNrbGUoYSk=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
