@@ -33,12 +33,12 @@
         <mark key="]" line="14" column="14" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/ocr_model.py" timestamp="1518195499878">
+      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/ocr_model.py" timestamp="1518197424621">
         <mark key="'" line="38" column="11" />
-        <mark key="[" line="227" column="56" />
-        <mark key="]" line="227" column="56" />
-        <mark key="." line="227" column="56" />
-        <mark key="^" line="41" column="44" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+        <mark key="^" line="80" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/frame_capture_lancher.py" timestamp="1507367280303">
         <mark key="[" line="0" column="0" />
@@ -74,11 +74,11 @@
       <file name="$USER_HOME$/Documents/PyTexturePacker/Test/__init__.py" timestamp="1478342967692">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/utils.py" timestamp="1518196068904">
-        <mark key="[" line="32" column="26" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="31" column="23" />
-        <mark key="." line="31" column="0" />
+      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/utils.py" timestamp="1518198219509">
+        <mark key="[" line="26" column="49" />
+        <mark key="]" line="26" column="49" />
+        <mark key="^" line="29" column="20" />
+        <mark key="." line="26" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/monitor_launcher.py" timestamp="1507368588899">
         <mark key="[" line="11" column="13" />
@@ -131,6 +131,12 @@
       <file name="D:/GITHUB/PykerStars/pykerstars/handranks.py" timestamp="1497539680393">
         <mark key="[" line="63" column="15" />
       </file>
+      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/alphabet.py" timestamp="1518197483742">
+        <mark key="[" line="13" column="30" />
+        <mark key="]" line="13" column="14" />
+        <mark key="." line="13" column="14" />
+        <mark key="^" line="13" column="14" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/rpc_test2.py" timestamp="1515336768545">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -170,12 +176,12 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/communication/redis_object.py" timestamp="1515336256148">
         <mark key="[" line="68" column="0" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/ocr_model_test1.py" timestamp="1518194961490">
+      <file name="D:/GITHUB/TheChineseRoom/ocr_model_test1.py" timestamp="1518197346514">
         <mark key="[" line="19" column="86" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1518196102483">
+      <file name="/Python Console" timestamp="1518198248878">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1518195946074">
@@ -384,48 +390,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>256</text>
+        <text>16</text>
       </register>
       <register name="-" type="4">
-        <text>256</text>
+        <text>16</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZV9hcnJheSA9IGltYWdlX2FycmF5WzosIDosIDBdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVjb2RlZF9yZXMgPSBbbGFiZWxfdG9fdGV4dChsYWJlbCwgQUxQSEFCRVQpIGZvciBsYWJlbCBpbiBjdGNfZGVjb2RlKHlfcHJlZHMpXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KHlfcHJlZHMuc2hhcGUpCg==</text>
+        <text encoding="base64">ICAgIGxhYmVsc1tsYWJlbHMgPT0gMTRdID0gLTEK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaW50KGxhYmVscz09MTQpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHlfcHJlZHMgPSB5X3ByZWRzIC0gMQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CgpkZWYgZ3JlZWR5X2RlY29kZSh5X3ByZWQsIGFscGhhYmV0KToKICAgIGJlc3QgPSB0dXBsZShucC5hcmdtYXgoeV9wcmVkLCAxKSkKICAgIGJlc3QgPSBbayBmb3IgaywgZyBpbiBpdGVydG9vbHMuZ3JvdXBieShiZXN0KV0KICAgIHN0cmluZyA9IGxhYmVsX3RvX3RleHQoYmVzdCwgYWxwaGFiZXQpCiAgICByZXR1cm4gc3RyaW5nCg==</text>
-      </register>
-      <register name="4" type="4">
-        <text>def greedy_decode(y_pred, alphabet):
-    best = tuple(np.argmax(y_pred, 1))
-    best = [k for k, g in itertools.groupby(best)]
-    string = label_to_text(best, alphabet)
-    return string</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICBsLCBnID0gSy5jdGNfZGVjb2RlKHlfcHJlZCwgbnAub25lcygoeV9wcmVkLnNoYXBlWzBdLCkpICogc2VsZi5vdXRwdXRfbGVuZ3RoLCBncmVlZHk9RmFsc2UpCiAgICAgICAgZm9yIGxhYmVsIGluIEsuZXZhbChsWzBdKToKICAgICAgICAgICAgcHJpbnQobGFiZWxfdG9fdGV4dChsYWJlbCwgc2VsZi5hbHBoYWJldCkp</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBhbHBoYWJldC5hcHBlbmQoIiIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvciBsYWJlbCBpbiBLLmV2YWwobFswXSk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbHBoYWJldCA9IGxpc3QoYWxwaGFiZXQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGlmIGlzaW5zdGFuY2UoYWxwaGFiZXQsIHN0cik6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgbCBpbiA6Cg==</text>
+        <text encoding="base64">ICAgIGFscGhhYmV0LmFwcGVuZCgiIikK</text>
       </register>
-      <register name="9" type="4">
-        <text>for label in labels:
-        for l in K.eval(label):</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICByZXMgPSBjdGNfZGVjb2RlKHlfcHJlZHMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
