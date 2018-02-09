@@ -33,11 +33,11 @@
         <mark key="]" line="14" column="14" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/ocr_model.py" timestamp="1518194756902">
+      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/ocr_model.py" timestamp="1518195499878">
         <mark key="'" line="38" column="11" />
-        <mark key="[" line="65" column="26" />
-        <mark key="]" line="65" column="26" />
-        <mark key="." line="65" column="26" />
+        <mark key="[" line="227" column="56" />
+        <mark key="]" line="227" column="56" />
+        <mark key="." line="227" column="56" />
         <mark key="^" line="41" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/frame_capture_lancher.py" timestamp="1507367280303">
@@ -74,8 +74,8 @@
       <file name="$USER_HOME$/Documents/PyTexturePacker/Test/__init__.py" timestamp="1478342967692">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/utils.py" timestamp="1518194909536">
-        <mark key="[" line="31" column="0" />
+      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/utils.py" timestamp="1518196068904">
+        <mark key="[" line="32" column="26" />
         <mark key="]" line="31" column="0" />
         <mark key="^" line="31" column="23" />
         <mark key="." line="31" column="0" />
@@ -170,15 +170,15 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/communication/redis_object.py" timestamp="1515336256148">
         <mark key="[" line="68" column="0" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/ocr_model_test1.py" timestamp="1518193992612">
+      <file name="D:/GITHUB/TheChineseRoom/ocr_model_test1.py" timestamp="1518194961490">
         <mark key="[" line="19" column="86" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1518194925284">
+      <file name="/Python Console" timestamp="1518196102483">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1507464875970">
+      <file name="/fragment.py" timestamp="1518195946074">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/async_test.py" timestamp="1510498607748">
@@ -383,11 +383,11 @@
       <jump line="38" column="11" filename="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/ocr_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KHlfcHJlZHMuc2hhcGUpCg==</text>
+      <register name="&quot;" type="4">
+        <text>256</text>
       </register>
       <register name="-" type="4">
-        <text>output_length</text>
+        <text>256</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
