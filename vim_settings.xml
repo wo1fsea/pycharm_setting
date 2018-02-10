@@ -32,12 +32,12 @@
         <mark key="]" line="14" column="14" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/ocr_model.py" timestamp="1518277282943">
+      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/ocr_model.py" timestamp="1518278109545">
         <mark key="'" line="38" column="11" />
-        <mark key="[" line="88" column="66" />
-        <mark key="]" line="88" column="66" />
-        <mark key="^" line="99" column="16" />
-        <mark key="." line="88" column="66" />
+        <mark key="[" line="17" column="35" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="139" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/frame_capture_lancher.py" timestamp="1507367280303">
         <mark key="[" line="0" column="0" />
@@ -73,11 +73,11 @@
       <file name="$USER_HOME$/Documents/PyTexturePacker/Test/__init__.py" timestamp="1478342967692">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/utils.py" timestamp="1518277388151">
-        <mark key="[" line="182" column="0" />
-        <mark key="]" line="182" column="0" />
-        <mark key="^" line="11" column="15" />
-        <mark key="." line="182" column="0" />
+      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/utils.py" timestamp="1518277791706">
+        <mark key="[" line="185" column="97" />
+        <mark key="]" line="185" column="0" />
+        <mark key="^" line="185" column="3" />
+        <mark key="." line="185" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/monitor_launcher.py" timestamp="1507368588899">
         <mark key="[" line="11" column="13" />
@@ -187,7 +187,7 @@
         <mark key="." line="90" column="0" />
         <mark key="^" line="90" column="16" />
       </file>
-      <file name="/Python Console" timestamp="1518277288194">
+      <file name="/Python Console" timestamp="1518278116666">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1518195946074">
@@ -239,7 +239,7 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518277388767">
+      <file name="/Dummy.txt" timestamp="1518277792747">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/output/keys.py" timestamp="1508081272612">
@@ -265,11 +265,11 @@
         <mark key="^" line="92" column="7" />
         <mark key="." line="92" column="7" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/data_generator.py" timestamp="1518276690651">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-        <mark key="^" line="57" column="16" />
+      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/data_generator.py" timestamp="1518277768030">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="43" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_manager/__init__.py" timestamp="1507134074779">
         <mark key="[" line="0" column="0" />
@@ -400,8 +400,8 @@
       <jump line="38" column="11" filename="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/ocr_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CiMgaW1nID0gSW1hZ2Uub3BlbigiL1VzZXJzL2h1YW5ncXVhbnlvbmcvRGVza3RvcC9zY3JlZW5zaG90LnBuZyIpCiMgaW1ncyA9IHNwbGl0X3RleHRfaW1hZ2UoaW1nKQojIGZvciBsaW5lIGluIGltZ3M6CiMgICAgIGZvciBpbWcgaW4gbGluZToKIyAgICAgICAgIGltZy5zaG93KCk=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBrZXJhcy5wcmVwcm9jZXNzaW5nIGltcG9ydCBpbWFnZQo=</text>
       </register>
       <register name="-" type="4">
         <text>Greys_r</text>
@@ -412,14 +412,14 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGVjb2RlZF9yZXMgPSBbbGFiZWxfdG9fdGV4dChsYWJlbCwgQUxQSEFCRVQpIGZvciBsYWJlbCBpbiBjdGNfZGVjb2RlKHlfcHJlZHMpXQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiMgaW1nID0gSW1hZ2Uub3BlbigiL1VzZXJzL2h1YW5ncXVhbnlvbmcvRGVza3RvcC9zY3JlZW5zaG90LnBuZyIpCiMgaW1ncyA9IHNwbGl0X3RleHRfaW1hZ2UoaW1nKQojIGZvciBsaW5lIGluIGltZ3M6CiMgICAgIGZvciBpbWcgaW4gbGluZToKIyAgICAgICAgIGltZy5zaG93KCk=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ZnJvbSBrZXJhcy5wcmVwcm9jZXNzaW5nIGltcG9ydCBpbWFnZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBrZXJhcy51dGlscy5kYXRhX3V0aWxzIGltcG9ydCBnZXRfZmlsZQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgSy5pbWFnZV9kYXRhX2Zvcm1hdCgpID09ICdjaGFubmVsc19maXJzdCc6CiAgICAgICAgICAgICAgICB0aGVfaW5wdXQgPSB3b3JkX2JhdGNoWydpbWFnZV9pbnB1dCddW2ksIDAsIDosIDpdCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICB0aGVfaW5wdXQgPSB3b3JkX2JhdGNoWydpbWFnZV9pbnB1dCddW2ksIDosIDosIDBd</text>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IGl0ZXJ0b29scwo=</text>
@@ -428,16 +428,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZV9hcnJheSA9IG5wLmV4cGFuZF9kaW1zKGltYWdlX2FycmF5LCAwKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaW5wdXRfc2hhcGUK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPSBjb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5wdXRfc2hhcGUgPSAoc2VsZi5faW1hZ2Vfd2lkdGgsIHNlbGYuX2ltYWdlX2hlaWdodCwgMSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZSA9IGltYWdlLmFzdHlwZShucC5mbG9hdDMyKSAvIDI1NQo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
