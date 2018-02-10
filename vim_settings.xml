@@ -16,13 +16,20 @@
         <mark key="]" line="25" column="3" />
         <mark key="." line="25" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/ocr/ocr_seq2seq/ocr_model.py" timestamp="1518015057491">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="30" />
+        <mark key="^" line="15" column="29" />
+        <mark key="." line="15" column="29" />
+      </file>
       <file name="D:/GITHUB/PykerStars/pykerstars/table.py" timestamp="1497448052160">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1512293017468">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/ocr/ocr_seq2seq/image_generator.py" timestamp="1517745853012">
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/ocr/ocr_seq2seq/image_generator.py" timestamp="1518015723391">
+        <mark key="[" line="79" column="15" />
         <mark key="]" line="16" column="13" />
         <mark key="^" line="17" column="29" />
         <mark key="." line="17" column="29" />
@@ -35,7 +42,7 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/frame_capture_lancher.py" timestamp="1507367280303">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/ocr/ocr_naive.py" timestamp="1516705424709">
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/ocr/ocr_naive.py" timestamp="1518015269530">
         <mark key="[" line="182" column="0" />
         <mark key="]" line="182" column="34" />
         <mark key="." line="122" column="0" />
@@ -112,6 +119,7 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="/usr/local/lib/python3.6/site-packages/keras/models.py" timestamp="1518014677717" />
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/config_reader.py" timestamp="1507219432734">
         <mark key="[" line="22" column="19" />
         <mark key="]" line="22" column="19" />
@@ -149,10 +157,8 @@
       <file name="vim_settings.xml" timestamp="1513361563762">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/ocr/ocr_seq2seq/utils.py" timestamp="1518012419898">
-        <mark key="[" line="84" column="22" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/ocr/ocr_seq2seq/utils.py" timestamp="1518015899078">
+        <mark key="'" line="122" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/ocr/ocr_seq2seq/model.py" timestamp="1516712797230">
         <mark key="[" line="9" column="79" />
@@ -180,6 +186,7 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/ocr/ocr_seq2seq/data_generator.py" timestamp="1518015131188" />
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/async_test.py" timestamp="1510498607748">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -273,7 +280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="30" filename="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" />
       <jump line="118" column="21" filename="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" />
       <jump line="123" column="31" filename="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" />
       <jump line="8" column="12" filename="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" />
@@ -373,46 +379,48 @@
       <jump line="164" column="0" filename="$USER_HOME$/Documents/GitHub/TheChineseRoom/console_test.py" />
       <jump line="8" column="13" filename="$USER_HOME$/Documents/GitHub/TheChineseRoom/console/console.py" />
       <jump line="25" column="33" filename="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_controller/window_controller_darwin.py" />
+      <jump line="120" column="17" filename="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/ocr/ocr_seq2seq/utils.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZXMuYXBwZW5kKFtdKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICBpZiBub2lzZToKICAgICAgICBpbWFnZV9hcnJheSA9IHNlbGYuYWRkX25vaXNlKGltYWdlX2FycmF5KQoKICAgICMgNCBkZWJ1ZwogICAgIyBpbWFnZSA9IEltYWdlLmZyb21hcnJheShpbWFnZV9hcnJheSwgbW9kZT0iTCIpCiAgICAjIGltYWdlLnNhdmUoImEucG5nIik=</text>
       </register>
       <register name="-" type="4">
-        <text>bs</text>
+        <text encoding="base64">WF9kYXRhW2ksIDAsIDA6c2VsZi5faW1hZ2Vfd2lkdGgsIDpdID0g</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGEgPSBhLmFzdHlwZShucC5mbG9hdDMyKSAvIDI1NQo=</text>
+        <text encoding="base64">ZnJvbSBrZXJhcyBpbXBvcnQgYmFja2VuZCBhcyBLCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZXMuYXBwZW5kKFtdKQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICBpZiBub2lzZToKICAgICAgICBpbWFnZV9hcnJheSA9IHNlbGYuYWRkX25vaXNlKGltYWdlX2FycmF5KQoKICAgICMgNCBkZWJ1ZwogICAgIyBpbWFnZSA9IEltYWdlLmZyb21hcnJheShpbWFnZV9hcnJheSwgbW9kZT0iTCIpCiAgICAjIGltYWdlLnNhdmUoImEucG5nIik=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAjIHBsdC5wbG90KHZlcnRpY2FsX3N1bSwgcmFuZ2UodmVydGljYWxfc3VtLnNoYXBlWzBdKSkKICAgICAgICAjIHBsdC5nY2EoKS5pbnZlcnRfeWF4aXMoKQogICAgICAgICMgcGx0LnNob3coKQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBYX2RhdGFbaSwgMCwgMDpzZWxmLl9pbWFnZV93aWR0aCwgOl0gPSBpbWFnZVswLCA6LCA6XS5UCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAjIGltYWdlID0gaW1hZ2UucmVzaXplKG1hcChsYW1iZGEgeDogaW50KDQgKiB4KSwgaW1hZ2Uuc2l6ZSkp</text>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbCA9IE1vZGVsKGlucHV0cz1pbnB1dF9kYXRhLCBvdXRwdXRzPXlfcHJlZCkK</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAjIGltYWdlcyA9IFtdCiAgICAjIGZvciBsaW5lIGluIGJveGVzOgogICAgIyAgICAgbGluZV9pbWFnZSA9IFtdCiAgICAjICAgICBsLCB0LCByLCBiID0gbGluZVswXQogICAgIyAgICAgbWF4X2xlbmd0aCA9IChiIC0gdCkgKiBtYXhfcmF0aW8KICAgICMgICAgIHN0YXJ0X3ggPSBsCiAgICAjICAgICBsYXN0X3ggPSBsCiAgICAjICAgICBmb3IgYm94IGluIGxpbmU6CiAgICAjICAgICAgICAgbCwgdCwgciwgYiA9IGJveAogICAgIyAgICAgICAgIGlmIHIgLSBzdGFydF94ID4gbWF4X2xlbmd0aDoKICAgICMgICAgICAgICAgICAgbGluZV9pbWFnZS5hcHBlbmQoaW1hZ2UuY3JvcCgoc3RhcnRfeCwgdCwgbGFzdF94LCBiKSkpCiAgICAjICAgICAgICAgICAgIHN0YXJ0X3ggPSBsYXN0X3gKICAgICMgICAgICAgICBlbHNlOgogICAgIyAgICAgICAgICAgICBsYXN0X3ggPSByCiAgICAjICAgICBpZiBzdGFydF94ICE9IGxhc3RfeDoKICAgICMgICAgICAgICBsaW5lX2ltYWdlLmFwcGVuZChpbWFnZS5jcm9wKChzdGFydF94LCB0LCBsYXN0X3gsIGIpKSkKICAgICMKICAgICMgICAgIGltYWdlcy5hcHBlbmQobGluZV9pbWFnZSkKCiAgICByZXR1cm4gaW1hZ2Vz</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzb3VyY2Vfc3RyID0gW10K</text>
+      <register name="5" type="4">
+        <text>box = line[-1]
+        l, t, r, b = box</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGFiZWxfbGVuZ3RoW2ldID0gbGVuKGxhYmVscykK</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZXMuYXBwZW5kKFtdKQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICAjIHBsdC5wbG90KHZlcnRpY2FsX3N1bSwgcmFuZ2UodmVydGljYWxfc3VtLnNoYXBlWzBdKSkKICAgICAgICAjIHBsdC5nY2EoKS5pbnZlcnRfeWF4aXMoKQogICAgICAgICMgcGx0LnNob3coKQ==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICBpbnB1dHMgPSB7J3RoZV9pbnB1dCc6IFhfZGF0YSwKICAgICAgICAgICAgICAgICAgJ3RoZV9sYWJlbHMnOiBsYWJlbHMsCiAgICAgICAgICAgICAgICAgICdpbnB1dF9sZW5ndGgnOiBpbnB1dF9sZW5ndGgsCiAgICAgICAgICAgICAgICAgICdsYWJlbF9sZW5ndGgnOiBsYWJlbF9sZW5ndGgsCiAgICAgICAgICAgICAgICAgICdzb3VyY2Vfc3RyJzogc291cmNlX3N0ciAgIyB1c2VkIGZvciB2aXN1YWxpemF0aW9uIG9ubHkKICAgICAgICAgICAgICAgICAgfQogICAgICAgIG91dHB1dHMgPSB7J2N0Yyc6IG5wLnplcm9zKFtzaXplXSl9ICAjIGR1bW15IGRhdGEgZm9yIGR1bW15IGxvc3MgZnVuY3Rpb24KICAgICAgICByZXR1cm4gKGlucHV0cywgb3V0cHV0cyk=</text>
+        <text encoding="base64">CiAgICAjIGltYWdlID0gaW1hZ2UucmVzaXplKG1hcChsYW1iZGEgeDogaW50KDQgKiB4KSwgaW1hZ2Uuc2l6ZSkp</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc291cmNlX3N0ci5hcHBlbmQoc2VsZi5YX3RleHRbaW5kZXggKyBpXSkK</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbCA9IE1vZGVsKGlucHV0cz1pbnB1dF9kYXRhLCBvdXRwdXRzPXlfcHJlZCkK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
