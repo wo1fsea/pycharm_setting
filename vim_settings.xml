@@ -11,8 +11,8 @@
         <mark key="]" line="75" column="11" />
         <mark key="." line="75" column="11" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/ocr_seq2seq.py" timestamp="1518359621637">
-        <mark key="[" line="28" column="0" />
+      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/ocr_seq2seq.py" timestamp="1518365011862">
+        <mark key="[" line="25" column="104" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
@@ -37,7 +37,7 @@
         <mark key="]" line="14" column="14" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/ocr_model.py" timestamp="1518278834879">
+      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/ocr_model.py" timestamp="1518363690498">
         <mark key="'" line="38" column="11" />
         <mark key="[" line="214" column="76" />
         <mark key="]" line="214" column="76" />
@@ -135,8 +135,8 @@
       <file name="D:/GITHUB/PykerStars/pykerstars/handranks.py" timestamp="1497539680393">
         <mark key="[" line="63" column="15" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/alphabet.py" timestamp="1518197483742">
-        <mark key="[" line="13" column="30" />
+      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/alphabet.py" timestamp="1518363674915">
+        <mark key="[" line="25" column="51" />
         <mark key="]" line="13" column="14" />
         <mark key="." line="13" column="14" />
         <mark key="^" line="13" column="14" />
@@ -185,11 +185,11 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/communication/redis_object.py" timestamp="1515336256148">
         <mark key="[" line="68" column="0" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/ocr_model_test1.py" timestamp="1518362372872">
-        <mark key="[" line="38" column="14" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="31" column="0" />
+      <file name="D:/GITHUB/TheChineseRoom/ocr_model_test1.py" timestamp="1518365216755">
+        <mark key="[" line="28" column="59" />
+        <mark key="]" line="28" column="59" />
+        <mark key="." line="28" column="59" />
+        <mark key="^" line="33" column="0" />
       </file>
       <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/image_generator.py" timestamp="1518362435723">
         <mark key="[" line="86" column="0" />
@@ -197,7 +197,7 @@
         <mark key="." line="86" column="0" />
         <mark key="^" line="86" column="54" />
       </file>
-      <file name="/Python Console" timestamp="1518362377087">
+      <file name="/Python Console" timestamp="1518365238108">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1518195946074">
@@ -416,11 +416,11 @@
       <jump line="38" column="11" filename="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/ocr_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZS5zaG93KCkK</text>
+      <register name="&quot;" type="4">
+        <text>128</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>128</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
