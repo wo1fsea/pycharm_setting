@@ -185,19 +185,19 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/communication/redis_object.py" timestamp="1515336256148">
         <mark key="[" line="68" column="0" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/ocr_model_test1.py" timestamp="1518359757750">
-        <mark key="[" line="31" column="0" />
+      <file name="D:/GITHUB/TheChineseRoom/ocr_model_test1.py" timestamp="1518362372872">
+        <mark key="[" line="38" column="14" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="0" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/image_generator.py" timestamp="1518359708079">
-        <mark key="[" line="55" column="68" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
-        <mark key="^" line="91" column="16" />
+      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/image_generator.py" timestamp="1518362435723">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
+        <mark key="^" line="86" column="54" />
       </file>
-      <file name="/Python Console" timestamp="1518359778555">
+      <file name="/Python Console" timestamp="1518362377087">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1518195946074">
@@ -252,7 +252,7 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518277792747">
+      <file name="/Dummy.txt" timestamp="1518362280055">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/output/keys.py" timestamp="1508081272612">
@@ -417,10 +417,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZS5zaG93KCkK</text>
       </register>
       <register name="-" type="4">
-        <text>naive</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -429,31 +429,31 @@
         <text encoding="base64">ICAgICAgICAgICAgZGVjb2RlZF9yZXMgPSBbbGFiZWxfdG9fdGV4dChsYWJlbCwgQUxQSEFCRVQpIGZvciBsYWJlbCBpbiBjdGNfZGVjb2RlKHlfcHJlZHMpXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZS5zaG93KCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9vY3JfbW9kZWwubG9hZF9jb25maWdfZm9yX3ByZWRpY3RfbW9kZWwociJEOlxHSVRIVUJcVGhlQ2hpbmVzZVJvb21cb2NyX21vZGVsXGNoZWNrcG9pbnRfMjciKQo=</text>
+        <text encoding="base64">ICAgICAgICAiIiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbWcgPSBJbWFnZS5vcGVuKCJDOi9Vc2Vycy93bzFmc2VhL0Rlc2t0b3AvU2NyZWVuQ2xpcC5wbmciKQo=</text>
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGkgKz0gMQo=</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gbm9pc2U6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByZWRpY3QK</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gdHJhbnNsYXRlOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gcm90YXRpb246Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvY3JfbSA9IAo=</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gc3RyaW5nOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvY3JfbSA9IE9DUk1vZGVsKDEyOCwgMTYpCg==</text>
+        <text encoding="base64">ICAgICAgICAiIiIK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
