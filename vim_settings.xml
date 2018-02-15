@@ -16,12 +16,6 @@
         <mark key="]" line="25" column="3" />
         <mark key="." line="25" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/ocr/ocr_seq2seq/ocr_model.py" timestamp="1518015057491">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="30" />
-        <mark key="^" line="15" column="29" />
-        <mark key="." line="15" column="29" />
-      </file>
       <file name="D:/GITHUB/PykerStars/pykerstars/table.py" timestamp="1497448052160">
         <mark key="[" line="0" column="0" />
       </file>
@@ -29,7 +23,6 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/ocr/ocr_seq2seq/image_generator.py" timestamp="1518015723391">
-        <mark key="[" line="79" column="15" />
         <mark key="]" line="16" column="13" />
         <mark key="^" line="17" column="29" />
         <mark key="." line="17" column="29" />
@@ -157,9 +150,6 @@
       <file name="vim_settings.xml" timestamp="1513361563762">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/ocr/ocr_seq2seq/utils.py" timestamp="1518015899078">
-        <mark key="'" line="122" column="17" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/ocr/ocr_seq2seq/model.py" timestamp="1516712797230">
         <mark key="[" line="9" column="79" />
         <mark key="]" line="9" column="11" />
@@ -186,7 +176,6 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/ocr/ocr_seq2seq/data_generator.py" timestamp="1518015131188" />
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/async_test.py" timestamp="1510498607748">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -269,7 +258,7 @@
       <file name="D:/GITHUB/PyTexturePacker/setup.py" timestamp="1495355603176">
         <mark key="[" line="6" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/ocr_model_test1.py" timestamp="1517744906065">
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/ocr_model_test1.py" timestamp="1518703736464">
         <mark key="[" line="9" column="79" />
         <mark key="]" line="9" column="78" />
         <mark key="^" line="9" column="78" />
