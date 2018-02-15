@@ -16,6 +16,9 @@
         <mark key="]" line="25" column="3" />
         <mark key="." line="25" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/ocr/ocr_seq2seq/ocr_model.py" timestamp="1518706171375">
+        <mark key="[" line="34" column="26" />
+      </file>
       <file name="D:/GITHUB/PykerStars/pykerstars/table.py" timestamp="1497448052160">
         <mark key="[" line="0" column="0" />
       </file>
@@ -52,6 +55,9 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/ocr/ocr_seq2seq/ocr_seq2seq.py" timestamp="1518704975681">
+        <mark key="[" line="9" column="79" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/requirements.txt" timestamp="1513421309808">
         <mark key="[" line="8" column="5" />
@@ -252,14 +258,17 @@
         <mark key="^" line="92" column="7" />
         <mark key="." line="92" column="7" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/ocr/ocr_model_test.py" timestamp="1518705012526">
+        <mark key="[" line="12" column="5" />
+      </file>
       <file name="D:/GITHUB/PykerStars/pykerstars/utils/_poker_enum2.py" timestamp="1497540869769">
         <mark key="[" line="0" column="14" />
       </file>
       <file name="D:/GITHUB/PyTexturePacker/setup.py" timestamp="1495355603176">
         <mark key="[" line="6" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/ocr_model_test1.py" timestamp="1518703736464">
-        <mark key="[" line="9" column="79" />
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/ocr_model_test1.py" timestamp="1518704387788">
+        <mark key="[" line="12" column="26" />
         <mark key="]" line="9" column="78" />
         <mark key="^" line="9" column="78" />
         <mark key="." line="9" column="78" />
