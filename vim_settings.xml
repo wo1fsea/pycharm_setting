@@ -78,7 +78,7 @@
       <file name="$USER_HOME$/Documents/PyTexturePacker/Test/__init__.py" timestamp="1478342967692">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/utils.py" timestamp="1518534216163">
+      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/utils.py" timestamp="1518535694206">
         <mark key="[" line="25" column="31" />
         <mark key="]" line="25" column="31" />
         <mark key="^" line="137" column="22" />
@@ -421,10 +421,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>True</text>
+        <text>False</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
         <text>8</text>
