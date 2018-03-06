@@ -196,7 +196,7 @@
         <mark key="." line="88" column="0" />
         <mark key="^" line="88" column="12" />
       </file>
-      <file name="/Python Console" timestamp="1518534255580">
+      <file name="/Python Console" timestamp="1520347727311">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1518195946074">
@@ -206,6 +206,11 @@
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
+      </file>
+      <file name="D:/GITHUB/PyOCRSeq2Seq/ocr_seq2seq/utils.py" timestamp="1520347746902">
+        <mark key="[" line="202" column="27" />
+        <mark key="]" line="202" column="27" />
+        <mark key="." line="202" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/requirements.txt" timestamp="1513421309808">
         <mark key="[" line="8" column="5" />
@@ -218,6 +223,9 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/input_controller/input_recorder_pynput.py" timestamp="1513356941731">
         <mark key="[" line="72" column="36" />
       </file>
+      <file name="D:/GITHUB/PyOCRSeq2Seq/ocr_seq2seq/ocr_model.py" timestamp="1520267841834">
+        <mark key="[" line="34" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/PykerStars/handranks.py" timestamp="1486143744144">
         <mark key="[" line="0" column="0" />
       </file>
@@ -229,17 +237,17 @@
       <file name="$USER_HOME$/Documents/PykerStars/.gitignore" timestamp="1486071398335">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="D:/GITHUB/PyOCRSeq2Seq/main.py" timestamp="1519832892898">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="42" />
-        <mark key="^" line="12" column="20" />
-        <mark key="." line="13" column="0" />
+      <file name="D:/GITHUB/PyOCRSeq2Seq/main.py" timestamp="1520347668230">
+        <mark key="[" line="23" column="32" />
+        <mark key="]" line="18" column="52" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/input_controller/input_controller_pyautogui.py" timestamp="1512290508581">
         <mark key="[" line="112" column="0" />
         <mark key="]" line="112" column="0" />
         <mark key="." line="112" column="0" />
       </file>
+      <file name="D:/GITHUB/PyTexturePacker/PyTexturePacker/Utils.py" timestamp="1520347470684" />
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/monitor/monitor.py" timestamp="1515257785817">
         <mark key="[" line="52" column="45" />
         <mark key="]" line="52" column="45" />
@@ -426,11 +434,11 @@
       <jump line="25" column="47" filename="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/image_generator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBvY3Jfc2VxMnNlcS5vY3JfbW9kZWwgaW1wb3J0IE9DUk1vZGVsCg==</text>
+      <register name="&quot;" type="4">
+        <text>==</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>==</text>
       </register>
       <register name="/" type="4">
         <text>8</text>
@@ -439,40 +447,31 @@
         <text encoding="base64">ICAgICAgICAgICAgZGVjb2RlZF9yZXMgPSBbbGFiZWxfdG9fdGV4dChsYWJlbCwgQUxQSEFCRVQpIGZvciBsYWJlbCBpbiBjdGNfZGVjb2RlKHlfcHJlZHMpXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBvY3Jfc2VxMnNlcS5vY3JfbW9kZWwgaW1wb3J0IE9DUk1vZGVsCg==</text>
+        <text encoding="base64">ZnJvbSAub2NyX3NlcTJzZXEudXRpbHMgaW1wb3J0IGdldF9mb250X3NldF9mcm9tX2Rpcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBrZXJhcyBpbXBvcnQgYmFja2VuZCBhcyBLCg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBvcwo=</text>
       </register>
-      <register name="3" type="4">
-        <text># -*- coding: utf-8 -*-
-&quot;&quot;&quot;----------------------------------------------------------------------------
-Author:
-    Huang Quanyong (wo1fSea)
-    quanyongh@foxmail.com
-Date:
-    2018/2/4
-Description:
-    ocr_model_test1.py
-----------------------------------------------------------------------------&quot;&quot;&quot;</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgT0NSU2VxMlNlcShPQ1IpOgo=</text>
+        <text encoding="base64">ICAgIDpyZXR1cm46IEltYWdlUmVjdCBsaXN0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBQSUwgaW1wb3J0IEltYWdlCg==</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBkaXJfcGF0aDogZGlyZWN0b3J5IHBhdGgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSAuLm9jciBpbXBvcnQgT0NSCg==</text>
+        <text encoding="base64">ICAgIGxvYWQgYWxsIGltYWdlcyBmcm9tIGEgZGlyZWN0b3J5Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJib3ggPSAoYmJveFswXSAtIDEsIGJib3hbMV0sIGJib3hbMl0gKyAxLCBiYm94WzNdICsgMSkK</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBvY3Jfc2VxMnNlcS5vY3JfbW9kZWwgaW1wb3J0IE9DUk1vZGVsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIkVCIiwgbGVuKHN0cmluZyksIHN0cmluZykK</text>
+        <text encoding="base64">ZnJvbSBrZXJhcyBpbXBvcnQgYmFja2VuZCBhcyBLCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
