@@ -207,10 +207,10 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="D:/GITHUB/PyOCRSeq2Seq/ocr_seq2seq/utils.py" timestamp="1520350461221">
-        <mark key="[" line="202" column="27" />
-        <mark key="]" line="202" column="27" />
-        <mark key="." line="202" column="27" />
+      <file name="D:/GITHUB/PyOCRSeq2Seq/ocr_seq2seq/utils.py" timestamp="1520428768567">
+        <mark key="[" line="52" column="5" />
+        <mark key="]" line="203" column="27" />
+        <mark key="." line="203" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/requirements.txt" timestamp="1513421309808">
         <mark key="[" line="8" column="5" />
@@ -237,10 +237,10 @@
       <file name="$USER_HOME$/Documents/PykerStars/.gitignore" timestamp="1486071398335">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="D:/GITHUB/PyOCRSeq2Seq/main.py" timestamp="1520425090804">
-        <mark key="[" line="26" column="84" />
-        <mark key="]" line="45" column="19" />
-        <mark key="." line="45" column="19" />
+      <file name="D:/GITHUB/PyOCRSeq2Seq/main.py" timestamp="1520430601601">
+        <mark key="[" line="34" column="8" />
+        <mark key="]" line="34" column="8" />
+        <mark key="." line="34" column="8" />
         <mark key="^" line="45" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/input_controller/input_controller_pyautogui.py" timestamp="1512290508581">
@@ -257,8 +257,11 @@
       <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Image.py" timestamp="1475379944934">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/PyOCRSeq2Seq/ocr_seq2seq/image_generator.py" timestamp="1520350649134">
-        <mark key="[" line="20" column="20" />
+      <file name="D:/GITHUB/PyOCRSeq2Seq/ocr_seq2seq/image_generator.py" timestamp="1520430581541">
+        <mark key="[" line="95" column="56" />
+        <mark key="]" line="95" column="56" />
+        <mark key="^" line="95" column="56" />
+        <mark key="." line="95" column="56" />
       </file>
       <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/__init__.py" timestamp="1518279604336">
         <mark key="[" line="0" column="0" />
@@ -442,10 +445,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>==</text>
+        <text>img</text>
       </register>
       <register name="-" type="4">
-        <text>==</text>
+        <text>img</text>
       </register>
       <register name="/" type="4">
         <text>8</text>
