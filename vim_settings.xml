@@ -240,10 +240,10 @@
       <file name="$USER_HOME$/Documents/PykerStars/.gitignore" timestamp="1486071398335">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="D:/GITHUB/PyOCRSeq2Seq/main.py" timestamp="1520440763416">
-        <mark key="[" line="26" column="84" />
-        <mark key="]" line="26" column="84" />
-        <mark key="." line="26" column="84" />
+      <file name="D:/GITHUB/PyOCRSeq2Seq/main.py" timestamp="1520523482537">
+        <mark key="[" line="45" column="12" />
+        <mark key="]" line="45" column="12" />
+        <mark key="." line="45" column="12" />
         <mark key="^" line="26" column="84" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/input_controller/input_controller_pyautogui.py" timestamp="1512290508581">
@@ -251,7 +251,6 @@
         <mark key="]" line="112" column="0" />
         <mark key="." line="112" column="0" />
       </file>
-      <file name="D:/GITHUB/PyTexturePacker/PyTexturePacker/Utils.py" timestamp="1520347470684" />
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/monitor/monitor.py" timestamp="1515257785817">
         <mark key="[" line="52" column="45" />
         <mark key="]" line="52" column="45" />
@@ -449,11 +448,11 @@
       <jump line="278" column="43" filename="D:/GITHUB/PyOCRSeq2Seq/ocr_seq2seq/ocr_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXMgPSBbbGFiZWxfdG9fdGV4dChsYWJlbCwgc2VsZi5hbHBoYWJldCkgZm9yIGxhYmVsIGluIGN0Y19kZWNvZGUoeV9wcmVkcyldCg==</text>
+      <register name="&quot;" type="4">
+        <text>358</text>
       </register>
       <register name="-" type="4">
-        <text>256</text>
+        <text>358</text>
       </register>
       <register name="/" type="4">
         <text>8</text>
