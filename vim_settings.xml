@@ -222,11 +222,9 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/input_controller/input_recorder_pynput.py" timestamp="1513356941731">
         <mark key="[" line="72" column="36" />
       </file>
-      <file name="D:/GITHUB/PyOCRSeq2Seq/ocr_seq2seq/ocr_model.py" timestamp="1520609601470">
-        <mark key="'" line="278" column="43" />
-        <mark key="[" line="32" column="18" />
-        <mark key="]" line="279" column="0" />
-        <mark key="." line="279" column="0" />
+      <file name="D:/GITHUB/PyOCRSeq2Seq/ocr_seq2seq/ocr_model.py" timestamp="1521646048592">
+        <mark key="'" line="266" column="43" />
+        <mark key="^" line="94" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/PykerStars/handranks.py" timestamp="1486143744144">
         <mark key="[" line="0" column="0" />
@@ -239,8 +237,8 @@
       <file name="$USER_HOME$/Documents/PykerStars/.gitignore" timestamp="1486071398335">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="D:/GITHUB/PyOCRSeq2Seq/main.py" timestamp="1520609834262">
-        <mark key="[" line="45" column="12" />
+      <file name="D:/GITHUB/PyOCRSeq2Seq/main.py" timestamp="1521644803173">
+        <mark key="[" line="45" column="14" />
         <mark key="]" line="45" column="12" />
         <mark key="." line="45" column="12" />
         <mark key="^" line="26" column="84" />
@@ -278,7 +276,7 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518495091182">
+      <file name="/Dummy.txt" timestamp="1521645692078">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/output/keys.py" timestamp="1508081272612">
@@ -312,6 +310,7 @@
         <mark key="]" line="44" column="77" />
         <mark key="." line="44" column="77" />
       </file>
+      <file name="C:/Program Files/Python36/Lib/site-packages/keras/callbacks.py" timestamp="1521644686699" />
       <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/data_generator.py" timestamp="1518453593801">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="11" column="0" />
@@ -448,10 +447,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>358</text>
+        <text encoding="base64">CmNsYXNzIENoZWNrcG9pbnRTYXZlcihDYWxsYmFjayk6CiAgICBDSEVDS1BPSU5UX0ZJTEUgPSAiY2hlY2twb2ludF8lZCIKCiAgICBkZWYgX19pbml0X18oc2VsZiwgY2hlY2twb2ludF9wYXRoKToKICAgICAgICBzdXBlcihDaGVja3BvaW50U2F2ZXIsIHNlbGYpLl9faW5pdF9fKCkKICAgICAgICBzZWxmLl9wYXRoID0gY2hlY2twb2ludF9wYXRoCgogICAgZGVmIHNhdmVfY2hlY2twb2ludChzZWxmLCBtb2RlbCwgZXBvY2gpOgogICAgICAgIG1vZGVsLnNhdmVfd2VpZ2h0cyhvcy5wYXRoLmpvaW4oc2VsZi5fcGF0aCwgc2VsZi5DSEVDS1BPSU5UX0ZJTEUgJSBlcG9jaCkpCgogICAgZGVmIGxvYWRfY2hlY2twb2ludChzZWxmLCBtb2RlbCwgZXBvY2gpOgogICAgICAgIG1vZGVsLmxvYWRfd2VpZ2h0cyhvcy5wYXRoLmpvaW4oc2VsZi5fcGF0aCwgc2VsZi5DSEVDS1BPSU5UX0ZJTEUgJSBlcG9jaCkpCgogICAgZGVmIF9jaGVja3BvaW50KHNlbGYsIGVwb2NoKToKICAgICAgICBzZWxmLnNhdmVfY2hlY2twb2ludChzZWxmLm1vZGVsLCBlcG9jaCkKCiAgICBkZWYgb25fZXBvY2hfZW5kKHNlbGYsIGVwb2NoLCBsb2dzPXt9KToKICAgICAgICBzZWxmLl9jaGVja3BvaW50KGVwb2NoKQ==</text>
       </register>
       <register name="-" type="4">
-        <text>358</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
         <text>8</text>
@@ -459,32 +458,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGVjb2RlZF9yZXMgPSBbbGFiZWxfdG9fdGV4dChsYWJlbCwgQUxQSEFCRVQpIGZvciBsYWJlbCBpbiBjdGNfZGVjb2RlKHlfcHJlZHMpXQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXMgPSBbbGFiZWxfdG9fdGV4dChsYWJlbCwgc2VsZi5hbHBoYWJldCkgZm9yIGxhYmVsIGluIGN0Y19kZWNvZGUoeV9wcmVkcyldCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CmNsYXNzIENoZWNrcG9pbnRTYXZlcihDYWxsYmFjayk6CiAgICBDSEVDS1BPSU5UX0ZJTEUgPSAiY2hlY2twb2ludF8lZCIKCiAgICBkZWYgX19pbml0X18oc2VsZiwgY2hlY2twb2ludF9wYXRoKToKICAgICAgICBzdXBlcihDaGVja3BvaW50U2F2ZXIsIHNlbGYpLl9faW5pdF9fKCkKICAgICAgICBzZWxmLl9wYXRoID0gY2hlY2twb2ludF9wYXRoCgogICAgZGVmIHNhdmVfY2hlY2twb2ludChzZWxmLCBtb2RlbCwgZXBvY2gpOgogICAgICAgIG1vZGVsLnNhdmVfd2VpZ2h0cyhvcy5wYXRoLmpvaW4oc2VsZi5fcGF0aCwgc2VsZi5DSEVDS1BPSU5UX0ZJTEUgJSBlcG9jaCkpCgogICAgZGVmIGxvYWRfY2hlY2twb2ludChzZWxmLCBtb2RlbCwgZXBvY2gpOgogICAgICAgIG1vZGVsLmxvYWRfd2VpZ2h0cyhvcy5wYXRoLmpvaW4oc2VsZi5fcGF0aCwgc2VsZi5DSEVDS1BPSU5UX0ZJTEUgJSBlcG9jaCkpCgogICAgZGVmIF9jaGVja3BvaW50KHNlbGYsIGVwb2NoKToKICAgICAgICBzZWxmLnNhdmVfY2hlY2twb2ludChzZWxmLm1vZGVsLCBlcG9jaCkKCiAgICBkZWYgb25fZXBvY2hfZW5kKHNlbGYsIGVwb2NoLCBsb2dzPXt9KToKICAgICAgICBzZWxmLl9jaGVja3BvaW50KGVwb2NoKQ==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSAub2NyX3NlcTJzZXEudXRpbHMgaW1wb3J0IGdldF9mb250X3NldF9mcm9tX2Rpcgo=</text>
+        <text encoding="base64">ICAgICAgICByZXMgPSBbbGFiZWxfdG9fdGV4dChsYWJlbCwgc2VsZi5hbHBoYWJldCkgZm9yIGxhYmVsIGluIGN0Y19kZWNvZGUoeV9wcmVkcyldCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBvcwo=</text>
+        <text encoding="base64">ZnJvbSAub2NyX3NlcTJzZXEudXRpbHMgaW1wb3J0IGdldF9mb250X3NldF9mcm9tX2Rpcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCBvcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDpyZXR1cm46IEltYWdlUmVjdCBsaXN0Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBkaXJfcGF0aDogZGlyZWN0b3J5IHBhdGgK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvYWQgYWxsIGltYWdlcyBmcm9tIGEgZGlyZWN0b3J5Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICIiIgo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIDpyZXR1cm46IEltYWdlUmVjdCBsaXN0Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIDpwYXJhbSBkaXJfcGF0aDogZGlyZWN0b3J5IHBhdGgK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGxvYWQgYWxsIGltYWdlcyBmcm9tIGEgZGlyZWN0b3J5Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBvY3Jfc2VxMnNlcS5vY3JfbW9kZWwgaW1wb3J0IE9DUk1vZGVsCg==</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
