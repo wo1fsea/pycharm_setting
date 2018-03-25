@@ -222,12 +222,11 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/input_controller/input_recorder_pynput.py" timestamp="1513356941731">
         <mark key="[" line="72" column="36" />
       </file>
-      <file name="D:/GITHUB/PyOCRSeq2Seq/ocr_seq2seq/ocr_model.py" timestamp="1521994418454">
-        <mark key="'" line="313" column="43" />
-        <mark key="[" line="104" column="31" />
-        <mark key="]" line="110" column="98" />
-        <mark key="." line="110" column="0" />
-        <mark key="^" line="109" column="64" />
+      <file name="D:/GITHUB/PyOCRSeq2Seq/ocr_seq2seq/ocr_model.py" timestamp="1521995236156">
+        <mark key="'" line="310" column="43" />
+        <mark key="[" line="131" column="47" />
+        <mark key="]" line="131" column="47" />
+        <mark key="." line="131" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/PykerStars/handranks.py" timestamp="1486143744144">
         <mark key="[" line="0" column="0" />
@@ -453,10 +452,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>mean_no</text>
+        <text>256</text>
       </register>
       <register name="-" type="4">
-        <text>mean_no</text>
+        <text>256</text>
       </register>
       <register name="/" type="4">
         <text>8</text>
@@ -464,40 +463,40 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLndyaXRlX3NpbXBsZV92YWx1ZV90b19sb2dzKGVwb2NoLCAibWVhbl9lZCIsIG1lYW5fZWQpCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAlIChudW0sIG1lYW5fZWQsIG1lYW5fbm9ybV9lZCkpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgnXG5PdXQgb2YgJWQgc2FtcGxlczogIE1lYW4gZWRpdCBkaXN0YW5jZTogJS4zZiBNZWFuIG5vcm1hbGl6ZWQgZWRpdCBkaXN0YW5jZTogJTAuM2YnCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnNob3dfZWRpdF9kaXN0YW5jZShlcG9jaCwgMjU2KQo=</text>
+      </register>
+      <register name="5" type="4">
         <text>summary = tf.Summary()
             summary_value = summary.value.add()
             summary_value.simple_value = 
             summary_value.tag = name
             self.writer.add_summary(summary, epoch)</text>
       </register>
-      <register name="2" type="4">
+      <register name="6" type="4">
         <text>summary = tf.Summary()
             summary_value = summary.value.add()
             summary_value.simple_value = value.item()
             summary_value.tag = name
             self.writer.add_summary(summary, epoch)</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLndyaXRlci5mbHVzaCgpCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB0ID0gdGIoKQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CmNsYXNzIHRiKENhbGxiYWNrKToKICAgIGRlZiBfX2luaXRfXyhzZWxmLCAqYXJncywgKiprd2FyZ3MpOgogICAgICAgIHN1cGVyKHRiLCBzZWxmKS5fX2luaXRfXygqYXJncywgKiprd2FyZ3MpCgogICAgZGVmIG9uX2Vwb2NoX2VuZChzZWxmLCBlcG9jaCwgbG9ncz1Ob25lKToKICAgICAgICBpbXBvcnQgdGVuc29yZmxvdyBhcyB0ZgogICAgICAgIGZpbGUgPSBvcGVuKCdEOlxHSVRIVUJcUHlPQ1JTZXEyU2VxXG9jcl9tb2RlbFxlMDAucG5nJywgJ3JiJykKICAgICAgICBkYXRhID0gZmlsZS5yZWFkKCkKICAgICAgICBmaWxlLmNsb3NlKCk=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBweWxhYi5zYXZlZmlnKG9zLnBhdGguam9pbihzZWxmLmxvZ3NfcGF0aCwgJ2UlMDJkLnBuZycgJSAoZXBvY2gpKSkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYnVmCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjINTL0NCyotC0yOvI1da+Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
