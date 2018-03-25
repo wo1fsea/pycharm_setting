@@ -222,9 +222,12 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/input_controller/input_recorder_pynput.py" timestamp="1513356941731">
         <mark key="[" line="72" column="36" />
       </file>
-      <file name="D:/GITHUB/PyOCRSeq2Seq/ocr_seq2seq/ocr_model.py" timestamp="1521646048592">
-        <mark key="'" line="266" column="43" />
-        <mark key="^" line="94" column="27" />
+      <file name="D:/GITHUB/PyOCRSeq2Seq/ocr_seq2seq/ocr_model.py" timestamp="1521994418454">
+        <mark key="'" line="313" column="43" />
+        <mark key="[" line="104" column="31" />
+        <mark key="]" line="110" column="98" />
+        <mark key="." line="110" column="0" />
+        <mark key="^" line="109" column="64" />
       </file>
       <file name="$USER_HOME$/Documents/PykerStars/handranks.py" timestamp="1486143744144">
         <mark key="[" line="0" column="0" />
@@ -310,7 +313,10 @@
         <mark key="]" line="44" column="77" />
         <mark key="." line="44" column="77" />
       </file>
-      <file name="C:/Program Files/Python36/Lib/site-packages/keras/callbacks.py" timestamp="1521644686699" />
+      <file name="C:/Program Files/Python36/Lib/site-packages/keras/callbacks.py" timestamp="1521993092023">
+        <mark key="[" line="657" column="0" />
+        <mark key="]" line="656" column="0" />
+      </file>
       <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/data_generator.py" timestamp="1518453593801">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="11" column="0" />
@@ -447,43 +453,51 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CmNsYXNzIENoZWNrcG9pbnRTYXZlcihDYWxsYmFjayk6CiAgICBDSEVDS1BPSU5UX0ZJTEUgPSAiY2hlY2twb2ludF8lZCIKCiAgICBkZWYgX19pbml0X18oc2VsZiwgY2hlY2twb2ludF9wYXRoKToKICAgICAgICBzdXBlcihDaGVja3BvaW50U2F2ZXIsIHNlbGYpLl9faW5pdF9fKCkKICAgICAgICBzZWxmLl9wYXRoID0gY2hlY2twb2ludF9wYXRoCgogICAgZGVmIHNhdmVfY2hlY2twb2ludChzZWxmLCBtb2RlbCwgZXBvY2gpOgogICAgICAgIG1vZGVsLnNhdmVfd2VpZ2h0cyhvcy5wYXRoLmpvaW4oc2VsZi5fcGF0aCwgc2VsZi5DSEVDS1BPSU5UX0ZJTEUgJSBlcG9jaCkpCgogICAgZGVmIGxvYWRfY2hlY2twb2ludChzZWxmLCBtb2RlbCwgZXBvY2gpOgogICAgICAgIG1vZGVsLmxvYWRfd2VpZ2h0cyhvcy5wYXRoLmpvaW4oc2VsZi5fcGF0aCwgc2VsZi5DSEVDS1BPSU5UX0ZJTEUgJSBlcG9jaCkpCgogICAgZGVmIF9jaGVja3BvaW50KHNlbGYsIGVwb2NoKToKICAgICAgICBzZWxmLnNhdmVfY2hlY2twb2ludChzZWxmLm1vZGVsLCBlcG9jaCkKCiAgICBkZWYgb25fZXBvY2hfZW5kKHNlbGYsIGVwb2NoLCBsb2dzPXt9KToKICAgICAgICBzZWxmLl9jaGVja3BvaW50KGVwb2NoKQ==</text>
+        <text>mean_no</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>mean_no</text>
       </register>
       <register name="/" type="4">
         <text>8</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVjb2RlZF9yZXMgPSBbbGFiZWxfdG9fdGV4dChsYWJlbCwgQUxQSEFCRVQpIGZvciBsYWJlbCBpbiBjdGNfZGVjb2RlKHlfcHJlZHMpXQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLndyaXRlX3NpbXBsZV92YWx1ZV90b19sb2dzKGVwb2NoLCAibWVhbl9lZCIsIG1lYW5fZWQpCg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CmNsYXNzIENoZWNrcG9pbnRTYXZlcihDYWxsYmFjayk6CiAgICBDSEVDS1BPSU5UX0ZJTEUgPSAiY2hlY2twb2ludF8lZCIKCiAgICBkZWYgX19pbml0X18oc2VsZiwgY2hlY2twb2ludF9wYXRoKToKICAgICAgICBzdXBlcihDaGVja3BvaW50U2F2ZXIsIHNlbGYpLl9faW5pdF9fKCkKICAgICAgICBzZWxmLl9wYXRoID0gY2hlY2twb2ludF9wYXRoCgogICAgZGVmIHNhdmVfY2hlY2twb2ludChzZWxmLCBtb2RlbCwgZXBvY2gpOgogICAgICAgIG1vZGVsLnNhdmVfd2VpZ2h0cyhvcy5wYXRoLmpvaW4oc2VsZi5fcGF0aCwgc2VsZi5DSEVDS1BPSU5UX0ZJTEUgJSBlcG9jaCkpCgogICAgZGVmIGxvYWRfY2hlY2twb2ludChzZWxmLCBtb2RlbCwgZXBvY2gpOgogICAgICAgIG1vZGVsLmxvYWRfd2VpZ2h0cyhvcy5wYXRoLmpvaW4oc2VsZi5fcGF0aCwgc2VsZi5DSEVDS1BPSU5UX0ZJTEUgJSBlcG9jaCkpCgogICAgZGVmIF9jaGVja3BvaW50KHNlbGYsIGVwb2NoKToKICAgICAgICBzZWxmLnNhdmVfY2hlY2twb2ludChzZWxmLm1vZGVsLCBlcG9jaCkKCiAgICBkZWYgb25fZXBvY2hfZW5kKHNlbGYsIGVwb2NoLCBsb2dzPXt9KToKICAgICAgICBzZWxmLl9jaGVja3BvaW50KGVwb2NoKQ==</text>
+        <text>summary = tf.Summary()
+            summary_value = summary.value.add()
+            summary_value.simple_value = 
+            summary_value.tag = name
+            self.writer.add_summary(summary, epoch)</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXMgPSBbbGFiZWxfdG9fdGV4dChsYWJlbCwgc2VsZi5hbHBoYWJldCkgZm9yIGxhYmVsIGluIGN0Y19kZWNvZGUoeV9wcmVkcyldCg==</text>
+      <register name="2" type="4">
+        <text>summary = tf.Summary()
+            summary_value = summary.value.add()
+            summary_value.simple_value = value.item()
+            summary_value.tag = name
+            self.writer.add_summary(summary, epoch)</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSAub2NyX3NlcTJzZXEudXRpbHMgaW1wb3J0IGdldF9mb250X3NldF9mcm9tX2Rpcgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLndyaXRlci5mbHVzaCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBvcwo=</text>
+        <text encoding="base64">ICAgICAgICB0ID0gdGIoKQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">CmNsYXNzIHRiKENhbGxiYWNrKToKICAgIGRlZiBfX2luaXRfXyhzZWxmLCAqYXJncywgKiprd2FyZ3MpOgogICAgICAgIHN1cGVyKHRiLCBzZWxmKS5fX2luaXRfXygqYXJncywgKiprd2FyZ3MpCgogICAgZGVmIG9uX2Vwb2NoX2VuZChzZWxmLCBlcG9jaCwgbG9ncz1Ob25lKToKICAgICAgICBpbXBvcnQgdGVuc29yZmxvdyBhcyB0ZgogICAgICAgIGZpbGUgPSBvcGVuKCdEOlxHSVRIVUJcUHlPQ1JTZXEyU2VxXG9jcl9tb2RlbFxlMDAucG5nJywgJ3JiJykKICAgICAgICBkYXRhID0gZmlsZS5yZWFkKCkKICAgICAgICBmaWxlLmNsb3NlKCk=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDpyZXR1cm46IEltYWdlUmVjdCBsaXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICBweWxhYi5zYXZlZmlnKG9zLnBhdGguam9pbihzZWxmLmxvZ3NfcGF0aCwgJ2UlMDJkLnBuZycgJSAoZXBvY2gpKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBkaXJfcGF0aDogZGlyZWN0b3J5IHBhdGgK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYnVmCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvYWQgYWxsIGltYWdlcyBmcm9tIGEgZGlyZWN0b3J5Cg==</text>
+        <text encoding="base64">ICAgICAgICAjINTL0NCyotC0yOvI1da+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
