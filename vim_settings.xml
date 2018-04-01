@@ -222,9 +222,9 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/input_controller/input_recorder_pynput.py" timestamp="1513356941731">
         <mark key="[" line="72" column="36" />
       </file>
-      <file name="D:/GITHUB/PyOCRSeq2Seq/ocr_seq2seq/ocr_model.py" timestamp="1521995236156">
-        <mark key="'" line="310" column="43" />
-        <mark key="[" line="131" column="47" />
+      <file name="D:/GITHUB/PyOCRSeq2Seq/ocr_seq2seq/ocr_model.py" timestamp="1522597141667">
+        <mark key="'" line="326" column="43" />
+        <mark key="[" line="240" column="82" />
         <mark key="]" line="131" column="47" />
         <mark key="." line="131" column="47" />
       </file>
@@ -306,11 +306,6 @@
       </file>
       <file name="D:/GITHUB/TheChineseRoom/ocr_test.py" timestamp="1518279755979">
         <mark key="[" line="15" column="14" />
-      </file>
-      <file name="D:/GITHUB/PyOCRSeq2Seq/ocr_seq2seq/data_generator.py" timestamp="1520434196220">
-        <mark key="[" line="44" column="77" />
-        <mark key="]" line="44" column="77" />
-        <mark key="." line="44" column="77" />
       </file>
       <file name="C:/Program Files/Python36/Lib/site-packages/keras/callbacks.py" timestamp="1521993092023">
         <mark key="[" line="657" column="0" />
