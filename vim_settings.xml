@@ -53,6 +53,7 @@
         <mark key="]" line="22" column="19" />
         <mark key="." line="22" column="19" />
       </file>
+      <file name="C:/Program Files/Python36/Lib/site-packages/PIL/Image.py" timestamp="1522774812798" />
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/rpc_test1.py" timestamp="1515341643522">
         <mark key="[" line="28" column="14" />
         <mark key="]" line="30" column="0" />
@@ -210,9 +211,11 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="D:/GITHUB/PyOCRSeq2Seq/ocr_seq2seq/utils.py" timestamp="1520428768567">
-        <mark key="]" line="207" column="27" />
-        <mark key="." line="207" column="27" />
+      <file name="D:/GITHUB/PyOCRSeq2Seq/ocr_seq2seq/utils.py" timestamp="1522774852080">
+        <mark key="[" line="93" column="71" />
+        <mark key="]" line="93" column="71" />
+        <mark key="." line="93" column="71" />
+        <mark key="^" line="92" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/requirements.txt" timestamp="1513421309808">
         <mark key="[" line="8" column="5" />
@@ -233,19 +236,19 @@
       <file name="$USER_HOME$/Documents/PykerStars/handranks.py" timestamp="1486143744144">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/PyOCRSeq2Seq/ocr_seq2seq/ocr_seq2seq.py" timestamp="1519832768114">
-        <mark key="[" line="18" column="17" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="D:/GITHUB/PyOCRSeq2Seq/ocr_seq2seq/ocr_seq2seq.py" timestamp="1522774563499">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/PykerStars/.gitignore" timestamp="1486071398335">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="D:/GITHUB/PyOCRSeq2Seq/main.py" timestamp="1521644803173">
-        <mark key="[" line="45" column="14" />
-        <mark key="]" line="45" column="12" />
-        <mark key="." line="45" column="12" />
-        <mark key="^" line="26" column="84" />
+      <file name="D:/GITHUB/PyOCRSeq2Seq/main.py" timestamp="1522775015485">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/input_controller/input_controller_pyautogui.py" timestamp="1512290508581">
         <mark key="[" line="112" column="0" />
@@ -280,7 +283,7 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522597314230">
+      <file name="/Dummy.txt" timestamp="1522775149273">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/output/keys.py" timestamp="1508081272612">
@@ -455,40 +458,57 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>inner</text>
+        <text>LANCZOS</text>
       </register>
       <register name="/" type="4">
         <text>8</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLndyaXRlX3NpbXBsZV92YWx1ZV90b19sb2dzKGVwb2NoLCAibWVhbl9lZCIsIG1lYW5fZWQpCg==</text>
+        <text encoding="base64">IyBpbWcgPSBJbWFnZS5vcGVuKCJDOi9Vc2Vycy93bzFmc2VhL0Rlc2t0b3AvU2NyZWVuQ2xpcC5wbmciKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVuc2UxKQo=</text>
+        <text encoding="base64">IyAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBncnVfYiA9IEdSVShSTk5fU0laRSwgcmV0dXJuX3NlcXVlbmNlcz1UcnVlLCBnb19iYWNrd2FyZHM9VHJ1ZSwga2VybmVsX2luaXRpYWxpemVyPSJoZV9ub3JtYWwiLCBuYW1lPSJncnVfYiIpKAo=</text>
+        <text encoding="base64">ZnJvbSBvY3Jfc2VxMnNlcS51dGlscyBpbXBvcnQgc3BsaXRfdGV4dF9pbWFnZSwgY29udmVydF9pbWFnZV90b19pbnB1dF9kYXRhLCBjb252ZXJ0X2lucHV0X2RhdGFfdG9faW1hZ2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBncnUgPSBHUlUoUk5OX1NJWkUsIHJldHVybl9zZXF1ZW5jZXM9VHJ1ZSwga2VybmVsX2luaXRpYWxpemVyPSJoZV9ub3JtYWwiLCBuYW1lPSJncnUiKShkZW5zZTEpCg==</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICBncnUgPSBHUlUoUk5OX1NJWkUsIHJldHVybl9zZXF1ZW5jZXM9VHJ1ZSwga2VybmVsX2luaXRpYWxpemVyPSJoZV9ub3JtYWwiLCBuYW1lPSJncnUiKShkZW5zZTEpCiAgICAgICAgZ3J1X2IgPSBHUlUoUk5OX1NJWkUsIHJldHVybl9zZXF1ZW5jZXM9VHJ1ZSwgZ29fYmFja3dhcmRzPVRydWUsIGtlcm5lbF9pbml0aWFsaXplcj0iaGVfbm9ybWFsIiwgbmFtZT0iZ3J1X2IiKSgKICAgICAgICAgICAgZGVuc2UxKQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFpbmluZ19jYiA9IFRyYWluaW5nQ2FsbGJhY2soc2VsZi5fdGVzdF9mdW5jLCBzZWxmLmRhdGFfZ2VuZXJhdG9yLmdldF92YWxpZGF0ZV9kYXRhKCksIHNlbGYuX2FscGhhYmV0KQo=</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIGxhYmVscyA9IGN0Y19kZWNvZGUoc2VsZi5fdGVzdF9mdW5jKFtpbnB1dF9kYXRhX2JhdGNoXSlbMF0pCg==</text>
+      <register name="7" type="4">
+        <text># predict
+# ocr_m.load_config_for_predict_model(r&quot;D:\GITHUB\PyOCRSeq2Seq\ocr_model\e135_[loss3.67]_weights.hdf5&quot;)
+# img = Image.open(&quot;C:/Users/wo1fsea/Desktop/ScreenClip.png&quot;)
+#
+# imgs = split_text_image(img, W/H)
+# input_data = []
+# for line in imgs:
+#     for img in line:
+#         input_data.append(convert_image_to_input_data(img, W, H))
+#         convert_input_data_to_image(input_data[-1]).show()
+#
+# size = len(input_data)
+# input = np.ones([size, *(input_data[0].shape)])
+#
+# for i, data in enumerate(input_data):
+#     input[i] = data
+#
+# print(&quot;&quot;.join(ocr_m.predict(input)))</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIGdydV9kZWNvZGVyID0gR1JVKGltZ19nZW4uZ2V0X291dHB1dF9zaXplKCksIHJldHVybl9zZXF1ZW5jZXM9VHJ1ZSwga2VybmVsX2luaXRpYWxpemVyPSJoZV9ub3JtYWwiLCBuYW1lPSJncnVfZGVjb2RlciIpKGF0dGVudGlvbikK</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZSA9IGltYWdlLnJlc2l6ZSgoaW1hZ2Uuc2l6ZVswXSAqIDIsIGltYWdlLnNpemVbMV0gKiAyKSwgSW1hZ2UuQklMSU5FQVIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRyYW5zZm9ybXMgUk5OIG91dHB1dCB0byBjaGFyYWN0ZXIgYWN0aXZhdGlvbnM6Cg==</text>
+        <text encoding="base64">ZnJvbSBQSUwgaW1wb3J0IEltYWdlLAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
