@@ -91,6 +91,9 @@
         <mark key="]" line="24" column="29" />
         <mark key="." line="24" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/PyOCRSeq2Seq/main.py" timestamp="1522927009029">
+        <mark key="[" line="14" column="46" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/output/keys.py" timestamp="1508081272612">
         <mark key="[" line="16" column="4" />
       </file>
@@ -118,7 +121,6 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="/usr/local/lib/python3.6/site-packages/keras/models.py" timestamp="1518014677717" />
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/config_reader.py" timestamp="1507219432734">
         <mark key="[" line="22" column="19" />
         <mark key="]" line="22" column="19" />
@@ -187,6 +189,9 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/PyOCRSeq2Seq/requirements.txt" timestamp="1522927220583">
+        <mark key="[" line="5" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/__init__.py" timestamp="1477839593099">
         <mark key="[" line="0" column="29" />
       </file>
@@ -202,10 +207,13 @@
       <file name="D:/GITHUB/PykerStars/pykerstars/player.py" timestamp="1497455696289">
         <mark key="[" line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/PyOCRSeq2Seq/ocr_seq2seq/ocr_seq2seq.py" timestamp="1522927512404">
+        <mark key="[" line="26" column="78" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/input_controller/__init__.py" timestamp="1512305416835">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515337742451">
+      <file name="/Dummy.txt" timestamp="1522927023140">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/monitor/monitor.py" timestamp="1515257785817">
