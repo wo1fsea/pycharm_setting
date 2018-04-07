@@ -19,6 +19,9 @@
       <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/ocr_seq2seq.py" timestamp="1518534145272">
         <mark key="[" line="24" column="105" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/ocr/ocr_seq2seq/ocr_model.py" timestamp="1518706171375">
+        <mark key="[" line="34" column="26" />
+      </file>
       <file name="D:/GITHUB/PykerStars/pykerstars/table.py" timestamp="1497448052160">
         <mark key="[" line="0" column="0" />
       </file>
@@ -28,14 +31,13 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/ocr/ocr_seq2seq/image_generator.py" timestamp="1516713590624">
         <mark key="[" line="75" column="11" />
         <mark key="]" line="75" column="11" />
+        <mark key="^" line="17" column="29" />
         <mark key="." line="75" column="11" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/ocr_model.py" timestamp="1518496136290">
-        <mark key="'" line="0" column="18" />
-        <mark key="[" line="83" column="61" />
-        <mark key="]" line="138" column="7" />
-        <mark key="." line="138" column="7" />
-        <mark key="^" line="138" column="7" />
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/rpc_test2.py" timestamp="1515336768545">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/frame_capture_lancher.py" timestamp="1507367280303">
         <mark key="[" line="0" column="0" />
@@ -44,11 +46,6 @@
         <mark key="[" line="182" column="0" />
         <mark key="]" line="182" column="34" />
         <mark key="." line="122" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/rpc_test2.py" timestamp="1515336768545">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
       </file>
       <file name="/usr/local/lib/python3.6/site-packages/pytesseract/pytesseract.py" timestamp="1507307141189">
         <mark key="[" line="87" column="0" />
@@ -63,6 +60,9 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/ocr/ocr_seq2seq/ocr_seq2seq.py" timestamp="1518704975681">
+        <mark key="[" line="9" column="79" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/requirements.txt" timestamp="1513421309808">
         <mark key="[" line="8" column="5" />
       </file>
@@ -72,17 +72,22 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="22" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_manager/__init__.py" timestamp="1507134074779">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/communication/rpc.py" timestamp="1515341867240">
         <mark key="[" line="135" column="35" />
         <mark key="]" line="135" column="35" />
         <mark key="." line="135" column="35" />
         <mark key="^" line="183" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_manager/__init__.py" timestamp="1507134074779">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/GITHUB/PyTWEANN/.gitignore" timestamp="1497890267596">
         <mark key="[" line="91" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/PyOCRSeq2Seq/screen_ocr.py" timestamp="1522946790879">
+        <mark key="[" line="37" column="22" />
+        <mark key="]" line="33" column="29" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/utils.py" timestamp="1518535694206">
         <mark key="[" line="25" column="31" />
@@ -100,6 +105,12 @@
         <mark key="[" line="48" column="32" />
         <mark key="]" line="24" column="29" />
         <mark key="." line="24" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/PyOCRSeq2Seq/main.py" timestamp="1522945825805">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="63" />
+        <mark key="^" line="14" column="62" />
+        <mark key="." line="14" column="62" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/output/keys.py" timestamp="1508081272612">
         <mark key="[" line="16" column="4" />
@@ -144,9 +155,6 @@
         <mark key="]" line="17" column="43" />
         <mark key="." line="17" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/input_controller/input_recorder_pynput.py" timestamp="1513356941731">
-        <mark key="[" line="72" column="36" />
-      </file>
       <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr.py" timestamp="1518279636258">
         <mark key="[" line="27" column="25" />
         <mark key="]" line="27" column="25" />
@@ -182,26 +190,19 @@
         <mark key="^" line="9" column="11" />
         <mark key="." line="9" column="11" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_controller/window_controller.py" timestamp="1515261905372">
+        <mark key="[" line="46" column="8" />
+      </file>
       <file name="D:/GITHUB/TheChineseRoom/ocr_model_test1.py" timestamp="1519832825521">
         <mark key="[" line="40" column="15" />
         <mark key="]" line="28" column="59" />
         <mark key="." line="28" column="59" />
         <mark key="^" line="33" column="0" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/image_generator.py" timestamp="1518456566116">
-        <mark key="'" line="25" column="47" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
-        <mark key="^" line="88" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_controller/window_controller.py" timestamp="1515261905372">
-        <mark key="[" line="46" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/frame_grabber/__init__.py" timestamp="1515252648015">
+      <file name="/Python Console" timestamp="1520347727311">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1520347727311">
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/frame_grabber/__init__.py" timestamp="1515252648015">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1518195946074">
@@ -236,14 +237,14 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/PyOCRSeq2Seq/requirements.txt" timestamp="1521130049190">
+        <mark key="[" line="6" column="9" />
+      </file>
       <file name="D:/GITHUB/PyOCRSeq2Seq/main.py" timestamp="1520609834262">
         <mark key="[" line="45" column="12" />
         <mark key="]" line="45" column="12" />
         <mark key="." line="45" column="12" />
         <mark key="^" line="26" column="84" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/PyOCRSeq2Seq/requirements.txt" timestamp="1521130049190">
-        <mark key="[" line="6" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/__init__.py" timestamp="1477839593099">
         <mark key="[" line="0" column="29" />
@@ -269,7 +270,13 @@
       <file name="D:/GITHUB/PykerStars/pykerstars/player.py" timestamp="1497455696289">
         <mark key="[" line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/PyOCRSeq2Seq/ocr_seq2seq/ocr_seq2seq.py" timestamp="1522927512404">
+        <mark key="[" line="26" column="78" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/input_controller/__init__.py" timestamp="1512305416835">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1518495091182">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/monitor/monitor.py" timestamp="1515257785817">
@@ -277,9 +284,7 @@
         <mark key="]" line="52" column="45" />
         <mark key="." line="52" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518495091182">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/input_controller/input_recorder_pyuserinput.py" timestamp="1522946561219" />
       <file name="D:/GITHUB/PykerStars/pykerstars/utils/poker_enum_meta.py" timestamp="1497540600907">
         <mark key="[" line="0" column="1" />
       </file>
@@ -314,17 +319,18 @@
         <mark key="[" line="446" column="44" />
         <mark key="]" line="446" column="44" />
         <mark key="." line="446" column="44" />
+        <mark key="^" line="60" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/utils/uuid.py" timestamp="1507464750423">
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="14" column="9" />
+        <mark key="." line="14" column="9" />
       </file>
       <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/data_generator.py" timestamp="1518453593801">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
         <mark key="^" line="50" column="7" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/utils/uuid.py" timestamp="1507464750423">
-        <mark key="[" line="14" column="4" />
-        <mark key="]" line="14" column="9" />
-        <mark key="." line="14" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Image.py" timestamp="1475379944934">
         <mark key="[" line="0" column="0" />
@@ -338,18 +344,26 @@
         <mark key="^" line="92" column="7" />
         <mark key="." line="92" column="7" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/ocr/ocr_model_test.py" timestamp="1518705012526">
+        <mark key="[" line="12" column="5" />
+      </file>
       <file name="D:/GITHUB/PykerStars/pykerstars/utils/_poker_enum2.py" timestamp="1497540869769">
         <mark key="[" line="0" column="14" />
       </file>
       <file name="D:/GITHUB/PyTexturePacker/setup.py" timestamp="1495355603176">
         <mark key="[" line="6" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/ocr_model_test1.py" timestamp="1518704387788">
+        <mark key="[" line="12" column="26" />
+        <mark key="]" line="9" column="78" />
+        <mark key="^" line="9" column="78" />
+        <mark key="." line="9" column="78" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/communication/__init__.py" timestamp="1507212401116">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="19" filename="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" />
       <jump line="48" column="20" filename="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" />
       <jump line="50" column="33" filename="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" />
       <jump line="51" column="42" filename="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Packer.py" />
@@ -449,10 +463,11 @@
       <jump line="0" column="18" filename="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/ocr_model.py" />
       <jump line="25" column="47" filename="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/image_generator.py" />
       <jump line="278" column="43" filename="D:/GITHUB/PyOCRSeq2Seq/ocr_seq2seq/ocr_model.py" />
+      <jump line="71" column="1" filename="$USER_HOME$/Documents/GitHub/PyOCRSeq2Seq/paste.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>358</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cHlndGsucmVxdWlyZSgnMi4wJykK</text>
       </register>
       <register name="-" type="4">
         <text>358</text>
@@ -464,31 +479,112 @@
         <text encoding="base64">ICAgICAgICAgICAgZGVjb2RlZF9yZXMgPSBbbGFiZWxfdG9fdGV4dChsYWJlbCwgQUxQSEFCRVQpIGZvciBsYWJlbCBpbiBjdGNfZGVjb2RlKHlfcHJlZHMpXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXMgPSBbbGFiZWxfdG9fdGV4dChsYWJlbCwgc2VsZi5hbHBoYWJldCkgZm9yIGxhYmVsIGluIGN0Y19kZWNvZGUoeV9wcmVkcyldCg==</text>
+        <text encoding="base64">cHlndGsucmVxdWlyZSgnMi4wJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSAub2NyX3NlcTJzZXEudXRpbHMgaW1wb3J0IGdldF9mb250X3NldF9mcm9tX2Rpcgo=</text>
+        <text encoding="base64">aW1wb3J0IHB5Z3RrCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBvcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
+      <register name="4" type="4">
+        <text>2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDpyZXR1cm46IEltYWdlUmVjdCBsaXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXMgPSBbbGFiZWxfdG9fdGV4dChsYWJlbCwgc2VsZi5hbHBoYWJldCkgZm9yIGxhYmVsIGluIGN0Y19kZWNvZGUoeV9wcmVkcyldCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBkaXJfcGF0aDogZGlyZWN0b3J5IHBhdGgK</text>
+        <text encoding="base64">ZnJvbSAub2NyX3NlcTJzZXEudXRpbHMgaW1wb3J0IGdldF9mb250X3NldF9mcm9tX2Rpcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvYWQgYWxsIGltYWdlcyBmcm9tIGEgZGlyZWN0b3J5Cg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBvcwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBvY3Jfc2VxMnNlcS5vY3JfbW9kZWwgaW1wb3J0IE9DUk1vZGVsCg==</text>
+        <text encoding="base64">ICAgIDpyZXR1cm46IEltYWdlUmVjdCBsaXN0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
@@ -510,7 +606,6 @@
         <entry>key_press</entry>
         <entry>handle</entry>
         <entry>print</entry>
-        <entry>8</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
