@@ -228,7 +228,7 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/input_controller/input_recorder_pynput.py" timestamp="1513356941731">
         <mark key="[" line="72" column="36" />
       </file>
-      <file name="D:/GITHUB/PyOCRSeq2Seq/ocr_seq2seq/ocr_model.py" timestamp="1524245579644">
+      <file name="D:/GITHUB/PyOCRSeq2Seq/ocr_seq2seq/ocr_model.py" timestamp="1524246666940">
         <mark key="[" line="346" column="38" />
         <mark key="]" line="367" column="0" />
         <mark key="." line="367" column="0" />
@@ -236,8 +236,8 @@
       <file name="$USER_HOME$/Documents/PykerStars/handranks.py" timestamp="1486143744144">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/PyOCRSeq2Seq/ocr_seq2seq/ocr_seq2seq.py" timestamp="1522774563499">
-        <mark key="[" line="29" column="0" />
+      <file name="D:/GITHUB/PyOCRSeq2Seq/ocr_seq2seq/ocr_seq2seq.py" timestamp="1524246236144">
+        <mark key="[" line="26" column="84" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
@@ -263,11 +263,10 @@
       <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Image.py" timestamp="1475379944934">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/PyOCRSeq2Seq/ocr_seq2seq/image_generator.py" timestamp="1524244257154">
-        <mark key="[" line="100" column="42" />
-        <mark key="]" line="101" column="0" />
-        <mark key="^" line="13" column="56" />
-        <mark key="." line="101" column="0" />
+      <file name="D:/GITHUB/PyOCRSeq2Seq/ocr_seq2seq/image_generator.py" timestamp="1524246586555">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/__init__.py" timestamp="1518279604336">
         <mark key="[" line="0" column="0" />
@@ -460,10 +459,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICBjaGVja3BvaW50X3NhdmVyLmxvYWRfY2hlY2twb2ludChzZWxmLl90cmFpbl9tb2RlbCwgc3RhcnRfZXBvY2ggLSAxKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>config_file</text>
+        <text>, random_color=True)</text>
       </register>
       <register name="/" type="4">
         <text>8</text>
@@ -472,31 +471,31 @@
         <text>val_loss</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICBjaGVja3BvaW50X3NhdmVyLmxvYWRfY2hlY2twb2ludChzZWxmLl90cmFpbl9tb2RlbCwgc3RhcnRfZXBvY2ggLSAxKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZm9udF9zZXQK</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgaW1hZ2VfdG1wID0gSW1hZ2UubmV3KG1vZGU9IlJHQiIsIHNpemU9KGZvbnRfc2l6ZSAqIGxlbihzdHJpbmcpLCAyICogZm9udF9zaXplKSwgY29sb3I9YmFja2dyb3VuZF9jb2xvcikKICAgICAgICBkcmF3ID0gSW1hZ2VEcmF3LkRyYXcoaW1hZ2VfdG1wKQogICAgICAgIGRyYXcudGV4dCgoMCwgMCksIHN0cmluZywgZm9udD1mb250LCBmaWxsPWZvbnRfY29sb3IpCiAgICAgICAgaW1hZ2VfdG1wID0gaW1hZ2VfdG1wLnJvdGF0ZShyb3RhdGlvbl9kZWdyZWUsIGV4cGFuZD1UcnVlKQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF8sIG5hbWUgPSBvcy5wYXRoLnNwbGl0KGYpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb250X3NldCA9IFtdCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgYmFja2dyb3VuZF9jb2xvciA9IGdldF9yYW5kb21fcmdiX2NvbG9yKCkgaWYgcmFuZG9tX2NvbG9yIGVsc2UgMHgwMDAwMDAKCiAgICAgICAgYiA9IGludChiYWNrZ3JvdW5kX2NvbG9yWzE6XSwgYmFzZT0xNikKICAgICAgICBiciwgYmcsIGJiID0gYiAvIDB4MTAwMDAsIGIgLyAweDEwMCAlIDB4MTAwLCBiICUgMHgxMDAKICAgICAgICBmb250X2NvbG9yID0gMHgwMDAwMDAgaWYgYnIgKiAwLjI5OSArIGJnICogMC41ODcgKyBiYiAqIDAuMTE0ID4gMHhGRiAvIDIgZWxzZSAweEZGRkZGRg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KHN0cmluZykK</text>
+        <text encoding="base64">ICAgICAgICAjICAgICBjaGVja3BvaW50X3NhdmVyLmxvYWRfY2hlY2twb2ludChzZWxmLl90cmFpbl9tb2RlbCwgc3RhcnRfZXBvY2ggLSAxKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGltYWdlX3RtcCA9IGltYWdlX3RtcC5yb3RhdGUocm90YXRpb25fZGVncmVlLCBleHBhbmQ9VHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZm9udF9zZXQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhpdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF8sIG5hbWUgPSBvcy5wYXRoLnNwbGl0KGYpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1hZ2VfdG1wLnNob3coKQo=</text>
+        <text encoding="base64">ICAgICAgICBmb250X3NldCA9IFtdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIGdydTFfbWVyZ2VkID0gYWRkKFtncnVfMSwgZ3J1XzFiXSkK</text>
+        <text encoding="base64">ICAgIHByaW50KHN0cmluZykK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
