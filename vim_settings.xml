@@ -81,8 +81,18 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_manager/__init__.py" timestamp="1507134074779">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/PyOCRSeq2Seq/ocr_seq2seq/ocr_model.py" timestamp="1524240100824">
+        <mark key="[" line="357" column="56" />
+        <mark key="]" line="357" column="56" />
+        <mark key="." line="357" column="56" />
+      </file>
       <file name="D:/GITHUB/PyTWEANN/.gitignore" timestamp="1497890267596">
         <mark key="[" line="91" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/PyOCRSeq2Seq/ocr_seq2seq/image_generator.py" timestamp="1524240136272">
+        <mark key="[" line="60" column="53" />
+        <mark key="]" line="60" column="53" />
+        <mark key="." line="60" column="53" />
       </file>
       <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/utils.py" timestamp="1518535694206">
         <mark key="[" line="25" column="31" />
@@ -143,6 +153,9 @@
         <mark key="[" line="17" column="43" />
         <mark key="]" line="17" column="43" />
         <mark key="." line="17" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/PyOCRSeq2Seq/ocr_seq2seq/utils.py" timestamp="1524239615468">
+        <mark key="[" line="174" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/input_controller/input_recorder_pynput.py" timestamp="1513356941731">
         <mark key="[" line="72" column="36" />
@@ -225,6 +238,9 @@
         <mark key="[" line="18" column="17" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/PyOCRSeq2Seq/clipboard_ocr.py" timestamp="1524239397798">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/launcher.py" timestamp="1515263430250">
         <mark key="[" line="25" column="0" />
@@ -452,10 +468,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>358</text>
+        <text>background_color</text>
       </register>
       <register name="-" type="4">
-        <text>358</text>
+        <text>background_color</text>
       </register>
       <register name="/" type="4">
         <text>8</text>
