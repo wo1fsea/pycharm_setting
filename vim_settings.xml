@@ -236,10 +236,10 @@
       <file name="$USER_HOME$/Documents/PykerStars/handranks.py" timestamp="1486143744144">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/PyOCRSeq2Seq/ocr_seq2seq/ocr_seq2seq.py" timestamp="1524246236144">
-        <mark key="[" line="26" column="84" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="D:/GITHUB/PyOCRSeq2Seq/ocr_seq2seq/ocr_seq2seq.py" timestamp="1524286695826">
+        <mark key="[" line="26" column="83" />
+        <mark key="]" line="26" column="83" />
+        <mark key="." line="26" column="83" />
       </file>
       <file name="$USER_HOME$/Documents/PykerStars/.gitignore" timestamp="1486071398335">
         <mark key="[" line="1" column="0" />
@@ -458,11 +458,11 @@
       <jump line="278" column="43" filename="D:/GITHUB/PyOCRSeq2Seq/ocr_seq2seq/ocr_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>_init_double_bidirection_gru_model_init_double_bidirection_gru_model</text>
       </register>
       <register name="-" type="4">
-        <text>, random_color=True)</text>
+        <text>_init_double_bidirection_gru_model_init_double_bidirection_gru_model</text>
       </register>
       <register name="/" type="4">
         <text>8</text>
