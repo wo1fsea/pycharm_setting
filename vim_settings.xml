@@ -216,7 +216,6 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="D:/GITHUB/PyOCRSeq2Seq/ocr_seq2seq/utils.py" timestamp="1524245231995" />
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/requirements.txt" timestamp="1513421309808">
         <mark key="[" line="8" column="5" />
       </file>
@@ -290,6 +289,11 @@
       </file>
       <file name="D:/GITHUB/PykerStars/pykerstars/utils/poker_enum_meta.py" timestamp="1497540600907">
         <mark key="[" line="0" column="1" />
+      </file>
+      <file name="D:/GITHUB/TheChineseRoom/config/default.json" timestamp="1526746464298">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="13" />
+        <mark key="." line="2" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/communication/collections/redis_object.py" timestamp="1515337965023">
         <mark key="[" line="12" column="10" />
@@ -459,10 +463,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_init_double_bidirection_gru_model_init_double_bidirection_gru_model</text>
+        <text>localhost</text>
       </register>
       <register name="-" type="4">
-        <text>_init_double_bidirection_gru_model_init_double_bidirection_gru_model</text>
+        <text>localhost</text>
       </register>
       <register name="/" type="4">
         <text>8</text>
