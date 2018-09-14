@@ -97,9 +97,10 @@
         <mark key="^" line="137" column="22" />
         <mark key="." line="25" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/Ray-Tracing-in-Python/ray_tracing_in_python.py" timestamp="1536905356533">
-        <mark key="]" line="329" column="28" />
-        <mark key="." line="329" column="28" />
+      <file name="$USER_HOME$/Projects/Ray-Tracing-in-Python/ray_tracing_in_python.py" timestamp="1536938365799">
+        <mark key="[" line="165" column="26" />
+        <mark key="]" line="148" column="0" />
+        <mark key="." line="148" column="0" />
         <mark key="^" line="329" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/PykerStars/pykerstars/cards.py" timestamp="1513956827361">
@@ -485,8 +486,8 @@
       <jump line="1258" column="57" filename="/usr/local/lib/python3.6/site-packages/matplotlib/axes/_base.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>QApplication, QWidget, QLabel, QPixmap</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnRpdGxlID0gJ21vbml0b3InCg==</text>
       </register>
       <register name="-" type="4">
         <text>QApplication, QWidget, QLabel, QPixmap</text>
@@ -498,31 +499,31 @@
         <text encoding="base64">ICAgICAgICAgICAgZGVjb2RlZF9yZXMgPSBbbGFiZWxfdG9fdGV4dChsYWJlbCwgQUxQSEFCRVQpIGZvciBsYWJlbCBpbiBjdGNfZGVjb2RlKHlfcHJlZHMpXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBQeVNpZGUyLlF0R3VpIGltcG9ydCAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnRpdGxlID0gJ21vbml0b3InCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBQeVNpZGUyLlF0R3VpIGltcG9ydCAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBvbiBjbGljayBoYW5kbGVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YnV0dG9uLmNsaWNrZWQuY29ubmVjdChxdWl0X2FwcCkK</text>
+        <text encoding="base64">IyBvbiBjbGljayBoYW5kbGVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YnV0dG9uLmNsaWNrZWQuY29ubmVjdChxdWl0X2FwcCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YnV0dG9uID0gUVB1c2hCdXR0b24oIlF1aXQiLCB3aW5kb3cpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">IyBidXR0b24K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">YnV0dG9uID0gUVB1c2hCdXR0b24oIlF1aXQiLCB3aW5kb3cpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">IyBidXR0b24K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1haW4oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
