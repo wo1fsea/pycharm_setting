@@ -290,6 +290,11 @@
       <file name="D:/GITHUB/PykerStars/pykerstars/utils/poker_enum_meta.py" timestamp="1497540600907">
         <mark key="[" line="0" column="1" />
       </file>
+      <file name="D:/GITHUB/TheChineseRoom/watcher_console/watcher_console.py" timestamp="1544975972450">
+        <mark key="[" line="196" column="49" />
+        <mark key="]" line="196" column="49" />
+        <mark key="." line="196" column="49" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/communication/collections/redis_object.py" timestamp="1515337965023">
         <mark key="[" line="12" column="10" />
         <mark key="]" line="12" column="10" />
@@ -471,16 +476,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>x</text>
+        <text>not exist</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>not exist</text>
       </register>
       <register name="/" type="4">
         <text>8</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVjb2RlZF9yZXMgPSBbbGFiZWxfdG9fdGV4dChsYWJlbCwgQUxQSEFCRVQpIGZvciBsYWJlbCBpbiBjdGNfZGVjb2RlKHlfcHJlZHMpXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zZXRfdG9vbGJhcl90aXBzKCJjb21tYW5kICVzIGlzIG5vdCBleGlzdC4iICUgY29tbWFuZCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpZHggKz0gMQo=</text>
