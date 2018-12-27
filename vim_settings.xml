@@ -35,7 +35,6 @@
         <mark key="]" line="14" column="14" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/communication/rpc.py" timestamp="1544973644481" />
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/frame_capture_lancher.py" timestamp="1507367280303">
         <mark key="[" line="0" column="0" />
       </file>
@@ -91,6 +90,10 @@
         <mark key="]" line="11" column="48" />
         <mark key="." line="59" column="0" />
         <mark key="^" line="59" column="15" />
+      </file>
+      <file name="D:/GITHUB/TheChineseRoom/monitor/monitor.py" timestamp="1545925912051">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="62" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_manager/window_manager_osx.py" timestamp="1507133534680">
         <mark key="[" line="0" column="0" />
@@ -188,7 +191,6 @@
       <file name="$USER_HOME$/Documents/PyTexturePacker/setup.py" timestamp="1487776918299">
         <mark key="[" line="6" column="18" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/communication/collections/redis_object.py" timestamp="1544973725964" />
       <file name="D:/GITHUB/TheChineseRoom/ocr_model_test1.py" timestamp="1519832825521">
         <mark key="[" line="40" column="15" />
         <mark key="]" line="28" column="59" />
@@ -319,6 +321,11 @@
         <mark key="[" line="44" column="77" />
         <mark key="]" line="44" column="77" />
         <mark key="." line="44" column="77" />
+      </file>
+      <file name="D:/GITHUB/ScreenGrabber.py/ScreenGrabber.py" timestamp="1545926052811">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/PyOCRSeq2Seq/ocr_seq2seq/utils.py" timestamp="1524239615468">
         <mark key="[" line="174" column="4" />
@@ -475,54 +482,54 @@
       <jump line="278" column="43" filename="D:/GITHUB/PyOCRSeq2Seq/ocr_seq2seq/ocr_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>not exist</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>not exist</text>
+        <text>WindowStaysOnTopHint</text>
       </register>
       <register name="/" type="4">
-        <text>8</text>
+        <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zZXRfdG9vbGJhcl90aXBzKCJjb21tYW5kICVzIGlzIG5vdCBleGlzdC4iICUgY29tbWFuZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sYWJlbC5yZXNpemUocGl4bWFwLndpZHRoKCksIHBpeG1hcC5oZWlnaHQoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZHggKz0gMQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiQSIsIGlkeCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNob3dGdWxsU2NyZWVuKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aWR4ID0gMAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNob3dGdWxsU2NyZWVuKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gX3JlZGlzCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuc2hvd0Z1bGxTY3JlZW4oKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIkUiLCBiYWNrZ3JvdW5kX2NvbG9yLCBmb250X2NvbG9yKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxhYmVsLnJlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNob3coKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZV90bXAuc2hvdygpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNob3coKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXMgPSBbbGFiZWxfdG9fdGV4dChsYWJlbCwgc2VsZi5hbHBoYWJldCkgZm9yIGxhYmVsIGluIGN0Y19kZWNvZGUoeV9wcmVkcyldCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxhYmVsLnJlc2l6ZShwaXhtYXAud2lkdGgoKSwgcGl4bWFwLmhlaWdodCgpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSAub2NyX3NlcTJzZXEudXRpbHMgaW1wb3J0IGdldF9mb250X3NldF9mcm9tX2Rpcgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm15U3Vid2luZG93LnNob3coKQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>8</last-search>
+      <last-search encoding="base64">XDwoXD4=</last-search>
       <last-offset />
-      <last-pattern>8</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDwoXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -535,6 +542,7 @@
         <entry>handle</entry>
         <entry>print</entry>
         <entry>8</entry>
+        <entry encoding="base64">XDwoXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
