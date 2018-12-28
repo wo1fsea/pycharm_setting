@@ -2,14 +2,59 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="D:/GITHUB/ScreenGrabber.py/ScreenGrabber.py" timestamp="1545975219659">
+        <mark key="[" line="54" column="17" />
+        <mark key="]" line="36" column="13" />
+        <mark key="." line="36" column="13" />
+        <mark key="^" line="36" column="13" />
+      </file>
+    </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5lbmQgPSBldmVudC5wb3MoKQo=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>label</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5iZWdpbiA9IGV2ZW50LnBvcygpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAjINfzvPywtM/CCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgiQSIpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChlLmJ1dHRvbigpKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoItfz1tDT0iIpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBlbGlmIGUuYnV0dG9ucygpID09IFF0Q29yZS5RdC5MZWZ0QnV0dG9uIHwgUXRDb3JlLlF0Lk1pZEJ1dHRvbiB8IFF0Q29yZS5RdC5SaWdodEJ1dHRvbjoK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAjINfz1tDT0rz8zazKsbC0z8IK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoItPS1tAiKQo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>label</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history />
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
