@@ -3,54 +3,51 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/GITHUB/ScreenGrabber.py/ScreenGrabber.py" timestamp="1546011794563">
-        <mark key="[" line="30" column="42" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="26" column="48" />
+      <file name="D:/GITHUB/ScreenGrabber.py/ScreenGrabber.py" timestamp="1546013265545">
+        <mark key="^" line="20" column="33" />
       </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcihTY3JlZW5TaG90LCBzZWxmKS5zZXRQaXhtYXAocGl4bWFwKQo=</text>
+        <text encoding="base64">ICAgIHJlY3RDaGFuZ2VkID0gcHlxdFNpZ25hbChRUmVjdCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNldFdpbmRvd0ZsYWdzKFF0Q29yZS5RdC5XaW5kb3dTdGF5c09uVG9wSGludCkK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNldFdpbmRvd0ZsYWdzKFF0Q29yZS5RdC5XaW5kb3dTdGF5c09uVG9wSGludCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLi5yZXNpemUocGl4bWFwLndpZHRoKCksIHBpeG1hcC5oZWlnaHQoKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNldFdpbmRvd0ZsYWdzKFF0Q29yZS5RdC5XaW5kb3dTdGF5c09uVG9wSGludCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNldFdpbmRvd0ZsYWdzKFF0Q29yZS5RdC5XaW5kb3dTdGF5c09uVG9wSGludCkK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcihTY3JlZW5TaG90LCBzZWxmKS5fX2luaXRfXyhwYXJlbnQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcihTY3JlZW5TaG90LCBzZWxmKS5fX2luaXRfXyhwYXJlbnQpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>QLabel</text>
+        <text />
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
