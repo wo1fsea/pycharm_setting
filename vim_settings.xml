@@ -3,8 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/GITHUB/ScreenGrabber.py/ScreenGrabber.py" timestamp="1546013265545">
-        <mark key="^" line="20" column="33" />
+      <file name="D:/GITHUB/TheChineseRoom/monitor/monitor.py" timestamp="1546013404696" />
+      <file name="D:/GITHUB/ScreenGrabber.py/ScreenGrabber.py" timestamp="1546013710698">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
       </file>
     </filemarks>
     <jumps />
@@ -13,34 +16,34 @@
         <text encoding="base64">ICAgIHJlY3RDaGFuZ2VkID0gcHlxdFNpZ25hbChRUmVjdCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNldFdpbmRvd0ZsYWdzKFF0Q29yZS5RdC5XaW5kb3dTdGF5c09uVG9wSGludCkK</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuc2Muc2V0U2NlbmUoc2VsZi5ncykK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNldFdpbmRvd0ZsYWdzKFF0Q29yZS5RdC5XaW5kb3dTdGF5c09uVG9wSGludCkK</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuc2Muc2V0U2NlbmUoc2VsZi5ncykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLi5yZXNpemUocGl4bWFwLndpZHRoKCksIHBpeG1hcC5oZWlnaHQoKSkK</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuZ3MuYWRkUGl4bWFwKHBpeG1hcCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuZ3MgPSBRR3JhcGhpY3NTY2VuZSgpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNldFdpbmRvd0ZsYWdzKFF0Q29yZS5RdC5XaW5kb3dTdGF5c09uVG9wSGludCkK</text>
+      <register name="5" type="4">
+        <text encoding="base64">CgpjbGFzcyBHcmFwaGljc1ZpZXcoUUdyYXBoaWNzVmlldyk6CiAgICByZWN0Q2hhbmdlZCA9IHB5cXRTaWduYWwoUVJlY3QpCgogICAgZGVmIF9faW5pdF9fKHNlbGYsICphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgUUdyYXBoaWNzVmlldy5fX2luaXRfXyhzZWxmLCAqYXJncywgKiprd2FyZ3MpCiAgICAgICAgc2VsZi5ydWJiZXJCYW5kID0gUVJ1YmJlckJhbmQoUVJ1YmJlckJhbmQuUmVjdGFuZ2xlLCBzZWxmKQogICAgICAgIHNlbGYuc2V0TW91c2VUcmFja2luZyhUcnVlKQogICAgICAgIHNlbGYub3JpZ2luID0gUVBvaW50KCkKICAgICAgICBzZWxmLmNoYW5nZVJ1YmJlckJhbmQgPSBGYWxzZQoKICAgIGRlZiBtb3VzZVByZXNzRXZlbnQoc2VsZiwgZXZlbnQpOgogICAgICAgIHNlbGYub3JpZ2luID0gZXZlbnQucG9zKCkKICAgICAgICBzZWxmLnJ1YmJlckJhbmQuc2V0R2VvbWV0cnkoUVJlY3Qoc2VsZi5vcmlnaW4sIFFTaXplKCkpKQogICAgICAgIHNlbGYucmVjdENoYW5nZWQuZW1pdChzZWxmLnJ1YmJlckJhbmQuZ2VvbWV0cnkoKSkKICAgICAgICBzZWxmLnJ1YmJlckJhbmQuc2hvdygpCiAgICAgICAgc2VsZi5jaGFuZ2VSdWJiZXJCYW5kID0gVHJ1ZQogICAgICAgIFFHcmFwaGljc1ZpZXcubW91c2VQcmVzc0V2ZW50KHNlbGYsIGV2ZW50KQoKICAgIGRlZiBtb3VzZU1vdmVFdmVudChzZWxmLCBldmVudCk6CiAgICAgICAgaWYgc2VsZi5jaGFuZ2VSdWJiZXJCYW5kOgogICAgICAgICAgICBzZWxmLnJ1YmJlckJhbmQuc2V0R2VvbWV0cnkoUVJlY3Qoc2VsZi5vcmlnaW4sIGV2ZW50LnBvcygpKS5ub3JtYWxpemVkKCkpCiAgICAgICAgICAgIHNlbGYucmVjdENoYW5nZWQuZW1pdChzZWxmLnJ1YmJlckJhbmQuZ2VvbWV0cnkoKSkKICAgICAgICBRR3JhcGhpY3NWaWV3Lm1vdXNlTW92ZUV2ZW50KHNlbGYsIGV2ZW50KQoKICAgIGRlZiBtb3VzZVJlbGVhc2VFdmVudChzZWxmLCBldmVudCk6CiAgICAgICAgc2VsZi5jaGFuZ2VSdWJiZXJCYW5kID0gRmFsc2UKICAgICAgICBRR3JhcGhpY3NWaWV3Lm1vdXNlUmVsZWFzZUV2ZW50KHNlbGYsIGV2ZW50KQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNob3coKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuc2V0TW91c2VUcmFja2luZyhUcnVlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNldFdpbmRvd0ZsYWdzKFF0Q29yZS5RdC5XaW5kb3dTdGF5c09uVG9wSGludCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcihTY3JlZW5TaG90LCBzZWxmKS5fX2luaXRfXyhwYXJlbnQpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLi5yZXNpemUocGl4bWFwLndpZHRoKCksIHBpeG1hcC5oZWlnaHQoKSkK</text>
       </register>
       <register name="-" type="4">
         <text />
