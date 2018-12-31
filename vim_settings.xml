@@ -240,7 +240,7 @@
       <file name="$USER_HOME$/Documents/GitHub/PyOCRSeq2Seq/clipboard_ocr.py" timestamp="1524239397798">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ScreenGrabber/ScreenGrabber.py" timestamp="1546269154998">
+      <file name="$USER_HOME$/Projects/ScreenGrabber/ScreenGrabber.py" timestamp="1546269193739">
         <mark key="[" line="56" column="38" />
         <mark key="]" line="56" column="38" />
         <mark key="." line="56" column="38" />
@@ -498,10 +498,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>WindowStaysOnTopHint</text>
+        <text>WindowStaysOnBottomHint</text>
       </register>
       <register name="-" type="4">
-        <text>WindowStaysOnTopHint</text>
+        <text>WindowStaysOnBottomHint</text>
       </register>
       <register name="/" type="4">
         <text>remove</text>
