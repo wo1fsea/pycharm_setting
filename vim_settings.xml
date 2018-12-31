@@ -240,6 +240,11 @@
       <file name="$USER_HOME$/Documents/GitHub/PyOCRSeq2Seq/clipboard_ocr.py" timestamp="1524239397798">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/ScreenGrabber/ScreenGrabber.py" timestamp="1546269154998">
+        <mark key="[" line="56" column="38" />
+        <mark key="]" line="56" column="38" />
+        <mark key="." line="56" column="38" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/launcher.py" timestamp="1515263430250">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -354,6 +359,7 @@
         <mark key="]" line="14" column="9" />
         <mark key="." line="14" column="9" />
       </file>
+      <file name="$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/-1834179641/PyQt5/QtWidgets/QWidget.py" timestamp="1546269012535" />
       <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Image.py" timestamp="1475379944934">
         <mark key="[" line="0" column="0" />
       </file>
@@ -491,11 +497,11 @@
       <jump line="73" column="24" filename="$USER_HOME$/Projects/Ray-Tracing-in-Python/ray_tracing_in_python.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IGFiY2RlZmdoaWprbG1ub3BxcnN0dXZ3c3l6Cg==</text>
+      <register name="&quot;" type="4">
+        <text>WindowStaysOnTopHint</text>
       </register>
       <register name="-" type="4">
-        <text>130</text>
+        <text>WindowStaysOnTopHint</text>
       </register>
       <register name="/" type="4">
         <text>remove</text>
@@ -504,31 +510,31 @@
         <text encoding="base64">ICAgIEJveChucC5hcnJheSgoMTMwLCAwLCA2NSkpLCBucC5hcnJheSgoMTMwLCAwLCA2NSkpLHdoaXRlKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IGFiY2RlZmdoaWprbG1ub3BxcnN0dXZ3c3l6Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNldFBpeG1hcChwaXhtYXApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICgpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNldFBpeG1hcChwaXhtYXApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICgpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChwaXhtYXAud2lkdGgoKSwgcGl4bWFwLmhlaWdodCgpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICgpCgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNldEFsaWdubWVudChRdENvcmUuUXQuQWxpZ25DZW50ZXIpCiAgICAgICAgcHJpbnQocGl4bWFwLndpZHRoKCksIHBpeG1hcC5oZWlnaHQoKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFNwaGVyZShucC5hcnJheSgoLTEsIDAsIC0xLikpLCAwLjUsIERpZmZ1c2VMaWdodCgxLjUpKSwK</text>
+        <text encoding="base64">IGFiY2RlZmdoaWprbG1ub3BxcnN0dXZ3c3l6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFNwaGVyZShucC5hcnJheSgoMS4sIDAsIC0xLikpLCAwLjUsIE1ldGFsKG5wLmFycmF5KCgwLjgsIDAuNiwgMC4yKSksIDAuNikpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFNwaGVyZShucC5hcnJheSgoMCwgLTEwMC41LCAtMS4pKSwgMTAwLCBMYW1iZXJ0aWFuKG5wLmFycmF5KCgwLjgsIDAuOCwgMC4pKSkpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFNwaGVyZShucC5hcnJheSgoMCwgMCwgLTEuKSksIDAuNSwgKSksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICgpCgo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgU3BoZXJlKG5wLmFycmF5KCgwLCAwLCAtMS4pKSwgMC41LCApKSwKU3BoZXJlKG5wLmFycmF5KCgwLCAtMTAwLjUsIC0xLikpLCAxMDAsIExhbWJlcnRpYW4obnAuYXJyYXkoKDAuOCwgMC44LCAwLikpKSksClNwaGVyZShucC5hcnJheSgoMS4sIDAsIC0xLikpLCAwLjUsIE1ldGFsKG5wLmFycmF5KCgwLjgsIDAuNiwgMC4yKSksIDAuNikpLApTcGhlcmUobnAuYXJyYXkoKC0xLCAwLCAtMS4pKSwgMC41LCBEaWZmdXNlTGlnaHQoMS41KSks</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIFNwaGVyZShucC5hcnJheSgoLTEsIDAsIC0xLikpLCAwLjUsIERpZmZ1c2VMaWdodCgxLjUpKSwK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
