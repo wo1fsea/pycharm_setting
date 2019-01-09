@@ -9,13 +9,17 @@
       <file name="/a.dummy" timestamp="1546532077667">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/monitor/monitor.py" timestamp="1546013404696" />
-      <file name="D:/GITHUB/ScreenGrabber.py/ScreenGrabber.py" timestamp="1546532217633">
+      <file name="D:/GITHUB/ScreenGrabber.py/ScreenGrabber.py" timestamp="1547049168208">
         <mark key="'" line="112" column="0" />
         <mark key="[" line="19" column="28" />
         <mark key="]" line="20" column="24" />
         <mark key="." line="20" column="24" />
         <mark key="^" line="20" column="24" />
+      </file>
+      <file name="D:/GITHUB/PyScreenGrabber/screen_grabber.py" timestamp="1547049142572">
+        <mark key="[" line="15" column="63" />
+        <mark key="]" line="15" column="63" />
+        <mark key="." line="15" column="63" />
       </file>
     </filemarks>
     <jumps>
@@ -27,37 +31,46 @@
         <text encoding="base64">ICAgIHJlY3RDaGFuZ2VkID0gcHlxdFNpZ25hbChRUmVjdCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJ1YmJlckJhbmQuc2hvdygpCg==</text>
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJ1YmJlckJhbmQuc2hvdygpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">UVdpZGdldCwgUUdyYXBoaWNzVmlldywg</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgIyBwYWludGVyLg==</text>
+        <text># -*- coding: utf-8 -*-
+&quot;&quot;&quot;----------------------------------------------------------------------------
+Author:
+    Huang Quanyong (wo1fSea)
+    quanyongh@foxmail.com
+Date:
+    2018/12/27
+Description:
+    ScreenGrabber.py
+----------------------------------------------------------------------------&quot;&quot;&quot;</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJ1YmJlckJhbmQuc2hvdygpCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgIyBwYWludGVyLg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm15U3Vid2luZG93LmNyZWF0ZVdpbmRvdygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNjID0gU2NyZWVuU2hvdChzZWxmKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm15U3Vid2luZG93LmNyZWF0ZVdpbmRvdygpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJlbnQgPSBOb25lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>self</text>
+        <text encoding="base64">UVdpZGdldCwgUUdyYXBoaWNzVmlldywg</text>
       </register>
     </registers>
     <search>
@@ -66,6 +79,9 @@
     </search>
     <history>
       <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
