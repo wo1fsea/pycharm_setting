@@ -30,20 +30,8 @@
       <file name="/usr/local/lib/python3.6/site-packages/pytesseract/pytesseract.py" timestamp="1507307141189">
         <mark key="[" line="87" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/grabber/grabber.py" timestamp="1515266220530">
-        <mark key="[" line="29" column="4" />
-        <mark key="]" line="29" column="36" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="22" column="35" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_manager/__init__.py" timestamp="1507134074779">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/utils.py" timestamp="1518535694206">
-        <mark key="[" line="25" column="31" />
-        <mark key="]" line="25" column="31" />
-        <mark key="^" line="137" column="22" />
-        <mark key="." line="25" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/monitor.py" timestamp="1507361781142">
         <mark key="[" line="48" column="32" />
@@ -70,12 +58,7 @@
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/alphabet.py" timestamp="1518363674915">
-        <mark key="[" line="25" column="51" />
-        <mark key="]" line="13" column="14" />
-        <mark key="." line="13" column="14" />
-        <mark key="^" line="13" column="14" />
-      </file>
+      <file name="$USER_HOME$/Projects/TheChineseRoom/core/input_controller/input_recorder.py" timestamp="1547389214412" />
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/launcher/laucher.py" timestamp="1507368669618">
         <mark key="[" line="0" column="0" />
       </file>
@@ -84,27 +67,16 @@
         <mark key="]" line="14" column="14" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/ocr/ocr_seq2seq/model.py" timestamp="1516712797230">
-        <mark key="[" line="9" column="79" />
-        <mark key="]" line="9" column="11" />
-        <mark key="^" line="9" column="11" />
-        <mark key="." line="9" column="11" />
-      </file>
-      <file name="D:/GITHUB/TheChineseRoom/ocr_model_test1.py" timestamp="1519832825521">
-        <mark key="[" line="40" column="15" />
-        <mark key="]" line="28" column="59" />
-        <mark key="." line="28" column="59" />
-        <mark key="^" line="33" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/frame_grabber/__init__.py" timestamp="1515252648015">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1536902907696">
+      <file name="/Python Console" timestamp="1547389434139">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1518195946074">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/TheChineseRoom/core/input_controller/input_recorder_pynput.py" timestamp="1547388251567" />
       <file name="D:/GITHUB/PyOCRSeq2Seq/ocr_seq2seq/utils.py" timestamp="1520428768567">
         <mark key="[" line="52" column="5" />
         <mark key="]" line="203" column="27" />
@@ -112,6 +84,11 @@
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_manager/window_manager_osx.py" timestamp="1507133534680">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/TheChineseRoom/input_recorder_test.py" timestamp="1547388384047">
+        <mark key="[" line="15" column="21" />
+        <mark key="]" line="15" column="21" />
+        <mark key="." line="15" column="21" />
       </file>
       <file name="D:/GITHUB/PyOCRSeq2Seq/ocr_seq2seq/ocr_seq2seq.py" timestamp="1519832768114">
         <mark key="[" line="18" column="17" />
@@ -137,12 +114,6 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="D:/GITHUB/PyOCRSeq2Seq/main.py" timestamp="1520609834262">
-        <mark key="[" line="45" column="12" />
-        <mark key="]" line="45" column="12" />
-        <mark key="." line="45" column="12" />
-        <mark key="^" line="26" column="84" />
-      </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/setup.py" timestamp="1487776918299">
         <mark key="[" line="6" column="18" />
       </file>
@@ -164,26 +135,9 @@
       <file name="$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/-1834179641/PyQt5/QtWidgets/QLabel.py" timestamp="1546530068040">
         <mark key="'" line="56" column="15" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/data_generator.py" timestamp="1518453593801">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="50" column="7" />
-      </file>
+      <file name="$USER_HOME$/Projects/TheChineseRoom/core/input_controller/input_controller_pyuserinput.py" timestamp="1547389502081" />
       <file name="$USER_HOME$/Documents/PykerStars/.gitignore" timestamp="1486071398335">
         <mark key="[" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/GitHub/face-swap/model.py" timestamp="1531829235711">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="^" line="67" column="21" />
-        <mark key="." line="67" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/PykerStars/pykerstars/game.py" timestamp="1514117953367">
-        <mark key="[" line="91" column="19" />
-        <mark key="]" line="92" column="7" />
-        <mark key="^" line="92" column="7" />
-        <mark key="." line="92" column="7" />
       </file>
       <file name="D:/GITHUB/PykerStars/pykerstars/utils/_poker_enum2.py" timestamp="1497540869769">
         <mark key="[" line="0" column="14" />
@@ -220,12 +174,6 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/requirements.txt" timestamp="1513421309808">
         <mark key="[" line="8" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/communication/rpc.py" timestamp="1515341867240">
-        <mark key="[" line="135" column="35" />
-        <mark key="]" line="135" column="35" />
-        <mark key="." line="135" column="35" />
-        <mark key="^" line="183" column="46" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/PyOCRSeq2Seq/ocr_seq2seq/ocr_model.py" timestamp="1524240100824">
         <mark key="[" line="357" column="56" />
         <mark key="]" line="357" column="56" />
@@ -236,18 +184,6 @@
       </file>
       <file name="$USER_HOME$/GitHub/faceswap/lib/gui/utils.py" timestamp="1531546577742">
         <mark key="[" line="166" column="49" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/PyOCRSeq2Seq/ocr_seq2seq/image_generator.py" timestamp="1524240994418">
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
-        <mark key="^" line="57" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/PykerStars/pykerstars/cards.py" timestamp="1513956827361">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="48" />
-        <mark key="." line="59" column="0" />
-        <mark key="^" line="59" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/PyScreenGrabber/requestment.txt" timestamp="1547386033073">
         <mark key="[" line="0" column="0" />
@@ -322,20 +258,16 @@
       <file name="$USER_HOME$/Documents/GitHub/PyOCRSeq2Seq/requirements.txt" timestamp="1521130049190">
         <mark key="[" line="6" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/PyScreenGrabber/pyscreengrabber/screen_grabber.py" timestamp="1547386743327">
-        <mark key="[" line="87" column="59" />
-        <mark key="]" line="86" column="51" />
-        <mark key="^" line="86" column="51" />
-        <mark key="." line="86" column="51" />
+      <file name="$USER_HOME$/Projects/PyScreenGrabber/pyscreengrabber/screen_grabber.py" timestamp="1547389099652">
+        <mark key="[" line="13" column="47" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/TheChineseRoom/core/input_controller/input_recorder_pyuserinput.py" timestamp="1547389531039">
+        <mark key="[" line="67" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/__init__.py" timestamp="1477839593099">
         <mark key="[" line="0" column="29" />
-      </file>
-      <file name="D:/GITHUB/PyOCRSeq2Seq/ocr_seq2seq/image_generator.py" timestamp="1520430581541">
-        <mark key="[" line="95" column="56" />
-        <mark key="]" line="95" column="56" />
-        <mark key="^" line="95" column="56" />
-        <mark key="." line="95" column="56" />
       </file>
       <file name="D:/GITHUB/PykerStars/pykerstars/utils/_poker_enum3.py" timestamp="1497540865696">
         <mark key="[" line="14" column="7" />
@@ -399,12 +331,6 @@
       </file>
       <file name="D:/GITHUB/PyTexturePacker/setup.py" timestamp="1495355603176">
         <mark key="[" line="6" column="18" />
-      </file>
-      <file name="$USER_HOME$/Projects/Ray-Tracing-in-Python/render0.py" timestamp="1536938552948">
-        <mark key="[" line="9" column="79" />
-        <mark key="]" line="9" column="12" />
-        <mark key="." line="9" column="12" />
-        <mark key="^" line="9" column="12" />
       </file>
     </filemarks>
     <jumps>
@@ -510,122 +436,11 @@
       <jump line="111" column="0" filename="$USER_HOME$/Projects/ScreenGrabber/ScreenGrabber.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text># -*- coding: utf-8 -*-
-&quot;&quot;&quot;----------------------------------------------------------------------------
-Author:
-    Huang Quanyong (wo1fSea)
-    quanyongh@foxmail.com
-Date:
-    2018/12/27
-Description:
-    ScreenGrabber.py
-----------------------------------------------------------------------------&quot;&quot;&quot;
-
-import sys
-import time
-
-from PyQt5 import QtCore, QtGui
-from PyQt5.QtCore import pyqtSignal, QPoint, QRect, QSize
-from PyQt5.QtWidgets import QApplication, QMainWindow, QLabel, QWidget, QGraphicsView, QRubberBand, QGraphicsScene
-
-
-class ScreenGrabber(QLabel):
-    def __init__(self, parent):
-        self._parent = parent
-        super(ScreenGrabber, self).__init__(None)
-        self.rubberBand = QRubberBand(QRubberBand.Rectangle, self)
-        self.rubberBand.show()
-        self.rubberBand.setGeometry(0, 0, 0, 0)
-        self.origin = QPoint()
-        self.changeRubberBand = False
-        self.setCursor(QtCore.Qt.CrossCursor)
-
-        temp_screen_num = len(QApplication.screens())
-        desktopRect = QApplication.desktop().rect()
-        if temp_screen_num != 1:
-            temp = desktopRect.width() - (desktopRect.width() / temp_screen_num)
-            desktopRect = QtCore.QRect(-temp, 0, desktopRect.width(), desktopRect.height())
-
-        pqscreen = QApplication.primaryScreen()
-        pixmap0 = pqscreen.grabWindow(0, desktopRect.x(), desktopRect.y(), desktopRect.width(), desktopRect.height())
-        pixmap = QtGui.QPixmap(pixmap0)
-        pixmap1 = QtGui.QPixmap(pixmap.width(), pixmap.height())
-        pixmap1.fill((QtGui.QColor(0, 0, 0, 128)))
-        painter = QtGui.QPainter()
-        painter.begin(pixmap)
-        painter.drawPixmap(0, 0, pixmap1)
-        painter.end()
-
-        self._pixmap = pixmap
-        self.setPixmap(pixmap)
-        self.setScaledContents(True)
-        self.setAlignment(QtCore.Qt.AlignCenter)
-        self.resize(pixmap.width(), pixmap.height())
-        self.setGeometry(desktopRect)
-        self.setWindowFlags(QtCore.Qt.WindowStaysOnTopHint)
-        self.showFullScreen()
-
-    def mouseDoubleClickEvent(self, event):
-        if event.button() != QtCore.Qt.LeftButton:
-            return
-
-        self.setParent(self._parent)
-        rect = self.rubberBand.geometry()
-        rect.setTop(rect.top() * self._pixmap.width() / self.width())
-        rect.setLeft(rect.left() * self._pixmap.height() / self.height())
-        rect.setBottom(rect.bottom() * self._pixmap.width() / self.width())
-        rect.setRight(rect.right() * self._pixmap.height() / self.height())
-        self._pixmap.copy(rect).save(&quot;a.png&quot;)
-        self.close()
-
-    def mousePressEvent(self, event):
-        super(ScreenGrabber, self).mousePressEvent(event)
-        if event.button() != QtCore.Qt.LeftButton:
-            return
-
-        if not self.rubberBand.geometry().isEmpty():
-            return
-
-        self.origin = event.pos()
-        self.rubberBand.setGeometry(QRect(self.origin, QSize()))
-        self.rubberBand.show()
-        self.changeRubberBand = True
-        # QLabel.mousePressEvent(self, event)
-
-    def mouseMoveEvent(self, event):
-        super(ScreenGrabber, self).mouseMoveEvent(event)
-        if self.changeRubberBand:
-            self.rubberBand.setGeometry(QRect(self.origin, event.pos()).normalized())
-        # QLabel.mouseMoveEvent(self, event)
-
-    def mouseReleaseEvent(self, event):
-        super(ScreenGrabber, self).mouseReleaseEvent(event)
-        self.changeRubberBand = False
-        print(self.rubberBand.geometry().size())
-
-
-class App(QMainWindow):
-    def __init__(self):
-        super(App, self).__init__()
-        self.title = 'monitor'
-        self.createsASubwindow()
-
-    def createsASubwindow(self):
-        self.mySubwindow = ScreenGrabber(self)
-        self.show()
-
-
-def start():
-    app = QApplication(sys.argv)
-    ex = App()
-    sys.exit(app.exec_())
-
-
-start()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnJlc2l6ZShwaXhtYXAud2lkdGgoKSwgcGl4bWFwLmhlaWdodCgpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
         <text>Scale</text>
@@ -745,31 +560,33 @@ def start():
 start()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZWN0KQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJlc2l6ZShwaXhtYXAud2lkdGgoKSwgcGl4bWFwLmhlaWdodCgpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChwaXhtYXAuc2l6ZSgpLCBzY3JlZW5fd2lkdGgsIHNjcmVlbl9oZWlnaHQpCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJ1YmJlckJhbmQuc2hvdygpCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICAjIHJlY3Quc2V0VG9wKHJlY3QudG9wKCkgKiBzZWxmLl9waXhtYXAud2lkdGgoKSAvIHNlbGYud2lkdGgoKSkKICAgICAgICAjIHJlY3Quc2V0TGVmdChyZWN0LmxlZnQoKSAqIHNlbGYuX3BpeG1hcC5oZWlnaHQoKSAvIHNlbGYuaGVpZ2h0KCkpCiAgICAgICAgIyByZWN0LnNldEJvdHRvbShyZWN0LmJvdHRvbSgpICogc2VsZi5fcGl4bWFwLndpZHRoKCkgLyBzZWxmLndpZHRoKCkpCiAgICAgICAgIyByZWN0LnNldFJpZ2h0KHJlY3QucmlnaHQoKSAqIHNlbGYuX3BpeG1hcC5oZWlnaHQoKSAvIHNlbGYuaGVpZ2h0KCkp</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwaXhtYXAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5ydWJiZXJCYW5kLmdlb21ldHJ5KCkuaXNFbXB0eSgpOgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzY3JlZW5fd2lkdGgsIHNjcmVlbl9oZWlnaHQsIHBpeG1hcC53aWR0aCgpLCBwaXhtYXAuaGVpZ2h0KCkpCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAgIyByZWN0ID0gUVJlY3QKICAgICAgICAjIHJlY3Quc2V0VG9wKHJlY3QudG9wKCkgKiBzZWxmLl9waXhtYXAud2lkdGgoKSAvIHNlbGYud2lkdGgoKSkKICAgICAgICAjIHJlY3Quc2V0TGVmdChyZWN0LmxlZnQoKSAqIHNlbGYuX3BpeG1hcC5oZWlnaHQoKSAvIHNlbGYuaGVpZ2h0KCkpCiAgICAgICAgIyByZWN0LnNldEJvdHRvbShyZWN0LmJvdHRvbSgpICogc2VsZi5fcGl4bWFwLndpZHRoKCkgLyBzZWxmLndpZHRoKCkpCiAgICAgICAgIyByZWN0LnNldFJpZ2h0KHJlY3QucmlnaHQoKSAqIHNlbGYuX3BpeG1hcC5oZWlnaHQoKSAvIHNlbGYuaGVpZ2h0KCkp</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yZWN0Q2hhbmdlZC5lbWl0KHNlbGYucnViYmVyQmFuZC5nZW9tZXRyeSgpKQo=</text>
+        <text encoding="base64">ICAgICAgICBzY3JlZW5fc2hvdC5zCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJlY3RDaGFuZ2VkLmVtaXQoc2VsZi5ydWJiZXJCYW5kLmdlb21ldHJ5KCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBwaXhtYXAuZGQK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>ir.stop_record()
+ir.save_records(&quot;DDD&quot;)
+ir.start_replay(&quot;A&quot;)</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
