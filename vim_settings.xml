@@ -1,11 +1,15 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1547050690035">
+      <file name="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/PyQt5/QtGui/QPixmap.py" timestamp="1547383352800">
+        <mark key="'" line="74" column="25" />
+      </file>
+      <file name="/Python Console" timestamp="1547382639888">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/PyQt5/QtGui/QPainter.py" timestamp="1547383855901" />
       <file name="/a.dummy" timestamp="1547050419957">
         <mark key="[" line="0" column="0" />
       </file>
@@ -26,55 +30,79 @@
         <mark key="]" line="15" column="63" />
         <mark key="." line="15" column="63" />
       </file>
+      <file name="D:/GITHUB/PyScreenGrabber/pyscreengrabber/screen_grabber.py" timestamp="1547385073101">
+        <mark key="[" line="63" column="17" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
+      </file>
+      <file name="D:/GITHUB/PyScreenGrabber/pyscreengrabber/cv.py" timestamp="1547385295976">
+        <mark key="[" line="14" column="28" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="D:/GITHUB/ScreenGrabber.py/ScreenGrabber.py" />
       <jump line="96" column="0" filename="D:/GITHUB/ScreenGrabber.py/ScreenGrabber.py" />
+      <jump line="39" column="21" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/PyQt5/QtGui/QPixmap.py" />
+      <jump line="69" column="81" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/PyQt5/QtGui/QPixmap.py" />
+      <jump line="70" column="80" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/PyQt5/QtGui/QPixmap.py" />
+      <jump line="73" column="93" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/PyQt5/QtGui/QPixmap.py" />
+      <jump line="74" column="25" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/PyQt5/QtGui/QPixmap.py" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlY3RDaGFuZ2VkID0gcHlxdFNpZ25hbChRUmVjdCkK</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ZGVmIHN0YXJ0KCk6Cg==</text>
-      </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIHN0YXJ0KCk6Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">c3RhcnQoKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICMgc2F2ZSA9IHB5cXRTbG90KFFQaXhtYXApCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0aW1lLmN0aW1lKCkpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRfcGl4bWFwLnNhdmUoImEucG5nIikK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNob3coKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBjcmVhdGVzQVN1YndpbmRvdyhzZWxmKToK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBtYXRwbG90bGliIGltcG9ydCBweXBsb3QgYXMgcGx0Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>timeString</text>
+        <text>screen_height</text>
+      </register>
+      <register name="/" type="4">
+        <text>er</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBtYXNrX3BhaW50ZXIuZmlsbFJlY3QoUVJlY3QoMCwgMCwgc2VsZi5fbGltaXRlZF9yZWN0LnRvcCgpLCBzZWxmLl9saW1pdGVkX3JlY3QucmlnaHQoKSksIFFDb2xvcigwLCAwLCAwLCAxMjgpKQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ZnJvbSBtYXRwbG90bGliIGltcG9ydCBweXBsb3QgYXMgcGx0Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnNob3coKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgUUNvbG9yKDAsIDAsIDAsIDY0KQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgUUNvbG9yKDAsIDAsIDAsIDY0KQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgUUNvbG9yKDAsIDAsIDAsIDY0KQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgUUNvbG9yKDAsIDAsIDAsIDY0KQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBtYXNrX3BhaW50ZXIuc2V0QmFja2dyb3VuZChRQ29sb3IoMTU1LCAwLCAwLCAwKSkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBtYXNrX3BhaW50ZXIuZmlsbFJlY3QoUVJlY3QoUVBvaW50KDAsIDApLCBRUG9pbnQoLHNlbGYuX2xpbWl0ZWRfcmVjdC50b3AoKSkpLCBRQ29sb3IoMCwgMCwgMCwgMTI4KSkK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBtYXNrX3BhaW50ZXIuZmlsbFJlY3QobGltaXRlZF9yZWN0LCBRQ29sb3IoMCwgMCwgMCwgMTI4KSkK</text>
       </register>
     </registers>
     <search>
-      <last-dir>-1</last-dir>
+      <last-search>er</last-search>
+      <last-offset />
+      <last-pattern>er</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>eras</entry>
+        <entry>er</entry>
+      </history-search>
       <history-cmd />
       <history-expr />
       <history-input />
