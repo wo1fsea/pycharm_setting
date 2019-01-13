@@ -169,7 +169,6 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="50" column="7" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/-1834179641/PyQt5/QtWidgets/QWidget.py" timestamp="1546269012535" />
       <file name="$USER_HOME$/Documents/PykerStars/.gitignore" timestamp="1486071398335">
         <mark key="[" line="1" column="0" />
       </file>
@@ -249,6 +248,9 @@
         <mark key="." line="59" column="0" />
         <mark key="^" line="59" column="15" />
       </file>
+      <file name="$USER_HOME$/Projects/PyScreenGrabber/requestment.txt" timestamp="1547386033073">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/output/keys.py" timestamp="1508081272612">
         <mark key="[" line="16" column="4" />
       </file>
@@ -287,7 +289,6 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/input_controller/input_recorder_pynput.py" timestamp="1513356941731">
         <mark key="[" line="72" column="36" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/-1834179641/PyQt5/QtCore/QRect.py" timestamp="1546530562445" />
       <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr.py" timestamp="1518279636258">
         <mark key="[" line="27" column="25" />
         <mark key="]" line="27" column="25" />
@@ -319,6 +320,12 @@
       </file>
       <file name="$USER_HOME$/Documents/GitHub/PyOCRSeq2Seq/requirements.txt" timestamp="1521130049190">
         <mark key="[" line="6" column="9" />
+      </file>
+      <file name="$USER_HOME$/Projects/PyScreenGrabber/pyscreengrabber/screen_grabber.py" timestamp="1547386743327">
+        <mark key="[" line="87" column="59" />
+        <mark key="]" line="86" column="51" />
+        <mark key="^" line="86" column="51" />
+        <mark key="." line="86" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/__init__.py" timestamp="1477839593099">
         <mark key="[" line="0" column="29" />
