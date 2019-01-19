@@ -281,10 +281,10 @@
       <file name="D:/GITHUB/PykerStars/pykerstars/player.py" timestamp="1497455696289">
         <mark key="[" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/core/window_controller/window_controller_darwin.py" timestamp="1547916121623">
-        <mark key="[" line="79" column="40" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
+      <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/core/window_controller/window_controller_darwin.py" timestamp="1547917099284">
+        <mark key="[" line="27" column="19" />
+        <mark key="]" line="27" column="19" />
+        <mark key="." line="27" column="19" />
       </file>
       <file name="/Dummy.txt" timestamp="1547905832694">
         <mark key="[" line="0" column="0" />
@@ -439,10 +439,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>name</text>
+        <text>window_id</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>window_id</text>
       </register>
       <register name="/" type="4">
         <text>Scale</text>
