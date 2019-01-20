@@ -45,12 +45,14 @@
       <file name="$USER_HOME$/Projects/Ray-Tracing-in-Python/requirements.txt" timestamp="1536903815882">
         <mark key="[" line="0" column="6" />
       </file>
+      <file name="$USER_HOME$/Projects/TheChineseRoom/core/window_controller/window_controller_darwin.py" timestamp="1547387369447" />
       <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/alphabet.py" timestamp="1518363674915">
         <mark key="[" line="25" column="51" />
         <mark key="]" line="13" column="14" />
         <mark key="." line="13" column="14" />
         <mark key="^" line="13" column="14" />
       </file>
+      <file name="$USER_HOME$/Projects/TheChineseRoom/core/input_controller/input_recorder.py" timestamp="1547389214412" />
       <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/core/window_controller/window_controller_win32.py" timestamp="1547916087439">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
@@ -74,12 +76,13 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/frame_grabber/__init__.py" timestamp="1515252648015">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1547389434139">
+      <file name="/Python Console" timestamp="1547978962501">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1518195946074">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/TheChineseRoom/core/input_controller/input_recorder_pynput.py" timestamp="1547388251567" />
       <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/core/input_controller/input_recorder_pyuserinput.py" timestamp="1547910332695">
         <mark key="[" line="17" column="10" />
       </file>
@@ -281,11 +284,7 @@
       <file name="D:/GITHUB/PykerStars/pykerstars/player.py" timestamp="1497455696289">
         <mark key="[" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/core/window_controller/window_controller_darwin.py" timestamp="1547917099284">
-        <mark key="[" line="27" column="19" />
-        <mark key="]" line="27" column="19" />
-        <mark key="." line="27" column="19" />
-      </file>
+      <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/core/window_controller/window_controller_darwin.py" timestamp="1547978961132" />
       <file name="/Dummy.txt" timestamp="1547905832694">
         <mark key="[" line="0" column="0" />
       </file>
@@ -439,10 +438,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>window_id</text>
+        <text>heChineseRoom [~/Projects/TheChineseRoom] - .../the_chinese_room/auto/auto.py [TheChineseRoom]&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>window_id</text>
+        <text>heChineseRoom [~/Projects/TheChineseRoom] - .../the_chinese_room/auto/auto.py [TheChineseRoom]&quot;</text>
       </register>
       <register name="/" type="4">
         <text>Scale</text>
