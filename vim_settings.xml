@@ -60,11 +60,11 @@
       <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/quick_test/__init__.py" timestamp="1547828462744">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/quick_test/first_auto_test_darwin.py" timestamp="1548173413219">
+      <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/quick_test/first_auto_test_darwin.py" timestamp="1548174283845">
         <mark key="[" line="26" column="25" />
-        <mark key="]" line="45" column="110" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="41" column="109" />
+        <mark key="]" line="44" column="110" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="40" column="109" />
       </file>
       <file name="E:/TensorFlow/test/mnist_softmax.py" timestamp="1497161628164">
         <mark key="[" line="50" column="3" />
@@ -184,11 +184,11 @@
       <file name="D:/GITHUB/PykerStars/pykerstars/player.py" timestamp="1497455696289">
         <mark key="[" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/core/window_controller/window_controller_darwin.py" timestamp="1548173392789">
-        <mark key="[" line="56" column="28" />
-        <mark key="]" line="56" column="28" />
-        <mark key="." line="56" column="28" />
-        <mark key="^" line="85" column="0" />
+      <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/core/window_controller/window_controller_darwin.py" timestamp="1548174728954">
+        <mark key="[" line="19" column="11" />
+        <mark key="]" line="19" column="11" />
+        <mark key="." line="19" column="11" />
+        <mark key="^" line="66" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/input_controller/__init__.py" timestamp="1512305416835">
         <mark key="[" line="0" column="0" />
@@ -356,10 +356,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>run</text>
+        <text>{{id, (windows whose name is )}}</text>
       </register>
       <register name="-" type="4">
-        <text>run</text>
+        <text>{{id, (windows whose name is )}}</text>
       </register>
       <register name="/" type="4">
         <text>Scale</text>
