@@ -91,11 +91,7 @@
       <file name="/usr/local/lib/python3.6/site-packages/numba/decorators.py" timestamp="1538669997427">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/core/window_controller/window_controller_win32.py" timestamp="1547916087439">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-      </file>
+      <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/core/window_controller/window_controller_win32.py" timestamp="1549375291206" />
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/input_controller/input_recorder_pynput.py" timestamp="1513356941731">
         <mark key="[" line="72" column="36" />
       </file>
@@ -184,11 +180,11 @@
       <file name="D:/GITHUB/PykerStars/pykerstars/player.py" timestamp="1497455696289">
         <mark key="[" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/core/window_controller/window_controller_darwin.py" timestamp="1548174728954">
-        <mark key="[" line="19" column="11" />
-        <mark key="]" line="19" column="11" />
-        <mark key="." line="19" column="11" />
-        <mark key="^" line="66" column="0" />
+      <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/core/window_controller/window_controller_darwin.py" timestamp="1549375316368">
+        <mark key="[" line="108" column="7" />
+        <mark key="]" line="108" column="8" />
+        <mark key="." line="108" column="8" />
+        <mark key="^" line="81" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/input_controller/__init__.py" timestamp="1512305416835">
         <mark key="[" line="0" column="0" />
@@ -356,10 +352,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{{id, (windows whose name is )}}</text>
+        <text>raise NotImplementedError()</text>
       </register>
       <register name="-" type="4">
-        <text>{{id, (windows whose name is )}}</text>
+        <text>raise NotImplementedError()</text>
       </register>
       <register name="/" type="4">
         <text>Scale</text>
