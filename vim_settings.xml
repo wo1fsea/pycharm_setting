@@ -60,8 +60,8 @@
       <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/quick_test/__init__.py" timestamp="1547828462744">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/quick_test/first_auto_test_darwin.py" timestamp="1548174283845">
-        <mark key="[" line="26" column="25" />
+      <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/quick_test/first_auto_test_darwin.py" timestamp="1549378289196">
+        <mark key="[" line="27" column="26" />
         <mark key="]" line="44" column="110" />
         <mark key="." line="44" column="0" />
         <mark key="^" line="40" column="109" />
@@ -91,7 +91,7 @@
       <file name="/usr/local/lib/python3.6/site-packages/numba/decorators.py" timestamp="1538669997427">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/core/window_controller/window_controller_win32.py" timestamp="1549375291206" />
+      <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/core/window_controller/window_controller_win32.py" timestamp="1549378183099" />
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/input_controller/input_recorder_pynput.py" timestamp="1513356941731">
         <mark key="[" line="72" column="36" />
       </file>
@@ -110,7 +110,7 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/frame_grabber/__init__.py" timestamp="1515252648015">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1548173330404">
+      <file name="/Python Console" timestamp="1549380494243">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1518195946074">
@@ -132,10 +132,10 @@
         <mark key="]" line="29" column="24" />
         <mark key="." line="29" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/quick_test_starter.py" timestamp="1547991839686">
-        <mark key="[" line="13" column="15" />
-        <mark key="]" line="13" column="15" />
-        <mark key="." line="13" column="15" />
+      <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/quick_test_starter.py" timestamp="1549378858207">
+        <mark key="[" line="14" column="15" />
+        <mark key="]" line="14" column="15" />
+        <mark key="." line="14" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/PyOCRSeq2Seq/clipboard_ocr.py" timestamp="1524239397798">
         <mark key="[" line="0" column="0" />
@@ -180,16 +180,16 @@
       <file name="D:/GITHUB/PykerStars/pykerstars/player.py" timestamp="1497455696289">
         <mark key="[" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/core/window_controller/window_controller_darwin.py" timestamp="1549375316368">
-        <mark key="[" line="108" column="7" />
-        <mark key="]" line="108" column="8" />
-        <mark key="." line="108" column="8" />
-        <mark key="^" line="81" column="0" />
+      <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/core/window_controller/window_controller_darwin.py" timestamp="1549380024010">
+        <mark key="'" line="31" column="31" />
+        <mark key="[" line="79" column="23" />
+        <mark key="]" line="79" column="23" />
+        <mark key="." line="79" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/input_controller/__init__.py" timestamp="1512305416835">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547990939153">
+      <file name="/Dummy.txt" timestamp="1549379587479">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1538669968900">
@@ -213,7 +213,7 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/output/output.py" timestamp="1508081577260">
         <mark key="[" line="3" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/core/window_controller/window_controller.py" timestamp="1547916081073">
+      <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/core/window_controller/window_controller.py" timestamp="1549378571742">
         <mark key="[" line="18" column="28" />
         <mark key="]" line="18" column="28" />
         <mark key="." line="18" column="28" />
@@ -228,10 +228,10 @@
         <mark key="[" line="50" column="0" />
         <mark key="]" line="54" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/quick_test/window_controller.py" timestamp="1547881074294">
-        <mark key="[" line="21" column="35" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/quick_test/window_controller.py" timestamp="1549380694536">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="10" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="D:/GITHUB/PykerStars/pykerstars/utils/_poker_enum2.py" timestamp="1497540869769">
         <mark key="[" line="0" column="14" />
@@ -249,7 +249,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="7" filename="C:/Python35/Lib/calendar.py" />
       <jump line="120" column="19" filename="C:/Python35/Lib/calendar.py" />
       <jump line="121" column="57" filename="C:/Python35/Lib/calendar.py" />
       <jump line="150" column="29" filename="C:/Python35/Lib/calendar.py" />
@@ -349,53 +348,57 @@
       <jump line="67" column="0" filename="$USER_HOME$/Projects/ScreenGrabber/ScreenGrabber.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/ScreenGrabber/ScreenGrabber.py" />
       <jump line="111" column="0" filename="$USER_HOME$/Projects/ScreenGrabber/ScreenGrabber.py" />
+      <jump line="31" column="31" filename="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/core/window_controller/window_controller_darwin.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>raise NotImplementedError()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name="-" type="4">
-        <text>raise NotImplementedError()</text>
+        <text>first_auto_test_darwin</text>
       </register>
       <register name="/" type="4">
         <text>Scale</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGljLm1vdXNlX2NsaWNrKHBvc2l0aW9uPSh3aW5fcmVjdC54ICsgcmVjdDgueCArIHJlY3Q4LndpZHRoIC8gMiwgd2luX3JlY3QueSArIHJlY3Q4LnkgKyByZWN0OC5oZWlnaHQgLyAyKSkK</text>
+        <text encoding="base64">IyBURVNUX01PRFVMRSA9ICJmaXJzdF9hdXRvX3Rlc3RfZGFyd2luIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlY3Q1ID0gdG0uZmluZF90aGVfYmVzdChmcmFtZSwgdGVtcDUpCg==</text>
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRlbXAxLnNob3coKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gV2luZG93Q29udHJvbGxlckRhcndpbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRlbXA1ID0gSW1hZ2Uub3BlbigiNS5wbmciKQo=</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIC53aW5kb3dfY29udHJvbGxlcl9kYXJ3aW4gaW1wb3J0IFdpbmRvd0NvbnRyb2xsZXJEYXJ3aW4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIHdjID0gd2luZG93X2NvbnRyb2xsZXIuV2luZG93Q29udHJvbGxlcigpCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICB3aW5kb3dfdGl0bGUgPSBhcHBsZXNjcmlwdC5ydW4oQVBQTEVfU0NSSVBUX0ZPQ1VTX1dJTkRPV19OQU1FKS5vdXQKICAgICAgICByZXR1cm4gd2luZG93X3RpdGxlCg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGZnID0gZnJhbWVfZ3JhYmJlci5GcmFtZUdyYWJiZXIoKQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>names = eval(&quot;[%s]&quot; % names[1:-1])
-        return names[0] if names else None</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name="7" type="4">
-        <text>print(window_titles)
-        window_titles = eval(&quot;[%s]&quot; % window_titles[1:-1])
-        return window_titles[0] if window_titles else None</text>
+        <text>ef callback(hwnd, hwnds):
+            if win32gui.IsWindowVisible(hwnd) and win32gui.IsWindowEnabled(hwnd):
+                _, found_pid = win32process.GetWindowThreadProcessId(hwnd)
+                if found_pid == pid:
+                    hwnds.append(hwnd)
+            return True
+
+        hwnds = []
+        win32gui.EnumWindows(callback, hwnds)
+        return hwnds[0] if hwnds else None</text>
       </register>
-      <register name="8" type="4">
-        <text>'''
-            tell application &quot;System Events&quot;
-                return title of first application process whose frontmost is true
-            end tell
-        '''</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">CkFQUExFX1NDUklQVF9MT0NBVEVfV0lORE9XMiA9ICIiIgp0ZWxsIGFwcGxpY2F0aW9uICJTeXN0ZW0gRXZlbnRzIiB0byB0ZWxsICh3aW5kb3dzIG9mIHByb2Nlc3NlcyB3aG9zZSBuYW1lIGlzICJ7dGl0bGV9IikKICAgIHNldCBwb3NpdGlvbnMgdG8gcG9zaXRpb24KZW5kIHRlbGwKCnJlcGVhdCB3aXRoIHBvc2l0aW9uIGluIHBvc2l0aW9ucwogICAgaWYgbGVuZ3RoIG9mIHBvc2l0aW9uIGlzIG5vdCBlcXVhbCB0byAwIHRoZW4KICAgICAgICByZXR1cm4gaXRlbSAxIG9mIHBvc2l0aW9uCiAgICBlbmQgaWYKZW5kIHJlcGVhdApyZXR1cm4ge3t9fQoiIiI=</text>
+        <text>def locate_window_by_title(self, title):
+        return win32gui.FindWindow(None, title)</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
