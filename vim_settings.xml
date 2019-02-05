@@ -110,7 +110,7 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/frame_grabber/__init__.py" timestamp="1515252648015">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1549380494243">
+      <file name="/Python Console" timestamp="1549382566301">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1518195946074">
@@ -180,11 +180,11 @@
       <file name="D:/GITHUB/PykerStars/pykerstars/player.py" timestamp="1497455696289">
         <mark key="[" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/core/window_controller/window_controller_darwin.py" timestamp="1549380024010">
-        <mark key="'" line="31" column="31" />
-        <mark key="[" line="79" column="23" />
-        <mark key="]" line="79" column="23" />
-        <mark key="." line="79" column="23" />
+      <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/core/window_controller/window_controller_darwin.py" timestamp="1549383344173">
+        <mark key="'" line="45" column="77" />
+        <mark key="[" line="48" column="26" />
+        <mark key="]" line="48" column="26" />
+        <mark key="." line="48" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/input_controller/__init__.py" timestamp="1512305416835">
         <mark key="[" line="0" column="0" />
@@ -213,6 +213,11 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/output/output.py" timestamp="1508081577260">
         <mark key="[" line="3" column="4" />
       </file>
+      <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/core/process_controller/process_controller.py" timestamp="1549382388408">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/core/window_controller/window_controller.py" timestamp="1549378571742">
         <mark key="[" line="18" column="28" />
         <mark key="]" line="18" column="28" />
@@ -228,10 +233,10 @@
         <mark key="[" line="50" column="0" />
         <mark key="]" line="54" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/quick_test/window_controller.py" timestamp="1549380694536">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="10" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/quick_test/window_controller.py" timestamp="1549383359865">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="D:/GITHUB/PykerStars/pykerstars/utils/_poker_enum2.py" timestamp="1497540869769">
         <mark key="[" line="0" column="14" />
@@ -249,7 +254,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="19" filename="C:/Python35/Lib/calendar.py" />
       <jump line="121" column="57" filename="C:/Python35/Lib/calendar.py" />
       <jump line="150" column="29" filename="C:/Python35/Lib/calendar.py" />
       <jump line="156" column="29" filename="C:/Python35/Lib/calendar.py" />
@@ -349,13 +353,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/ScreenGrabber/ScreenGrabber.py" />
       <jump line="111" column="0" filename="$USER_HOME$/Projects/ScreenGrabber/ScreenGrabber.py" />
       <jump line="31" column="31" filename="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/core/window_controller/window_controller_darwin.py" />
+      <jump line="43" column="77" filename="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/core/window_controller/window_controller_darwin.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICAgIHJldHVybmRkCg==</text>
       </register>
       <register name="-" type="4">
-        <text>first_auto_test_darwin</text>
+        <text>window_id</text>
       </register>
       <register name="/" type="4">
         <text>Scale</text>
@@ -364,24 +369,30 @@
         <text encoding="base64">IyBURVNUX01PRFVMRSA9ICJmaXJzdF9hdXRvX3Rlc3RfZGFyd2luIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICAgIHJldHVybmRkCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gV2luZG93Q29udHJvbGxlckRhcndpbgo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiItLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCkF1dGhvcjoKCUh1YW5nIFF1YW55b25nCglnemh1YW5ncXVhbnlvbmdAY29ycC5uZXRlYXNlLmNvbQpEYXRlOgoJMjAxOS8xLzIzCkRlc2NyaXB0aW9uOgoJcHJvY2Vzc19jb250cm9sbGVyCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0iIiI=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIC53aW5kb3dfY29udHJvbGxlcl9kYXJ3aW4gaW1wb3J0IFdpbmRvd0NvbnRyb2xsZXJEYXJ3aW4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHdjID0gd2luZG93X2NvbnRyb2xsZXIuV2luZG93Q29udHJvbGxlcigpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGZnID0gZnJhbWVfZ3JhYmJlci5GcmFtZUdyYWJiZXIoKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gV2luZG93Q29udHJvbGxlckRhcndpbgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBmcm9tIC53aW5kb3dfY29udHJvbGxlcl9kYXJ3aW4gaW1wb3J0IFdpbmRvd0NvbnRyb2xsZXJEYXJ3aW4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHdjID0gd2luZG93X2NvbnRyb2xsZXIuV2luZG93Q29udHJvbGxlcigpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGZnID0gZnJhbWVfZ3JhYmJlci5GcmFtZUdyYWJiZXIoKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
+      </register>
+      <register name="9" type="4">
         <text>ef callback(hwnd, hwnds):
             if win32gui.IsWindowVisible(hwnd) and win32gui.IsWindowEnabled(hwnd):
                 _, found_pid = win32process.GetWindowThreadProcessId(hwnd)
@@ -392,13 +403,6 @@
         hwnds = []
         win32gui.EnumWindows(callback, hwnds)
         return hwnds[0] if hwnds else None</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="9" type="4">
-        <text>def locate_window_by_title(self, title):
-        return win32gui.FindWindow(None, title)</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
