@@ -18,7 +18,11 @@
       <file name="D:/GITHUB/PykerStars/pykerstars/table.py" timestamp="1497448052160">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1547831196872">
+      <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/agent/agent.py" timestamp="1549443511877">
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1549442533355">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/frame_capture_lancher.py" timestamp="1507367280303">
@@ -147,6 +151,11 @@
         <mark key="[" line="18" column="28" />
         <mark key="]" line="18" column="28" />
         <mark key="." line="18" column="28" />
+      </file>
+      <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/core/cv/ocr/ocr_tesserocr.py" timestamp="1549442334455">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/PyOCRSeq2Seq/requirements.txt" timestamp="1521130049190">
         <mark key="[" line="6" column="9" />
@@ -357,52 +366,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybmRkCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnByb19jb250cm9sbGVyID0gd2luZG93X2NvbnRyb2xsZXIuV2luZG93Q29udHJvbGxlcigpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>window_id</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>Scale</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBURVNUX01PRFVMRSA9ICJmaXJzdF9hdXRvX3Rlc3RfZGFyd2luIgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLndpbmRvd19jb250cm9sbGVyID0gd2luZG93X2NvbnRyb2xsZXIuV2luZG93Q29udHJvbGxlcigpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybmRkCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnByb19jb250cm9sbGVyID0gd2luZG93X2NvbnRyb2xsZXIuV2luZG93Q29udHJvbGxlcigpCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiItLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCkF1dGhvcjoKCUh1YW5nIFF1YW55b25nCglnemh1YW5ncXVhbnlvbmdAY29ycC5uZXRlYXNlLmNvbQpEYXRlOgoJMjAxOS8xLzIzCkRlc2NyaXB0aW9uOgoJcHJvY2Vzc19jb250cm9sbGVyCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0iIiI=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLndpbmRvd19jb250cm9sbGVyID0gd2luZG93X2NvbnRyb2xsZXIuV2luZG93Q29udHJvbGxlcigpCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybgo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIGRlZiBnZXRfd2luZG93X2lkKHNlbGYpOgogICAgICAgIHBhc3M=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gV2luZG93Q29udHJvbGxlckRhcndpbgo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">IC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiItLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCkF1dGhvcjoKICAgIEh1YW5nIFF1YW55b25nICh3bzFmU2VhKQogICAgcXVhbnlvbmdoQGZveG1haWwuY29tCkRhdGU6CiAgICAyMDE5LzEvMTkKRGVzY3JpcHRpb246CiAgICBhdXRvLnB5Ci0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0iIiI=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIC53aW5kb3dfY29udHJvbGxlcl9kYXJ3aW4gaW1wb3J0IFdpbmRvd0NvbnRyb2xsZXJEYXJ3aW4K</text>
+      <register name="5" type="4">
+        <text encoding="base64">IC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiItLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCkF1dGhvcjoKCUh1YW5nIFF1YW55b25nCglnemh1YW5ncXVhbnlvbmdAY29ycC5uZXRlYXNlLmNvbQpEYXRlOgoJMjAxOS8xLzIxCkRlc2NyaXB0aW9uOgoJb2NyX3Rlc3Nlcm9jcgotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIiIi</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHdjID0gd2luZG93X2NvbnRyb2xsZXIuV2luZG93Q29udHJvbGxlcigpCg==</text>
+        <text encoding="base64">ICAgIHJldHVybmRkCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGZnID0gZnJhbWVfZ3JhYmJlci5GcmFtZUdyYWJiZXIoKQo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">IC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiItLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCkF1dGhvcjoKCUh1YW5nIFF1YW55b25nCglnemh1YW5ncXVhbnlvbmdAY29ycC5uZXRlYXNlLmNvbQpEYXRlOgoJMjAxOS8xLzIzCkRlc2NyaXB0aW9uOgoJcHJvY2Vzc19jb250cm9sbGVyCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0iIiI=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
-      <register name="9" type="4">
-        <text>ef callback(hwnd, hwnds):
-            if win32gui.IsWindowVisible(hwnd) and win32gui.IsWindowEnabled(hwnd):
-                _, found_pid = win32process.GetWindowThreadProcessId(hwnd)
-                if found_pid == pid:
-                    hwnds.append(hwnd)
-            return True
-
-        hwnds = []
-        win32gui.EnumWindows(callback, hwnds)
-        return hwnds[0] if hwnds else None</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gV2luZG93Q29udHJvbGxlckRhcndpbgo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
