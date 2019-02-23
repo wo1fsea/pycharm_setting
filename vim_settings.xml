@@ -11,11 +11,11 @@
       <file name="/Python Console" timestamp="1550842314350">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Projects/TheChineseRoom/the_chinese_room/agent/agent.py" timestamp="1550891515272">
-        <mark key="[" line="183" column="85" />
-        <mark key="]" line="184" column="0" />
-        <mark key="." line="184" column="0" />
-        <mark key="^" line="180" column="0" />
+      <file name="E:/Projects/TheChineseRoom/the_chinese_room/agent/agent.py" timestamp="1550892842864">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="25" />
+        <mark key="." line="86" column="23" />
+        <mark key="^" line="86" column="23" />
       </file>
       <file name="E:/Projects/TheChineseRoom/the_chinese_room/core/window_controller/window_controller_win32.py" timestamp="1550841746730">
         <mark key="[" line="32" column="11" />
@@ -37,37 +37,37 @@
     <jumps />
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgc2VsZi5ob3N0X3dpbmRvd19pZCwgImNhbiBub3QgZmluZCB3aW5kb3ciCg==</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IHR5cGVfdGV4dAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1bmMsCg==</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSBUcnVlOgo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1bmMsCg==</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IHR5cGVfdGV4dAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsYW1iZGE6IFtyIGZvciByIGluIHNlbGYuZmluZF90ZW1wbGF0ZSh0ZW1wbGF0ZV9pbWFnZSkgaWYgciBpbiByZWdpb25dCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1bmMsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgZnVuYygpOgo=</text>
+        <text encoding="base64">ICAgICAgICBsYW1iZGE6IFtyIGZvciByIGluIHNlbGYuZmluZF90ZW1wbGF0ZSh0ZW1wbGF0ZV9pbWFnZSkgaWYgciBpbiByZWdpb25dCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVnaW9ucyA9IAo=</text>
+        <text encoding="base64">ICAgICAgICBkZWYgZnVuYygpOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVnaW9ucyA9IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gVHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEZhbHNlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHIgaW4gcmVnaW9uOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gVHJ1ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHIgaW4gcmVnaW9uOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gRmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>return_value</text>
