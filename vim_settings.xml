@@ -20,6 +20,12 @@
       <file name="E:/Projects/TheChineseRoom/the_chinese_room/core/window_controller/window_controller_win32.py" timestamp="1550841746730">
         <mark key="[" line="32" column="11" />
       </file>
+      <file name="E:/Projects/TheChineseRoom/the_chinese_room/quick_test/agent_g68/agent.py" timestamp="1550904987338">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="E:/Projects/TheChineseRoom/the_chinese_room/quick_test/agent_darwin/agent.py" timestamp="1550904969542" />
       <file name="E:/Projects/TheChineseRoom/the_chinese_room/quick_test_starter.py" timestamp="1550839743915">
         <mark key="[" line="13" column="20" />
       </file>
@@ -39,35 +45,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAjIFRPRE86IHR5cGVfdGV4dAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSBUcnVlOgo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiMgLSotIGNvZGluZzogdXRmLTggLSotCiIiIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KQXV0aG9yOgogICAgSHVhbmcgUXVhbnlvbmcgKHdvMWZTZWEpCiAgICBxdWFueW9uZ2hAZm94bWFpbC5jb20KRGF0ZToKICAgIDIwMTkvMS8yMApEZXNjcmlwdGlvbjoKICAgIGZpcnN0X2F1dG9fdGVzdF9kYXJ3aW4ucHkKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIiIg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IHR5cGVfdGV4dAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiMgLSotIGNvZGluZzogdXRmLTggLSotCiIiIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KQXV0aG9yOgogICAgSHVhbmcgUXVhbnlvbmcgKHdvMWZTZWEpCiAgICBxdWFueW9uZ2hAZm94bWFpbC5jb20KRGF0ZToKICAgIDIwMTkvMS8yMApEZXNjcmlwdGlvbjoKICAgIGZpcnN0X2F1dG9fdGVzdF9kYXJ3aW4ucHkKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIiIg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1bmMsCg==</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSBUcnVlOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsYW1iZGE6IFtyIGZvciByIGluIHNlbGYuZmluZF90ZW1wbGF0ZSh0ZW1wbGF0ZV9pbWFnZSkgaWYgciBpbiByZWdpb25dCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1bmMsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgZnVuYygpOgo=</text>
+        <text encoding="base64">ICAgICAgICBsYW1iZGE6IFtyIGZvciByIGluIHNlbGYuZmluZF90ZW1wbGF0ZSh0ZW1wbGF0ZV9pbWFnZSkgaWYgciBpbiByZWdpb25dCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVnaW9ucyA9IAo=</text>
+        <text encoding="base64">ICAgICAgICBkZWYgZnVuYygpOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVnaW9ucyA9IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gVHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEZhbHNlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHIgaW4gcmVnaW9uOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gVHJ1ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHIgaW4gcmVnaW9uOgo=</text>
       </register>
       <register name="-" type="4">
         <text>return_value</text>
