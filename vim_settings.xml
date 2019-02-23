@@ -3,23 +3,86 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/Projects/TheChineseRoom/the_chinese_room/quick_test/agent_windows/agent.py" timestamp="1550839028968">
-        <mark key="[" line="17" column="118" />
-        <mark key="]" line="17" column="117" />
-        <mark key="^" line="17" column="117" />
-        <mark key="." line="17" column="117" />
+      <file name="E:/Projects/TheChineseRoom/the_chinese_room/quick_test/agent_windows/agent.py" timestamp="1550842198013">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
-      <file name="E:/Projects/TheChineseRoom/the_chinese_room/agent/agent.py" timestamp="1550838308646">
-        <mark key="[" line="24" column="4" />
+      <file name="/Python Console" timestamp="1550842314350">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/Projects/TheChineseRoom/the_chinese_room/agent/agent.py" timestamp="1550890600943">
+        <mark key="[" line="55" column="65" />
+        <mark key="]" line="63" column="57" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="57" column="56" />
+      </file>
+      <file name="E:/Projects/TheChineseRoom/the_chinese_room/core/window_controller/window_controller_win32.py" timestamp="1550841746730">
+        <mark key="[" line="32" column="11" />
+      </file>
+      <file name="E:/Projects/TheChineseRoom/the_chinese_room/quick_test_starter.py" timestamp="1550839743915">
+        <mark key="[" line="13" column="20" />
+      </file>
+      <file name="E:/Projects/TheChineseRoom/the_chinese_room/core/cv/template_matcher.py" timestamp="1550840236923">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+      </file>
+      <file name="E:/Projects/TheChineseRoom/the_chinese_room/core/input_controller/input_controller_pynput.py" timestamp="1550842442702">
+        <mark key="[" line="150" column="0" />
+        <mark key="]" line="150" column="0" />
+        <mark key="." line="150" column="0" />
       </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgc2VsZi5ob3N0X3dpbmRvd19pZCwgImNhbiBub3QgZmluZCB3aW5kb3ciCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBmcmFtZS5zaG93KCkK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgc2VsZi5ob3N0X3dpbmRvd19pZCwgImNhbiBub3QgZmluZCB3aW5kb3ciCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB0aW1lLnNsZWVwKDEuKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocG9zaXRpb24pCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGFnLmNsaWNrX29uX3RlbXBsYXRlKG9zLnBhdGguam9pbihjdXJfcHlfcGF0aCwgIjAucG5nIikpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGFnLmNsaWNrX29uX3RlbXBsYXRlKG9zLnBhdGguam9pbihjdXJfcHlfcGF0aCwgIjEucG5nIikpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZnJvbSB0aGVfY2hpbmVzZV9yb29tLmNvcmUucHJvY2Vzc19jb250cm9sbGVyIGltcG9ydCBQcm9jZXNzQ29udHJvbGxlcgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ZnJvbSB0aGVfY2hpbmVzZV9yb29tLmNvcmUud2luZG93X2NvbnRyb2xsZXIgaW1wb3J0IFdpbmRvd0NvbnRyb2xsZXIK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHBjID0gUHJvY2Vzc0NvbnRyb2xsZXIoKQo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>START_CHECK_TIMEOUT</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
