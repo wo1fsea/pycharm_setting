@@ -141,6 +141,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/ocroline/src/cctc/build.py" timestamp="1560304335492">
+        <mark key="[" line="19" column="24" />
+        <mark key="]" line="19" column="39" />
+        <mark key="." line="19" column="39" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/PyOCRSeq2Seq/requirements.txt" timestamp="1521130049190">
         <mark key="[" line="6" column="9" />
       </file>
@@ -350,11 +355,11 @@
       <jump line="109" column="44" filename="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/agent/agent.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFnLmNsaWNrX29uX3RlbXBsYXRlKG9zLnBhdGguam9pbihjdXJfcHlfcGF0aCwgIjgucG5nIikpCg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;-fsanitize=leak&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>template_image</text>
+        <text>&quot;-fsanitize=leak&quot;</text>
       </register>
       <register name="/" type="4">
         <text>Scale</text>
