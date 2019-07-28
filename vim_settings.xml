@@ -37,7 +37,8 @@
         <mark key="]" line="82" column="0" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="D:/GITHUB/TheOldChineseRoom/core/communication/rpc.py" timestamp="1564324509462" />
+      <file name="D:/GITHUB/TheOldChineseRoom/core/communication/collections/redis_object.py" timestamp="1564326924294" />
+      <file name="D:/GITHUB/TheOldChineseRoom/core/communication/rpc.py" timestamp="1564327014937" />
       <file name="D:/GITHUB/TheChineseRoom/the_chinese_room/core/input_controller/input_controller.py" timestamp="1547739864089">
         <mark key="[" line="11" column="5" />
       </file>
