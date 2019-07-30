@@ -3,15 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/dict.py" timestamp="1564465620047">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/dict.py" timestamp="1564486314955">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="53" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="/Python Console" timestamp="1550842314350">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1564472074789">
+      <file name="/a.dummy" timestamp="1564486241817">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Projects/PyEasyRPC/tests/test_dummy.py" timestamp="1564472592834">
@@ -28,6 +28,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="2" column="7" />
+      </file>
+      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/list.py" timestamp="1564486328968">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="53" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="E:/Projects/TheChineseRoom/the_chinese_room/core/window_controller/window_controller_win32.py" timestamp="1550841746730">
         <mark key="[" line="32" column="11" />
@@ -61,10 +66,17 @@
         <mark key="." line="86" column="23" />
         <mark key="^" line="86" column="23" />
       </file>
+      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_connection.py" timestamp="1564486638618">
+        <mark key="[" line="18" column="14" />
+      </file>
       <file name="E:/Projects/TheChineseRoom/the_chinese_room/quick_test_starter.py" timestamp="1550839743915">
         <mark key="[" line="13" column="20" />
       </file>
-      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/redis_object.py" timestamp="1564479605170" />
+      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/redis_object.py" timestamp="1564486564833">
+        <mark key="[" line="75" column="8" />
+        <mark key="]" line="75" column="8" />
+        <mark key="." line="75" column="8" />
+      </file>
       <file name="E:/Projects/TheChineseRoom/the_chinese_room/core/cv/template_matcher.py" timestamp="1550840236923">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
@@ -82,39 +94,37 @@
         <text encoding="base64">ICAtICIzLjUiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAtICIzLjgiCg==</text>
+        <text encoding="base64">ZnJvbSAucmVkaXNfb2JqZWN0IGltcG9ydCBSZWRpc09iamVjdCwgREVGQVVMVF9QQUNLRVIK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAtICIzLjgiCg==</text>
+      <register name="&quot;" type="4">
+        <text>global _delta_time</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAtICIyLjciCg==</text>
+        <text encoding="base64">ZnJvbSAucmVkaXNfb2JqZWN0IGltcG9ydCBSZWRpc09iamVjdCwgREVGQVVMVF9QQUNLRVIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSAuLiBpbXBvcnQgcmVkaXNfY29ubmVjdGlvbgo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAjIGRvZXMgbm90IGhhdmUgaGVhZGVycyBwcm92aWRlZCwgcGxlYXNlIGFzayBodHRwczovL2xhdW5jaHBhZC5uZXQvfnB5cHkvK2FyY2hpdmUvcHBhCiAgIyBtYWludGFpbmVycyB0byBmaXggdGhlaXIgcHlweS1kZXYgcGFja2FnZS4KICAtICJweXB5Ig==</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCkK</text>
+        <text encoding="base64">ICAtICIzLjgiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQoZ2V0X3JlZGlzKCkpCg==</text>
+        <text encoding="base64">ICAtICIyLjciCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>HOST = &quot;127.0.0.1&quot;
-DEFAULT_PORT = 6379
-DEFAULT_DB = 0</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICBjb25maWdfcmVhZGVyID0gQ29uZmlnUmVhZGVyKCkKICAgICAgICByZWRpc19jb25maWcgPSBjb25maWdfcmVhZGVyLmdldF9jb25maWcoInJlZGlzIikKICAgICAgICBhc3NlcnQgcmVkaXNfY29uZmlnLCAicmVkaXMgY29uZmlnIG5vdCBleGlzdHMuIg==</text>
+        <text encoding="base64">ICAjIGRvZXMgbm90IGhhdmUgaGVhZGVycyBwcm92aWRlZCwgcGxlYXNlIGFzayBodHRwczovL2xhdW5jaHBhZC5uZXQvfnB5cHkvK2FyY2hpdmUvcHBhCiAgIyBtYWludGFpbmVycyB0byBmaXggdGhlaXIgcHlweS1kZXYgcGFja2FnZS4KICAtICJweXB5Ig==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">REVGQVVMVF9QT1JUID0gIjEyNy4wLjAuMSIK</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>MyTestCase</text>
+        <text>global _delta_time</text>
       </register>
     </registers>
     <search>
