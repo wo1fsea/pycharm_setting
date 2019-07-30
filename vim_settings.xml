@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/dict.py" timestamp="1564486314955">
+      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/dict.py" timestamp="1564495002100">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="53" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1550842314350">
+      <file name="/Python Console" timestamp="1564495475956">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Python37/Lib/site-packages/redis/client.py" timestamp="1564493748840">
@@ -16,26 +16,17 @@
         <mark key="]" line="993" column="45" />
         <mark key="." line="993" column="45" />
       </file>
-      <file name="/a.dummy" timestamp="1564486241817">
+      <file name="/a.dummy" timestamp="1564495251331">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Projects/PyEasyRPC/tests/test_dummy.py" timestamp="1564472592834">
+      <file name="E:/Projects/PyEasyRPC/tests/test_dummy.py" timestamp="1564495290596">
         <mark key="[" line="13" column="6" />
         <mark key="]" line="13" column="6" />
         <mark key="." line="13" column="6" />
         <mark key="^" line="8" column="3" />
       </file>
-      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/collections/__init__.py" timestamp="1564464643264">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/Projects/PyEasyRPC/.travis.yml" timestamp="1564472769691">
-        <mark key="[" line="3" column="8" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="2" column="7" />
-      </file>
-      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/list.py" timestamp="1564486328968">
-        <mark key="[" line="12" column="0" />
+      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/list.py" timestamp="1564495008618">
+        <mark key="[" line="18" column="49" />
         <mark key="]" line="12" column="53" />
         <mark key="." line="12" column="0" />
       </file>
@@ -49,6 +40,39 @@
       </file>
       <file name="E:/Projects/PyEasyRPC/tests/DummyTest.py" timestamp="1564471742274">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/Projects/TheChineseRoom/the_chinese_room/agent/agent.py" timestamp="1550892842864">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="25" />
+        <mark key="." line="86" column="23" />
+        <mark key="^" line="86" column="23" />
+      </file>
+      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_connection.py" timestamp="1564494768377">
+        <mark key="[" line="16" column="18" />
+        <mark key="]" line="16" column="18" />
+        <mark key="." line="16" column="18" />
+      </file>
+      <file name="E:/Projects/PyEasyRPC/tests/test_redis_collections/__init__.py" timestamp="1564495340336" />
+      <file name="E:/Projects/TheChineseRoom/the_chinese_room/quick_test_starter.py" timestamp="1550839743915">
+        <mark key="[" line="13" column="20" />
+      </file>
+      <file name="E:/Projects/PyEasyRPC/tests/test_redis_collections/test_dict.py" timestamp="1564495820954">
+        <mark key="[" line="27" column="31" />
+        <mark key="]" line="28" column="37" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="26" column="35" />
+      </file>
+      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/queue.py" timestamp="1564495047011">
+        <mark key="[" line="19" column="51" />
+      </file>
+      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/collections/__init__.py" timestamp="1564464643264">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/Projects/PyEasyRPC/.travis.yml" timestamp="1564495509387">
+        <mark key="[" line="3" column="8" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="2" column="7" />
       </file>
       <file name="E:/Projects/PyEasyRPC/pyeasyrpc/db_connection.py" timestamp="1564468092466">
         <mark key="[" line="24" column="11" />
@@ -65,22 +89,7 @@
       <file name="E:/Projects/PyEasyRPC/test/__init__.py" timestamp="1564469001104">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Projects/TheChineseRoom/the_chinese_room/agent/agent.py" timestamp="1550892842864">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="25" />
-        <mark key="." line="86" column="23" />
-        <mark key="^" line="86" column="23" />
-      </file>
-      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_connection.py" timestamp="1564493066809">
-        <mark key="[" line="29" column="13" />
-        <mark key="]" line="30" column="25" />
-        <mark key="^" line="27" column="24" />
-        <mark key="." line="30" column="0" />
-      </file>
-      <file name="E:/Projects/TheChineseRoom/the_chinese_room/quick_test_starter.py" timestamp="1550839743915">
-        <mark key="[" line="13" column="20" />
-      </file>
-      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/redis_object.py" timestamp="1564486564833">
+      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/redis_object.py" timestamp="1564494872516">
         <mark key="[" line="75" column="8" />
         <mark key="]" line="75" column="8" />
         <mark key="." line="75" column="8" />
@@ -99,40 +108,40 @@
     <jumps />
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">cHJpbnQoZ2V0X3JlZGlzKCkudGltZSgpKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGRbImludCJdLCAxKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSAucmVkaXNfb2JqZWN0IGltcG9ydCBSZWRpc09iamVjdCwgREVGQVVMVF9QQUNLRVIK</text>
+        <text encoding="base64">ICAgICAgICBkWyJmMSJdCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGRbImludCJdLCAxKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSAucmVkaXNfb2JqZWN0IGltcG9ydCBSZWRpc09iamVjdCwgREVGQVVMVF9QQUNLRVIK</text>
+        <text encoding="base64">X3JlZGlzID0gTm9uZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSAuLiBpbXBvcnQgcmVkaXNfY29ubmVjdGlvbgo=</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBfcmVkaXM6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAtICIzLjgiCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAtICIyLjciCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAjIGRvZXMgbm90IGhhdmUgaGVhZGVycyBwcm92aWRlZCwgcGxlYXNlIGFzayBodHRwczovL2xhdW5jaHBhZC5uZXQvfnB5cHkvK2FyY2hpdmUvcHBhCiAgIyBtYWludGFpbmVycyB0byBmaXggdGhlaXIgcHlweS1kZXYgcGFja2FnZS4KICAtICJweXB5Ig==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGdsb2JhbCBfcmVkaXMK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">cHJpbnQoZ2V0X3JlZGlzKCkudGltZSgpKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">dGltZS5zbGVlcCgxMCkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCkK</text>
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>&quot;&quot;</text>
       </register>
     </registers>
     <search>
