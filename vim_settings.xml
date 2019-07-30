@@ -11,6 +11,11 @@
       <file name="/Python Console" timestamp="1550842314350">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/Python37/Lib/site-packages/redis/client.py" timestamp="1564493748840">
+        <mark key="[" line="993" column="45" />
+        <mark key="]" line="993" column="45" />
+        <mark key="." line="993" column="45" />
+      </file>
       <file name="/a.dummy" timestamp="1564486241817">
         <mark key="[" line="0" column="0" />
       </file>
@@ -66,8 +71,8 @@
         <mark key="." line="86" column="23" />
         <mark key="^" line="86" column="23" />
       </file>
-      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_connection.py" timestamp="1564492296954">
-        <mark key="[" line="30" column="0" />
+      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_connection.py" timestamp="1564493066809">
+        <mark key="[" line="29" column="13" />
         <mark key="]" line="30" column="25" />
         <mark key="^" line="27" column="24" />
         <mark key="." line="30" column="0" />
@@ -99,8 +104,8 @@
       <register name="1" type="2">
         <text encoding="base64">ZnJvbSAucmVkaXNfb2JqZWN0IGltcG9ydCBSZWRpc09iamVjdCwgREVGQVVMVF9QQUNLRVIK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQoZ2V0X3JlZGlzKCkudGltZSgpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ZnJvbSAucmVkaXNfb2JqZWN0IGltcG9ydCBSZWRpc09iamVjdCwgREVGQVVMVF9QQUNLRVIK</text>
@@ -127,7 +132,7 @@
         <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>global _delta_time</text>
+        <text>&quot;</text>
       </register>
     </registers>
     <search>
