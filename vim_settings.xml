@@ -11,13 +11,22 @@
       <file name="/Python Console" timestamp="1550842314350">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1564472074789">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/Projects/PyEasyRPC/tests/test_dummy.py" timestamp="1564472592834">
+        <mark key="[" line="13" column="6" />
+        <mark key="]" line="13" column="6" />
+        <mark key="." line="13" column="6" />
+        <mark key="^" line="8" column="3" />
+      </file>
       <file name="E:/Projects/PyEasyRPC/pyeasyrpc/collections/__init__.py" timestamp="1564464643264">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Projects/PyEasyRPC/.travis.yml" timestamp="1564468961571">
-        <mark key="[" line="3" column="2" />
-        <mark key="]" line="3" column="9" />
-        <mark key="." line="3" column="0" />
+      <file name="E:/Projects/PyEasyRPC/.travis.yml" timestamp="1564472769691">
+        <mark key="[" line="3" column="8" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
         <mark key="^" line="2" column="7" />
       </file>
       <file name="E:/Projects/TheChineseRoom/the_chinese_room/core/window_controller/window_controller_win32.py" timestamp="1550841746730">
@@ -27,6 +36,9 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="E:/Projects/PyEasyRPC/tests/DummyTest.py" timestamp="1564471742274">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Projects/PyEasyRPC/pyeasyrpc/db_connection.py" timestamp="1564468092466">
         <mark key="[" line="24" column="11" />
@@ -66,42 +78,42 @@
     <jumps />
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAtICIzLjciCg==</text>
+        <text encoding="base64">ICAtICIzLjUiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAtICIyLjciCg==</text>
+        <text encoding="base64">ICAtICIzLjgiCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAtICIzLjciCg==</text>
+        <text encoding="base64">ICAtICIzLjgiCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAtICIyLjciCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAjIGRvZXMgbm90IGhhdmUgaGVhZGVycyBwcm92aWRlZCwgcGxlYXNlIGFzayBodHRwczovL2xhdW5jaHBhZC5uZXQvfnB5cHkvK2FyY2hpdmUvcHBhCiAgIyBtYWludGFpbmVycyB0byBmaXggdGhlaXIgcHlweS1kZXYgcGFja2FnZS4KICAtICJweXB5Ig==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCkK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">cHJpbnQoZ2V0X3JlZGlzKCkpCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>HOST = &quot;127.0.0.1&quot;
 DEFAULT_PORT = 6379
 DEFAULT_DB = 0</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgICAgICBjb25maWdfcmVhZGVyID0gQ29uZmlnUmVhZGVyKCkKICAgICAgICByZWRpc19jb25maWcgPSBjb25maWdfcmVhZGVyLmdldF9jb25maWcoInJlZGlzIikKICAgICAgICBhc3NlcnQgcmVkaXNfY29uZmlnLCAicmVkaXMgY29uZmlnIG5vdCBleGlzdHMuIg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">REVGQVVMVF9QT1JUID0gIjEyNy4wLjAuMSIK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>MyTestCase</text>
       </register>
     </registers>
     <search>
