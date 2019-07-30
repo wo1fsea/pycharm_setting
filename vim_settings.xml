@@ -3,22 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/Projects/TheChineseRoom/the_chinese_room/quick_test/agent_windows/agent.py" timestamp="1550842198013">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/dict.py" timestamp="1564465620047">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="/Python Console" timestamp="1550842314350">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/Python37/Lib/site-packages/redis/client.py" timestamp="1564465509179" />
       <file name="E:/Projects/PyEasyRPC/pyeasyrpc/collections/__init__.py" timestamp="1564464643264">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/Projects/TheChineseRoom/the_chinese_room/agent/agent.py" timestamp="1550892842864">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="25" />
-        <mark key="." line="86" column="23" />
-        <mark key="^" line="86" column="23" />
       </file>
       <file name="E:/Projects/TheChineseRoom/the_chinese_room/core/window_controller/window_controller_win32.py" timestamp="1550841746730">
         <mark key="[" line="32" column="11" />
@@ -27,6 +22,23 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/db_connection.py" timestamp="1564465369396">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="25" column="17" />
+      </file>
+      <file name="E:/Projects/TheChineseRoom/the_chinese_room/quick_test/agent_windows/agent.py" timestamp="1550842198013">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="E:/Projects/TheChineseRoom/the_chinese_room/agent/agent.py" timestamp="1550892842864">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="25" />
+        <mark key="." line="86" column="23" />
+        <mark key="^" line="86" column="23" />
       </file>
       <file name="E:/Projects/TheChineseRoom/the_chinese_room/quick_test_starter.py" timestamp="1550839743915">
         <mark key="[" line="13" column="20" />
@@ -45,40 +57,42 @@
     <jumps />
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IHR5cGVfdGV4dAo=</text>
+        <text encoding="base64">REVGQVVMVF9IT1NUID0gIjEyNy4wLjAuMSIK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiMgLSotIGNvZGluZzogdXRmLTggLSotCiIiIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KQXV0aG9yOgogICAgSHVhbmcgUXVhbnlvbmcgKHdvMWZTZWEpCiAgICBxdWFueW9uZ2hAZm94bWFpbC5jb20KRGF0ZToKICAgIDIwMTkvMS8yMApEZXNjcmlwdGlvbjoKICAgIGZpcnN0X2F1dG9fdGVzdF9kYXJ3aW4ucHkKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIiIg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCkK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CiMgLSotIGNvZGluZzogdXRmLTggLSotCiIiIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KQXV0aG9yOgogICAgSHVhbmcgUXVhbnlvbmcgKHdvMWZTZWEpCiAgICBxdWFueW9uZ2hAZm94bWFpbC5jb20KRGF0ZToKICAgIDIwMTkvMS8yMApEZXNjcmlwdGlvbjoKICAgIGZpcnN0X2F1dG9fdGVzdF9kYXJ3aW4ucHkKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIiIg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSBUcnVlOgo=</text>
+        <text encoding="base64">cHJpbnQoZ2V0X3JlZGlzKCkpCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1bmMsCg==</text>
+      <register name="3" type="4">
+        <text>HOST = &quot;127.0.0.1&quot;
+DEFAULT_PORT = 6379
+DEFAULT_DB = 0</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsYW1iZGE6IFtyIGZvciByIGluIHNlbGYuZmluZF90ZW1wbGF0ZSh0ZW1wbGF0ZV9pbWFnZSkgaWYgciBpbiByZWdpb25dCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICBjb25maWdfcmVhZGVyID0gQ29uZmlnUmVhZGVyKCkKICAgICAgICByZWRpc19jb25maWcgPSBjb25maWdfcmVhZGVyLmdldF9jb25maWcoInJlZGlzIikKICAgICAgICBhc3NlcnQgcmVkaXNfY29uZmlnLCAicmVkaXMgY29uZmlnIG5vdCBleGlzdHMuIg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgZnVuYygpOgo=</text>
+        <text encoding="base64">REVGQVVMVF9QT1JUID0gIjEyNy4wLjAuMSIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVnaW9ucyA9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEZhbHNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gVHJ1ZQo=</text>
+        <text encoding="base64">X3JlZGlzID0gTm9uZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHIgaW4gcmVnaW9uOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>return_value</text>
+        <text>redis_config</text>
       </register>
     </registers>
     <search>
