@@ -11,7 +11,6 @@
       <file name="/Python Console" timestamp="1550842314350">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Python37/Lib/site-packages/redis/client.py" timestamp="1564465509179" />
       <file name="E:/Projects/PyEasyRPC/pyeasyrpc/collections/__init__.py" timestamp="1564464643264">
         <mark key="[" line="0" column="0" />
       </file>
@@ -23,10 +22,10 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/db_connection.py" timestamp="1564465369396">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/db_connection.py" timestamp="1564468092466">
+        <mark key="[" line="24" column="11" />
+        <mark key="]" line="24" column="11" />
+        <mark key="." line="24" column="11" />
         <mark key="^" line="25" column="17" />
       </file>
       <file name="E:/Projects/TheChineseRoom/the_chinese_room/quick_test/agent_windows/agent.py" timestamp="1550842198013">
@@ -53,7 +52,6 @@
         <mark key="]" line="150" column="0" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="E:/Projects/PyTexturePacker/test.py" timestamp="1564467158996" />
     </filemarks>
     <jumps />
     <registers>
@@ -63,8 +61,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCkK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCkK</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">cHJpbnQoZ2V0X3JlZGlzKCkpCg==</text>
@@ -93,7 +91,7 @@ DEFAULT_DB = 0</text>
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>redis_config</text>
+        <text>_</text>
       </register>
     </registers>
     <search>
