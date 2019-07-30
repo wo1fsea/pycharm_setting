@@ -66,8 +66,11 @@
         <mark key="." line="86" column="23" />
         <mark key="^" line="86" column="23" />
       </file>
-      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_connection.py" timestamp="1564486638618">
-        <mark key="[" line="18" column="14" />
+      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_connection.py" timestamp="1564492296954">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="25" />
+        <mark key="^" line="27" column="24" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="E:/Projects/TheChineseRoom/the_chinese_room/quick_test_starter.py" timestamp="1550839743915">
         <mark key="[" line="13" column="20" />
@@ -91,13 +94,13 @@
     <jumps />
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAtICIzLjUiCg==</text>
+        <text encoding="base64">cHJpbnQoZ2V0X3JlZGlzKCkudGltZSgpKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZnJvbSAucmVkaXNfb2JqZWN0IGltcG9ydCBSZWRpc09iamVjdCwgREVGQVVMVF9QQUNLRVIK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>global _delta_time</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cHJpbnQoZ2V0X3JlZGlzKCkudGltZSgpKQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ZnJvbSAucmVkaXNfb2JqZWN0IGltcG9ydCBSZWRpc09iamVjdCwgREVGQVVMVF9QQUNLRVIK</text>
