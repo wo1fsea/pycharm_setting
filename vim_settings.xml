@@ -8,7 +8,7 @@
         <mark key="]" line="12" column="53" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1564495475956">
+      <file name="/Python Console" timestamp="1564539476690">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Python37/Lib/site-packages/redis/client.py" timestamp="1564493748840">
@@ -25,7 +25,7 @@
         <mark key="." line="13" column="6" />
         <mark key="^" line="8" column="3" />
       </file>
-      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/list.py" timestamp="1564495008618">
+      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/list.py" timestamp="1564498129675">
         <mark key="[" line="18" column="49" />
         <mark key="]" line="12" column="53" />
         <mark key="." line="12" column="0" />
@@ -52,15 +52,17 @@
         <mark key="]" line="16" column="18" />
         <mark key="." line="16" column="18" />
       </file>
-      <file name="E:/Projects/PyEasyRPC/tests/test_redis_collections/__init__.py" timestamp="1564495340336" />
       <file name="E:/Projects/TheChineseRoom/the_chinese_room/quick_test_starter.py" timestamp="1550839743915">
         <mark key="[" line="13" column="20" />
       </file>
-      <file name="E:/Projects/PyEasyRPC/tests/test_redis_collections/test_dict.py" timestamp="1564495820954">
-        <mark key="[" line="27" column="31" />
-        <mark key="]" line="28" column="37" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="26" column="35" />
+      <file name="/Dummy.txt" timestamp="1564539070825">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/Projects/PyEasyRPC/tests/test_redis_collections/test_dict.py" timestamp="1564540854702">
+        <mark key="[" line="77" column="61" />
+        <mark key="]" line="77" column="61" />
+        <mark key="." line="77" column="61" />
+        <mark key="^" line="77" column="61" />
       </file>
       <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/queue.py" timestamp="1564495047011">
         <mark key="[" line="19" column="51" />
@@ -68,11 +70,14 @@
       <file name="E:/Projects/PyEasyRPC/pyeasyrpc/collections/__init__.py" timestamp="1564464643264">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Projects/PyEasyRPC/.travis.yml" timestamp="1564495509387">
-        <mark key="[" line="3" column="8" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="E:/Projects/PyEasyRPC/.travis.yml" timestamp="1564539138067">
+        <mark key="[" line="4" column="9" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
         <mark key="^" line="2" column="7" />
+      </file>
+      <file name="E:/Projects/PyEasyRPC/Memurai/memurai.conf" timestamp="1564539331154">
+        <mark key="[" line="91" column="8" />
       </file>
       <file name="E:/Projects/PyEasyRPC/pyeasyrpc/db_connection.py" timestamp="1564468092466">
         <mark key="[" line="24" column="11" />
@@ -85,11 +90,13 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="E:/Projects/PyTexturePacker/.travis.yml" timestamp="1564468905532" />
+      <file name="E:/Projects/PyEasyRPC/start_db.bat" timestamp="1564539308456">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="E:/Projects/PyEasyRPC/test/__init__.py" timestamp="1564469001104">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/redis_object.py" timestamp="1564494872516">
+      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/redis_object.py" timestamp="1564496764355">
         <mark key="[" line="75" column="8" />
         <mark key="]" line="75" column="8" />
         <mark key="." line="75" column="8" />
@@ -108,40 +115,40 @@
     <jumps />
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGRbImludCJdLCAxKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFNlcXVlbmNlRXF1YWwoIHNvcnRlZChkLmtleXMoKSksIHNvcnRlZChkYXRhLmtleXMoKSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkWyJmMSJdCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGRbImludCJdLCAxKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">X3JlZGlzID0gTm9uZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBfcmVkaXM6Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgdiBpbiBkLml0ZW1zKCk6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGdsb2JhbCBfcmVkaXMK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgdiBpbiBkLnZhbHVlcygpOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQoZ2V0X3JlZGlzKCkudGltZSgpKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFNlcXVlbmNlRXF1YWwoc29ydGVkKGQua2V5cygpKSwgc29ydGVkKGRhdGEua2V5cygpKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dGltZS5zbGVlcCgxMCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFNlcXVlbmNlRXF1YWwoc29ydGVkKGRhdGEudmFsdWVzKCkpLCBzb3J0ZWQoZC52YWx1ZXMoKSkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFNlcXVlbmNlRXF1YWwoc29ydGVkKGRhdGEudmFsdWVzKCkpLCBzb3J0ZWQoZC52YWx1ZXMoKSkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGxlbihkKSwgMykK</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;&quot;</text>
+        <text>keys</text>
       </register>
     </registers>
     <search>
@@ -157,6 +164,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
