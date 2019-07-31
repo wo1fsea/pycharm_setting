@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/dict.py" timestamp="1564553875539">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="23" />
-        <mark key="." line="16" column="22" />
+      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/dict.py" timestamp="1564557717781">
+        <mark key="[" line="18" column="35" />
+        <mark key="]" line="18" column="35" />
         <mark key="^" line="16" column="22" />
+        <mark key="." line="18" column="35" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/collections/__init__.pyi" timestamp="1564552655750">
         <mark key="'" line="28" column="25" />
@@ -21,11 +21,6 @@
       <file name="/Python Console" timestamp="1564539476690">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Python37/Lib/site-packages/redis/client.py" timestamp="1564493748840">
-        <mark key="[" line="993" column="45" />
-        <mark key="]" line="993" column="45" />
-        <mark key="." line="993" column="45" />
-      </file>
       <file name="/a.dummy" timestamp="1564495251331">
         <mark key="[" line="0" column="0" />
       </file>
@@ -35,27 +30,23 @@
         <mark key="." line="13" column="6" />
         <mark key="^" line="8" column="3" />
       </file>
-      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/list.py" timestamp="1564552628887">
-        <mark key="[" line="18" column="49" />
-        <mark key="]" line="12" column="53" />
-        <mark key="." line="12" column="0" />
+      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/list.py" timestamp="1564557729560">
+        <mark key="[" line="12" column="37" />
+        <mark key="]" line="12" column="37" />
+        <mark key="." line="12" column="37" />
       </file>
       <file name="E:/Projects/TheChineseRoom/the_chinese_room/core/window_controller/window_controller_win32.py" timestamp="1550841746730">
         <mark key="[" line="32" column="11" />
       </file>
-      <file name="E:/Projects/TheChineseRoom/the_chinese_room/quick_test/agent_g68/agent.py" timestamp="1550904987338">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="E:/Projects/PyEasyRPC/tests/DummyTest.py" timestamp="1564471742274">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/set.py" timestamp="1564554296238">
-        <mark key="[" line="59" column="8" />
-        <mark key="]" line="60" column="12" />
-        <mark key="." line="59" column="0" />
-        <mark key="^" line="58" column="7" />
+      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/set.py" timestamp="1564557816402">
+        <mark key="'" line="179" column="46" />
+        <mark key="[" line="62" column="8" />
+        <mark key="]" line="62" column="8" />
+        <mark key="^" line="18" column="7" />
+        <mark key="." line="62" column="8" />
       </file>
       <file name="E:/Projects/TheChineseRoom/the_chinese_room/agent/agent.py" timestamp="1550892842864">
         <mark key="[" line="86" column="0" />
@@ -63,22 +54,23 @@
         <mark key="." line="86" column="23" />
         <mark key="^" line="86" column="23" />
       </file>
-      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_connection.py" timestamp="1564494768377">
-        <mark key="[" line="16" column="18" />
-        <mark key="]" line="16" column="18" />
-        <mark key="." line="16" column="18" />
-      </file>
       <file name="E:/Projects/TheChineseRoom/the_chinese_room/quick_test_starter.py" timestamp="1550839743915">
         <mark key="[" line="13" column="20" />
       </file>
       <file name="/Dummy.txt" timestamp="1564539070825">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Projects/PyEasyRPC/tests/test_redis_collections/test_dict.py" timestamp="1564553879541">
+      <file name="E:/Projects/PyEasyRPC/tests/test_redis_collections/test_dict.py" timestamp="1564556739809">
+        <mark key="[" line="98" column="27" />
+        <mark key="]" line="98" column="27" />
         <mark key="^" line="16" column="0" />
+        <mark key="." line="98" column="27" />
       </file>
-      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/queue.py" timestamp="1564495047011">
-        <mark key="[" line="19" column="51" />
+      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/queue.py" timestamp="1564557736548">
+        <mark key="[" line="19" column="61" />
+        <mark key="]" line="19" column="61" />
+        <mark key="." line="19" column="61" />
+        <mark key="^" line="19" column="61" />
       </file>
       <file name="E:/Projects/PyEasyRPC/pyeasyrpc/collections/__init__.py" timestamp="1564464643264">
         <mark key="[" line="0" column="0" />
@@ -99,11 +91,6 @@
         <mark key="." line="24" column="11" />
         <mark key="^" line="25" column="17" />
       </file>
-      <file name="E:/Projects/TheChineseRoom/the_chinese_room/quick_test/agent_windows/agent.py" timestamp="1550842198013">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="E:/Projects/PyEasyRPC/pyeasyrpc/rpc_manager.py" timestamp="1564550714208" />
       <file name="E:/Projects/PyEasyRPC/start_db.bat" timestamp="1564539308456">
         <mark key="[" line="0" column="0" />
@@ -111,79 +98,72 @@
       <file name="E:/Projects/PyEasyRPC/test/__init__.py" timestamp="1564469001104">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/redis_object.py" timestamp="1564496764355">
-        <mark key="[" line="75" column="8" />
-        <mark key="]" line="75" column="8" />
-        <mark key="." line="75" column="8" />
+      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/redis_object.py" timestamp="1564557685572">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="17" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="22" column="16" />
       </file>
-      <file name="E:/Projects/TheChineseRoom/the_chinese_room/core/cv/template_matcher.py" timestamp="1550840236923">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-      </file>
-      <file name="E:/Projects/TheChineseRoom/the_chinese_room/core/input_controller/input_controller_pynput.py" timestamp="1550842442702">
-        <mark key="[" line="150" column="0" />
-        <mark key="]" line="150" column="0" />
-        <mark key="." line="150" column="0" />
-      </file>
-      <file name="$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/577466479/builtins.py" timestamp="1564554093935" />
+      <file name="$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/577466479/builtins.py" timestamp="1564555244973" />
     </filemarks>
     <jumps>
       <jump line="82" column="47" filename="$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/collections/__init__.pyi" />
       <jump line="29" column="19" filename="$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/collections/__init__.pyi" />
       <jump line="28" column="25" filename="$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/collections/__init__.pyi" />
+      <jump line="183" column="46" filename="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/set.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>pass</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>pass</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text>Set</text>
+        <text encoding="base64">XDxyZWFsXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCkK</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByYQogICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICBzZXQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByYQo=</text>
+        <text encoding="base64">ICAgICAgICBzZXQK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICIiIiBSZXR1cm4gYSBzaGFsbG93IGNvcHkgb2YgYSBzZXQuICIiIgogICAgICAgIHBhc3M=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgS2V5RXJyb3IoYl9lbGVtZW50KQo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICMgcmVhbCBzaWduYXR1cmUgdW5rbm93bgogICAgICAgICIiIgogICAgICAgIEFkZCBhbiBlbGVtZW50IHRvIGEgc2V0LgoKICAgICAgICBUaGlzIGhhcyBubyBlZmZlY3QgaWYgdGhlIGVsZW1lbnQgaXMgYWxyZWFkeSBwcmVzZW50LgogICAgICAgICIiIgogICAgICAgIHBhc3M=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5fcmVkaXMuc2lzbWVtYmVyKHNlbGYua2V5LCBiX2VsZW1lbnQpOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgVXNlclNldAo=</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJtZXRob2RfbGlzdCI6IFtdLAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9yZWRpcy5kZWxldGUoc2VsZi5rZXkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJtZXRob2RfbmFtZSI6ICIiLAo=</text>
+        <text encoding="base64">ICAgICAgICAiIiIgUmVtb3ZlIGFsbCBlbGVtZW50cyBmcm9tIHRoaXMgc2V0LiAiIiIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJzZXJ2aWNlX2lkcyI6IFtdLAo=</text>
+        <text encoding="base64">ICAgIGRlZiBjbGVhcihzZWxmKToK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFNlcXVlbmNlRXF1YWwoCiAgICAgICAgICAgIG1hcCgKICAgICAgICAgICAgICAgIGxhbWJkYSB4OiAoeFswXSwgdHVwbGUoeFsxXSkgaWYgaXNpbnN0YW5jZSh4WzFdLCBsaXN0KSBlbHNlIHhbMV0pLAogICAgICAgICAgICAgICAgc29ydGVkKGQuaXRlbXMoKSwga2V5PWxhbWJkYSB4OiB4WzBdKQogICAgICAgICAgICApLAogICAgICAgICAgICBtYXAoCiAgICAgICAgICAgICAgICBsYW1iZGEgeDogKHhbMF0sIHR1cGxlKHhbMV0pIGlmIGlzaW5zdGFuY2UoeFsxXSwgbGlzdCkgZWxzZSB4WzFdKSwKICAgICAgICAgICAgICAgIHNvcnRlZChkYXRhLml0ZW1zKCksIGtleT1sYW1iZGEgeDogeFswXSkKICAgICAgICAgICAgKSwKICAgICAgICAp</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>Set</last-search>
+      <last-search encoding="base64">XDxyZWFsXD4=</last-search>
       <last-offset />
-      <last-pattern>Set</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxyZWFsXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>Set</entry>
+        <entry encoding="base64">XDxyZWFsXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -195,6 +175,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
