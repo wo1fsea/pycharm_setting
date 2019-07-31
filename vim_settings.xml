@@ -58,11 +58,11 @@
       <file name="/Dummy.txt" timestamp="1564539070825">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Projects/PyEasyRPC/tests/test_redis_collections/test_dict.py" timestamp="1564540854702">
-        <mark key="[" line="77" column="61" />
-        <mark key="]" line="77" column="61" />
-        <mark key="." line="77" column="61" />
-        <mark key="^" line="77" column="61" />
+      <file name="E:/Projects/PyEasyRPC/tests/test_redis_collections/test_dict.py" timestamp="1564542744033">
+        <mark key="[" line="67" column="7" />
+        <mark key="]" line="66" column="69" />
+        <mark key="." line="66" column="69" />
+        <mark key="^" line="66" column="69" />
       </file>
       <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/queue.py" timestamp="1564495047011">
         <mark key="[" line="19" column="51" />
@@ -115,40 +115,40 @@
     <jumps />
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFNlcXVlbmNlRXF1YWwoIHNvcnRlZChkLmtleXMoKSksIHNvcnRlZChkYXRhLmtleXMoKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGQuc2V0ZGVmYXVsdCgiZm91bmQiLCBOb25lKSwgImZvdW5kIikK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFNlcXVlbmNlRXF1YWwoCiAgICAgICAgICAgIG1hcCgKICAgICAgICAgICAgICAgIGxhbWJkYSB4OiAoeFswXSwgdHVwbGUoeFsxXSkgaWYgaXNpbnN0YW5jZSh4WzFdLCBsaXN0KSBlbHNlIHhbMV0pLAogICAgICAgICAgICAgICAgc29ydGVkKGQuaXRlbXMoKSwga2V5PWxhbWJkYSB4OiB4WzBdKQogICAgICAgICAgICApLAogICAgICAgICAgICBtYXAoCiAgICAgICAgICAgICAgICBsYW1iZGEgeDogKHhbMF0sIHR1cGxlKHhbMV0pIGlmIGlzaW5zdGFuY2UoeFsxXSwgbGlzdCkgZWxzZSB4WzFdKSwKICAgICAgICAgICAgICAgIHNvcnRlZChkYXRhLml0ZW1zKCksIGtleT1sYW1iZGEgeDogeFswXSkKICAgICAgICAgICAgKSwKICAgICAgICAp</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>None</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc29ydGVkKGRhdGEuaXRlbXMoKSwga2V5PWxhbWJkYSB4OiB4WzBdKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgdiBpbiBkLml0ZW1zKCk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFNldEVxdWFsKHNldChkLnZhbHVlcygpKSwgc2V0KGRhdGEudmFsdWVzKCkpKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgdiBpbiBkLnZhbHVlcygpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFNlcXVlbmNlRXF1YWwoc29ydGVkKGQua2V5cygpKSwgc29ydGVkKGRhdGEua2V5cygpKSkK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgdiBpbiBkLml0ZW1zKCk6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFNlcXVlbmNlRXF1YWwoc29ydGVkKGRhdGEudmFsdWVzKCkpLCBzb3J0ZWQoZC52YWx1ZXMoKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFNlcXVlbmNlRXF1YWwoc29ydGVkKGRhdGEudmFsdWVzKCkpLCBzb3J0ZWQoZC52YWx1ZXMoKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgdiBpbiBkLnZhbHVlcygpOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGxlbihkKSwgMykK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFNlcXVlbmNlRXF1YWwoc29ydGVkKGQua2V5cygpKSwgc29ydGVkKGRhdGEua2V5cygpKSkK</text>
       </register>
       <register name="-" type="4">
-        <text>keys</text>
+        <text>None</text>
       </register>
     </registers>
     <search>
