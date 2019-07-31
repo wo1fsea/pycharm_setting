@@ -3,13 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/dict.py" timestamp="1564495002100">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="53" />
-        <mark key="." line="12" column="0" />
+      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/dict.py" timestamp="1564552606211">
+        <mark key="[" line="25" column="14" />
+        <mark key="]" line="25" column="15" />
+        <mark key="." line="25" column="15" />
       </file>
-      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/rpc_data.py" timestamp="1564550720293">
-        <mark key="[" line="0" column="0" />
+      <file name="$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/collections/__init__.pyi" timestamp="1564552655750">
+        <mark key="'" line="28" column="25" />
+      </file>
+      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/rpc_data.py" timestamp="1564552351823">
+        <mark key="[" line="41" column="4" />
+        <mark key="]" line="41" column="35" />
+        <mark key="^" line="40" column="3" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="/Python Console" timestamp="1564539476690">
         <mark key="[" line="0" column="0" />
@@ -28,7 +34,7 @@
         <mark key="." line="13" column="6" />
         <mark key="^" line="8" column="3" />
       </file>
-      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/list.py" timestamp="1564498129675">
+      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/list.py" timestamp="1564552628887">
         <mark key="[" line="18" column="49" />
         <mark key="]" line="12" column="53" />
         <mark key="." line="12" column="0" />
@@ -43,6 +49,11 @@
       </file>
       <file name="E:/Projects/PyEasyRPC/tests/DummyTest.py" timestamp="1564471742274">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/set.py" timestamp="1564553090984">
+        <mark key="[" line="14" column="24" />
+        <mark key="]" line="14" column="24" />
+        <mark key="." line="14" column="24" />
       </file>
       <file name="E:/Projects/TheChineseRoom/the_chinese_room/agent/agent.py" timestamp="1550892842864">
         <mark key="[" line="86" column="0" />
@@ -117,51 +128,63 @@
         <mark key="." line="150" column="0" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="82" column="47" filename="$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/collections/__init__.pyi" />
+      <jump line="29" column="19" filename="$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/collections/__init__.pyi" />
+      <jump line="28" column="25" filename="$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/collections/__init__.pyi" />
+    </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGQuc2V0ZGVmYXVsdCgiZm91bmQiLCBOb25lKSwgImZvdW5kIikK</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICJtZXRob2RfbGlzdCI6IFtdLAo=</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJtZXRob2RfbGlzdCI6IFtdLAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICJtZXRob2RfbmFtZSI6ICIiLAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICJzZXJ2aWNlX2lkcyI6IFtdLAo=</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFNlcXVlbmNlRXF1YWwoCiAgICAgICAgICAgIG1hcCgKICAgICAgICAgICAgICAgIGxhbWJkYSB4OiAoeFswXSwgdHVwbGUoeFsxXSkgaWYgaXNpbnN0YW5jZSh4WzFdLCBsaXN0KSBlbHNlIHhbMV0pLAogICAgICAgICAgICAgICAgc29ydGVkKGQuaXRlbXMoKSwga2V5PWxhbWJkYSB4OiB4WzBdKQogICAgICAgICAgICApLAogICAgICAgICAgICBtYXAoCiAgICAgICAgICAgICAgICBsYW1iZGEgeDogKHhbMF0sIHR1cGxlKHhbMV0pIGlmIGlzaW5zdGFuY2UoeFsxXSwgbGlzdCkgZWxzZSB4WzFdKSwKICAgICAgICAgICAgICAgIHNvcnRlZChkYXRhLml0ZW1zKCksIGtleT1sYW1iZGEgeDogeFswXSkKICAgICAgICAgICAgKSwKICAgICAgICAp</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc29ydGVkKGRhdGEuaXRlbXMoKSwga2V5PWxhbWJkYSB4OiB4WzBdKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFNldEVxdWFsKHNldChkLnZhbHVlcygpKSwgc2V0KGRhdGEudmFsdWVzKCkpKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgdiBpbiBkLml0ZW1zKCk6Cg==</text>
+      <register name="&quot;" type="4">
+        <text>UserList</text>
       </register>
       <register name="-" type="4">
-        <text>None</text>
+        <text>UserList</text>
+      </register>
+      <register name="/" type="4">
+        <text>Set</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICJsYXN0X2NhbGxfcmVxdWlyZV90aW1lIjogTm9uZSwK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgVXNlclNldAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICJtZXRob2RfbGlzdCI6IFtdLAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICJtZXRob2RfbmFtZSI6ICIiLAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICJzZXJ2aWNlX2lkcyI6IFtdLAo=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFNlcXVlbmNlRXF1YWwoCiAgICAgICAgICAgIG1hcCgKICAgICAgICAgICAgICAgIGxhbWJkYSB4OiAoeFswXSwgdHVwbGUoeFsxXSkgaWYgaXNpbnN0YW5jZSh4WzFdLCBsaXN0KSBlbHNlIHhbMV0pLAogICAgICAgICAgICAgICAgc29ydGVkKGQuaXRlbXMoKSwga2V5PWxhbWJkYSB4OiB4WzBdKQogICAgICAgICAgICApLAogICAgICAgICAgICBtYXAoCiAgICAgICAgICAgICAgICBsYW1iZGEgeDogKHhbMF0sIHR1cGxlKHhbMV0pIGlmIGlzaW5zdGFuY2UoeFsxXSwgbGlzdCkgZWxzZSB4WzFdKSwKICAgICAgICAgICAgICAgIHNvcnRlZChkYXRhLml0ZW1zKCksIGtleT1sYW1iZGEgeDogeFswXSkKICAgICAgICAgICAgKSwKICAgICAgICAp</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc29ydGVkKGRhdGEuaXRlbXMoKSwga2V5PWxhbWJkYSB4OiB4WzBdKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFNldEVxdWFsKHNldChkLnZhbHVlcygpKSwgc2V0KGRhdGEudmFsdWVzKCkpKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>Set</last-search>
+      <last-offset />
+      <last-pattern>Set</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>Set</entry>
+      </history-search>
       <history-cmd />
       <history-expr />
       <history-input />
