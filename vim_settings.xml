@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/dict.py" timestamp="1564552606211">
-        <mark key="[" line="25" column="14" />
-        <mark key="]" line="25" column="15" />
-        <mark key="." line="25" column="15" />
+      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/dict.py" timestamp="1564553875539">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="23" />
+        <mark key="." line="16" column="22" />
+        <mark key="^" line="16" column="22" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/collections/__init__.pyi" timestamp="1564552655750">
         <mark key="'" line="28" column="25" />
@@ -50,10 +51,11 @@
       <file name="E:/Projects/PyEasyRPC/tests/DummyTest.py" timestamp="1564471742274">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/set.py" timestamp="1564553090984">
-        <mark key="[" line="14" column="24" />
-        <mark key="]" line="14" column="24" />
-        <mark key="." line="14" column="24" />
+      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/set.py" timestamp="1564554296238">
+        <mark key="[" line="59" column="8" />
+        <mark key="]" line="60" column="12" />
+        <mark key="." line="59" column="0" />
+        <mark key="^" line="58" column="7" />
       </file>
       <file name="E:/Projects/TheChineseRoom/the_chinese_room/agent/agent.py" timestamp="1550892842864">
         <mark key="[" line="86" column="0" />
@@ -72,11 +74,8 @@
       <file name="/Dummy.txt" timestamp="1564539070825">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Projects/PyEasyRPC/tests/test_redis_collections/test_dict.py" timestamp="1564542744033">
-        <mark key="[" line="67" column="7" />
-        <mark key="]" line="66" column="69" />
-        <mark key="." line="66" column="69" />
-        <mark key="^" line="66" column="69" />
+      <file name="E:/Projects/PyEasyRPC/tests/test_redis_collections/test_dict.py" timestamp="1564553879541">
+        <mark key="^" line="16" column="0" />
       </file>
       <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/queue.py" timestamp="1564495047011">
         <mark key="[" line="19" column="51" />
@@ -127,6 +126,7 @@
         <mark key="]" line="150" column="0" />
         <mark key="." line="150" column="0" />
       </file>
+      <file name="$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/577466479/builtins.py" timestamp="1564554093935" />
     </filemarks>
     <jumps>
       <jump line="82" column="47" filename="$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/collections/__init__.pyi" />
@@ -135,43 +135,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>UserList</text>
+        <text>pass</text>
       </register>
       <register name="-" type="4">
-        <text>UserList</text>
+        <text>pass</text>
       </register>
       <register name="/" type="4">
         <text>Set</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJsYXN0X2NhbGxfcmVxdWlyZV90aW1lIjogTm9uZSwK</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgVXNlclNldAo=</text>
+        <text encoding="base64">ICAgICAgICByYQogICAgICAgIHBhc3MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJtZXRob2RfbGlzdCI6IFtdLAo=</text>
+        <text encoding="base64">ICAgICAgICByYQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICJtZXRob2RfbmFtZSI6ICIiLAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICIiIiBSZXR1cm4gYSBzaGFsbG93IGNvcHkgb2YgYSBzZXQuICIiIgogICAgICAgIHBhc3M=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICJzZXJ2aWNlX2lkcyI6IFtdLAo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICMgcmVhbCBzaWduYXR1cmUgdW5rbm93bgogICAgICAgICIiIgogICAgICAgIEFkZCBhbiBlbGVtZW50IHRvIGEgc2V0LgoKICAgICAgICBUaGlzIGhhcyBubyBlZmZlY3QgaWYgdGhlIGVsZW1lbnQgaXMgYWxyZWFkeSBwcmVzZW50LgogICAgICAgICIiIgogICAgICAgIHBhc3M=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFNlcXVlbmNlRXF1YWwoCiAgICAgICAgICAgIG1hcCgKICAgICAgICAgICAgICAgIGxhbWJkYSB4OiAoeFswXSwgdHVwbGUoeFsxXSkgaWYgaXNpbnN0YW5jZSh4WzFdLCBsaXN0KSBlbHNlIHhbMV0pLAogICAgICAgICAgICAgICAgc29ydGVkKGQuaXRlbXMoKSwga2V5PWxhbWJkYSB4OiB4WzBdKQogICAgICAgICAgICApLAogICAgICAgICAgICBtYXAoCiAgICAgICAgICAgICAgICBsYW1iZGEgeDogKHhbMF0sIHR1cGxlKHhbMV0pIGlmIGlzaW5zdGFuY2UoeFsxXSwgbGlzdCkgZWxzZSB4WzFdKSwKICAgICAgICAgICAgICAgIHNvcnRlZChkYXRhLml0ZW1zKCksIGtleT1sYW1iZGEgeDogeFswXSkKICAgICAgICAgICAgKSwKICAgICAgICAp</text>
+      <register name="5" type="2">
+        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgVXNlclNldAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc29ydGVkKGRhdGEuaXRlbXMoKSwga2V5PWxhbWJkYSB4OiB4WzBdKQo=</text>
+        <text encoding="base64">ICAgICJtZXRob2RfbGlzdCI6IFtdLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFNldEVxdWFsKHNldChkLnZhbHVlcygpKSwgc2V0KGRhdGEudmFsdWVzKCkpKQo=</text>
+        <text encoding="base64">ICAgICJtZXRob2RfbmFtZSI6ICIiLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICJzZXJ2aWNlX2lkcyI6IFtdLAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFNlcXVlbmNlRXF1YWwoCiAgICAgICAgICAgIG1hcCgKICAgICAgICAgICAgICAgIGxhbWJkYSB4OiAoeFswXSwgdHVwbGUoeFsxXSkgaWYgaXNpbnN0YW5jZSh4WzFdLCBsaXN0KSBlbHNlIHhbMV0pLAogICAgICAgICAgICAgICAgc29ydGVkKGQuaXRlbXMoKSwga2V5PWxhbWJkYSB4OiB4WzBdKQogICAgICAgICAgICApLAogICAgICAgICAgICBtYXAoCiAgICAgICAgICAgICAgICBsYW1iZGEgeDogKHhbMF0sIHR1cGxlKHhbMV0pIGlmIGlzaW5zdGFuY2UoeFsxXSwgbGlzdCkgZWxzZSB4WzFdKSwKICAgICAgICAgICAgICAgIHNvcnRlZChkYXRhLml0ZW1zKCksIGtleT1sYW1iZGEgeDogeFswXSkKICAgICAgICAgICAgKSwKICAgICAgICAp</text>
       </register>
     </registers>
     <search>
