@@ -42,6 +42,12 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/output/output.py" timestamp="1508081577260">
         <mark key="[" line="3" column="4" />
       </file>
+      <file name="D:/GITHUB/PyEaseRPC/pyeasyrpc/redis_collections/set.py" timestamp="1564581635734">
+        <mark key="[" line="21" column="19" />
+        <mark key="]" line="21" column="17" />
+        <mark key="." line="21" column="17" />
+        <mark key="^" line="21" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/frame_grabber/__init__.py" timestamp="1515252648015">
         <mark key="[" line="0" column="0" />
       </file>
@@ -218,6 +224,12 @@
       <file name="D:/GITHUB/TheChineseRoom/ocr_test.py" timestamp="1518279755979">
         <mark key="[" line="15" column="14" />
       </file>
+      <file name="D:/GITHUB/PyEaseRPC/pyeasyrpc/redis_collections/redis_object.py" timestamp="1564581437945">
+        <mark key="[" line="57" column="15" />
+        <mark key="]" line="57" column="15" />
+        <mark key="." line="57" column="15" />
+        <mark key="^" line="27" column="14" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/PyOCRSeq2Seq/ocr_seq2seq/utils.py" timestamp="1524239615468">
         <mark key="[" line="174" column="4" />
       </file>
@@ -225,6 +237,11 @@
         <mark key="[" line="19" column="24" />
         <mark key="]" line="19" column="39" />
         <mark key="." line="19" column="39" />
+      </file>
+      <file name="D:/GITHUB/PyEaseRPC/pyeasyrpc/redis_collections/dict.py" timestamp="1564581605849">
+        <mark key="[" line="77" column="7" />
+        <mark key="]" line="77" column="8" />
+        <mark key="." line="77" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_manager/__init__.py" timestamp="1507134074779">
         <mark key="[" line="0" column="0" />
@@ -360,19 +377,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text># -*- coding: utf-8 -*-
-&quot;&quot;&quot;----------------------------------------------------------------------------
-Author:
-	Huang Quanyong
-	gzhuangquanyong@corp.netease.com
-Date:
-	2019/7/29
-Description:
-	__init__
-----------------------------------------------------------------------------&quot;&quot;&quot;</text>
+        <text encoding="base64">IHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IoKQ==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;-fsanitize=leak&quot;</text>
+        <text encoding="base64">IHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IoKQ==</text>
       </register>
       <register name="/" type="4">
         <text>Scale</text>
