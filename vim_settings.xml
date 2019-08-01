@@ -41,12 +41,11 @@
       <file name="E:/Projects/PyEasyRPC/tests/DummyTest.py" timestamp="1564471742274">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/set.py" timestamp="1564557816402">
-        <mark key="'" line="179" column="46" />
-        <mark key="[" line="62" column="8" />
-        <mark key="]" line="62" column="8" />
-        <mark key="^" line="18" column="7" />
-        <mark key="." line="62" column="8" />
+      <file name="E:/Projects/PyEasyRPC/tests/test_redis_collections/test_set.py" timestamp="1564624811524">
+        <mark key="[" line="63" column="14" />
+        <mark key="]" line="63" column="14" />
+        <mark key="." line="63" column="14" />
+        <mark key="^" line="59" column="20" />
       </file>
       <file name="E:/Projects/TheChineseRoom/the_chinese_room/agent/agent.py" timestamp="1550892842864">
         <mark key="[" line="86" column="0" />
@@ -60,11 +59,11 @@
       <file name="/Dummy.txt" timestamp="1564539070825">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Projects/PyEasyRPC/tests/test_redis_collections/test_dict.py" timestamp="1564556739809">
-        <mark key="[" line="98" column="27" />
-        <mark key="]" line="98" column="27" />
+      <file name="E:/Projects/PyEasyRPC/tests/test_redis_collections/test_dict.py" timestamp="1564624267326">
+        <mark key="[" line="28" column="23" />
+        <mark key="]" line="103" column="27" />
         <mark key="^" line="16" column="0" />
-        <mark key="." line="98" column="27" />
+        <mark key="." line="103" column="27" />
       </file>
       <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/queue.py" timestamp="1564557736548">
         <mark key="[" line="19" column="61" />
@@ -81,7 +80,6 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="2" column="7" />
       </file>
-      <file name="E:/Projects/TheOldChineseRoom/core/communication/rpc.py" timestamp="1564550641715" />
       <file name="E:/Projects/PyEasyRPC/Memurai/memurai.conf" timestamp="1564539331154">
         <mark key="[" line="91" column="8" />
       </file>
@@ -91,20 +89,12 @@
         <mark key="." line="24" column="11" />
         <mark key="^" line="25" column="17" />
       </file>
-      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/rpc_manager.py" timestamp="1564550714208" />
       <file name="E:/Projects/PyEasyRPC/start_db.bat" timestamp="1564539308456">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Projects/PyEasyRPC/test/__init__.py" timestamp="1564469001104">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/redis_object.py" timestamp="1564557685572">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="17" />
-        <mark key="." line="56" column="0" />
-        <mark key="^" line="22" column="16" />
-      </file>
-      <file name="$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/577466479/builtins.py" timestamp="1564555244973" />
     </filemarks>
     <jumps>
       <jump line="82" column="47" filename="$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/collections/__init__.pyi" />
@@ -114,10 +104,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>remove</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>remove</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWFsXD4=</text>
@@ -126,31 +116,31 @@
         <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZXQK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKCJub3QgZm91bmQiIGluIHMsIEZhbHNlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgS2V5RXJyb3IoYl9lbGVtZW50KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5fcmVkaXMuc2lzbWVtYmVyKHNlbGYua2V5LCBiX2VsZW1lbnQpOgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGxlbihkKSwgNikK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCkK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICBkWyJkaWN0Il0gPSBkYXRhWyJkaWN0Il0KICAgICAgICBkWyJsaXN0Il0gPSBkYXRhWyJsaXN0Il0KICAgICAgICBkWyJ0dXBsZSJdID0gZGF0YVsidHVwbGUiXQ==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9yZWRpcy5kZWxldGUoc2VsZi5rZXkpCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAgZFsiaW50Il0gPSBkYXRhWyJpbnQiXQogICAgICAgIGRbImZsb2F0Il0gPSBkYXRhWyJmbG9hdCJdCiAgICAgICAgZFsic3RyaW5nIl0gPSBkYXRhWyJzdHJpbmciXQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIgUmVtb3ZlIGFsbCBlbGVtZW50cyBmcm9tIHRoaXMgc2V0LiAiIiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAidHVwbGUiOiAoMCwgIjEiLCAyLjAsIDMpLAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBjbGVhcihzZWxmKToK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICJpbnQiOiAxLAogICAgICAgICAgICAiZmxvYXQiOiAxLjEsCiAgICAgICAgICAgICJzdHJpbmciOiAic3RyaW5nIiwKICAgICAgICAgICAgImRpY3QiOiB7ImludCI6IDEsICJmbG9hdCI6IDEuMSwgInN0cmluZyI6ICJzdHJpbmcifSwKICAgICAgICAgICAgImxpc3QiOiBbMCwgIjEiLCAyLjAsIDNdLAogICAgICAgICA=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiMgLSotIGNvZGluZzogdXRmLTggLSotCiIiIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KQXV0aG9yOgogICAgSHVhbmcgUXVhbnlvbmcgKHdvMWZTZWEpCiAgICBxdWFueW9uZ2hAZm94bWFpbC5jb20KRGF0ZToKICAgIDIwMTkvNy8zMApEZXNjcmlwdGlvbjoKICAgIHRlc3RfZGljdC5weQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIiIi</text>
       </register>
     </registers>
     <search>
