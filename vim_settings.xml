@@ -6,25 +6,13 @@
       <file name="/start_script.py" timestamp="1483538622308">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/quick_test/agent/agent.py" timestamp="1549450418807">
-        <mark key="[" line="22" column="53" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="20" column="59" />
-        <mark key="." line="23" column="0" />
-      </file>
       <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/ocr_seq2seq.py" timestamp="1518534145272">
         <mark key="[" line="24" column="105" />
       </file>
       <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/core/input_controller/input_controller.py" timestamp="1549445747141">
         <mark key="[" line="29" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/quick_test/first_auto_test_darwin.py" timestamp="1549446973669">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="69" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="40" column="109" />
-      </file>
-      <file name="D:/GITHUB/PyEaseRPC/requirements.txt" timestamp="1564582477767">
+      <file name="D:/GITHUB/PyEaseRPC/requirements.txt" timestamp="1564761439109">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -46,12 +34,6 @@
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/output/output.py" timestamp="1508081577260">
         <mark key="[" line="3" column="4" />
-      </file>
-      <file name="D:/GITHUB/PyEaseRPC/pyeasyrpc/redis_collections/set.py" timestamp="1564587678512">
-        <mark key="[" line="22" column="8" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="22" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/frame_grabber/__init__.py" timestamp="1515252648015">
         <mark key="[" line="0" column="0" />
@@ -88,12 +70,6 @@
       </file>
       <file name="E:/TensorFlow/test/mnist_softmax.py" timestamp="1497161628164">
         <mark key="[" line="50" column="3" />
-      </file>
-      <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/quick_test/agent/__init__.py" timestamp="1549450252851">
-        <mark key="[" line="9" column="79" />
-        <mark key="]" line="6" column="11" />
-        <mark key="^" line="6" column="11" />
-        <mark key="." line="6" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/communication/__init__.py" timestamp="1507212401116">
         <mark key="[" line="0" column="0" />
@@ -146,7 +122,7 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/communication/redis_object.py" timestamp="1515336256148">
         <mark key="[" line="68" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1560354307448">
+      <file name="/Python Console" timestamp="1564762005047">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1518195946074">
@@ -172,20 +148,14 @@
       <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/quick_test/input_recorder.py" timestamp="1547910394838">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/agent/__init__.py" timestamp="1549447847241">
-        <mark key="[" line="9" column="79" />
-        <mark key="]" line="9" column="11" />
-        <mark key="^" line="9" column="11" />
-        <mark key="." line="9" column="11" />
-      </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Image.py" timestamp="1475379944934">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/utils/__init__.py" timestamp="1547828471946">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/PyEaseRPC/tests/test_redis_collections/test_dict.py" timestamp="1564588002019">
-        <mark key="[" line="24" column="8" />
+      <file name="D:/GITHUB/PyEaseRPC/tests/test_redis_collections/test_dict.py" timestamp="1564761780620">
+        <mark key="[" line="113" column="0" />
         <mark key="]" line="24" column="8" />
         <mark key="." line="24" column="8" />
       </file>
@@ -204,13 +174,13 @@
       <file name="$USER_HOME$/Projects/TheChineseRoom/requirements.txt" timestamp="1549450558431">
         <mark key="[" line="4" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564586375037">
+      <file name="/Dummy.txt" timestamp="1564761041811">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/PyEaseRPC/pyeasyrpc/rpc_manager.py" timestamp="1564584258298">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="32" />
-        <mark key="." line="12" column="0" />
+      <file name="D:/GITHUB/PyEaseRPC/pyeasyrpc/rpc_manager.py" timestamp="1564762172379">
+        <mark key="[" line="141" column="32" />
+        <mark key="]" line="139" column="51" />
+        <mark key="." line="139" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/output/keys.py" timestamp="1508081272612">
         <mark key="[" line="16" column="4" />
@@ -254,7 +224,7 @@
         <mark key="]" line="19" column="39" />
         <mark key="." line="19" column="39" />
       </file>
-      <file name="D:/GITHUB/PyEaseRPC/pyeasyrpc/redis_collections/dict.py" timestamp="1564581605849">
+      <file name="D:/GITHUB/PyEaseRPC/pyeasyrpc/redis_collections/dict.py" timestamp="1564760396421">
         <mark key="[" line="77" column="7" />
         <mark key="]" line="77" column="8" />
         <mark key="." line="77" column="8" />
@@ -279,11 +249,15 @@
       <file name="$USER_HOME$/Documents/GitHub/PyOCRSeq2Seq/clipboard_ocr.py" timestamp="1524239397798">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/PyEaseRPC/pyeasyrpc/redis_connection.py" timestamp="1564587515836" />
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_controller/window_controller.py" timestamp="1515261905372">
         <mark key="[" line="46" column="8" />
       </file>
-      <file name="C:/Program Files/Python36/Lib/unittest/runner.py" timestamp="1564582953398" />
+      <file name="D:/GITHUB/PyEaseRPC/tests/test_redis_manager.py" timestamp="1564761909155">
+        <mark key="[" line="21" column="24" />
+        <mark key="]" line="21" column="24" />
+        <mark key="^" line="50" column="101" />
+        <mark key="." line="21" column="24" />
+      </file>
       <file name="D:/GITHUB/PykerStars/pykerstars/utils/_poker_enum2.py" timestamp="1497540869769">
         <mark key="[" line="0" column="14" />
       </file>
@@ -399,44 +373,44 @@
       <jump line="109" column="44" filename="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/agent/agent.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>__base_test</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZXJ2aWNlX2luc3RhbmNlX2xpc3QuZGlzY2FyZChzZXJ2aWNlX3V1aWQpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>__base_test</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>Scale</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi51bmlvbihvdGhlcikK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHNlcnZpY2VfdXVpZCwgc2VsZi5fcnBjX21hbmFnZXIuZ2V0X3NlcnZpY2VfaW5zdGFuY2VfbG93X2xvc3Moc2VydmljZV9uYW1lMCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE8K</text>
+        <text encoding="base64">ICAgICAgICBzZXJ2aWNlX2luc3RhbmNlX2xpc3QuZGlzY2FyZChzZXJ2aWNlX3V1aWQpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9ycGNfbWFuYWdlci5nZXQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJ0ZXN0X21ldGhvZDQiLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCkK</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG90aGVyLmRpZmZlcmVuY2Uoc2VsZikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG90aGVyLmRpZmZlcmVuY2Uoc2VsZi5kYXRhKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDogMCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">aWYgaXNpbnN0YW5jZShvdGhlciwgU2V0KToKICAgICAgICAgICAgb3RoZXIgPSBvdGhlci5kYXRhCiAgICAgICAgcmV0dXJuIHNlbGYuZGF0YSA+IG90aGVy</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuYWRkKGVsZW1lbnQpCg==</text>
+        <text encoding="base64">ICAgIGFzeW5jIGRlZiBhc3luY19jYWxsX21ldGhvZF9ieV9zZXJ2aWNlX3V1aWQoc2VsZiwgc2VydmljZV9uYW1lLCBzZXJ2aWNlX2luc3RhbmNlLCBtZXRob2RfbmFtZSwgYXJncywga3dhcmdzKToK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
@@ -507,6 +481,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
