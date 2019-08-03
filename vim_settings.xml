@@ -124,11 +124,11 @@
       <file name="$USER_HOME$/Projects/TheChineseRoom/requirements.txt" timestamp="1549450558431">
         <mark key="[" line="4" column="14" />
       </file>
-      <file name="D:/GITHUB/PyEaseRPC/pyeasyrpc/rpc_manager.py" timestamp="1564846034307">
-        <mark key="[" line="256" column="12" />
-        <mark key="]" line="256" column="41" />
-        <mark key="." line="256" column="0" />
-        <mark key="^" line="255" column="40" />
+      <file name="D:/GITHUB/PyEaseRPC/pyeasyrpc/rpc_manager.py" timestamp="1564848847011">
+        <mark key="[" line="120" column="9" />
+        <mark key="]" line="283" column="0" />
+        <mark key="." line="283" column="0" />
+        <mark key="^" line="284" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/core/cv/ocr/ocr_tesserocr.py" timestamp="1549442334455">
         <mark key="[" line="0" column="0" />
@@ -367,10 +367,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInNlcnZpY2VfbmFtZSI6IHNlcnZpY2VfbmFtZSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>timeout</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWFsXD4=</text>
@@ -382,33 +382,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRlc3QgczIK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm5fbWFpbGJveC5zdWJzY3JpYmUoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHMyLCBkYXRhKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm5fbWFpbGJveCA9IE1haWxib3gocmV0dXJuX21haWxib3hfY2hhbm5lbCwgdXJsPXNlbGYuX3JlZGlzX3VybCwgcGFja2VyPXNlbGYuX2RhdGFfcGFja2VyKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeyJpbnQiOiAxLCAiZmxvYXQiOiAyLiwgInN0cmluZyI6ICJzdHJpbmcifSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBycGNfZGF0YQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWzAsICIxIiwgMi4wLCAzXSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgcnBjX2RhdGEgYW5kIHJwY19kYXRhWyJycGNfdXVpZCJdID09IHJwY191dWlkOgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHMyLCBkLmRhdGEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBOb25lCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>elf.assertEqual(d2[&quot;int&quot;], data[&quot;int&quot;])
-        self.assertEqual(d2[&quot;float&quot;], data[&quot;float&quot;])
-        self.assertEqual(d2[&quot;string&quot;], data[&quot;string&quot;])
-        self.assertEqual(d2[&quot;dict&quot;], data[&quot;dict&quot;])
-        self.assertSequenceEqual(d2[&quot;list&quot;], data[&quot;list&quot;])
-        self.assertSequenceEqual(d2[&quot;tuple&quot;], data[&quot;tuple&quot;])</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChkLmdldCgibm90IGZvdW5kIiksIE5vbmUpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChkLmdldCgibm90IGZvdW5kIiwgTm9uZSksIE5vbmUpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChkLmdldCgibm90IGZvdW5kIiwgMSksIDEpCgogICAgICAgIGRbImZvdW5kIl0gPSAiZm91bmQiCgogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoImZvdW5kIiBpbiBkLCBUcnVlKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoImZvdW5kIiBub3QgaW4gZCwgRmFsc2UpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChkLmdldCgiZm91bmQiKSwgImZvdW5kIikKCiAgICAgICAgIyB0ZXN0IHNldGRlZmF1bHQKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGQuc2V0ZGVmYXVsdCgiZm91bmQiLCBOb25lKSwgImZvdW5kIikKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGQuc2V0ZGVmYXVsdCgibm90IGZvdW5kIiwgIm5vdCBmb3VuZCIpLCAibm90IGZvdW5kIikKCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChkLmdldCgibm90IGZvdW5kIiksICJub3QgZm91bmQiKQoKICAgICAgICBkZWwgZFsibm90IGZvdW5kIl0KICAgICAgICBkZWwgZFsiZm91bmQiXQoKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKCJmb3VuZCIgaW4gZCwgRmFsc2UpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbCgiZm91bmQiIG5vdCBpbiBkLCBUcnVlKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoZC5nZXQoImZvdW5kIiksIE5vbmUpCgogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoZFsiaW50Il0sIGRhdGFbImludCJdKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoZFsiZmxvYXQiXSwgZGF0YVsiZmxvYXQiXSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGRbInN0cmluZyJdLCBkYXRhWyJzdHJpbmciXSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGRbImRpY3QiXSwgZGF0YVsiZGljdCJdKQogICAgICAgIHNlbGYuYXNzZXJ0U2VxdWVuY2VFcXVhbChkWyJsaXN0Il0sIGRhdGFbImxpc3QiXSkKICAgICAgICBzZWxmLmFzc2VydFNlcXVlbmNlRXF1YWwoZFsidHVwbGUiXSwgZGF0YVsidHVwbGUiXSkKCiAgICAgICAgIyB0ZXN0IGtleXMKICAgICAgICBzZWxmLmFzc2VydFNlcXVlbmNlRXF1YWwoc29ydGVkKGQua2V5cygpKSwgc29ydGVkKGRhdGEua2V5cygpKSkKICAgICAgICAjIHRlc3QgaXRlcgogICAgICAgIHNlbGYuYXNzZXJ0U2VxdWVuY2VFcXVhbChzb3J0ZWQoZCksIHNvcnRlZChkYXRhLmtleXMoKSkpCiAgICAgICAgIyBUT0RPOiB0ZXN0IHZhbHVlcwogICAgICAgICMgVE9ETzogdGVzdCBpdGVtcwoKICAgICAgICAjIHRlc3QgcmVkaXMgdHlwZQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoZC5SZWRpc19UeXBlLCBkLmdldF90eXBlKCkpCg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
