@@ -181,11 +181,11 @@
       <file name="/Dummy.txt" timestamp="1564843696580">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/PyEaseRPC/pyeasyrpc/rpc_manager.py" timestamp="1564844179225">
-        <mark key="[" line="273" column="11" />
-        <mark key="]" line="272" column="51" />
-        <mark key="." line="272" column="0" />
-        <mark key="^" line="270" column="46" />
+      <file name="D:/GITHUB/PyEaseRPC/pyeasyrpc/rpc_manager.py" timestamp="1564845416714">
+        <mark key="[" line="285" column="0" />
+        <mark key="]" line="285" column="0" />
+        <mark key="." line="285" column="0" />
+        <mark key="^" line="285" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/output/keys.py" timestamp="1508081272612">
         <mark key="[" line="16" column="4" />
@@ -379,10 +379,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBycGNfZGF0YSA9IHJldHVybl9tYWlsYm94LmdldF9tZXNzYWdlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>None</text>
+        <text>method_name</text>
       </register>
       <register name="/" type="4">
         <text>Scale</text>
@@ -391,32 +391,31 @@
         <text encoding="base64">ICAgICAgICBycGNfZGF0YSA9IHJldHVybl9tYWlsYm94LmdldF9tZXNzYWdlKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtYWlsYm94ID0gTWFpbGJveChyZXF1ZXN0X21haWxib3gpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSAuIGltcG9ydCByZWRpc19jb25uZWN0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NhbF90aW1lID0gCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNldAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvY2FsX3RpbWUgPSB0aW1lLnRpbWUoKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBibG9ja19jYWxsX21ldGhvZChzZWxmLCBzZXJ2aWNlX25hbWUsIHNlcnZpY2VfdXVpZCwgcmV0dXJuX21haWxib3hfY2hhbm5lbCwgbWV0aG9kX25hbWUsIGFyZ3MsIGt3YXJncyk6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NhbF90aW1lID0gdGltZS50aW1lKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>)
-        redis_time = float(&quot;%d.%d&quot; % self.</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcnBjX2RhdGEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZWx0YV90aW1lID0gc2VsZi5fZGVsdGFfdGltZS5nZXQoc2VsZi5fcmVkaXMsIE5vbmUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiB0aW1lKHNlbGYpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE5vbmUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
