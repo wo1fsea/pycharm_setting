@@ -124,11 +124,11 @@
       <file name="$USER_HOME$/Projects/TheChineseRoom/requirements.txt" timestamp="1549450558431">
         <mark key="[" line="4" column="14" />
       </file>
-      <file name="D:/GITHUB/PyEaseRPC/pyeasyrpc/rpc_manager.py" timestamp="1564848847011">
-        <mark key="[" line="120" column="9" />
-        <mark key="]" line="283" column="0" />
-        <mark key="." line="283" column="0" />
-        <mark key="^" line="284" column="33" />
+      <file name="D:/GITHUB/PyEaseRPC/pyeasyrpc/rpc_manager.py" timestamp="1564849735127">
+        <mark key="[" line="315" column="20" />
+        <mark key="]" line="315" column="20" />
+        <mark key="." line="315" column="20" />
+        <mark key="^" line="301" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/core/cv/ocr/ocr_tesserocr.py" timestamp="1549442334455">
         <mark key="[" line="0" column="0" />
@@ -294,7 +294,7 @@
       <file name="D:/GITHUB/PykerStars/pykerstars/player.py" timestamp="1497455696289">
         <mark key="[" line="12" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564626616427">
+      <file name="/Dummy.txt" timestamp="1564849728833">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/output/keys.py" timestamp="1508081272612">
@@ -366,8 +366,13 @@
       <jump line="183" column="46" filename="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/set.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>service_instance = self.get_service_instance(
+                        service_name,
+                        service_uuid
+                    )
+                    if service_instance.exists:
+                        service_instance.increase_by(&quot;total_require&quot;, 1)</text>
       </register>
       <register name="-" type="4">
         <text>timeout</text>
@@ -376,34 +381,39 @@
         <text encoding="base64">XDxyZWFsXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInNlcnZpY2VfbmFtZSI6IHNlcnZpY2VfbmFtZSwK</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZXJ2aWNlX2luc3RhbmNlLmV4aXN0czoK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>service_instance = self.get_service_instance(
+                        service_name,
+                        service_uuid
+                    )
+                    if service_instance.exists:
+                        service_instance.increase_by(&quot;total_require&quot;, 1)</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm5fbWFpbGJveC5zdWJzY3JpYmUoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm5fbWFpbGJveCA9IE1haWxib3gocmV0dXJuX21haWxib3hfY2hhbm5lbCwgdXJsPXNlbGYuX3JlZGlzX3VybCwgcGFja2VyPXNlbGYuX2RhdGFfcGFja2VyKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm5fbWFpbGJveC5zdWJzY3JpYmUoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBycGNfZGF0YQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm5fbWFpbGJveCA9IE1haWxib3gocmV0dXJuX21haWxib3hfY2hhbm5lbCwgdXJsPXNlbGYuX3JlZGlzX3VybCwgcGFja2VyPXNlbGYuX2RhdGFfcGFja2VyKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgcnBjX2RhdGEgYW5kIHJwY19kYXRhWyJycGNfdXVpZCJdID09IHJwY191dWlkOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBycGNfZGF0YQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgcnBjX2RhdGEgYW5kIHJwY19kYXRhWyJycGNfdXVpZCJdID09IHJwY191dWlkOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBOb25lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBOb25lCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
