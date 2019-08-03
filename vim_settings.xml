@@ -124,7 +124,7 @@
       <file name="$USER_HOME$/Projects/TheChineseRoom/requirements.txt" timestamp="1549450558431">
         <mark key="[" line="4" column="14" />
       </file>
-      <file name="D:/GITHUB/PyEaseRPC/pyeasyrpc/rpc_manager.py" timestamp="1564845923786">
+      <file name="D:/GITHUB/PyEaseRPC/pyeasyrpc/rpc_manager.py" timestamp="1564846034307">
         <mark key="[" line="256" column="12" />
         <mark key="]" line="256" column="41" />
         <mark key="." line="256" column="0" />
@@ -239,6 +239,7 @@
       <file name="$USER_HOME$/Projects/Ray-Tracing-in-Python/.gitignore" timestamp="1538567910260">
         <mark key="[" line="104" column="0" />
       </file>
+      <file name="D:/GITHUB/PyEaseRPC/pyeasyrpc/rpc_data.py" timestamp="1564846676242" />
       <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/quick_test_starter.py" timestamp="1549448030266">
         <mark key="[" line="13" column="15" />
         <mark key="]" line="13" column="15" />
