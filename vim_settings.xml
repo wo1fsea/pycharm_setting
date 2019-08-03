@@ -178,14 +178,14 @@
       <file name="$USER_HOME$/Projects/TheChineseRoom/requirements.txt" timestamp="1549450558431">
         <mark key="[" line="4" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564840279811">
+      <file name="/Dummy.txt" timestamp="1564843696580">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/PyEaseRPC/pyeasyrpc/rpc_manager.py" timestamp="1564840895335">
-        <mark key="[" line="246" column="8" />
-        <mark key="]" line="246" column="42" />
-        <mark key="." line="246" column="0" />
-        <mark key="^" line="262" column="0" />
+      <file name="D:/GITHUB/PyEaseRPC/pyeasyrpc/rpc_manager.py" timestamp="1564844179225">
+        <mark key="[" line="273" column="11" />
+        <mark key="]" line="272" column="51" />
+        <mark key="." line="272" column="0" />
+        <mark key="^" line="270" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/output/keys.py" timestamp="1508081272612">
         <mark key="[" line="16" column="4" />
@@ -224,6 +224,7 @@
       <file name="$USER_HOME$/Documents/GitHub/PyOCRSeq2Seq/ocr_seq2seq/utils.py" timestamp="1524239615468">
         <mark key="[" line="174" column="4" />
       </file>
+      <file name="D:/GITHUB/TheOldChineseRoom/core/communication/rpc.py" timestamp="1564843783956" />
       <file name="$USER_HOME$/Projects/ocroline/src/cctc/build.py" timestamp="1560304335492">
         <mark key="[" line="19" column="24" />
         <mark key="]" line="19" column="39" />
@@ -378,7 +379,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtYWlsYm94ID0gTWFpbGJveChyZXF1ZXN0X21haWxib3gpCg==</text>
+        <text encoding="base64">ICAgICAgICBycGNfZGF0YSA9IHJldHVybl9tYWlsYm94LmdldF9tZXNzYWdlKCkK</text>
       </register>
       <register name="-" type="4">
         <text>None</text>
@@ -387,7 +388,7 @@
         <text>Scale</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvY2FsX3RpbWUgPSB0aW1lLnRpbWUoKQo=</text>
+        <text encoding="base64">ICAgICAgICBycGNfZGF0YSA9IHJldHVybl9tYWlsYm94LmdldF9tZXNzYWdlKCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBtYWlsYm94ID0gTWFpbGJveChyZXF1ZXN0X21haWxib3gpCg==</text>
