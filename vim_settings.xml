@@ -3,499 +3,180 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1483538622308">
+      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/dict.py" timestamp="1564557717781">
+        <mark key="[" line="18" column="35" />
+        <mark key="]" line="18" column="35" />
+        <mark key="^" line="16" column="22" />
+        <mark key="." line="18" column="35" />
+      </file>
+      <file name="$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/collections/__init__.pyi" timestamp="1564552655750">
+        <mark key="'" line="28" column="25" />
+      </file>
+      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/rpc_data.py" timestamp="1564552351823">
+        <mark key="[" line="41" column="4" />
+        <mark key="]" line="41" column="35" />
+        <mark key="^" line="40" column="3" />
+        <mark key="." line="41" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1564627594752">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/ocr_seq2seq.py" timestamp="1518534145272">
-        <mark key="[" line="24" column="105" />
-      </file>
-      <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/core/input_controller/input_controller.py" timestamp="1549445747141">
-        <mark key="[" line="29" column="13" />
-      </file>
-      <file name="D:/GITHUB/PyEaseRPC/requirements.txt" timestamp="1564761439109">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="D:/GITHUB/PykerStars/pykerstars/table.py" timestamp="1497448052160">
+      <file name="/a.dummy" timestamp="1564495251331">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/utils/rect.py" timestamp="1549446471799">
-        <mark key="[" line="84" column="0" />
+      <file name="E:/Projects/PyEasyRPC/tests/test_dummy.py" timestamp="1564495290596">
+        <mark key="[" line="13" column="6" />
+        <mark key="]" line="13" column="6" />
+        <mark key="." line="13" column="6" />
+        <mark key="^" line="8" column="3" />
       </file>
-      <file name="/a.dummy" timestamp="1564583495549">
+      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/list.py" timestamp="1564557729560">
+        <mark key="[" line="12" column="37" />
+        <mark key="]" line="12" column="37" />
+        <mark key="." line="12" column="37" />
+      </file>
+      <file name="E:/Projects/TheChineseRoom/the_chinese_room/core/window_controller/window_controller_win32.py" timestamp="1550841746730">
+        <mark key="[" line="32" column="11" />
+      </file>
+      <file name="E:/Projects/PyEasyRPC/tests/DummyTest.py" timestamp="1564471742274">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/frame_capture_lancher.py" timestamp="1507367280303">
+      <file name="E:/Projects/PyEasyRPC/tests/test_redis_collections/test_set.py" timestamp="1564627438633">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="31" />
+        <mark key="." line="75" column="0" />
+        <mark key="^" line="73" column="29" />
+      </file>
+      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/set.py" timestamp="1564627103212">
+        <mark key="[" line="161" column="47" />
+      </file>
+      <file name="E:/Projects/TheChineseRoom/the_chinese_room/agent/agent.py" timestamp="1550892842864">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="25" />
+        <mark key="." line="86" column="23" />
+        <mark key="^" line="86" column="23" />
+      </file>
+      <file name="E:/Projects/TheChineseRoom/the_chinese_room/quick_test_starter.py" timestamp="1550839743915">
+        <mark key="[" line="13" column="20" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1564626616427">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/usr/local/lib/python3.6/site-packages/pytesseract/pytesseract.py" timestamp="1507307141189">
-        <mark key="[" line="87" column="0" />
+      <file name="E:/Projects/PyEasyRPC/tests/test_redis_collections/test_dict.py" timestamp="1564624267326">
+        <mark key="[" line="28" column="23" />
+        <mark key="]" line="103" column="27" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="103" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/output/output.py" timestamp="1508081577260">
-        <mark key="[" line="3" column="4" />
+      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/queue.py" timestamp="1564557736548">
+        <mark key="[" line="19" column="61" />
+        <mark key="]" line="19" column="61" />
+        <mark key="." line="19" column="61" />
+        <mark key="^" line="19" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/frame_grabber/__init__.py" timestamp="1515252648015">
+      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/collections/__init__.py" timestamp="1564464643264">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/PyEaseRPC/.travis.yml" timestamp="1564583105903">
-        <mark key="[" line="13" column="4" />
-        <mark key="]" line="13" column="4" />
-        <mark key="." line="13" column="4" />
+      <file name="E:/Projects/PyEasyRPC/.travis.yml" timestamp="1564539138067">
+        <mark key="[" line="4" column="9" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="2" column="7" />
       </file>
-      <file name="D:/GITHUB/PyTWEANN/.gitignore" timestamp="1497890267596">
-        <mark key="[" line="91" column="0" />
+      <file name="E:/Projects/PyEasyRPC/Memurai/memurai.conf" timestamp="1564539331154">
+        <mark key="[" line="91" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/PyTexturePacker/Test/__init__.py" timestamp="1478342967692">
+      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/db_connection.py" timestamp="1564468092466">
+        <mark key="[" line="24" column="11" />
+        <mark key="]" line="24" column="11" />
+        <mark key="." line="24" column="11" />
+        <mark key="^" line="25" column="17" />
+      </file>
+      <file name="E:/Projects/PyEasyRPC/start_db.bat" timestamp="1564539308456">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/PyEaseRPC/pyeasyrpc/__init__.py" timestamp="1564414152077">
+      <file name="E:/Projects/PyEasyRPC/test/__init__.py" timestamp="1564469001104">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/quick_test/window_controller.py" timestamp="1549383359865">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_manager/window_manager_osx.py" timestamp="1507133534680">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/input_controller/__init__.py" timestamp="1512305416835">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/GitHub/pyDummyJit/test.py" timestamp="1534570606129">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/TensorFlow/test/mnist_softmax.py" timestamp="1497161628164">
-        <mark key="[" line="50" column="3" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/communication/__init__.py" timestamp="1507212401116">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/TheChineseRoom/core/input_controller/input_recorder_pyuserinput.py" timestamp="1547389531039">
-        <mark key="[" line="30" column="25" />
-      </file>
-      <file name="D:/GITHUB/PykerStars/pykerstars/handranks.py" timestamp="1497539680393">
-        <mark key="[" line="63" column="15" />
-      </file>
-      <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/core/input_controller/input_recorder.py" timestamp="1547913787297">
-        <mark key="[" line="14" column="5" />
-      </file>
-      <file name="D:/GITHUB/PyEaseRPC/tests/test_redis_collections/test_redis_object.py" timestamp="1564762638464">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="11" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/core/process_controller/process_controller.py" timestamp="1549448651493">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/GitHub/faceswap/lib/gui/utils.py" timestamp="1531546577742">
-        <mark key="[" line="166" column="49" />
-      </file>
-      <file name="/usr/local/lib/python3.6/site-packages/numba/decorators.py" timestamp="1538669997427">
-        <mark key="[" line="3" column="0" />
-      </file>
-      <file name="D:/GITHUB/PyEaseRPC/test.py" timestamp="1564583053383">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Ray-Tracing-in-Python/requirements.txt" timestamp="1536903815882">
-        <mark key="[" line="0" column="6" />
-      </file>
-      <file name="$USER_HOME$/Projects/Ray-Tracing-in-Python/.gitignore" timestamp="1538567910260">
-        <mark key="[" line="104" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/quick_test_starter.py" timestamp="1549448030266">
-        <mark key="[" line="13" column="15" />
-        <mark key="]" line="13" column="15" />
-        <mark key="." line="13" column="15" />
-      </file>
-      <file name="$USER_HOME$/Documents/PyTexturePacker/__init__.py" timestamp="1477839593099">
-        <mark key="[" line="0" column="29" />
-      </file>
-      <file name="vim_settings.xml" timestamp="1513361563762">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/PyTexturePacker/setup.py" timestamp="1487776918299">
-        <mark key="[" line="6" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/communication/redis_object.py" timestamp="1515336256148">
-        <mark key="[" line="68" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1564765320337">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1518195946074">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/requirements.txt" timestamp="1513421309808">
-        <mark key="[" line="8" column="5" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/input_controller/input_recorder_pynput.py" timestamp="1513356941731">
-        <mark key="[" line="72" column="36" />
-      </file>
-      <file name="$USER_HOME$/Documents/PykerStars/handranks.py" timestamp="1486143744144">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/core/window_controller/window_controller.py" timestamp="1549378571742">
-        <mark key="[" line="18" column="28" />
-        <mark key="]" line="18" column="28" />
-        <mark key="." line="18" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/PykerStars/.gitignore" timestamp="1486071398335">
-        <mark key="[" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/quick_test/input_recorder.py" timestamp="1547910394838">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Image.py" timestamp="1475379944934">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/utils/__init__.py" timestamp="1547828471946">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/GITHUB/PyEaseRPC/tests/test_redis_collections/test_dict.py" timestamp="1564761780620">
-        <mark key="]" line="24" column="8" />
-        <mark key="." line="24" column="8" />
-      </file>
-      <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/__init__.py" timestamp="1518279604336">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/PyScreenGrabber/requestment.txt" timestamp="1547386033073">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/GITHUB/PykerStars/pykerstars/utils/_poker_enum3.py" timestamp="1497540865696">
-        <mark key="[" line="14" column="7" />
-      </file>
-      <file name="D:/GITHUB/PykerStars/pykerstars/player.py" timestamp="1497455696289">
-        <mark key="[" line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/TheChineseRoom/requirements.txt" timestamp="1549450558431">
-        <mark key="[" line="4" column="14" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1564843696580">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/GITHUB/PyEaseRPC/pyeasyrpc/rpc_manager.py" timestamp="1564845416714">
-        <mark key="[" line="285" column="0" />
-        <mark key="]" line="285" column="0" />
-        <mark key="." line="285" column="0" />
-        <mark key="^" line="285" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/output/keys.py" timestamp="1508081272612">
-        <mark key="[" line="16" column="4" />
-      </file>
-      <file name="/code.py" timestamp="1538669968900">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/core/cv/ocr/ocr_tesserocr.py" timestamp="1549442334455">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="D:/GITHUB/PykerStars/pykerstars/utils/poker_enum_meta.py" timestamp="1497540600907">
-        <mark key="[" line="0" column="1" />
-      </file>
-      <file name="/README.ipynb" timestamp="1560268818826">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/launcher/laucher.py" timestamp="1507368669618">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/core/input_controller/input_recorder_pyuserinput.py" timestamp="1547910332695">
-        <mark key="[" line="17" column="10" />
-      </file>
-      <file name="D:/GITHUB/PyTexturePacker/main.py" timestamp="1493221831197">
-        <mark key="[" line="11" column="5" />
-      </file>
-      <file name="D:/GITHUB/TheChineseRoom/ocr_test.py" timestamp="1518279755979">
-        <mark key="[" line="15" column="14" />
-      </file>
-      <file name="D:/GITHUB/PyEaseRPC/pyeasyrpc/redis_collections/redis_object.py" timestamp="1564840100539">
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="11" column="11" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/PyOCRSeq2Seq/ocr_seq2seq/utils.py" timestamp="1524239615468">
-        <mark key="[" line="174" column="4" />
-      </file>
-      <file name="D:/GITHUB/TheOldChineseRoom/core/communication/rpc.py" timestamp="1564843783956" />
-      <file name="$USER_HOME$/Projects/ocroline/src/cctc/build.py" timestamp="1560304335492">
-        <mark key="[" line="19" column="24" />
-        <mark key="]" line="19" column="39" />
-        <mark key="." line="19" column="39" />
-      </file>
-      <file name="D:/GITHUB/PyEaseRPC/pyeasyrpc/redis_collections/dict.py" timestamp="1564760396421">
-        <mark key="[" line="77" column="7" />
-        <mark key="]" line="77" column="8" />
-        <mark key="." line="77" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_manager/__init__.py" timestamp="1507134074779">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/PyOCRSeq2Seq/requirements.txt" timestamp="1521130049190">
-        <mark key="[" line="6" column="9" />
-      </file>
-      <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/quick_test/agent.py" timestamp="1549448970167">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/quick_test/__init__.py" timestamp="1547828462744">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/input/window_manager_win32.py" timestamp="1507123703233">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/PyOCRSeq2Seq/clipboard_ocr.py" timestamp="1524239397798">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/GITHUB/PyEaseRPC/pyeasyrpc/redis_connection.py" timestamp="1564840272282">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_controller/window_controller.py" timestamp="1515261905372">
-        <mark key="[" line="46" column="8" />
-      </file>
-      <file name="D:/GITHUB/PykerStars/pykerstars/utils/_poker_enum2.py" timestamp="1497540869769">
-        <mark key="[" line="0" column="14" />
-      </file>
-      <file name="D:/GITHUB/PyTexturePacker/setup.py" timestamp="1495355603176">
-        <mark key="[" line="6" column="18" />
-      </file>
-      <file name="D:/GITHUB/PyEaseRPC/test.bat" timestamp="1564583062918">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="29" filename="C:/Python35/Lib/calendar.py" />
-      <jump line="156" column="29" filename="C:/Python35/Lib/calendar.py" />
-      <jump line="171" column="29" filename="C:/Python35/Lib/calendar.py" />
-      <jump line="176" column="40" filename="C:/Python35/Lib/calendar.py" />
-      <jump line="182" column="28" filename="C:/Python35/Lib/calendar.py" />
-      <jump line="187" column="40" filename="C:/Python35/Lib/calendar.py" />
-      <jump line="193" column="33" filename="C:/Python35/Lib/calendar.py" />
-      <jump line="198" column="41" filename="C:/Python35/Lib/calendar.py" />
-      <jump line="201" column="33" filename="C:/Python35/Lib/calendar.py" />
-      <jump line="208" column="40" filename="C:/Python35/Lib/calendar.py" />
-      <jump line="211" column="32" filename="C:/Python35/Lib/calendar.py" />
-      <jump line="216" column="39" filename="C:/Python35/Lib/calendar.py" />
-      <jump line="219" column="32" filename="C:/Python35/Lib/calendar.py" />
-      <jump line="221" column="42" filename="C:/Python35/Lib/calendar.py" />
-      <jump line="227" column="36" filename="C:/Python35/Lib/calendar.py" />
-      <jump line="232" column="32" filename="C:/Python35/Lib/calendar.py" />
-      <jump line="234" column="42" filename="C:/Python35/Lib/calendar.py" />
-      <jump line="235" column="8" filename="C:/Python35/Lib/calendar.py" />
-      <jump line="240" column="36" filename="C:/Python35/Lib/calendar.py" />
-      <jump line="245" column="31" filename="C:/Python35/Lib/calendar.py" />
-      <jump line="247" column="42" filename="C:/Python35/Lib/calendar.py" />
-      <jump line="248" column="8" filename="C:/Python35/Lib/calendar.py" />
-      <jump line="252" column="35" filename="C:/Python35/Lib/calendar.py" />
-      <jump line="302" column="60" filename="C:/Python35/Lib/calendar.py" />
-      <jump line="307" column="15" filename="C:/Python35/Lib/calendar.py" />
-      <jump line="308" column="33" filename="C:/Python35/Lib/calendar.py" />
-      <jump line="311" column="25" filename="C:/Python35/Lib/calendar.py" />
-      <jump line="315" column="34" filename="C:/Python35/Lib/calendar.py" />
-      <jump line="317" column="29" filename="C:/Python35/Lib/calendar.py" />
-      <jump line="323" column="36" filename="C:/Python35/Lib/calendar.py" />
-      <jump line="328" column="47" filename="C:/Python35/Lib/calendar.py" />
-      <jump line="333" column="28" filename="C:/Python35/Lib/calendar.py" />
-      <jump line="335" column="18" filename="C:/Python35/Lib/calendar.py" />
-      <jump line="343" column="18" filename="C:/Python35/Lib/calendar.py" />
-      <jump line="346" column="60" filename="C:/Python35/Lib/calendar.py" />
-      <jump line="350" column="45" filename="C:/Python35/Lib/calendar.py" />
-      <jump line="370" column="24" filename="C:/Python35/Lib/calendar.py" />
-      <jump line="371" column="19" filename="C:/Python35/Lib/calendar.py" />
-      <jump line="372" column="33" filename="C:/Python35/Lib/calendar.py" />
-      <jump line="412" column="53" filename="C:/Python35/Lib/calendar.py" />
-      <jump line="416" column="15" filename="C:/Python35/Lib/calendar.py" />
-      <jump line="417" column="52" filename="C:/Python35/Lib/calendar.py" />
-      <jump line="422" column="49" filename="C:/Python35/Lib/calendar.py" />
-      <jump line="430" column="63" filename="C:/Python35/Lib/calendar.py" />
-      <jump line="434" column="47" filename="C:/Python35/Lib/calendar.py" />
-      <jump line="441" column="28" filename="C:/Python35/Lib/calendar.py" />
-      <jump line="88" column="0" filename="F:/daily_data_handler/app_daily_analysis/py_function.py" />
-      <jump line="130" column="44" filename="F:/daily_data_handler/app_daily_analysis/handle_csv_final.py" />
-      <jump line="131" column="17" filename="F:/daily_data_handler/app_daily_analysis/handle_csv_final.py" />
-      <jump line="128" column="0" filename="F:/super_handler/daily_report.py" />
-      <jump line="131" column="28" filename="F:/super_handler/daily_report.py" />
-      <jump line="132" column="44" filename="F:/super_handler/daily_report.py" />
-      <jump line="25" column="45" filename="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/input_controller/input_controller_pyuserinput.py" />
-      <jump line="62" column="32" filename="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/input_recorder/input_recorder_pyuserinput.py" />
-      <jump line="22" column="24" filename="/usr/local/lib/python3.6/site-packages/pykeyboard/mac.py" />
-      <jump line="201" column="38" filename="/usr/local/lib/python3.6/site-packages/pykeyboard/x11.py" />
-      <jump line="166" column="11" filename="$USER_HOME$/Documents/GitHub/TheChineseRoom/console_test.py" />
-      <jump line="164" column="0" filename="$USER_HOME$/Documents/GitHub/TheChineseRoom/console_test.py" />
-      <jump line="8" column="13" filename="$USER_HOME$/Documents/GitHub/TheChineseRoom/console/console.py" />
-      <jump line="25" column="33" filename="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_controller/window_controller_darwin.py" />
-      <jump line="38" column="11" filename="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/ocr_model.py" />
-      <jump line="11" column="18" filename="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/ocr_model.py" />
-      <jump line="23" column="52" filename="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/ocr_model.py" />
-      <jump line="175" column="58" filename="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/ocr_model.py" />
-      <jump line="6" column="7" filename="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/ocr_model.py" />
-      <jump line="31" column="13" filename="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/ocr_model.py" />
-      <jump line="0" column="18" filename="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/ocr_model.py" />
-      <jump line="25" column="47" filename="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/image_generator.py" />
-      <jump line="278" column="43" filename="D:/GITHUB/PyOCRSeq2Seq/ocr_seq2seq/ocr_model.py" />
-      <jump line="2094" column="0" filename="/usr/local/lib/python3.6/site-packages/matplotlib/axes/_base.py" />
-      <jump line="1875" column="50" filename="/usr/local/lib/python3.6/site-packages/matplotlib/axes/_base.py" />
-      <jump line="1898" column="63" filename="/usr/local/lib/python3.6/site-packages/matplotlib/axes/_base.py" />
-      <jump line="1912" column="53" filename="/usr/local/lib/python3.6/site-packages/matplotlib/axes/_base.py" />
-      <jump line="1935" column="51" filename="/usr/local/lib/python3.6/site-packages/matplotlib/axes/_base.py" />
-      <jump line="1945" column="50" filename="/usr/local/lib/python3.6/site-packages/matplotlib/axes/_base.py" />
-      <jump line="2008" column="50" filename="/usr/local/lib/python3.6/site-packages/matplotlib/axes/_base.py" />
-      <jump line="2054" column="51" filename="/usr/local/lib/python3.6/site-packages/matplotlib/axes/_base.py" />
-      <jump line="2068" column="62" filename="/usr/local/lib/python3.6/site-packages/matplotlib/axes/_base.py" />
-      <jump line="2548" column="16" filename="/usr/local/lib/python3.6/site-packages/matplotlib/axes/_base.py" />
-      <jump line="2556" column="24" filename="/usr/local/lib/python3.6/site-packages/matplotlib/axes/_base.py" />
-      <jump line="2571" column="24" filename="/usr/local/lib/python3.6/site-packages/matplotlib/axes/_base.py" />
-      <jump line="2574" column="20" filename="/usr/local/lib/python3.6/site-packages/matplotlib/axes/_base.py" />
-      <jump line="2575" column="20" filename="/usr/local/lib/python3.6/site-packages/matplotlib/axes/_base.py" />
-      <jump line="2576" column="20" filename="/usr/local/lib/python3.6/site-packages/matplotlib/axes/_base.py" />
-      <jump line="593" column="19" filename="/usr/local/lib/python3.6/site-packages/matplotlib/axes/_base.py" />
-      <jump line="598" column="50" filename="/usr/local/lib/python3.6/site-packages/matplotlib/axes/_base.py" />
-      <jump line="1247" column="55" filename="/usr/local/lib/python3.6/site-packages/matplotlib/axes/_base.py" />
-      <jump line="1258" column="57" filename="/usr/local/lib/python3.6/site-packages/matplotlib/axes/_base.py" />
-      <jump line="73" column="24" filename="$USER_HOME$/Projects/Ray-Tracing-in-Python/ray_tracing_in_python.py" />
-      <jump line="170" column="11" filename="$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/-1834179641/PyQt5/QtWidgets/QLabel.py" />
-      <jump line="171" column="15" filename="$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/-1834179641/PyQt5/QtWidgets/QLabel.py" />
-      <jump line="55" column="11" filename="$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/-1834179641/PyQt5/QtWidgets/QLabel.py" />
-      <jump line="56" column="15" filename="$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/-1834179641/PyQt5/QtWidgets/QLabel.py" />
-      <jump line="72" column="0" filename="$USER_HOME$/Projects/ScreenGrabber/ScreenGrabber.py" />
-      <jump line="67" column="0" filename="$USER_HOME$/Projects/ScreenGrabber/ScreenGrabber.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/ScreenGrabber/ScreenGrabber.py" />
-      <jump line="111" column="0" filename="$USER_HOME$/Projects/ScreenGrabber/ScreenGrabber.py" />
-      <jump line="31" column="31" filename="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/core/window_controller/window_controller_darwin.py" />
-      <jump line="43" column="77" filename="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/core/window_controller/window_controller_darwin.py" />
-      <jump line="109" column="44" filename="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/agent/agent.py" />
+      <jump line="82" column="47" filename="$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/collections/__init__.pyi" />
+      <jump line="29" column="19" filename="$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/collections/__init__.pyi" />
+      <jump line="28" column="25" filename="$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/collections/__init__.pyi" />
+      <jump line="183" column="46" filename="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/set.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHMsIHMyKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>method_name</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
-        <text>Scale</text>
+        <text encoding="base64">XDxyZWFsXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBycGNfZGF0YSA9IHJldHVybl9tYWlsYm94LmdldF9tZXNzYWdlKCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHMsIHMyKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCkK</text>
+        <text encoding="base64">ICAgICAgICAjIHRlc3QgczIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNldAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHMyLCBkYXRhKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBibG9ja19jYWxsX21ldGhvZChzZWxmLCBzZXJ2aWNlX25hbWUsIHNlcnZpY2VfdXVpZCwgcmV0dXJuX21haWxib3hfY2hhbm5lbCwgbWV0aG9kX25hbWUsIGFyZ3MsIGt3YXJncyk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeyJpbnQiOiAxLCAiZmxvYXQiOiAyLiwgInN0cmluZyI6ICJzdHJpbmcifSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgWzAsICIxIiwgMi4wLCAzXSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcnBjX2RhdGEK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE5vbmUK</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHMyLCBkLmRhdGEpCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+      <register name="8" type="4">
+        <text>elf.assertEqual(d2[&quot;int&quot;], data[&quot;int&quot;])
+        self.assertEqual(d2[&quot;float&quot;], data[&quot;float&quot;])
+        self.assertEqual(d2[&quot;string&quot;], data[&quot;string&quot;])
+        self.assertEqual(d2[&quot;dict&quot;], data[&quot;dict&quot;])
+        self.assertSequenceEqual(d2[&quot;list&quot;], data[&quot;list&quot;])
+        self.assertSequenceEqual(d2[&quot;tuple&quot;], data[&quot;tuple&quot;])</text>
       </register>
-      <register name=":" type="4">
-        <text>wq</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChkLmdldCgibm90IGZvdW5kIiksIE5vbmUpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChkLmdldCgibm90IGZvdW5kIiwgTm9uZSksIE5vbmUpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChkLmdldCgibm90IGZvdW5kIiwgMSksIDEpCgogICAgICAgIGRbImZvdW5kIl0gPSAiZm91bmQiCgogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoImZvdW5kIiBpbiBkLCBUcnVlKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoImZvdW5kIiBub3QgaW4gZCwgRmFsc2UpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChkLmdldCgiZm91bmQiKSwgImZvdW5kIikKCiAgICAgICAgIyB0ZXN0IHNldGRlZmF1bHQKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGQuc2V0ZGVmYXVsdCgiZm91bmQiLCBOb25lKSwgImZvdW5kIikKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGQuc2V0ZGVmYXVsdCgibm90IGZvdW5kIiwgIm5vdCBmb3VuZCIpLCAibm90IGZvdW5kIikKCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChkLmdldCgibm90IGZvdW5kIiksICJub3QgZm91bmQiKQoKICAgICAgICBkZWwgZFsibm90IGZvdW5kIl0KICAgICAgICBkZWwgZFsiZm91bmQiXQoKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKCJmb3VuZCIgaW4gZCwgRmFsc2UpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbCgiZm91bmQiIG5vdCBpbiBkLCBUcnVlKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoZC5nZXQoImZvdW5kIiksIE5vbmUpCgogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoZFsiaW50Il0sIGRhdGFbImludCJdKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoZFsiZmxvYXQiXSwgZGF0YVsiZmxvYXQiXSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGRbInN0cmluZyJdLCBkYXRhWyJzdHJpbmciXSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGRbImRpY3QiXSwgZGF0YVsiZGljdCJdKQogICAgICAgIHNlbGYuYXNzZXJ0U2VxdWVuY2VFcXVhbChkWyJsaXN0Il0sIGRhdGFbImxpc3QiXSkKICAgICAgICBzZWxmLmFzc2VydFNlcXVlbmNlRXF1YWwoZFsidHVwbGUiXSwgZGF0YVsidHVwbGUiXSkKCiAgICAgICAgIyB0ZXN0IGtleXMKICAgICAgICBzZWxmLmFzc2VydFNlcXVlbmNlRXF1YWwoc29ydGVkKGQua2V5cygpKSwgc29ydGVkKGRhdGEua2V5cygpKSkKICAgICAgICAjIHRlc3QgaXRlcgogICAgICAgIHNlbGYuYXNzZXJ0U2VxdWVuY2VFcXVhbChzb3J0ZWQoZCksIHNvcnRlZChkYXRhLmtleXMoKSkpCiAgICAgICAgIyBUT0RPOiB0ZXN0IHZhbHVlcwogICAgICAgICMgVE9ETzogdGVzdCBpdGVtcwoKICAgICAgICAjIHRlc3QgcmVkaXMgdHlwZQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoZC5SZWRpc19UeXBlLCBkLmdldF90eXBlKCkpCg==</text>
       </register>
     </registers>
     <search>
-      <last-search>Scale</last-search>
+      <last-search encoding="base64">XDxyZWFsXD4=</last-search>
       <last-offset />
-      <last-pattern>Scale</last-pattern>
-      <last-replace>~</last-replace>
-      <last-substitute>Scale</last-substitute>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxyZWFsXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>rect</entry>
-        <entry>year</entry>
-        <entry>today_new</entry>
-        <entry>character</entry>
-        <entry>key_press</entry>
-        <entry>handle</entry>
-        <entry>print</entry>
-        <entry>8</entry>
-        <entry>remove</entry>
-        <entry>scale</entry>
-        <entry>Scale</entry>
+        <entry>Set</entry>
+        <entry encoding="base64">XDxyZWFsXD4=</entry>
       </history-search>
-      <history-cmd>
-        <entry>W</entry>
-        <entry>w</entry>
-        <entry>split</entry>
-        <entry>vsplit</entry>
-        <entry>vi</entry>
-        <entry>q</entry>
-        <entry>wq</entry>
-      </history-cmd>
+      <history-cmd />
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed R</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed W</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed X</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed C</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed F</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed B</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed A</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed D</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed OPEN_BRACKET</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed P</text>
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor>
-      <key-repeat enabled="false" />
-    </editor>
   </component>
 </application>
