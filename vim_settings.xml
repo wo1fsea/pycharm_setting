@@ -178,8 +178,14 @@
       <file name="$USER_HOME$/Projects/TheChineseRoom/requirements.txt" timestamp="1549450558431">
         <mark key="[" line="4" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564763950600">
+      <file name="/Dummy.txt" timestamp="1564840279811">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/GITHUB/PyEaseRPC/pyeasyrpc/rpc_manager.py" timestamp="1564840895335">
+        <mark key="[" line="246" column="8" />
+        <mark key="]" line="246" column="42" />
+        <mark key="." line="246" column="0" />
+        <mark key="^" line="262" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/output/keys.py" timestamp="1508081272612">
         <mark key="[" line="16" column="4" />
@@ -210,8 +216,8 @@
       <file name="D:/GITHUB/TheChineseRoom/ocr_test.py" timestamp="1518279755979">
         <mark key="[" line="15" column="14" />
       </file>
-      <file name="D:/GITHUB/PyEaseRPC/pyeasyrpc/redis_collections/redis_object.py" timestamp="1564583782234">
-        <mark key="[" line="11" column="0" />
+      <file name="D:/GITHUB/PyEaseRPC/pyeasyrpc/redis_collections/redis_object.py" timestamp="1564840100539">
+        <mark key="[" line="108" column="0" />
         <mark key="]" line="11" column="11" />
         <mark key="." line="11" column="0" />
       </file>
@@ -247,6 +253,11 @@
       </file>
       <file name="$USER_HOME$/Documents/GitHub/PyOCRSeq2Seq/clipboard_ocr.py" timestamp="1524239397798">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/GITHUB/PyEaseRPC/pyeasyrpc/redis_connection.py" timestamp="1564840272282">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_controller/window_controller.py" timestamp="1515261905372">
         <mark key="[" line="46" column="8" />
@@ -366,44 +377,45 @@
       <jump line="109" column="44" filename="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/agent/agent.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>random</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBtYWlsYm94ID0gTWFpbGJveChyZXF1ZXN0X21haWxib3gpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>random</text>
+        <text>None</text>
       </register>
       <register name="/" type="4">
         <text>Scale</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKE5vbmUsIHNlbGYuX3JwY19tYW5hZ2VyLmdldF9hbGl2ZV9zZXJ2aWNlX3V1aWRfcmFuZG9tKCkpCg==</text>
+        <text encoding="base64">ICAgIGxvY2FsX3RpbWUgPSB0aW1lLnRpbWUoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJlbmFibGVfbXVsdGlfaW5zdGFuY2UiOgo=</text>
+        <text encoding="base64">ICAgICAgICBtYWlsYm94ID0gTWFpbGJveChyZXF1ZXN0X21haWxib3gpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVuYWJsZV9tdWx0aV9pbnN0YW5jZT1GYWxzZSwK</text>
+        <text encoding="base64">ZnJvbSAuIGltcG9ydCByZWRpc19jb25uZWN0aW9uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9ycGNfbWFuYWdlci51bnJlZ2lzdGVyX3NlcnZpY2Uoc2VydmljZV9uYW1lMCwgc2VydmljZV91dWlkKQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2NhbF90aW1lID0gCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvY2FsX3RpbWUgPSB0aW1lLnRpbWUoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5nZXRfYWxpdmVfc2VydmljZV91dWlkcyhzZXJ2aWNlX25hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2NhbF90aW1lID0gdGltZS50aW1lKCkK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfc2VydmljZV9pbnN0YW5jZXMoc2VsZiwgc2VydmljZV9uYW1lKToK</text>
+      <register name="6" type="4">
+        <text>)
+        redis_time = float(&quot;%d.%d&quot; % self.</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IFJQQ01hbmFnZXIuU0VSVklDRV9UVEwgPSAwLjUKICAgICAgICBSUENNYW5hZ2VyLlNFUlZJQ0VfSEVBUlRCRUFUX0lOVEVSVkFMID0gMC4x</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBkZWx0YV90aW1lID0gc2VsZi5fZGVsdGFfdGltZS5nZXQoc2VsZi5fcmVkaXMsIE5vbmUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+        <text encoding="base64">ICAgIGRlZiB0aW1lKHNlbGYpOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2aWNlX2luc3RhbmNlX2xpc3QuZGlzY2FyZChzZXJ2aWNlX3V1aWQpCg==</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
