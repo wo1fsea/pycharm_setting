@@ -83,6 +83,11 @@
       <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/core/input_controller/input_recorder.py" timestamp="1547913787297">
         <mark key="[" line="14" column="5" />
       </file>
+      <file name="D:/GITHUB/PyEaseRPC/tests/test_redis_collections/test_redis_object.py" timestamp="1564762638464">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="11" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/core/process_controller/process_controller.py" timestamp="1549448651493">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="0" column="0" />
@@ -122,7 +127,7 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/communication/redis_object.py" timestamp="1515336256148">
         <mark key="[" line="68" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1564762005047">
+      <file name="/Python Console" timestamp="1564765320337">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1518195946074">
@@ -155,7 +160,6 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/GITHUB/PyEaseRPC/tests/test_redis_collections/test_dict.py" timestamp="1564761780620">
-        <mark key="[" line="113" column="0" />
         <mark key="]" line="24" column="8" />
         <mark key="." line="24" column="8" />
       </file>
@@ -174,13 +178,8 @@
       <file name="$USER_HOME$/Projects/TheChineseRoom/requirements.txt" timestamp="1549450558431">
         <mark key="[" line="4" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564761041811">
+      <file name="/Dummy.txt" timestamp="1564763950600">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/GITHUB/PyEaseRPC/pyeasyrpc/rpc_manager.py" timestamp="1564762172379">
-        <mark key="[" line="141" column="32" />
-        <mark key="]" line="139" column="51" />
-        <mark key="." line="139" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/output/keys.py" timestamp="1508081272612">
         <mark key="[" line="16" column="4" />
@@ -251,12 +250,6 @@
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_controller/window_controller.py" timestamp="1515261905372">
         <mark key="[" line="46" column="8" />
-      </file>
-      <file name="D:/GITHUB/PyEaseRPC/tests/test_redis_manager.py" timestamp="1564761909155">
-        <mark key="[" line="21" column="24" />
-        <mark key="]" line="21" column="24" />
-        <mark key="^" line="50" column="101" />
-        <mark key="." line="21" column="24" />
       </file>
       <file name="D:/GITHUB/PykerStars/pykerstars/utils/_poker_enum2.py" timestamp="1497540869769">
         <mark key="[" line="0" column="14" />
@@ -373,44 +366,44 @@
       <jump line="109" column="44" filename="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/agent/agent.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2aWNlX2luc3RhbmNlX2xpc3QuZGlzY2FyZChzZXJ2aWNlX3V1aWQpCg==</text>
+      <register name="&quot;" type="4">
+        <text>random</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>random</text>
       </register>
       <register name="/" type="4">
         <text>Scale</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHNlcnZpY2VfdXVpZCwgc2VsZi5fcnBjX21hbmFnZXIuZ2V0X3NlcnZpY2VfaW5zdGFuY2VfbG93X2xvc3Moc2VydmljZV9uYW1lMCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKE5vbmUsIHNlbGYuX3JwY19tYW5hZ2VyLmdldF9hbGl2ZV9zZXJ2aWNlX3V1aWRfcmFuZG9tKCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2aWNlX2luc3RhbmNlX2xpc3QuZGlzY2FyZChzZXJ2aWNlX3V1aWQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJlbmFibGVfbXVsdGlfaW5zdGFuY2UiOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9ycGNfbWFuYWdlci5nZXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVuYWJsZV9tdWx0aV9pbnN0YW5jZT1GYWxzZSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJ0ZXN0X21ldGhvZDQiLAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9ycGNfbWFuYWdlci51bnJlZ2lzdGVyX3NlcnZpY2Uoc2VydmljZV9uYW1lMCwgc2VydmljZV91dWlkKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDogMCwK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5nZXRfYWxpdmVfc2VydmljZV91dWlkcyhzZXJ2aWNlX25hbWUpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGRlZiBnZXRfc2VydmljZV9pbnN0YW5jZXMoc2VsZiwgc2VydmljZV9uYW1lKToK</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">IFJQQ01hbmFnZXIuU0VSVklDRV9UVEwgPSAwLjUKICAgICAgICBSUENNYW5hZ2VyLlNFUlZJQ0VfSEVBUlRCRUFUX0lOVEVSVkFMID0gMC4x</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCkK</text>
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFzeW5jIGRlZiBhc3luY19jYWxsX21ldGhvZF9ieV9zZXJ2aWNlX3V1aWQoc2VsZiwgc2VydmljZV9uYW1lLCBzZXJ2aWNlX2luc3RhbmNlLCBtZXRob2RfbmFtZSwgYXJncywga3dhcmdzKToK</text>
+        <text encoding="base64">ICAgICAgICBzZXJ2aWNlX2luc3RhbmNlX2xpc3QuZGlzY2FyZChzZXJ2aWNlX3V1aWQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
