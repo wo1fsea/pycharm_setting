@@ -221,11 +221,12 @@
       <file name="E:/Projects/PyEasyRPC/Memurai/memurai.conf" timestamp="1564539331154">
         <mark key="[" line="91" column="8" />
       </file>
-      <file name="D:/GITHUB/PyEaseRPC/pyeasyrpc/rpc.py" timestamp="1564910119537">
-        <mark key="a" line="181" column="8" />
-        <mark key="[" line="248" column="47" />
-        <mark key="]" line="248" column="47" />
-        <mark key="." line="248" column="47" />
+      <file name="D:/GITHUB/PyEaseRPC/pyeasyrpc/rpc.py" timestamp="1564922952906">
+        <mark key="a" line="179" column="8" />
+        <mark key="[" line="219" column="37" />
+        <mark key="]" line="219" column="37" />
+        <mark key="." line="219" column="37" />
+        <mark key="^" line="216" column="7" />
       </file>
       <file name="E:/Projects/PyEasyRPC/pyeasyrpc/db_connection.py" timestamp="1564468092466">
         <mark key="[" line="24" column="11" />
@@ -331,6 +332,9 @@
       <file name="D:/GITHUB/TheChineseRoom/ocr_test.py" timestamp="1518279755979">
         <mark key="[" line="15" column="14" />
       </file>
+      <file name="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" timestamp="1564922210572">
+        <mark key="'" line="5339" column="8" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/PyOCRSeq2Seq/ocr_seq2seq/utils.py" timestamp="1524239615468">
         <mark key="[" line="174" column="4" />
       </file>
@@ -374,16 +378,78 @@
       <jump line="29" column="19" filename="$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/collections/__init__.pyi" />
       <jump line="28" column="25" filename="$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/collections/__init__.pyi" />
       <jump line="183" column="46" filename="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/set.py" />
+      <jump line="12" column="28" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="190" column="69" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="240" column="74" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="341" column="44" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="376" column="25" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="412" column="29" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="901" column="16" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="912" column="15" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="923" column="15" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="934" column="13" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="970" column="17" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="973" column="17" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="976" column="26" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="979" column="24" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="1044" column="67" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="1056" column="29" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="1353" column="24" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="1359" column="32" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="1365" column="12" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="1445" column="25" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="1447" column="36" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="1519" column="20" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="1717" column="19" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="2041" column="25" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="2043" column="36" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="2106" column="20" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="2270" column="19" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="2536" column="26" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="2761" column="39" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="2767" column="39" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="2773" column="37" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="2830" column="66" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="2837" column="30" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="2977" column="9" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="2988" column="24" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="2994" column="26" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="3044" column="53" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="3283" column="35" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="3472" column="12" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="3506" column="12" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="3535" column="29" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="3541" column="12" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="3552" column="23" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="3563" column="25" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="3569" column="26" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="3586" column="21" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="3624" column="20" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="3635" column="20" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="3642" column="20" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="3786" column="12" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="3928" column="32" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="3934" column="10" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="3945" column="27" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="3951" column="13" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="3962" column="33" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="3973" column="30" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="3998" column="24" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="4004" column="27" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="4131" column="19" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="4214" column="15" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="5338" column="6" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="5339" column="8" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>return_mailbox</text>
+        <text encoding="base64">c2VydmljZVt7c2VydmljZV9uYW1lfV0uaW5zdGFuY2Vbe3NlcnZpY2VfdXVpZH1dLm1ldGhvZFtdIA==</text>
       </register>
       <register name="-" type="4">
-        <text>return_mailbox</text>
+        <text encoding="base64">c2VydmljZVt7c2VydmljZV9uYW1lfV0uaW5zdGFuY2Vbe3NlcnZpY2VfdXVpZH1dLm1ldGhvZFtdIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWFsXD4=</text>
+        <text>Time</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCkK</text>
@@ -392,38 +458,38 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGRkZGRkCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcnBjX2RhdGEK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIGRlZiBzZXRfY2FsbF9tZXRob2RfcmVxdWVzdChzZWxmLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybl9tYWlsYm94X2NoYW5uZWwsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VydmljZV9uYW1lLCBzZXJ2aWNlX3V1aWQsIG1ldGhvZF9uYW1lLCBhcmdzLCBrd2FyZ3MKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICApOgogICAgICAgIHJwY191dWlkID0gc2VsZi5nZW5fcnBjX3V1aWQoKQogICAgICAgIHJlcXVlc3RfbWFpbGJveF9jaGFubmVsID0gc2VsZi5nZXRfc2VydmljZV9pbnN0YW5jZV9tYWlsYm94X2NoYW5uZWwoc2VydmljZV9uYW1lLCBzZXJ2aWNlX3V1aWQpCiAgICAgICAgcmVxdWVzdF9tYWlsYm94ID0gTWFpbGJveChyZXF1ZXN0X21haWxib3hfY2hhbm5lbCwgdXJsPXNlbGYuX3JlZGlzX3VybCwgcGFja2VyPXNlbGYuX2RhdGFfcGFja2VyKQogICAgICAgIHJlcXVlc3RfdGltZSA9IHNlbGYudGltZQogICAgICAgIGV4cGlyZV90aW1lID0gcmVxdWVzdF90aW1lICsgc2VsZi5SUENfRVhQSVJFCiAgICAgICAgcnBjX2RhdGEgPSB7CiAgICAgICAgICAgICJycGNfdXVpZCI6IHJwY191dWlkLAoKICAgICAgICAgICAgInJlcXVlc3RfbWFpbGJveCI6IHJlcXVlc3RfbWFpbGJveF9jaGFubmVsLAogICAgICAgICAgICAicmV0dXJuX21haWxib3giOiByZXR1cm5fbWFpbGJveF9jaGFubmVsLAoKICAgICAgICAgICAgInNlcnZpY2VfbmFtZSI6IHNlcnZpY2VfbmFtZSwKICAgICAgICAgICAgInNlcnZpY2VfdXVpZCI6IHNlcnZpY2VfdXVpZCwKCiAgICAgICAgICAgICJtZXRob2RfbmFtZSI6IG1ldGhvZF9uYW1lLAogICAgICAgICAgICAiYXJncyI6IGFyZ3MsCiAgICAgICAgICAgICJrd2FyZ3MiOiBrd2FyZ3MsCiAgICAgICAgICAgICJyZXR1cm5fdmFsdWUiOiBOb25lLAogICAgICAgICAgICAiZXhjZXB0aW9uIjogTm9uZSwKCiAgICAgICAgICAgICJyZXF1ZXN0X3RpbWUiOiByZXF1ZXN0X3RpbWUsCiAgICAgICAgICAgICJleHBpcmVfdGltZSI6IGV4cGlyZV90aW1lLAogICAgICAgICAgICAicmV0dXJuX3RpbWUiOiBOb25lLAogICAgICAgIH0KCiAgICAgICAgcmVxdWVzdF9tYWlsYm94LnNldF9tZXNzYWdlKHJwY19kYXRhKQoKICAgICAgICBzZWxmLl9pbmNyZWFzZV90b3RhbF9yZXF1ZXN0KHNlcnZpY2VfbmFtZSwgc2VydmljZV91dWlkKQoKICAgICAgICByZXR1cm4gcnBjX3V1aWQsIGV4cGlyZV90aW1l</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBycGNfZGF0YSA9IHJldHVybl9tYWlsYm94LmdldF9tZXNzYWdlKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0X21haWxib3ggPSBNYWlsYm94KHJlcXVlc3RfbWFpbGJveF9jaGFubmVsLCB1cmw9c2VsZi5fcmVkaXNfdXJsLCBwYWNrZXI9c2VsZi5fZGF0YV9wYWNrZXIpCg==</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfY2FsbF9tZXRob2RfcmVzdWx0KHNlbGYsIHJldHVybl9tYWlsYm94KToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0X21haWxib3hfY2hhbm5lbCA9IHNlbGYuZ2V0X3NlcnZpY2VfaW5zdGFuY2VfbWFpbGJveF9jaGFubmVsKHNlcnZpY2VfbmFtZSwgc2VydmljZV91dWlkKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyB0cnkgY2FjaGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9zZXJ2aWNlX3V1aWQgPSBzZXJ2aWNlX3V1aWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcnBjX2RhdGEgPSBzZWxmLl9yZXR1cm5fcnBjX2RhdGFfY2FjaGUucG9wKHJwY191dWlkLCBOb25lKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9zZXJ2aWNlX25hbWUgPSBzZXJ2aWNlX25hbWUK</text>
+        <text encoding="base64">ICAgICAgICB0aW1lb3V0ID0gZXhwaXJlX3RpbWUgLSBzZWxmLl9ycGNfbWFuYWdlci50aW1lCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcnBjX2RhdGEgPSBzZWxmLl9yZXR1cm5fcnBjX2RhdGFfY2FjaGUucG9wKHJwY191dWlkLCBOb25lKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBzZWxmLl9ycGNfbWFuYWdlci5nZXRfc2VydmljZV9pbnN0YW5jZV9tYWlsYm94X2NoYW5uZWwoCiAgICAgICAgICAgIHNlbGYuc2VydmljZV9uYW1lLAogICAgICAgICAgICBzZWxmLnNlcnZpY2VfdXVpZAogICAgICAgICk=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIFRpbWVvdXRFcnJvcigpCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWFsXD4=</last-search>
+      <last-search>Time</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWFsXD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>Time</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -439,6 +505,9 @@
         <entry>remove</entry>
         <entry>scale</entry>
         <entry>Scale</entry>
+        <entry>Error</entry>
+        <entry>TimeOut</entry>
+        <entry>Time</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
