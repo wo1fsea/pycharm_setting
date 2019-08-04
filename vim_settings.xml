@@ -124,11 +124,11 @@
       <file name="$USER_HOME$/Projects/TheChineseRoom/requirements.txt" timestamp="1549450558431">
         <mark key="[" line="4" column="14" />
       </file>
-      <file name="D:/GITHUB/PyEaseRPC/pyeasyrpc/rpc_manager.py" timestamp="1564850762731">
-        <mark key="[" line="329" column="8" />
-        <mark key="]" line="328" column="0" />
-        <mark key="." line="328" column="0" />
-        <mark key="^" line="328" column="32" />
+      <file name="D:/GITHUB/PyEaseRPC/pyeasyrpc/rpc_manager.py" timestamp="1564853185575">
+        <mark key="[" line="305" column="87" />
+        <mark key="]" line="324" column="87" />
+        <mark key="." line="324" column="0" />
+        <mark key="^" line="322" column="86" />
       </file>
       <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/core/cv/ocr/ocr_tesserocr.py" timestamp="1549442334455">
         <mark key="[" line="0" column="0" />
@@ -222,6 +222,11 @@
       <file name="E:/Projects/PyEasyRPC/Memurai/memurai.conf" timestamp="1564539331154">
         <mark key="[" line="91" column="8" />
       </file>
+      <file name="D:/GITHUB/PyEaseRPC/pyeasyrpc/rpc.py" timestamp="1564907722973">
+        <mark key="[" line="185" column="97" />
+        <mark key="]" line="184" column="0" />
+        <mark key="." line="184" column="0" />
+      </file>
       <file name="E:/Projects/PyEasyRPC/pyeasyrpc/db_connection.py" timestamp="1564468092466">
         <mark key="[" line="24" column="11" />
         <mark key="]" line="24" column="11" />
@@ -239,7 +244,6 @@
       <file name="$USER_HOME$/Projects/Ray-Tracing-in-Python/.gitignore" timestamp="1538567910260">
         <mark key="[" line="104" column="0" />
       </file>
-      <file name="D:/GITHUB/PyEaseRPC/pyeasyrpc/rpc_data.py" timestamp="1564846676242" />
       <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/quick_test_starter.py" timestamp="1549448030266">
         <mark key="[" line="13" column="15" />
         <mark key="]" line="13" column="15" />
@@ -327,7 +331,10 @@
       <file name="$USER_HOME$/Documents/GitHub/PyOCRSeq2Seq/ocr_seq2seq/utils.py" timestamp="1524239615468">
         <mark key="[" line="174" column="4" />
       </file>
-      <file name="D:/GITHUB/TheOldChineseRoom/core/communication/rpc.py" timestamp="1564850961385" />
+      <file name="D:/GITHUB/TheOldChineseRoom/core/communication/rpc.py" timestamp="1564907530426">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="14" />
+      </file>
       <file name="$USER_HOME$/Projects/ocroline/src/cctc/build.py" timestamp="1560304335492">
         <mark key="[" line="19" column="24" />
         <mark key="]" line="19" column="39" />
@@ -367,43 +374,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm5fbWFpbGJveF9jaGFubmVsID0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>raise NotImplementedError()</text>
+        <text>exception</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWFsXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZXJ2aWNlX2luc3RhbmNlLmV4aXN0czoK</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm5fbWFpbGJveF9jaGFubmVsID0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9zZXJ2aWNlX3V1aWQgPSBzZWxmLl9ycGNfbWFuYWdlci5nZXRfYWxpdmVfc2VydmljZV91dWlkX2xvd19sb3NzKHNlbGYuc2VydmljZV9uYW1lKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAgCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgc2VydmljZV9uYW1lIGluIHNlbGYuX3JwY19tYW5hZ2VyLmdldF9zZXJ2aWNlX2xpc3QoKSwgInNlcnZpY2Ugbm90IGZvdW5kLiIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBycGNfZGF0YSA9IHJlcXVlc3RfbWFpbGJveC5nZXRfbWVzc2FnZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9zZXJ2aWNlX25hbWUgPSBzZXJ2aWNlX25hbWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfY2FsbF9tZXRob2RfcmVxdWVzdChzZWxmLCByZXF1ZXN0X21haWxib3gpOgo=</text>
+        <text encoding="base64">aW1wb3J0IHQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9pbmNyZWFzZV90b3RhbF9yZXR1cm4ocnBjX2RhdGFbInNlcnZpY2VfbmFtZSJdLCBycGNfZGF0YVsic2VydmljZV91dWlkIl0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm5fbWFpbGJveCA9IE1haWxib3gocmV0dXJuX21haWxib3hfY2hhbm5lbCwgdXJsPXNlbGYuX3JlZGlzX3VybCwgcGFja2VyPXNlbGYuX2RhdGFfcGFja2VyKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZXJ2aWNlX25hbWUgYW5kIHNlcnZpY2VfdXVpZDoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXJ2aWNlX3V1aWQgPSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCkK</text>
+        <text encoding="base64">ICAgICAgICBzZXJ2aWNlX25hbWUgPSAK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
