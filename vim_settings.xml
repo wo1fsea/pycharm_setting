@@ -80,6 +80,7 @@
       <file name="$USER_HOME$/GitHub/faceswap/lib/gui/utils.py" timestamp="1531546577742">
         <mark key="[" line="166" column="49" />
       </file>
+      <file name="D:/GITHUB/TheOldChineseRoom/rpc_test1.py" timestamp="1564923181278" />
       <file name="$USER_HOME$/Projects/Ray-Tracing-in-Python/requirements.txt" timestamp="1536903815882">
         <mark key="[" line="0" column="6" />
       </file>
@@ -221,12 +222,12 @@
       <file name="E:/Projects/PyEasyRPC/Memurai/memurai.conf" timestamp="1564539331154">
         <mark key="[" line="91" column="8" />
       </file>
-      <file name="D:/GITHUB/PyEaseRPC/pyeasyrpc/rpc.py" timestamp="1564922952906">
-        <mark key="a" line="179" column="8" />
-        <mark key="[" line="219" column="37" />
-        <mark key="]" line="219" column="37" />
-        <mark key="." line="219" column="37" />
-        <mark key="^" line="216" column="7" />
+      <file name="D:/GITHUB/PyEaseRPC/pyeasyrpc/rpc.py" timestamp="1564923770128">
+        <mark key="a" line="187" column="8" />
+        <mark key="[" line="176" column="93" />
+        <mark key="]" line="176" column="93" />
+        <mark key="." line="176" column="93" />
+        <mark key="^" line="248" column="7" />
       </file>
       <file name="E:/Projects/PyEasyRPC/pyeasyrpc/db_connection.py" timestamp="1564468092466">
         <mark key="[" line="24" column="11" />
@@ -338,7 +339,7 @@
       <file name="$USER_HOME$/Documents/GitHub/PyOCRSeq2Seq/ocr_seq2seq/utils.py" timestamp="1524239615468">
         <mark key="[" line="174" column="4" />
       </file>
-      <file name="D:/GITHUB/TheOldChineseRoom/core/communication/rpc.py" timestamp="1564909327648">
+      <file name="D:/GITHUB/TheOldChineseRoom/core/communication/rpc.py" timestamp="1564922980007">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="14" />
       </file>
@@ -364,6 +365,13 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_controller/window_controller.py" timestamp="1515261905372">
         <mark key="[" line="46" column="8" />
       </file>
+      <file name="D:/GITHUB/PyEaseRPC/tests/test_rpc.py" timestamp="1564924387496">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="D:/GITHUB/PyEaseRPC/tests/test_redis_manager.py" timestamp="1564923088858" />
       <file name="D:/GITHUB/PyTexturePacker/setup.py" timestamp="1495355603176">
         <mark key="[" line="6" column="18" />
       </file>
@@ -440,46 +448,48 @@
       <jump line="4214" column="15" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
       <jump line="5338" column="6" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
       <jump line="5339" column="8" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
+      <jump line="29" column="0" filename="D:/GITHUB/PyEaseRPC/tests/test_rpc.py" />
+      <jump line="26" column="0" filename="D:/GITHUB/PyEaseRPC/tests/test_rpc.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">c2VydmljZVt7c2VydmljZV9uYW1lfV0uaW5zdGFuY2Vbe3NlcnZpY2VfdXVpZH1dLm1ldGhvZFtdIA==</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSBUcnVlOgogICAgICAgICAgICByZXN1bHQgPSBpbnN0YW5jZTEucHJvY2VzcygpCiAgICAgICAgICAgIHByaW50KHJlc3VsdCkKICAgICAgICAgICAgaWYgcmVzdWx0OgogICAgICAgICAgICAgICAgYnJlYWs=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c2VydmljZVt7c2VydmljZV9uYW1lfV0uaW5zdGFuY2Vbe3NlcnZpY2VfdXVpZH1dLm1ldGhvZFtdIA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>Time</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCkK</text>
+        <text encoding="base64">ICAgICAgICBpbnN0YW5jZTAgPSBUZXN0SW5zdGFuY2UoKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICB3aGlsZSBUcnVlOgogICAgICAgICAgICByZXN1bHQgPSBpbnN0YW5jZTEucHJvY2VzcygpCiAgICAgICAgICAgIHByaW50KHJlc3VsdCkKICAgICAgICAgICAgaWYgcmVzdWx0OgogICAgICAgICAgICAgICAgYnJlYWs=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcnBjX2RhdGEK</text>
+        <text encoding="base64">ICAgICAgICBpbnN0YW5jZTAucHJvY2VzcygpCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBycGNfZGF0YSA9IHJldHVybl9tYWlsYm94LmdldF9tZXNzYWdlKCkK</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICBpICs9IDEKICAgICAgICAgICAgICAgIHByaW50KGZmKQogICAgICAgICAgICAgICAgcmV0dXJuIGZm</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfY2FsbF9tZXRob2RfcmVzdWx0KHNlbGYsIHJldHVybl9tYWlsYm94KToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgcmFpc2UgRXhjZXB0aW9uKCJkIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyB0cnkgY2FjaGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgICAgIGV4aXQoMCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcnBjX2RhdGEgPSBzZWxmLl9yZXR1cm5fcnBjX2RhdGFfY2FjaGUucG9wKHJwY191dWlkLCBOb25lKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgaWYgaSA9PSAxMDAwOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aW1lb3V0ID0gZXhwaXJlX3RpbWUgLSBzZWxmLl9ycGNfbWFuYWdlci50aW1lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgdGltZS5zbGVlcCgxKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcnBjX2RhdGEgPSBzZWxmLl9yZXR1cm5fcnBjX2RhdGFfY2FjaGUucG9wKHJwY191dWlkLCBOb25lKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGdsb2JhbCBpCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIFRpbWVvdXRFcnJvcigpCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIGRlZiBzZXRVcChzZWxmKToKICAgICAgICBzZWxmLnNlcnZpY2VfdHRsID0gMC41CiAgICAgICAgc2VsZi5zZXJ2aWNlX2hlYXJ0YmVhdF9pbnRlcnZhbCA9IDAuMQogICAgICAgIFJQQ01hbmFnZXIuU0VSVklDRV9UVEwgPSBzZWxmLnNlcnZpY2VfdHRsCiAgICAgICAgUlBDTWFuYWdlci5TRVJWSUNFX0hFQVJUQkVBVF9JTlRFUlZBTCA9IHNlbGYuc2VydmljZV9oZWFydGJlYXRfaW50ZXJ2YWw=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
