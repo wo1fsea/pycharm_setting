@@ -91,7 +91,7 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/communication/redis_object.py" timestamp="1515336256148">
         <mark key="[" line="68" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1564926872033">
+      <file name="/Python Console" timestamp="1564927473953">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1518195946074">
@@ -223,12 +223,8 @@
       <file name="E:/Projects/PyEasyRPC/Memurai/memurai.conf" timestamp="1564539331154">
         <mark key="[" line="91" column="8" />
       </file>
-      <file name="D:/GITHUB/PyEaseRPC/pyeasyrpc/rpc.py" timestamp="1564923770128">
-        <mark key="a" line="189" column="8" />
-        <mark key="[" line="178" column="93" />
-        <mark key="]" line="178" column="93" />
-        <mark key="." line="178" column="93" />
-        <mark key="^" line="250" column="7" />
+      <file name="D:/GITHUB/PyEaseRPC/pyeasyrpc/rpc.py" timestamp="1564929385089">
+        <mark key="a" line="190" column="8" />
       </file>
       <file name="E:/Projects/PyEasyRPC/pyeasyrpc/db_connection.py" timestamp="1564468092466">
         <mark key="[" line="24" column="11" />
@@ -366,11 +362,11 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_controller/window_controller.py" timestamp="1515261905372">
         <mark key="[" line="46" column="8" />
       </file>
-      <file name="D:/GITHUB/PyEaseRPC/tests/test_rpc.py" timestamp="1564926360198">
-        <mark key="'" line="28" column="0" />
-        <mark key="[" line="58" column="43" />
-        <mark key="]" line="58" column="42" />
-        <mark key="." line="58" column="42" />
+      <file name="D:/GITHUB/PyEaseRPC/tests/test_rpc.py" timestamp="1564929569274">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="D:/GITHUB/PyEaseRPC/tests/test_redis_manager.py" timestamp="1564926038614" />
       <file name="D:/GITHUB/PyTexturePacker/setup.py" timestamp="1495355603176">
@@ -453,44 +449,54 @@
       <jump line="26" column="0" filename="D:/GITHUB/PyEaseRPC/tests/test_rpc.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, instance0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChjbGllbnQwLnNlcnZpY2VfdXVpZCwgaW5zdGFuY2UwLnNlcnZpY2VfdXVpZCkK</text>
       </register>
       <register name="-" type="4">
-        <text>, instance0</text>
+        <text>self._rpc_manager.unregister_service(</text>
       </register>
       <register name="/" type="4">
         <text>Time</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGNsaWVudDAuYWRkKDEsIDIpLCAzKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbnN0YW5jZTAuc2VydmljZV91dWlkKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbnN0YW5jZTEgPSBUZXN0SW5zdGFuY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjbGllbnQwLnNlcnZpY2VfdXVpZCwgaW5zdGFuY2UwLnNlcnZpY2VfdXVpZCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnQwID0gUlBDQ2xpZW50KCJUZXN0SW5zdGFuY2UiLCBpbnN0YW5jZTApCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbnN0YW5jZTAuX3JwY19tYW5hZ2VyLmdldF9hbGl2ZV9zZXJ2aWNlX3V1aWRfc2V0KCJUZXN0SW5zdGFuY2UiKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+        <text encoding="base64">ICAgICAgICB0aW1lLnNsZWVwKDEpCg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICB3aGlsZSBUcnVlOgogICAgICAgICAgICByZXN1bHQgPSBpbnN0YW5jZTEucHJvY2VzcygpCiAgICAgICAgICAgIHByaW50KHJlc3VsdCkKICAgICAgICAgICAgaWYgcmVzdWx0OgogICAgICAgICAgICAgICAgYnJlYWs=</text>
+        <text encoding="base64">CiAgICAgICAgaW5zdGFuY2UwLnVucmVnaXN0ZXIoKQogICAgICAgIGluc3RhbmNlMS51bnJlZ2lzdGVyKCkKICAgICAgICBwcmludChpbnN0YW5jZTAuc2VydmljZV91dWlkKQogICAgICAgIHByaW50KGluc3RhbmNlMS5zZXJ2aWNlX3V1aWQpCiAgICAgICAgaW1wb3J0IHN5cwogICAgICAgIHByaW50KHN5cy5nZXRyZWZjb3VudChpbnN0YW5jZTApKQ==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbnN0YW5jZTAucHJvY2VzcygpCg==</text>
+      <register name="5" type="4">
+        <text>class SafeDelHandler(object):
+    def __init__(self, func):
+        self._func = func
+
+    def __del__(self):
+        try:
+            self._func()
+        except Exception as ex:
+            # TODO: log
+            print(&quot;SafeDelHandler Exception&quot;, ex)
+            pass</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICBpICs9IDEKICAgICAgICAgICAgICAgIHByaW50KGZmKQogICAgICAgICAgICAgICAgcmV0dXJuIGZm</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChsZW4od2VmLmNvKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgcmFpc2UgRXhjZXB0aW9uKCJkIikK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLndlZiA9IHdlYWtyZWYuV2Vha1NldCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgICAgIGV4aXQoMCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgaWYgaSA9PSAxMDAwOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
