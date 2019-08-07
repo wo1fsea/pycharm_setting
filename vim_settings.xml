@@ -6,12 +6,6 @@
       <file name="/start_script.py" timestamp="1483538622308">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/rpc_data.py" timestamp="1564552351823">
-        <mark key="[" line="41" column="4" />
-        <mark key="]" line="41" column="35" />
-        <mark key="^" line="40" column="3" />
-        <mark key="." line="41" column="0" />
-      </file>
       <file name="D:/GITHUB/PyEaseRPC/requirements.txt" timestamp="1564761439109">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -20,7 +14,7 @@
       <file name="D:/GITHUB/PykerStars/pykerstars/table.py" timestamp="1497448052160">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1564495251331">
+      <file name="/a.dummy" timestamp="1564932145770">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/frame_capture_lancher.py" timestamp="1507367280303">
@@ -46,7 +40,11 @@
       <file name="E:/Projects/TheChineseRoom/the_chinese_room/quick_test_starter.py" timestamp="1550839743915">
         <mark key="[" line="13" column="20" />
       </file>
-      <file name="C:/Program Files/Python36/Lib/site-packages/redis/client.py" timestamp="1564930461652" />
+      <file name="D:/GITHUB/PyEaseRPC/example_client.py" timestamp="1564932203740">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_manager/window_manager_osx.py" timestamp="1507133534680">
         <mark key="[" line="0" column="0" />
       </file>
@@ -58,12 +56,6 @@
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/communication/__init__.py" timestamp="1507212401116">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/Projects/PyEasyRPC/tests/test_redis_collections/test_dict.py" timestamp="1564624267326">
-        <mark key="[" line="28" column="23" />
-        <mark key="]" line="103" column="27" />
-        <mark key="^" line="16" column="0" />
-        <mark key="." line="103" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/TheChineseRoom/core/input_controller/input_recorder_pyuserinput.py" timestamp="1547389531039">
         <mark key="[" line="30" column="25" />
@@ -81,7 +73,6 @@
       <file name="$USER_HOME$/GitHub/faceswap/lib/gui/utils.py" timestamp="1531546577742">
         <mark key="[" line="166" column="49" />
       </file>
-      <file name="D:/GITHUB/TheOldChineseRoom/rpc_test1.py" timestamp="1564923181278" />
       <file name="$USER_HOME$/Projects/Ray-Tracing-in-Python/requirements.txt" timestamp="1536903815882">
         <mark key="[" line="0" column="6" />
       </file>
@@ -99,12 +90,6 @@
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/requirements.txt" timestamp="1513421309808">
         <mark key="[" line="8" column="5" />
-      </file>
-      <file name="E:/Projects/PyEasyRPC/tests/test_dummy.py" timestamp="1564495290596">
-        <mark key="[" line="13" column="6" />
-        <mark key="]" line="13" column="6" />
-        <mark key="." line="13" column="6" />
-        <mark key="^" line="8" column="3" />
       </file>
       <file name="E:/Projects/TheChineseRoom/the_chinese_room/core/window_controller/window_controller_win32.py" timestamp="1550841746730">
         <mark key="[" line="32" column="11" />
@@ -143,12 +128,6 @@
       <file name="/README.ipynb" timestamp="1560268818826">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/queue.py" timestamp="1564557736548">
-        <mark key="[" line="19" column="61" />
-        <mark key="]" line="19" column="61" />
-        <mark key="." line="19" column="61" />
-        <mark key="^" line="19" column="61" />
-      </file>
       <file name="D:/GITHUB/PyEaseRPC/pyeasyrpc/redis_collections/redis_object.py" timestamp="1564840100539">
         <mark key="[" line="108" column="0" />
         <mark key="]" line="11" column="11" />
@@ -176,17 +155,16 @@
       <file name="D:/GITHUB/PykerStars/pykerstars/utils/_poker_enum2.py" timestamp="1497540869769">
         <mark key="[" line="0" column="14" />
       </file>
-      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/dict.py" timestamp="1564557717781">
-        <mark key="[" line="18" column="35" />
-        <mark key="]" line="18" column="35" />
-        <mark key="^" line="16" column="22" />
-        <mark key="." line="18" column="35" />
-      </file>
       <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/ocr_seq2seq.py" timestamp="1518534145272">
         <mark key="[" line="24" column="105" />
       </file>
       <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/core/input_controller/input_controller.py" timestamp="1549445747141">
         <mark key="[" line="29" column="13" />
+      </file>
+      <file name="D:/GITHUB/PyEaseRPC/example_sever.py" timestamp="1565189978107">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/utils/rect.py" timestamp="1549446471799">
         <mark key="[" line="84" column="0" />
@@ -227,12 +205,6 @@
       <file name="D:/GITHUB/PyEaseRPC/pyeasyrpc/rpc.py" timestamp="1564930136322">
         <mark key="a" line="201" column="8" />
       </file>
-      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/db_connection.py" timestamp="1564468092466">
-        <mark key="[" line="24" column="11" />
-        <mark key="]" line="24" column="11" />
-        <mark key="." line="24" column="11" />
-        <mark key="^" line="25" column="17" />
-      </file>
       <file name="/usr/local/lib/python3.6/site-packages/numba/decorators.py" timestamp="1538669997427">
         <mark key="[" line="3" column="0" />
       </file>
@@ -252,6 +224,12 @@
         <mark key="]" line="13" column="15" />
         <mark key="." line="13" column="15" />
       </file>
+      <file name="D:/GITHUB/PyEaseRPC/example.py" timestamp="1564932056728">
+        <mark key="[" line="43" column="10" />
+        <mark key="]" line="43" column="23" />
+        <mark key="." line="43" column="23" />
+        <mark key="^" line="44" column="22" />
+      </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/__init__.py" timestamp="1477839593099">
         <mark key="[" line="0" column="29" />
       </file>
@@ -264,12 +242,6 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/input_controller/input_recorder_pynput.py" timestamp="1513356941731">
         <mark key="[" line="72" column="36" />
       </file>
-      <file name="E:/Projects/PyEasyRPC/tests/test_redis_collections/test_set.py" timestamp="1564627438633">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="31" />
-        <mark key="." line="75" column="0" />
-        <mark key="^" line="73" column="29" />
-      </file>
       <file name="$USER_HOME$/Documents/PykerStars/.gitignore" timestamp="1486071398335">
         <mark key="[" line="1" column="0" />
       </file>
@@ -279,21 +251,11 @@
       <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/set.py" timestamp="1564627103212">
         <mark key="[" line="161" column="47" />
       </file>
-      <file name="E:/Projects/TheChineseRoom/the_chinese_room/agent/agent.py" timestamp="1550892842864">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="25" />
-        <mark key="." line="86" column="23" />
-        <mark key="^" line="86" column="23" />
-      </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Image.py" timestamp="1475379944934">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/utils/__init__.py" timestamp="1547828471946">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/GITHUB/PyEaseRPC/tests/test_redis_collections/test_dict.py" timestamp="1564761780620">
-        <mark key="]" line="24" column="8" />
-        <mark key="." line="24" column="8" />
       </file>
       <file name="D:/GITHUB/PykerStars/pykerstars/utils/_poker_enum3.py" timestamp="1497540865696">
         <mark key="[" line="14" column="7" />
@@ -310,14 +272,11 @@
       <file name="/code.py" timestamp="1538669968900">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/GITHUB/PyEaseRPC/README.md" timestamp="1564932991177">
+        <mark key="[" line="0" column="11" />
+      </file>
       <file name="E:/Projects/PyEasyRPC/pyeasyrpc/collections/__init__.py" timestamp="1564464643264">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/Projects/PyEasyRPC/.travis.yml" timestamp="1564539138067">
-        <mark key="[" line="4" column="9" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="2" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/launcher/laucher.py" timestamp="1507368669618">
         <mark key="[" line="0" column="0" />
@@ -363,12 +322,11 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_controller/window_controller.py" timestamp="1515261905372">
         <mark key="[" line="46" column="8" />
       </file>
-      <file name="D:/GITHUB/PyEaseRPC/tests/test_rpc.py" timestamp="1564929930817">
-        <mark key="[" line="83" column="16" />
+      <file name="D:/GITHUB/PyEaseRPC/tests/test_rpc.py" timestamp="1564931195819">
+        <mark key="[" line="86" column="16" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="D:/GITHUB/PyEaseRPC/tests/test_redis_manager.py" timestamp="1564926038614" />
       <file name="D:/GITHUB/PyTexturePacker/setup.py" timestamp="1495355603176">
         <mark key="[" line="6" column="18" />
       </file>
@@ -449,54 +407,54 @@
       <jump line="26" column="0" filename="D:/GITHUB/PyEaseRPC/tests/test_rpc.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICBkZWYgc2V0X2NhbGxfbWV0aG9kX3Jlc3VsdChzZWxmLCBycGNfZGF0YSk6CiAgICAgICAgcmV0dXJuX21haWxib3ggPSBNYWlsYm94KHJwY19kYXRhWyJyZXR1cm5fbWFpbGJveCJdLCB1cmw9c2VsZi5fcmVkaXNfdXJsLCBwYWNrZXI9c2VsZi5fZGF0YV9wYWNrZXIpCiAgICAgICAgcmV0dXJuX21haWxib3guc2V0X21lc3NhZ2UocnBjX2RhdGEpCiAgICAgICAgc2VsZi5pbmNyZWFzZV90b3RhbF9yZXR1cm4ocnBjX2RhdGFbInNlcnZpY2VfbmFtZSJdLCBycGNfZGF0YVsic2VydmljZV91dWlkIl0p</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBweWVhc3lycGMucnBjIGltcG9ydCBSUENDbGllbnQK</text>
       </register>
       <register name="-" type="4">
         <text>get_call_method_request</text>
       </register>
       <register name="/" type="4">
-        <text>Time</text>
+        <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjbGllbnQwLl9yZXR1cm5fcnBjX2RhdGFfY2FjaGUpCg==</text>
+        <text encoding="base64">ICAgIGNsaWVudC5tYWtlX2RpY3QoYT0xLCBiPTIsIGM9MykK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICBkZWYgc2V0X2NhbGxfbWV0aG9kX3Jlc3VsdChzZWxmLCBycGNfZGF0YSk6CiAgICAgICAgcmV0dXJuX21haWxib3ggPSBNYWlsYm94KHJwY19kYXRhWyJyZXR1cm5fbWFpbGJveCJdLCB1cmw9c2VsZi5fcmVkaXNfdXJsLCBwYWNrZXI9c2VsZi5fZGF0YV9wYWNrZXIpCiAgICAgICAgcmV0dXJuX21haWxib3guc2V0X21lc3NhZ2UocnBjX2RhdGEpCiAgICAgICAgc2VsZi5pbmNyZWFzZV90b3RhbF9yZXR1cm4ocnBjX2RhdGFbInNlcnZpY2VfbmFtZSJdLCBycGNfZGF0YVsic2VydmljZV91dWlkIl0p</text>
+      <register name="1" type="2">
+        <text encoding="base64">ZnJvbSBweWVhc3lycGMucnBjIGltcG9ydCBSUENDbGllbnQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVxdWVzdF9tYWlsYm94LmdldF9tZXNzYWdlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiAoc2VsZiwgcmVxdWVzdF9tYWlsYm94KToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+        <text encoding="base64">ICAgIGNsaWVudCA9IFJQQ0NsaWVudCgiU2VydmljZUluc3RhbmNlIikK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHdlYWtyZWYK</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICBwcmludCgiYWRkIiwgY2xpZW50LmFkZCgxLCAyKSkKICAgIHByaW50KCJzdWIiLCBjbGllbnQuc3ViKDEwMCwgMS4xKSkKICAgIHByaW50KCJtYWtlX2RpY3QiLCBjbGllbnQubWFrZV9kaWN0KGE9MSwgYj0yLCBjPTMpKQogICAgcHJpbnQoIm1ha2VfbGlzdCIsIGNsaWVudC5tYWtlX2xpc3QoMSwgWzJdLCB7M30pKQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjbGllbnQwLl9yZXR1cm5fcnBjX2RhdGFfY2FjaGUpCg==</text>
+        <text encoding="base64">ICAgIGluc3RhbmNlMC5zdG9wX2JhY2tncm91bmRfcnVubmluZygpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjbGllbnQwLl9yZXR1cm5fcnBjX2RhdGFfY2FjaGUpCg==</text>
+        <text encoding="base64">ICAgIGluc3RhbmNlMC5zdGFydF9iYWNrZ3JvdW5kX3J1bm5pbmcoKQo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIHJwY1QgPSBSUENUZXN0Q2FzZSgpCiAgICBycGNULnRlc3RfY2FsbF9tZXRob2QoKQogICAgcnBjVC50ZXN0X3J1bl9zZXJ2aWNlX2luX3RocmVhZCgp</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGluc3RhbmNlMCA9IFNlcnZpY2VJbnN0YW5jZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>Time</last-search>
+      <last-search encoding="base64">XDwpXD4=</last-search>
       <last-offset />
-      <last-pattern>Time</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDwpXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -515,6 +473,7 @@
         <entry>Error</entry>
         <entry>TimeOut</entry>
         <entry>Time</entry>
+        <entry encoding="base64">XDwpXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
