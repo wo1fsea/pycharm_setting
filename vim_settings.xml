@@ -9,8 +9,8 @@
         <mark key="^" line="16" column="22" />
         <mark key="." line="18" column="35" />
       </file>
-      <file name="$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/collections/__init__.pyi" timestamp="1564552655750">
-        <mark key="'" line="28" column="25" />
+      <file name="/Dummy.txt" timestamp="1564626616427">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Projects/PyEasyRPC/pyeasyrpc/rpc_data.py" timestamp="1564552351823">
         <mark key="[" line="41" column="4" />
@@ -21,6 +21,12 @@
       <file name="/Python Console" timestamp="1564627594752">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/Projects/PyEasyRPC/tests/test_redis_collections/test_dict.py" timestamp="1564624267326">
+        <mark key="[" line="28" column="23" />
+        <mark key="]" line="103" column="27" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="103" column="27" />
+      </file>
       <file name="/a.dummy" timestamp="1564495251331">
         <mark key="[" line="0" column="0" />
       </file>
@@ -30,13 +36,31 @@
         <mark key="." line="13" column="6" />
         <mark key="^" line="8" column="3" />
       </file>
+      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/queue.py" timestamp="1564557736548">
+        <mark key="[" line="19" column="61" />
+        <mark key="]" line="19" column="61" />
+        <mark key="." line="19" column="61" />
+        <mark key="^" line="19" column="61" />
+      </file>
       <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/list.py" timestamp="1564557729560">
         <mark key="[" line="12" column="37" />
         <mark key="]" line="12" column="37" />
         <mark key="." line="12" column="37" />
       </file>
+      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/collections/__init__.py" timestamp="1564464643264">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/Projects/PyEasyRPC/.travis.yml" timestamp="1564539138067">
+        <mark key="[" line="4" column="9" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="2" column="7" />
+      </file>
       <file name="E:/Projects/TheChineseRoom/the_chinese_room/core/window_controller/window_controller_win32.py" timestamp="1550841746730">
         <mark key="[" line="32" column="11" />
+      </file>
+      <file name="E:/Projects/PyEasyRPC/Memurai/memurai.conf" timestamp="1564539331154">
+        <mark key="[" line="91" column="8" />
       </file>
       <file name="E:/Projects/PyEasyRPC/tests/DummyTest.py" timestamp="1564471742274">
         <mark key="[" line="0" column="0" />
@@ -46,6 +70,21 @@
         <mark key="]" line="75" column="31" />
         <mark key="." line="75" column="0" />
         <mark key="^" line="73" column="29" />
+      </file>
+      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/db_connection.py" timestamp="1564468092466">
+        <mark key="[" line="24" column="11" />
+        <mark key="]" line="24" column="11" />
+        <mark key="." line="24" column="11" />
+        <mark key="^" line="25" column="17" />
+      </file>
+      <file name="$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/collections/__init__.pyi" timestamp="1564552655750">
+        <mark key="'" line="28" column="25" />
+      </file>
+      <file name="E:/Projects/PyEasyRPC/start_db.bat" timestamp="1564539308456">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/Projects/PyEasyRPC/test/__init__.py" timestamp="1564469001104">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/set.py" timestamp="1564627103212">
         <mark key="[" line="161" column="47" />
@@ -58,45 +97,6 @@
       </file>
       <file name="E:/Projects/TheChineseRoom/the_chinese_room/quick_test_starter.py" timestamp="1550839743915">
         <mark key="[" line="13" column="20" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1564626616427">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/Projects/PyEasyRPC/tests/test_redis_collections/test_dict.py" timestamp="1564624267326">
-        <mark key="[" line="28" column="23" />
-        <mark key="]" line="103" column="27" />
-        <mark key="^" line="16" column="0" />
-        <mark key="." line="103" column="27" />
-      </file>
-      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/queue.py" timestamp="1564557736548">
-        <mark key="[" line="19" column="61" />
-        <mark key="]" line="19" column="61" />
-        <mark key="." line="19" column="61" />
-        <mark key="^" line="19" column="61" />
-      </file>
-      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/collections/__init__.py" timestamp="1564464643264">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/Projects/PyEasyRPC/.travis.yml" timestamp="1564539138067">
-        <mark key="[" line="4" column="9" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="2" column="7" />
-      </file>
-      <file name="E:/Projects/PyEasyRPC/Memurai/memurai.conf" timestamp="1564539331154">
-        <mark key="[" line="91" column="8" />
-      </file>
-      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/db_connection.py" timestamp="1564468092466">
-        <mark key="[" line="24" column="11" />
-        <mark key="]" line="24" column="11" />
-        <mark key="." line="24" column="11" />
-        <mark key="^" line="25" column="17" />
-      </file>
-      <file name="E:/Projects/PyEasyRPC/start_db.bat" timestamp="1564539308456">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/Projects/PyEasyRPC/test/__init__.py" timestamp="1564469001104">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -178,5 +178,8 @@
         <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="false" />
+    </editor>
   </component>
 </application>
