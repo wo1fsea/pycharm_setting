@@ -89,19 +89,19 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/communication/redis_object.py" timestamp="1515336256148">
         <mark key="[" line="68" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1566314859481">
+      <file name="/Python Console" timestamp="1566317392762">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1518195946074">
+      <file name="/fragment.py" timestamp="1566317318898">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/requirements.txt" timestamp="1513421309808">
         <mark key="[" line="8" column="5" />
       </file>
       <file name="D:/GITHUB/PyHotfixer/test1.py" timestamp="1566313906008">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="E:/Projects/TheChineseRoom/the_chinese_room/core/window_controller/window_controller_win32.py" timestamp="1550841746730">
         <mark key="[" line="32" column="11" />
@@ -178,6 +178,7 @@
       <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/core/input_controller/input_controller.py" timestamp="1549445747141">
         <mark key="[" line="29" column="13" />
       </file>
+      <file name="C:/Program Files/Python36/Lib/imp.py" timestamp="1566316328629" />
       <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/utils/rect.py" timestamp="1549446471799">
         <mark key="[" line="84" column="0" />
       </file>
@@ -189,10 +190,10 @@
       <file name="E:/Projects/PyEasyRPC/tests/DummyTest.py" timestamp="1564471742274">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/PyHotfixer/pyhotfixer/pyhotfixer.py" timestamp="1566314944036">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="D:/GITHUB/PyHotfixer/pyhotfixer/pyhotfixer.py" timestamp="1566318171039">
+        <mark key="[" line="25" column="49" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="D:/GITHUB/PyEaseRPC/.travis.yml" timestamp="1564583105903">
         <mark key="[" line="13" column="4" />
@@ -270,6 +271,11 @@
       </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Image.py" timestamp="1475379944934">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/GITHUB/PyHotfixer/test.py" timestamp="1566317213889">
+        <mark key="[" line="21" column="20" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/utils/__init__.py" timestamp="1547828471946">
         <mark key="[" line="0" column="0" />
@@ -428,51 +434,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGludmFsaWRhdGVfY2FjaGVzKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>None</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG5vX2hvdGZpeF9jbGFzc19kYXRhID0gMQo=</text>
+        <text encoding="base64">ICAgICAgICBtb2R1bGUgPSBpbXAuZmluZF9tb2R1bGUoZnVsbG5hbWUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGludmFsaWRhdGVfY2FjaGVzKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltcG9ydGxpYi5pbnZhbGlkYXRlX2NhY2hlcygpCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICAjIGBgc3lzLm1vZHVsZXNgYCDW0LGjtOa1xMrH0tG+rbW8yOu5/bXEIG1vZHVsZQogICAgICAgICMgz8i00yBzeXMubWV0YV9wYXRoINbQyb6z/dfUtqjS5bXEIGZpbmRlcgogICAgICAgICMgt8DWuc/Cw+bWtNDQIGltcG9ydF9tb2R1bGUgtcTKsbry1Nm0zrSlt6K0yyBmaW5kZXIKICAgICAgICAjILTTtviz9s/Wtd256bX308O1xM7KzOIKICAgICAgICBmaW5kZXIgPSBzeXMubWV0YV9wYXRoLnBvcCgwKQogICAgICAgICMgtbzI6yBtb2R1bGU=</text>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CmNsYXNzIEhvdGZpeGVyRmluZGVyKGltcG9ydGxpYi5hYmMuTWV0YVBhdGhGaW5kZXIpOgoKICAgIGRlZiBmaW5kX3NwZWMoc2VsZiwgZnVsbG5hbWUsIHBhdGgsIHRhcmdldD1Ob25lKToKICAgICAgICBpZiBwYXRoIGlzIE5vbmUgb3IgcGF0aCA9PSAiIjoKICAgICAgICAgICAgcGF0aCA9IFtvcy5nZXRjd2QoKV0KICAgICAgICBpZiAiLiIgaW4gZnVsbG5hbWU6CiAgICAgICAgICAgICpwYXJlbnRzLCBuYW1lID0gZnVsbG5hbWUuc3BsaXQoIi4iKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIG5hbWUgPSBmdWxsbmFtZQogICAgICAgIGZvciBlbnRyeSBpbiBwYXRoOgogICAgICAgICAgICBpZiBvcy5wYXRoLmlzZGlyKG9zLnBhdGguam9pbihlbnRyeSwgbmFtZSkpOgogICAgICAgICAgICAgICAgIyB0aGlzIG1vZHVsZSBoYXMgY2hpbGQgbW9kdWxlcwogICAgICAgICAgICAgICAgZmlsZW5hbWUgPSBvcy5wYXRoLmpvaW4oZW50cnksIG5hbWUsICJfX2luaXRfXy5weSIpCiAgICAgICAgICAgICAgICBzdWJtb2R1bGVfbG9jYXRpb25zID0gW29zLnBhdGguam9pbihlbnRyeSwgbmFtZSldCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBmaWxlbmFtZSA9IG9zLnBhdGguam9pbihlbnRyeSwgbmFtZSArICIucHkiKQogICAgICAgICAgICAgICAgc3VibW9kdWxlX2xvY2F0aW9ucyA9IE5vbmUKICAgICAgICAgICAgaWYgbm90IG9zLnBhdGguZXhpc3RzKGZpbGVuYW1lKToKICAgICAgICAgICAgICAgIGNvbnRpbnVlCgogICAgICAgICAgICByZXR1cm4gaW1wb3J0bGliLnV0aWwuc3BlY19mcm9tX2ZpbGVfbG9jYXRpb24oCiAgICAgICAgICAgICAgICBmdWxsbmFtZSwKICAgICAgICAgICAgICAgIGZpbGVuYW1lLAogICAgICAgICAgICAgICAgbG9hZGVyPU1ldGFQYXRoTG9hZGVyKCksCiAgICAgICAgICAgICAgICBzdWJtb2R1bGVfc2VhcmNoX2xvY2F0aW9ucz1zdWJtb2R1bGVfbG9jYXRpb25zCiAgICAgICAgICAgICkKCiAgICAgICAgcmV0dXJuIE5vbmUgICMgd2UgZG9uJ3Qga25vdyBob3cgdG8gaW1wb3J0IHRoaXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN5cy5tb2R1bGVzW2Z1bGxuYW1lXQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTm9uZSAgIyB3ZSBkb24ndCBrbm93IGhvdyB0byBpbXBvcnQgdGhpcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBmdWxsbmFtZSBpbiBzeXMubW9kdWxlczoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG1vZHVsZQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>import unittest
-import os
-
-cur_dir = os.path.dirname(os.path.abspath(__file__))
-tests_dir = cur_dir + '/tests'
-
-tests = unittest.defaultTestLoader.discover(tests_dir)
-runner = unittest.TextTestRunner(verbosity=2)
-runner.run(tests)</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnRsaWIuaW52YWxpZGF0ZV9jYWNoZXMoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzeXMubWV0YV9wYXRoLmluc2VydCgwLCBmaW5kZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YSA9IGYucmVhZCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
