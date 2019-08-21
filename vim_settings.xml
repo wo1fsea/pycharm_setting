@@ -14,7 +14,7 @@
       <file name="D:/GITHUB/PykerStars/pykerstars/table.py" timestamp="1497448052160">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1566230276222">
+      <file name="/a.dummy" timestamp="1566401462895">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -72,10 +72,20 @@
         <mark key="]" line="12" column="11" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="D:/GITHUB/PyHotfixer/tests/module_test.py.v1" timestamp="1566402243641">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/core/process_controller/process_controller.py" timestamp="1549448651493">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/GITHUB/PyHotfixer/tests/module_test.py.v2" timestamp="1566402295907">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/GitHub/faceswap/lib/gui/utils.py" timestamp="1531546577742">
         <mark key="[" line="166" column="49" />
@@ -109,7 +119,7 @@
       <file name="$USER_HOME$/Documents/PykerStars/handranks.py" timestamp="1486143744144">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/PyHotfixer/tests/module_test.py" timestamp="1566398901113">
+      <file name="D:/GITHUB/PyHotfixer/tests/module_test.py" timestamp="1566401330472">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -119,8 +129,11 @@
         <mark key="]" line="18" column="28" />
         <mark key="." line="18" column="28" />
       </file>
-      <file name="D:/GITHUB/PyHotfixer/tests/test_hotfix_module.py" timestamp="1566401138754">
-        <mark key="[" line="15" column="0" />
+      <file name="D:/GITHUB/PyHotfixer/tests/test_hotfix_module.py" timestamp="1566402200142">
+        <mark key="[" line="50" column="56" />
+        <mark key="]" line="50" column="0" />
+        <mark key="^" line="39" column="56" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/__init__.py" timestamp="1518279604336">
         <mark key="[" line="0" column="0" />
@@ -275,12 +288,7 @@
       <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Image.py" timestamp="1475379944934">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/PyHotfixer/test.py" timestamp="1566399607386">
-        <mark key="[" line="24" column="23" />
-        <mark key="]" line="24" column="24" />
-        <mark key="^" line="20" column="23" />
-        <mark key="." line="24" column="0" />
-      </file>
+      <file name="D:/GITHUB/PyHotfixer/test.py" timestamp="1566401173957" />
       <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/utils/__init__.py" timestamp="1547828471946">
         <mark key="[" line="0" column="0" />
       </file>
@@ -437,44 +445,44 @@
       <jump line="26" column="0" filename="D:/GITHUB/PyEaseRPC/tests/test_rpc.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>only</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBza2lwX2hvdGZpeAo=</text>
       </register>
       <register name="-" type="4">
-        <text>only</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBza2lwX2hvdGZpeAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGhvdGZpeF9jbGFzcy5ob3RmaXhfbWV0aG9kKCksIDEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNsYXNzX25hbWUgPSBmcmFtZS5mX2JhY2suZl9jb2RlLmNvX25hbWVzCg==</text>
+        <text encoding="base64">ICAgIEBza2lwX2hvdGZpeAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBza2lwX2hvdGZpeAo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICBwcmludChjbGFzc19uYW1lLCBtZXRob2RfbmFtZSkKCiAgICBpZiBpc2luc3RhbmNlKG9iaiwgcHJvcGVydHkpOgogICAgICAgIHByaW50KG9iaik=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBvYmoK</text>
+        <text encoding="base64">ICAgIGRlZiBub19ob3RmaXhfbWV0aG9kKHNlbGYpOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
+        <text encoding="base64">ICAgIEBza2lwX2hvdGZpeAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBza2lwX2hvdGZpeAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBza2lwX2hvdGZpeAo=</text>
+        <text encoding="base64">ICAgICAgICBob3RmaXhfbWV0aG9kX3Jlc3VsdCA9IGhvdGZpeF9jbGFzcy5ob3RmaXhfbWV0aG9kKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBza2lwX2hvdGZpeAo=</text>
+        <text encoding="base64">ICAgICAgICBob3RmaXhfY2xhc3NfdjEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBza2lwX2hvdGZpeAo=</text>
+        <text encoding="base64">ICAgICAgICBob3RmaXhfY2xhc3NfdjEK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
