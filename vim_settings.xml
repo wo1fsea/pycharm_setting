@@ -89,7 +89,7 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/communication/redis_object.py" timestamp="1515336256148">
         <mark key="[" line="68" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1566399112386">
+      <file name="/Python Console" timestamp="1566399806869">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1566317318898">
@@ -98,10 +98,10 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/requirements.txt" timestamp="1513421309808">
         <mark key="[" line="8" column="5" />
       </file>
-      <file name="D:/GITHUB/PyHotfixer/test1.py" timestamp="1566398989493">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="D:/GITHUB/PyHotfixer/test1.py" timestamp="1566399802025">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="16" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="E:/Projects/TheChineseRoom/the_chinese_room/core/window_controller/window_controller_win32.py" timestamp="1550841746730">
         <mark key="[" line="32" column="11" />
@@ -189,7 +189,7 @@
       <file name="E:/Projects/PyEasyRPC/tests/DummyTest.py" timestamp="1564471742274">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/PyHotfixer/pyhotfixer/pyhotfixer.py" timestamp="1566399110839">
+      <file name="D:/GITHUB/PyHotfixer/pyhotfixer/pyhotfixer.py" timestamp="1566399664836">
         <mark key="[" line="266" column="18" />
         <mark key="]" line="266" column="18" />
         <mark key="." line="266" column="18" />
@@ -271,7 +271,7 @@
       <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Image.py" timestamp="1475379944934">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/PyHotfixer/test.py" timestamp="1566318925651">
+      <file name="D:/GITHUB/PyHotfixer/test.py" timestamp="1566399607386">
         <mark key="[" line="24" column="23" />
         <mark key="]" line="24" column="24" />
         <mark key="^" line="20" column="23" />
@@ -434,7 +434,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">XQo=</text>
+        <text encoding="base64">ICAgIEBza2lwX2hvdGZpeAo=</text>
       </register>
       <register name="-" type="4">
         <text>method</text>
@@ -446,31 +446,31 @@
         <text encoding="base64">cHJpbnQoYS5tZXRob2QuX19jb2RlX18pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">XQo=</text>
+        <text encoding="base64">ICAgIEBza2lwX2hvdGZpeAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJmdW5jX3NraXAiCg==</text>
+        <text encoding="base64">ICAgIEBza2lwX2hvdGZpeAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">X19ob3RmaXhfc2tpcF9saXN0X18gPSBbCg==</text>
+        <text encoding="base64">ICAgIEBza2lwX2hvdGZpeAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzeXMubW9kdWxlcy5wb3AobmFtZSkK</text>
+        <text encoding="base64">XQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzeXMubW9kdWxlcy5nZXQobmFtZSkpCg==</text>
+        <text encoding="base64">ICAgICJmdW5jX3NraXAiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQoYS5tZXRob2QuX19jb2RlX18pCg==</text>
+        <text encoding="base64">X19ob3RmaXhfc2tpcF9saXN0X18gPSBbCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGludmFsaWRhdGVfY2FjaGVzKCkK</text>
+        <text encoding="base64">ICAgICAgICBzeXMubW9kdWxlcy5wb3AobmFtZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGltcG9ydGxpYi5pbnZhbGlkYXRlX2NhY2hlcygpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzeXMubW9kdWxlcy5nZXQobmFtZSkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">cHJpbnQoYS5tZXRob2QuX19jb2RlX18pCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
