@@ -98,10 +98,10 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/requirements.txt" timestamp="1513421309808">
         <mark key="[" line="8" column="5" />
       </file>
-      <file name="D:/GITHUB/PyHotfixer/test1.py" timestamp="1566399802025">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="16" />
-        <mark key="." line="40" column="0" />
+      <file name="D:/GITHUB/PyHotfixer/test1.py" timestamp="1566400804169">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="E:/Projects/TheChineseRoom/the_chinese_room/core/window_controller/window_controller_win32.py" timestamp="1550841746730">
         <mark key="[" line="32" column="11" />
@@ -118,6 +118,9 @@
         <mark key="[" line="18" column="28" />
         <mark key="]" line="18" column="28" />
         <mark key="." line="18" column="28" />
+      </file>
+      <file name="D:/GITHUB/PyHotfixer/tests/test_hotfix_module.py" timestamp="1566401138754">
+        <mark key="[" line="15" column="0" />
       </file>
       <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/__init__.py" timestamp="1518279604336">
         <mark key="[" line="0" column="0" />
@@ -189,10 +192,11 @@
       <file name="E:/Projects/PyEasyRPC/tests/DummyTest.py" timestamp="1564471742274">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/PyHotfixer/pyhotfixer/pyhotfixer.py" timestamp="1566399664836">
-        <mark key="[" line="266" column="18" />
-        <mark key="]" line="266" column="18" />
-        <mark key="." line="266" column="18" />
+      <file name="D:/GITHUB/PyHotfixer/pyhotfixer/pyhotfixer.py" timestamp="1566401045270">
+        <mark key="[" line="258" column="38" />
+        <mark key="]" line="258" column="38" />
+        <mark key="^" line="258" column="59" />
+        <mark key="." line="258" column="38" />
       </file>
       <file name="D:/GITHUB/PyEaseRPC/.travis.yml" timestamp="1564583105903">
         <mark key="[" line="13" column="4" />
@@ -433,44 +437,44 @@
       <jump line="26" column="0" filename="D:/GITHUB/PyEaseRPC/tests/test_rpc.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBza2lwX2hvdGZpeAo=</text>
+      <register name="&quot;" type="4">
+        <text>only</text>
       </register>
       <register name="-" type="4">
-        <text>method</text>
+        <text>only</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHJpbnQoYS5tZXRob2QuX19jb2RlX18pCg==</text>
+        <text encoding="base64">ICAgIEBza2lwX2hvdGZpeAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBza2lwX2hvdGZpeAo=</text>
+        <text encoding="base64">ICAgIGNsYXNzX25hbWUgPSBmcmFtZS5mX2JhY2suZl9jb2RlLmNvX25hbWVzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBza2lwX2hvdGZpeAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIEBza2lwX2hvdGZpeAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICBwcmludChjbGFzc19uYW1lLCBtZXRob2RfbmFtZSkKCiAgICBpZiBpc2luc3RhbmNlKG9iaiwgcHJvcGVydHkpOgogICAgICAgIHByaW50KG9iaik=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">XQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBvYmoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJmdW5jX3NraXAiCg==</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">X19ob3RmaXhfc2tpcF9saXN0X18gPSBbCg==</text>
+        <text encoding="base64">ICAgIEBza2lwX2hvdGZpeAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzeXMubW9kdWxlcy5wb3AobmFtZSkK</text>
+        <text encoding="base64">ICAgIEBza2lwX2hvdGZpeAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzeXMubW9kdWxlcy5nZXQobmFtZSkpCg==</text>
+        <text encoding="base64">ICAgIEBza2lwX2hvdGZpeAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnQoYS5tZXRob2QuX19jb2RlX18pCg==</text>
+        <text encoding="base64">ICAgIEBza2lwX2hvdGZpeAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
