@@ -11,10 +11,15 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="D:/GITHUB/PyHotfixer/.travis.yml" timestamp="1566486433524">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="D:/GITHUB/PykerStars/pykerstars/table.py" timestamp="1497448052160">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1566401462895">
+      <file name="/a.dummy" timestamp="1566402387424">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -82,8 +87,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/PyHotfixer/tests/module_test.py.v2" timestamp="1566402295907">
-        <mark key="[" line="13" column="0" />
+      <file name="D:/GITHUB/PyHotfixer/tests/module_test.py.v2" timestamp="1566402349953">
+        <mark key="[" line="14" column="15" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
@@ -129,11 +134,11 @@
         <mark key="]" line="18" column="28" />
         <mark key="." line="18" column="28" />
       </file>
-      <file name="D:/GITHUB/PyHotfixer/tests/test_hotfix_module.py" timestamp="1566402200142">
-        <mark key="[" line="50" column="56" />
-        <mark key="]" line="50" column="0" />
-        <mark key="^" line="39" column="56" />
-        <mark key="." line="50" column="0" />
+      <file name="D:/GITHUB/PyHotfixer/tests/test_hotfix_module.py" timestamp="1566403094094">
+        <mark key="[" line="41" column="25" />
+        <mark key="]" line="47" column="31" />
+        <mark key="." line="47" column="30" />
+        <mark key="^" line="47" column="30" />
       </file>
       <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/__init__.py" timestamp="1518279604336">
         <mark key="[" line="0" column="0" />
@@ -202,14 +207,18 @@
         <mark key="]" line="12" column="37" />
         <mark key="." line="12" column="37" />
       </file>
+      <file name="D:/GITHUB/PyHotfixer/README.md" timestamp="1566486692843">
+        <mark key="[" line="1" column="107" />
+        <mark key="]" line="1" column="107" />
+        <mark key="." line="1" column="107" />
+      </file>
       <file name="E:/Projects/PyEasyRPC/tests/DummyTest.py" timestamp="1564471742274">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/PyHotfixer/pyhotfixer/pyhotfixer.py" timestamp="1566401045270">
-        <mark key="[" line="258" column="38" />
-        <mark key="]" line="258" column="38" />
-        <mark key="^" line="258" column="59" />
-        <mark key="." line="258" column="38" />
+      <file name="D:/GITHUB/PyHotfixer/pyhotfixer/pyhotfixer.py" timestamp="1566487163417">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="D:/GITHUB/PyEaseRPC/.travis.yml" timestamp="1564583105903">
         <mark key="[" line="13" column="4" />
@@ -250,6 +259,9 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="D:/GITHUB/PyHotfixer/tests/module_test.v1.py" timestamp="1566402744897">
+        <mark key="[" line="22" column="13" />
+      </file>
       <file name="$USER_HOME$/Projects/Ray-Tracing-in-Python/.gitignore" timestamp="1538567910260">
         <mark key="[" line="104" column="0" />
       </file>
@@ -266,6 +278,9 @@
       </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/__init__.py" timestamp="1477839593099">
         <mark key="[" line="0" column="29" />
+      </file>
+      <file name="D:/GITHUB/PyHotfixer/tests/module_test0.py" timestamp="1566402704705">
+        <mark key="[" line="6" column="0" />
       </file>
       <file name="vim_settings.xml" timestamp="1513361563762">
         <mark key="[" line="0" column="0" />
@@ -288,7 +303,6 @@
       <file name="$USER_HOME$/Documents/PyTexturePacker/PyTexturePacker/Image.py" timestamp="1475379944934">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/PyHotfixer/test.py" timestamp="1566401173957" />
       <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/utils/__init__.py" timestamp="1547828471946">
         <mark key="[" line="0" column="0" />
       </file>
@@ -307,7 +321,7 @@
       <file name="/code.py" timestamp="1538669968900">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/PyEaseRPC/README.md" timestamp="1566228619666">
+      <file name="D:/GITHUB/PyEaseRPC/README.md" timestamp="1566486619583">
         <mark key="[" line="1" column="54" />
         <mark key="]" line="1" column="85" />
         <mark key="." line="1" column="0" />
@@ -362,6 +376,12 @@
         <mark key="[" line="86" column="16" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="D:/GITHUB/PyHotfixer/pyhotfixer/__init__.py" timestamp="1566487128432">
+        <mark key="[" line="9" column="79" />
+        <mark key="]" line="9" column="12" />
+        <mark key="^" line="9" column="12" />
+        <mark key="." line="9" column="12" />
       </file>
       <file name="D:/GITHUB/PyTexturePacker/setup.py" timestamp="1565797855278">
         <mark key="[" line="11" column="0" />
@@ -446,43 +466,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBza2lwX2hvdGZpeAo=</text>
+        <text encoding="base64">ICAgICAgICAjIGRvIHNvbWV0aGluZyB3aXRoIGRhdGEgLi4uCg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>PyEasyRPC</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGhvdGZpeF9jbGFzcy5ob3RmaXhfbWV0aG9kKCksIDEpCg==</text>
+        <text encoding="base64">ICAgICAgICBob3RmaXgoWyJtb2R1bGVfdGVzdCJdKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBza2lwX2hvdGZpeAo=</text>
+        <text encoding="base64">ICAgICAgICAjIGRvIHNvbWV0aGluZyB3aXRoIGRhdGEgLi4uCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBza2lwX2hvdGZpeAo=</text>
+        <text encoding="base64">ICAgICAgICAjIGVnLiBpZ25vcmUgaXQuLi4gcmV0dXJuICJwcmludCgnaGVsbG8gd29ybGQnKSIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMQo=</text>
+        <text encoding="base64">WyFbUHlQSSBTdGF0dXNdKGh0dHBzOi8vYmFkZ2UuZnVyeS5pby9weS9weWVhc3lycGMuc3ZnKV0oaHR0cHM6Ly9weXBpLm9yZy9wcm9qZWN0L3B5ZWFzeXJwYy8pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBub19ob3RmaXhfbWV0aG9kKHNlbGYpOgo=</text>
+        <text encoding="base64">ICAtICIyLjciCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBza2lwX2hvdGZpeAo=</text>
+        <text encoding="base64">aW1wb3J0IG1vZHVsZV90ZXN0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgbW9kdWxlX3Rlc3QK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBob3RmaXhfbWV0aG9kX3Jlc3VsdCA9IGhvdGZpeF9jbGFzcy5ob3RmaXhfbWV0aG9kKCkK</text>
+        <text encoding="base64">ICAgICAgICBtZXRob2RfbmFtZSA9IG9iai5fX2NvZGVfXy5jb19uYW1lCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBob3RmaXhfY2xhc3NfdjEK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBob3RmaXhfY2xhc3NfdjEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
