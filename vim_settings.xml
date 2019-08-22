@@ -33,7 +33,7 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/output/output.py" timestamp="1508081577260">
         <mark key="[" line="3" column="4" />
       </file>
-      <file name="D:/GITHUB/PyHotfixer/tests/module_test.v2.py" timestamp="1566489094605">
+      <file name="D:/GITHUB/PyHotfixer/tests/module_test.v2.py" timestamp="1566490322845">
         <mark key="]" line="5" column="17" />
         <mark key="^" line="4" column="16" />
         <mark key="." line="5" column="0" />
@@ -129,21 +129,21 @@
       <file name="$USER_HOME$/Documents/PykerStars/handranks.py" timestamp="1486143744144">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/PyHotfixer/tests/module_test.py" timestamp="1566401330472">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="D:/GITHUB/PyHotfixer/tests/module_test.py" timestamp="1566489632387">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/core/window_controller/window_controller.py" timestamp="1549378571742">
         <mark key="[" line="18" column="28" />
         <mark key="]" line="18" column="28" />
         <mark key="." line="18" column="28" />
       </file>
-      <file name="D:/GITHUB/PyHotfixer/tests/test_hotfix_module.py" timestamp="1566489239699">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="32" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="43" column="13" />
+      <file name="D:/GITHUB/PyHotfixer/tests/test_hotfix_module.py" timestamp="1566489980591">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+        <mark key="^" line="58" column="64" />
       </file>
       <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/__init__.py" timestamp="1518279604336">
         <mark key="[" line="0" column="0" />
@@ -220,7 +220,7 @@
       <file name="E:/Projects/PyEasyRPC/tests/DummyTest.py" timestamp="1564471742274">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/PyHotfixer/pyhotfixer/pyhotfixer.py" timestamp="1566488824042">
+      <file name="D:/GITHUB/PyHotfixer/pyhotfixer/pyhotfixer.py" timestamp="1566489452247">
         <mark key="[" line="184" column="0" />
         <mark key="]" line="184" column="0" />
         <mark key="." line="184" column="0" />
@@ -264,10 +264,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="D:/GITHUB/PyHotfixer/tests/module_test.v1.py" timestamp="1566489085417">
-        <mark key="[" line="13" column="11" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="D:/GITHUB/PyHotfixer/tests/module_test.v1.py" timestamp="1566490316330">
+        <mark key="[" line="95" column="6" />
+        <mark key="]" line="95" column="6" />
+        <mark key="^" line="49" column="17" />
+        <mark key="." line="95" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/Ray-Tracing-in-Python/.gitignore" timestamp="1538567910260">
         <mark key="[" line="104" column="0" />
@@ -473,46 +474,47 @@
       <jump line="5339" column="8" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1120166012/builtins.py" />
       <jump line="29" column="0" filename="D:/GITHUB/PyEaseRPC/tests/test_rpc.py" />
       <jump line="26" column="0" filename="D:/GITHUB/PyEaseRPC/tests/test_rpc.py" />
+      <jump line="78" column="26" filename="D:/GITHUB/PyHotfixer/tests/module_test.v1.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpZChvYmouX19jbGFzc19fKSkK</text>
+      <register name="&quot;" type="4">
+        <text>nest</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b2JqX2NsYXNzID0g</text>
+        <text>nest</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpZChtb2R1bGVfdGVzdC5PQkpFQ1RfQ1JFQVRFRF9XSEVOX0hPVEZJWElORy5fX2NsYXNzX18pLCBpZChvYmouX19jbGFzc19fKSkK</text>
+        <text encoding="base64">ICAgICMgc3RhdGljbWV0aG9kCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpZChvYmouX19jbGFzc19fKSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpc2luc3RhbmNlKG1vZHVsZV90ZXN0LmhvdGZpeF9mdW5jX3coKSwgb2JqX2NsYXNzKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QHNraXBfaG90Zml4Cg==</text>
+        <text encoding="base64">ICAgIEBza2lwX2hvdGZpeAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBvYmogPSAK</text>
+        <text encoding="base64">ICAgIEBza2lwX2hvdGZpeAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgUHlfVFBGTEFHU19IRUFQVFlQRQo=</text>
+        <text encoding="base64">QHNraXBfaG90Zml4Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpZChvYmouX19jbGFzc19fKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">QHNraXBfaG90Zml4Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICBvYmogPSAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICMgUHlfVFBGTEFHU19IRUFQVFlQRQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIGluc3BlY3QuaXNtZW1iZXJkZXNjcmlwdG9yKG9sZF9hdHRyKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
