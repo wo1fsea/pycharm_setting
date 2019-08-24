@@ -19,10 +19,15 @@
       <file name="D:/GITHUB/PykerStars/pykerstars/table.py" timestamp="1497448052160">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1566578522340">
+      <file name="/a.dummy" timestamp="1566661865324">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/GITHUB/PyHotfixer/tests/function_test_v1.py" timestamp="1566662380598">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/frame_capture_lancher.py" timestamp="1507367280303">
         <mark key="[" line="0" column="0" />
@@ -33,15 +38,19 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/output/output.py" timestamp="1508081577260">
         <mark key="[" line="3" column="4" />
       </file>
-      <file name="D:/GITHUB/PyHotfixer/tests/test_skip_hotfix_module.py" timestamp="1566657689965">
-        <mark key="[" line="58" column="0" />
+      <file name="D:/GITHUB/PyHotfixer/tests/test_skip_hotfix_module.py" timestamp="1566661846572">
+        <mark key="[" line="19" column="33" />
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="D:/GITHUB/PyHotfixer/tests/module_test.v2.py" timestamp="1566579475601">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="D:/GITHUB/PyHotfixer/tests/test_hotfix_function.py" timestamp="1566662416996">
+        <mark key="[" line="45" column="8" />
+        <mark key="]" line="45" column="58" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="51" column="56" />
+      </file>
+      <file name="D:/GITHUB/PyHotfixer/tests/module_test.v2.py" timestamp="1566659975012">
+        <mark key="^" line="4" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/frame_grabber/__init__.py" timestamp="1515252648015">
         <mark key="[" line="0" column="0" />
@@ -117,10 +126,10 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/communication/redis_object.py" timestamp="1515336256148">
         <mark key="[" line="68" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1566581250901">
+      <file name="/Python Console" timestamp="1566662364642">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1566581131150">
+      <file name="/fragment.py" timestamp="1566661806271">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -128,11 +137,10 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/requirements.txt" timestamp="1513421309808">
         <mark key="[" line="8" column="5" />
       </file>
-      <file name="D:/GITHUB/PyHotfixer/tests/class_test_v1.py" timestamp="1566577536885">
-        <mark key="[" line="9" column="16" />
-        <mark key="]" line="72" column="16" />
-        <mark key="." line="72" column="16" />
-        <mark key="^" line="72" column="16" />
+      <file name="D:/GITHUB/PyHotfixer/tests/class_test_v1.py" timestamp="1566661259174">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
       </file>
       <file name="D:/GITHUB/PyHotfixer/test1.py" timestamp="1566400804169">
         <mark key="[" line="54" column="0" />
@@ -155,12 +163,12 @@
         <mark key="]" line="18" column="28" />
         <mark key="." line="18" column="28" />
       </file>
-      <file name="D:/GITHUB/PyHotfixer/tests/test_hotfix_module.py" timestamp="1566657286015">
-        <mark key="'" line="52" column="0" />
-        <mark key="[" line="59" column="20" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-        <mark key="^" line="80" column="48" />
+      <file name="D:/GITHUB/PyHotfixer/tests/test_hotfix_module.py" timestamp="1566661515626">
+        <mark key="'" line="60" column="0" />
+        <mark key="[" line="110" column="76" />
+        <mark key="]" line="110" column="77" />
+        <mark key="." line="110" column="0" />
+        <mark key="^" line="92" column="75" />
       </file>
       <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/__init__.py" timestamp="1518279604336">
         <mark key="[" line="0" column="0" />
@@ -170,12 +178,6 @@
       </file>
       <file name="$USER_HOME$/Projects/TheChineseRoom/requirements.txt" timestamp="1549450558431">
         <mark key="[" line="4" column="14" />
-      </file>
-      <file name="D:/GITHUB/PyEaseRPC/pyeasyrpc/rpc_manager.py" timestamp="1564930035070">
-        <mark key="[" line="274" column="0" />
-        <mark key="]" line="274" column="0" />
-        <mark key="." line="274" column="0" />
-        <mark key="^" line="280" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/core/cv/ocr/ocr_tesserocr.py" timestamp="1549442334455">
         <mark key="[" line="0" column="0" />
@@ -193,11 +195,11 @@
         <mark key="]" line="11" column="11" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="D:/GITHUB/PyHotfixer/tests/test_hotfix_class.py" timestamp="1566577878396">
-        <mark key="[" line="43" column="53" />
-        <mark key="]" line="63" column="63" />
-        <mark key="." line="63" column="63" />
-        <mark key="^" line="63" column="63" />
+      <file name="D:/GITHUB/PyHotfixer/tests/test_hotfix_class.py" timestamp="1566661665191">
+        <mark key="[" line="93" column="95" />
+        <mark key="]" line="64" column="55" />
+        <mark key="." line="64" column="55" />
+        <mark key="^" line="64" column="55" />
       </file>
       <file name="D:/GITHUB/PyEaseRPC/pyeasyrpc/redis_collections/dict.py" timestamp="1564760396421">
         <mark key="[" line="77" column="7" />
@@ -213,10 +215,16 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/input/window_manager_win32.py" timestamp="1507123703233">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/GITHUB/PyHotfixer/tests/module_skip_test_v2.py" timestamp="1566661872935">
+        <mark key="[" line="9" column="14" />
+      </file>
       <file name="D:/GITHUB/PyEaseRPC/pyeasyrpc/redis_connection.py" timestamp="1564840272282">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
+      </file>
+      <file name="D:/GITHUB/PyHotfixer/tests/new_module_test.py" timestamp="1566660753826">
+        <mark key="[" line="1" column="0" />
       </file>
       <file name="D:/GITHUB/PykerStars/pykerstars/utils/_poker_enum2.py" timestamp="1497540869769">
         <mark key="[" line="0" column="14" />
@@ -235,18 +243,18 @@
         <mark key="]" line="12" column="37" />
         <mark key="." line="12" column="37" />
       </file>
-      <file name="D:/GITHUB/PyHotfixer/README.md" timestamp="1566486692843">
-        <mark key="[" line="1" column="107" />
-        <mark key="]" line="1" column="107" />
-        <mark key="." line="1" column="107" />
+      <file name="D:/GITHUB/PyHotfixer/README.md" timestamp="1566662734630">
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="4" column="20" />
+        <mark key="." line="4" column="20" />
       </file>
       <file name="E:/Projects/PyEasyRPC/tests/DummyTest.py" timestamp="1564471742274">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/PyHotfixer/pyhotfixer/pyhotfixer.py" timestamp="1566657083067">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="33" />
-        <mark key="." line="78" column="0" />
+      <file name="D:/GITHUB/PyHotfixer/pyhotfixer/pyhotfixer.py" timestamp="1566662359437">
+        <mark key="[" line="235" column="0" />
+        <mark key="]" line="235" column="0" />
+        <mark key="." line="235" column="0" />
       </file>
       <file name="D:/GITHUB/PyEaseRPC/.travis.yml" timestamp="1564583105903">
         <mark key="[" line="13" column="4" />
@@ -273,6 +281,11 @@
       <file name="E:/Projects/PyEasyRPC/Memurai/memurai.conf" timestamp="1564539331154">
         <mark key="[" line="91" column="8" />
       </file>
+      <file name="D:/GITHUB/PyHotfixer/tests/function_test_v2.py" timestamp="1566662437868">
+        <mark key="[" line="10" column="15" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="/usr/local/lib/python3.6/site-packages/numba/decorators.py" timestamp="1538669997427">
         <mark key="[" line="3" column="0" />
       </file>
@@ -284,9 +297,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="D:/GITHUB/PyHotfixer/tests/module_test.v1.py" timestamp="1566657516589" />
-      <file name="D:/GITHUB/PyHotfixer/tests/test_hotfix_new_module.py" timestamp="1566579019535">
-        <mark key="[" line="13" column="0" />
+      <file name="D:/GITHUB/PyHotfixer/tests/module_test.v1.py" timestamp="1566659982224">
+        <mark key="[" line="23" column="16" />
+      </file>
+      <file name="D:/GITHUB/PyHotfixer/tests/test_hotfix_new_module.py" timestamp="1566657812035">
+        <mark key="[" line="19" column="18" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
@@ -297,12 +312,6 @@
         <mark key="[" line="13" column="15" />
         <mark key="]" line="13" column="15" />
         <mark key="." line="13" column="15" />
-      </file>
-      <file name="D:/GITHUB/PyEaseRPC/example.py" timestamp="1564932056728">
-        <mark key="[" line="43" column="10" />
-        <mark key="]" line="43" column="23" />
-        <mark key="." line="43" column="23" />
-        <mark key="^" line="44" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/PyTexturePacker/__init__.py" timestamp="1477839593099">
         <mark key="[" line="0" column="29" />
@@ -357,10 +366,10 @@
       <file name="D:/GITHUB/PyHotfixer/tests/new_module.py" timestamp="1566487911401">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/PyHotfixer/tests/class_test_v2.py" timestamp="1566578243165">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
+      <file name="D:/GITHUB/PyHotfixer/tests/class_test_v2.py" timestamp="1566661051082">
+        <mark key="[" line="68" column="8" />
+        <mark key="]" line="68" column="8" />
+        <mark key="." line="68" column="8" />
       </file>
       <file name="E:/Projects/PyEasyRPC/pyeasyrpc/collections/__init__.py" timestamp="1564464643264">
         <mark key="[" line="0" column="0" />
@@ -393,12 +402,6 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/window_manager/__init__.py" timestamp="1507134074779">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/PyTexturePacker/README.rst" timestamp="1565798818820">
-        <mark key="[" line="159" column="4" />
-        <mark key="]" line="159" column="30" />
-        <mark key="^" line="156" column="29" />
-        <mark key="." line="159" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/TheChineseRoom/the_chinese_room/quick_test/agent.py" timestamp="1549448970167">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -417,12 +420,6 @@
         <mark key="[" line="86" column="16" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
-      </file>
-      <file name="D:/GITHUB/PyHotfixer/pyhotfixer/__init__.py" timestamp="1566487128432">
-        <mark key="[" line="9" column="79" />
-        <mark key="]" line="9" column="12" />
-        <mark key="^" line="9" column="12" />
-        <mark key="." line="9" column="12" />
       </file>
       <file name="D:/GITHUB/PyTexturePacker/setup.py" timestamp="1565797855278">
         <mark key="[" line="11" column="0" />
@@ -510,43 +507,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICBkZWYgdGVzdF9ob3RmaXhfbW9kdWxlX2V4Y2VwdGlvbihzZWxmKToKICAgICAgICBzaHV0aWwuY29weShzZWxmLm1vZHVsZV9maWxlX3YxLCBzZWxmLm1vZHVsZV9maWxlKQoKICAgICAgICBzeXMubW9kdWxlcy5wb3AoIm1vZHVsZV90ZXN0IiwgTm9uZSkKICAgICAgICBpbXBvcnQgbW9kdWxlX3Rlc3QKCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChtb2R1bGVfdGVzdC5OT19IT1RGSVhfREFUQSwgMSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG1vZHVsZV90ZXN0LkhPVEZJWF9EQVRBLCAxKQoKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG1vZHVsZV90ZXN0Lm5vX2hvdGZpeF9mdW5jKCksIDEpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChtb2R1bGVfdGVzdC5ob3RmaXhfZnVuYygpLCAxKQoKICAgICAgICBzaHV0aWwuY29weShzZWxmLm1vZHVsZV9maWxlX3YyLCBzZWxmLm1vZHVsZV9maWxlKQogICAgICAgIGhvdGZpeChbIm1vZHVsZV90ZXN0IiwgIm1vZHVsZV9leGNlcHRpb25fdGVzdCJdKQoKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG1vZHVsZV90ZXN0Lk5PX0hPVEZJWF9EQVRBLCAxKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwobW9kdWxlX3Rlc3QuSE9URklYX0RBVEEsIDIpCgogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwobW9kdWxlX3Rlc3Qubm9faG90Zml4X2Z1bmMoKSwgMSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG1vZHVsZV90ZXN0LmhvdGZpeF9mdW5jKCksIDIp</text>
+        <text>manager</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>manager</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN5cy5tb2R1bGVzW25hbWVdID0gT0xEX01PRFVMRVNbbmFtZV0K</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGZ1bmN0aW9uX3Rlc3QuY2xvc3VyZV9mdW5jMSgpLCAxKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICBkZWYgdGVzdF9ob3RmaXhfbW9kdWxlX2V4Y2VwdGlvbihzZWxmKToKICAgICAgICBzaHV0aWwuY29weShzZWxmLm1vZHVsZV9maWxlX3YxLCBzZWxmLm1vZHVsZV9maWxlKQoKICAgICAgICBzeXMubW9kdWxlcy5wb3AoIm1vZHVsZV90ZXN0IiwgTm9uZSkKICAgICAgICBpbXBvcnQgbW9kdWxlX3Rlc3QKCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChtb2R1bGVfdGVzdC5OT19IT1RGSVhfREFUQSwgMSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG1vZHVsZV90ZXN0LkhPVEZJWF9EQVRBLCAxKQoKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG1vZHVsZV90ZXN0Lm5vX2hvdGZpeF9mdW5jKCksIDEpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChtb2R1bGVfdGVzdC5ob3RmaXhfZnVuYygpLCAxKQoKICAgICAgICBzaHV0aWwuY29weShzZWxmLm1vZHVsZV9maWxlX3YyLCBzZWxmLm1vZHVsZV9maWxlKQogICAgICAgIGhvdGZpeChbIm1vZHVsZV90ZXN0IiwgIm1vZHVsZV9leGNlcHRpb25fdGVzdCJdKQoKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG1vZHVsZV90ZXN0Lk5PX0hPVEZJWF9EQVRBLCAxKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwobW9kdWxlX3Rlc3QuSE9URklYX0RBVEEsIDIpCgogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwobW9kdWxlX3Rlc3Qubm9faG90Zml4X2Z1bmMoKSwgMSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG1vZHVsZV90ZXN0LmhvdGZpeF9mdW5jKCksIDIp</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGRhdGEgPSAxCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRhdGEgPSAxCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">X19za2lwX2hvdGZpeF9fID0gVHJ1ZSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CgpjbGFzcyBPYmpDcmVhdGVkV2hlbkhvdGZpeGluZyhvYmplY3QpOgogICAgZGF0YSA9IDEKCgpPQkpFQ1RfQ1JFQVRFRF9XSEVOX0hPVEZJWElORyA9IE9iakNyZWF0ZWRXaGVuSG90Zml4aW5nKCkKCgpkZWYgaG90Zml4X2Z1bmNfd2l0aF9vYmpfZGVmYXVsdChvYmo9T2JqQ3JlYXRlZFdoZW5Ib3RmaXhpbmcoKSk6CiAgICByZXR1cm4gb2JqCgoKZGVmIGhvdGZpeF9mdW5jX3dpdGhfY2xvc3VyZSgpOgogICAgZGVmIGNlbGxfZnVuYygpOgogICAgICAgIHJldHVybiAxCgogICAgZGVmIGNsb3N1cmVfZnVuYygpOgogICAgICAgIHJldHVybiBjZWxsX2Z1bmMoKQoKICAgIHJldHVybiBjbG9zdXJlX2Z1bmMKCgpmdW5jID0gaG90Zml4X2Z1bmNfd2l0aF9jbG9zdXJlKCk=</text>
+      <register name="4" type="2">
+        <text encoding="base64">T0JKRUNUX0NSRUFURURfV0hFTl9IT1RGSVhJTkcgPSBPYmpDcmVhdGVkV2hlbkhvdGZpeGluZygpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0bGliLmludmFsaWRhdGVfY2FjaGVzKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGhvdGZpeF9tb2R1bGUob2xkX21vZHVsZSwgbmV3X21vZHVsZSkK</text>
+        <text encoding="base64">T0JKRUNUX0NSRUFURURfV0hFTl9IT1RGSVhJTkcgPSBPYmpDcmVhdGVkV2hlbkhvdGZpeGluZygpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGltcG9ydGxpYi5pbnZhbGlkYXRlX2NhY2hlcygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaG90Zml4X21vZHVsZShvbGRfbW9kdWxlLCBuZXdfbW9kdWxlKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBjZWxsX2Z1bmMyKCk6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
@@ -625,6 +622,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
