@@ -126,7 +126,7 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/communication/redis_object.py" timestamp="1515336256148">
         <mark key="[" line="68" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1566662364642">
+      <file name="/Python Console" timestamp="1566710837936">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1566661806271">
@@ -251,10 +251,10 @@
       <file name="E:/Projects/PyEasyRPC/tests/DummyTest.py" timestamp="1564471742274">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/PyHotfixer/pyhotfixer/pyhotfixer.py" timestamp="1566662359437">
-        <mark key="[" line="235" column="0" />
-        <mark key="]" line="235" column="0" />
-        <mark key="." line="235" column="0" />
+      <file name="D:/GITHUB/PyHotfixer/pyhotfixer/pyhotfixer.py" timestamp="1566710905537">
+        <mark key="[" line="179" column="0" />
+        <mark key="]" line="179" column="0" />
+        <mark key="." line="179" column="0" />
       </file>
       <file name="D:/GITHUB/PyEaseRPC/.travis.yml" timestamp="1564583105903">
         <mark key="[" line="13" column="4" />
@@ -506,11 +506,11 @@
       <jump line="52" column="0" filename="D:/GITHUB/PyHotfixer/tests/test_hotfix_module.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>manager</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHR5cGUuX18K</text>
       </register>
       <register name="-" type="4">
-        <text>manager</text>
+        <text>old_class</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -519,31 +519,31 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGZ1bmN0aW9uX3Rlc3QuY2xvc3VyZV9mdW5jMSgpLCAxKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRhdGEgPSAxCg==</text>
+        <text encoding="base64">ICAgIHR5cGUuX18K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRhdGEgPSAxCg==</text>
+        <text encoding="base64">ICAgIG9sZF9jbGFzcyA9IGdldGF0dHIobW9kdWxlLCBjbGFzc19uYW1lKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNsYXNzX25hbWUgPSBuZXdfY2xhc3MuX19uYW1lX18K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">T0JKRUNUX0NSRUFURURfV0hFTl9IT1RGSVhJTkcgPSBPYmpDcmVhdGVkV2hlbkhvdGZpeGluZygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gb2JqCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">T0JKRUNUX0NSRUFURURfV0hFTl9IT1RGSVhJTkcgPSBPYmpDcmVhdGVkV2hlbkhvdGZpeGluZygpCg==</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBtb2R1bGU6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1vZHVsZSA9IE9MRF9NT0RVTEVTLmdldChtb2R1bGVfbmFtZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBjZWxsX2Z1bmMyKCk6Cg==</text>
+        <text encoding="base64">ICAgIG1vZHVsZV9uYW1lID0gbmV3X2NsYXNzLl9fbW9kdWxlX18K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
