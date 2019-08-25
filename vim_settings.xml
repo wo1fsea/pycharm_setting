@@ -49,8 +49,11 @@
         <mark key="." line="45" column="0" />
         <mark key="^" line="51" column="56" />
       </file>
-      <file name="D:/GITHUB/PyHotfixer/tests/module_test.v2.py" timestamp="1566659975012">
-        <mark key="^" line="4" column="17" />
+      <file name="D:/GITHUB/PyHotfixer/tests/module_test.v2.py" timestamp="1566713371467">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="34" />
+        <mark key="^" line="6" column="22" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/frame_grabber/__init__.py" timestamp="1515252648015">
         <mark key="[" line="0" column="0" />
@@ -94,6 +97,7 @@
       <file name="$USER_HOME$/Projects/TheChineseRoom/core/input_controller/input_recorder_pyuserinput.py" timestamp="1547389531039">
         <mark key="[" line="30" column="25" />
       </file>
+      <file name="C:/Program Files/Python36/Lib/re.py" timestamp="1566712742045" />
       <file name="D:/GITHUB/PyEaseRPC/tests/test_redis_collections/test_redis_object.py" timestamp="1564762638464">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="11" />
@@ -126,7 +130,7 @@
       <file name="$USER_HOME$/Documents/GitHub/TheChineseRoom/core/communication/redis_object.py" timestamp="1515336256148">
         <mark key="[" line="68" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1566710837936">
+      <file name="/Python Console" timestamp="1566713048045">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1566661806271">
@@ -163,12 +167,12 @@
         <mark key="]" line="18" column="28" />
         <mark key="." line="18" column="28" />
       </file>
-      <file name="D:/GITHUB/PyHotfixer/tests/test_hotfix_module.py" timestamp="1566661515626">
+      <file name="D:/GITHUB/PyHotfixer/tests/test_hotfix_module.py" timestamp="1566713511436">
         <mark key="'" line="60" column="0" />
-        <mark key="[" line="110" column="76" />
-        <mark key="]" line="110" column="77" />
-        <mark key="." line="110" column="0" />
-        <mark key="^" line="92" column="75" />
+        <mark key="[" line="96" column="8" />
+        <mark key="]" line="96" column="59" />
+        <mark key="." line="96" column="0" />
+        <mark key="^" line="95" column="57" />
       </file>
       <file name="D:/GITHUB/TheChineseRoom/core/ocr/ocr_seq2seq/__init__.py" timestamp="1518279604336">
         <mark key="[" line="0" column="0" />
@@ -251,10 +255,10 @@
       <file name="E:/Projects/PyEasyRPC/tests/DummyTest.py" timestamp="1564471742274">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/GITHUB/PyHotfixer/pyhotfixer/pyhotfixer.py" timestamp="1566710905537">
-        <mark key="[" line="179" column="0" />
-        <mark key="]" line="179" column="0" />
-        <mark key="." line="179" column="0" />
+      <file name="D:/GITHUB/PyHotfixer/pyhotfixer/pyhotfixer.py" timestamp="1566713135717">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="27" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="D:/GITHUB/PyEaseRPC/.travis.yml" timestamp="1564583105903">
         <mark key="[" line="13" column="4" />
@@ -297,8 +301,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="D:/GITHUB/PyHotfixer/tests/module_test.v1.py" timestamp="1566659982224">
-        <mark key="[" line="23" column="16" />
+      <file name="D:/GITHUB/PyHotfixer/tests/module_test.v1.py" timestamp="1566713524062">
+        <mark key="[" line="31" column="9" />
+        <mark key="]" line="33" column="13" />
+        <mark key="^" line="23" column="12" />
+        <mark key="." line="33" column="13" />
       </file>
       <file name="D:/GITHUB/PyHotfixer/tests/test_hotfix_new_module.py" timestamp="1566657812035">
         <mark key="[" line="19" column="18" />
@@ -507,43 +514,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHR5cGUuX18K</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG1vZHVsZV90ZXN0LkhvdEZpeENsYXNzLmZ1bmMoKSwgMSkK</text>
       </register>
       <register name="-" type="4">
-        <text>old_class</text>
+        <text>self</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGZ1bmN0aW9uX3Rlc3QuY2xvc3VyZV9mdW5jMSgpLCAxKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG1vZHVsZV90ZXN0LkhvdEZpeENsYXNzLmZ1bmMoKSwgMSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHR5cGUuX18K</text>
+        <text encoding="base64">QHN0YXRpY21ldGhvZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG9sZF9jbGFzcyA9IGdldGF0dHIobW9kdWxlLCBjbGFzc19uYW1lKQo=</text>
+        <text encoding="base64">ICAgICJPQkpFQ1RfQ1JFQVRFX1dIRU5fSE9URklYSU5HIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNsYXNzX25hbWUgPSBuZXdfY2xhc3MuX19uYW1lX18K</text>
+        <text encoding="base64">TkVXX0NMQVNTX1JFRiA9IE5ld0NsYXNzCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gb2JqCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBtb2R1bGU6Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIG1vZHVsZSA9IE9MRF9NT0RVTEVTLmdldChtb2R1bGVfbmFtZSkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGRlZiBmdW5jKHNlbGYpOgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Y2xhc3MgTmV3Q2xhc3Mob2JqZWN0ZCk6Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1vZHVsZV9uYW1lID0gbmV3X2NsYXNzLl9fbW9kdWxlX18K</text>
+        <text encoding="base64">T0JKRUNUX0NSRUFURURfV0hFTl9IT1RGSVhJTkcgPSBPYmpDcmVhdGVkV2hlbkhvdGZpeGluZygpCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
