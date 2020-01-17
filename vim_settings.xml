@@ -9,9 +9,6 @@
         <mark key="^" line="16" column="22" />
         <mark key="." line="18" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564626616427">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="E:/Projects/PyEasyRPC/pyeasyrpc/rpc_data.py" timestamp="1564552351823">
         <mark key="[" line="41" column="4" />
         <mark key="]" line="41" column="35" />
@@ -21,13 +18,7 @@
       <file name="/Python Console" timestamp="1564627594752">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Projects/PyEasyRPC/tests/test_redis_collections/test_dict.py" timestamp="1564624267326">
-        <mark key="[" line="28" column="23" />
-        <mark key="]" line="103" column="27" />
-        <mark key="^" line="16" column="0" />
-        <mark key="." line="103" column="27" />
-      </file>
-      <file name="/a.dummy" timestamp="1564495251331">
+      <file name="/a.dummy" timestamp="1579270329944">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Projects/PyEasyRPC/tests/test_dummy.py" timestamp="1564495290596">
@@ -36,31 +27,13 @@
         <mark key="." line="13" column="6" />
         <mark key="^" line="8" column="3" />
       </file>
-      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/queue.py" timestamp="1564557736548">
-        <mark key="[" line="19" column="61" />
-        <mark key="]" line="19" column="61" />
-        <mark key="." line="19" column="61" />
-        <mark key="^" line="19" column="61" />
-      </file>
       <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/list.py" timestamp="1564557729560">
         <mark key="[" line="12" column="37" />
         <mark key="]" line="12" column="37" />
         <mark key="." line="12" column="37" />
       </file>
-      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/collections/__init__.py" timestamp="1564464643264">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/Projects/PyEasyRPC/.travis.yml" timestamp="1564539138067">
-        <mark key="[" line="4" column="9" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="2" column="7" />
-      </file>
       <file name="E:/Projects/TheChineseRoom/the_chinese_room/core/window_controller/window_controller_win32.py" timestamp="1550841746730">
         <mark key="[" line="32" column="11" />
-      </file>
-      <file name="E:/Projects/PyEasyRPC/Memurai/memurai.conf" timestamp="1564539331154">
-        <mark key="[" line="91" column="8" />
       </file>
       <file name="E:/Projects/PyEasyRPC/tests/DummyTest.py" timestamp="1564471742274">
         <mark key="[" line="0" column="0" />
@@ -71,20 +44,9 @@
         <mark key="." line="75" column="0" />
         <mark key="^" line="73" column="29" />
       </file>
-      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/db_connection.py" timestamp="1564468092466">
-        <mark key="[" line="24" column="11" />
-        <mark key="]" line="24" column="11" />
-        <mark key="." line="24" column="11" />
-        <mark key="^" line="25" column="17" />
-      </file>
+      <file name="$USER_HOME$/Projects/G68/trunk/Universal/Hotfix/Account/MailComponentCustomHotfix.py" timestamp="1579270366993" />
       <file name="$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/collections/__init__.pyi" timestamp="1564552655750">
         <mark key="'" line="28" column="25" />
-      </file>
-      <file name="E:/Projects/PyEasyRPC/start_db.bat" timestamp="1564539308456">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/Projects/PyEasyRPC/test/__init__.py" timestamp="1564469001104">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/set.py" timestamp="1564627103212">
         <mark key="[" line="161" column="47" />
@@ -98,6 +60,51 @@
       <file name="E:/Projects/TheChineseRoom/the_chinese_room/quick_test_starter.py" timestamp="1550839743915">
         <mark key="[" line="13" column="20" />
       </file>
+      <file name="/Dummy.txt" timestamp="1564626616427">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/Projects/PyEasyRPC/tests/test_redis_collections/test_dict.py" timestamp="1564624267326">
+        <mark key="[" line="28" column="23" />
+        <mark key="]" line="103" column="27" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="103" column="27" />
+      </file>
+      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/queue.py" timestamp="1564557736548">
+        <mark key="[" line="19" column="61" />
+        <mark key="]" line="19" column="61" />
+        <mark key="." line="19" column="61" />
+        <mark key="^" line="19" column="61" />
+      </file>
+      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/collections/__init__.py" timestamp="1564464643264">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/Projects/PyEasyRPC/.travis.yml" timestamp="1564539138067">
+        <mark key="[" line="4" column="9" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="2" column="7" />
+      </file>
+      <file name="E:/Projects/PyEasyRPC/Memurai/memurai.conf" timestamp="1564539331154">
+        <mark key="[" line="91" column="8" />
+      </file>
+      <file name="E:/Projects/PyEasyRPC/pyeasyrpc/db_connection.py" timestamp="1564468092466">
+        <mark key="[" line="24" column="11" />
+        <mark key="]" line="24" column="11" />
+        <mark key="." line="24" column="11" />
+        <mark key="^" line="25" column="17" />
+      </file>
+      <file name="$USER_HOME$/Projects/G68/trunk/Client/Component/PlayerAvatarComponent/FestivalComponent.py" timestamp="1579270463433" />
+      <file name="E:/Projects/PyEasyRPC/start_db.bat" timestamp="1564539308456">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/Projects/PyEasyRPC/test/__init__.py" timestamp="1564469001104">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/G68/trunk/Universal/Hotfix/Account/BannerCrash20200117Hotfix.py" timestamp="1579270554380">
+        <mark key="[" line="15" column="10" />
+        <mark key="]" line="15" column="11" />
+        <mark key="." line="15" column="11" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="82" column="47" filename="$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/collections/__init__.pyi" />
@@ -106,11 +113,11 @@
       <jump line="183" column="46" filename="E:/Projects/PyEasyRPC/pyeasyrpc/redis_collections/set.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHMsIHMyKQo=</text>
+      <register name="&quot;" type="4">
+        <text>map(FestivalBannerData.Data.get, bannerList)</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>map(FestivalBannerData.Data.get, bannerList)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWFsXD4=</text>
@@ -119,36 +126,76 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHMsIHMyKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWJhbm5lckxpc3QgPSBob3N0RGF0YS5iYW5uZXJMaXN0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRlc3QgczIK</text>
+        <text encoding="base64">CQlob3N0RGF0YSA9IFdlbGZhcmVTZXJ2ZXJEYXRhLkRhdGFbRmVzdGl2YWxDb25zdC5ERUZBVUxUX0hPU1ROVU1dCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHMyLCBkYXRhKQo=</text>
+        <text encoding="base64">CWlmIG5vdCBob3N0RGF0YSBvciBub3QgaG9zdERhdGEuYmFubmVyTGlzdDoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeyJpbnQiOiAxLCAiZmxvYXQiOiAyLiwgInN0cmluZyI6ICJzdHJpbmcifSwK</text>
+        <text encoding="base64">CWhvc3REYXRhID0gV2VsZmFyZVNlcnZlckRhdGEuRGF0YS5nZXQoaG9zdG51bSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWzAsICIxIiwgMi4wLCAzXSwK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHMyLCBkLmRhdGEpCg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">CWhvc3RudW0gPSBzZWxmLmVudGl0eS5ob3N0bnVtCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>elf.assertEqual(d2[&quot;int&quot;], data[&quot;int&quot;])
-        self.assertEqual(d2[&quot;float&quot;], data[&quot;float&quot;])
-        self.assertEqual(d2[&quot;string&quot;], data[&quot;string&quot;])
-        self.assertEqual(d2[&quot;dict&quot;], data[&quot;dict&quot;])
-        self.assertSequenceEqual(d2[&quot;list&quot;], data[&quot;list&quot;])
-        self.assertSequenceEqual(d2[&quot;tuple&quot;], data[&quot;tuple&quot;])</text>
+      <register name="7" type="4">
+        <text># -*- coding: utf-8 -*-
+&quot;&quot;&quot;----------------------------------------------------------------------------
+Author:
+	Jiahong Wu
+	wujiahong@corp.netease.com
+Description:
+
+History:
+	12/18/2019, create file.
+----------------------------------------------------------------------------&quot;&quot;&quot;
+from GUI.MovieUI.QTEventUI import RollEventUI
+import GUI.MovieUI.QTEventUI
+import Game
+
+if Game.GUI.RollEventUI:
+	import ccui
+	import Utils
+	Game.GUI.RollEventUI.window.Seek(&quot;Panel_PickDlg&quot;).position = 1334, -120
+
+	def AdjustForIpx():
+		size = Game.GUI.RollEventUI.window.contentSize
+		panelMain = Game.GUI.RollEventUI.window.Seek(&quot;Panel_Main&quot;)
+		panelMain.contentSize = (size[0] - 200, size[1])
+		ccui.Helper.doLayout(panelMain.GetSoul())
+
+	if Utils.IsIpx():
+		AdjustForIpx()
+
+
+def Init(self, args):
+	super(RollEventUI, self).Init(args)
+	import ccui
+	import Utils
+	self.window.Seek(&quot;Panel_PickDlg&quot;).position = 1334, -120
+
+	def AdjustForIpx():
+		size = self.window.contentSize
+		panelMain = self.window.Seek(&quot;Panel_Main&quot;)
+		panelMain.contentSize = (size[0] - 200, size[1])
+		ccui.Helper.doLayout(panelMain.GetSoul())
+
+	if Utils.IsIpx():
+		AdjustForIpx()
+
+
+GUI.MovieUI.QTEventUI.RollEventUI.Init = Init</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChkLmdldCgibm90IGZvdW5kIiksIE5vbmUpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChkLmdldCgibm90IGZvdW5kIiwgTm9uZSksIE5vbmUpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChkLmdldCgibm90IGZvdW5kIiwgMSksIDEpCgogICAgICAgIGRbImZvdW5kIl0gPSAiZm91bmQiCgogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoImZvdW5kIiBpbiBkLCBUcnVlKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoImZvdW5kIiBub3QgaW4gZCwgRmFsc2UpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChkLmdldCgiZm91bmQiKSwgImZvdW5kIikKCiAgICAgICAgIyB0ZXN0IHNldGRlZmF1bHQKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGQuc2V0ZGVmYXVsdCgiZm91bmQiLCBOb25lKSwgImZvdW5kIikKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGQuc2V0ZGVmYXVsdCgibm90IGZvdW5kIiwgIm5vdCBmb3VuZCIpLCAibm90IGZvdW5kIikKCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChkLmdldCgibm90IGZvdW5kIiksICJub3QgZm91bmQiKQoKICAgICAgICBkZWwgZFsibm90IGZvdW5kIl0KICAgICAgICBkZWwgZFsiZm91bmQiXQoKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKCJmb3VuZCIgaW4gZCwgRmFsc2UpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbCgiZm91bmQiIG5vdCBpbiBkLCBUcnVlKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoZC5nZXQoImZvdW5kIiksIE5vbmUpCgogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoZFsiaW50Il0sIGRhdGFbImludCJdKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoZFsiZmxvYXQiXSwgZGF0YVsiZmxvYXQiXSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGRbInN0cmluZyJdLCBkYXRhWyJzdHJpbmciXSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGRbImRpY3QiXSwgZGF0YVsiZGljdCJdKQogICAgICAgIHNlbGYuYXNzZXJ0U2VxdWVuY2VFcXVhbChkWyJsaXN0Il0sIGRhdGFbImxpc3QiXSkKICAgICAgICBzZWxmLmFzc2VydFNlcXVlbmNlRXF1YWwoZFsidHVwbGUiXSwgZGF0YVsidHVwbGUiXSkKCiAgICAgICAgIyB0ZXN0IGtleXMKICAgICAgICBzZWxmLmFzc2VydFNlcXVlbmNlRXF1YWwoc29ydGVkKGQua2V5cygpKSwgc29ydGVkKGRhdGEua2V5cygpKSkKICAgICAgICAjIHRlc3QgaXRlcgogICAgICAgIHNlbGYuYXNzZXJ0U2VxdWVuY2VFcXVhbChzb3J0ZWQoZCksIHNvcnRlZChkYXRhLmtleXMoKSkpCiAgICAgICAgIyBUT0RPOiB0ZXN0IHZhbHVlcwogICAgICAgICMgVE9ETzogdGVzdCBpdGVtcwoKICAgICAgICAjIHRlc3QgcmVkaXMgdHlwZQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoZC5SZWRpc19UeXBlLCBkLmdldF90eXBlKCkpCg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAjIHRlc3QgczIK</text>
       </register>
     </registers>
     <search>
