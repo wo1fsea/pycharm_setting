@@ -9,6 +9,7 @@
         <mark key="^" line="16" column="22" />
         <mark key="." line="18" column="35" />
       </file>
+      <file name="$USER_HOME$/Projects/G68/trunk/Client/GUI/MainUI/GCameraPanel.py" timestamp="1580307007767" />
       <file name="E:/Projects/PyEasyRPC/pyeasyrpc/rpc_data.py" timestamp="1564552351823">
         <mark key="[" line="41" column="4" />
         <mark key="]" line="41" column="35" />
@@ -44,7 +45,6 @@
         <mark key="." line="75" column="0" />
         <mark key="^" line="73" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/G68/trunk/Universal/Hotfix/Account/MailComponentCustomHotfix.py" timestamp="1579270366993" />
       <file name="$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/collections/__init__.pyi" timestamp="1564552655750">
         <mark key="'" line="28" column="25" />
       </file>
@@ -63,6 +63,7 @@
       <file name="/Dummy.txt" timestamp="1564626616427">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/G68/trunk/Client/GUI/MainUI/Photo/GPhotoSettingPanel.py" timestamp="1580307045435" />
       <file name="E:/Projects/PyEasyRPC/tests/test_redis_collections/test_dict.py" timestamp="1564624267326">
         <mark key="[" line="28" column="23" />
         <mark key="]" line="103" column="27" />
@@ -87,14 +88,12 @@
       <file name="E:/Projects/PyEasyRPC/Memurai/memurai.conf" timestamp="1564539331154">
         <mark key="[" line="91" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/G68/trunk/Client/GUI/PKDlg/PrisonDlg.py" timestamp="1579273975351" />
       <file name="E:/Projects/PyEasyRPC/pyeasyrpc/db_connection.py" timestamp="1564468092466">
         <mark key="[" line="24" column="11" />
         <mark key="]" line="24" column="11" />
         <mark key="." line="24" column="11" />
         <mark key="^" line="25" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/G68/trunk/Client/Component/PlayerAvatarComponent/FestivalComponent.py" timestamp="1579270463433" />
       <file name="E:/Projects/PyEasyRPC/start_db.bat" timestamp="1564539308456">
         <mark key="[" line="0" column="0" />
       </file>
@@ -106,6 +105,8 @@
         <mark key="]" line="15" column="11" />
         <mark key="." line="15" column="11" />
       </file>
+      <file name="$USER_HOME$/Projects/G68/trunk/Client/GUI/UIComponentList.py" timestamp="1580306993732" />
+      <file name="$USER_HOME$/Projects/G68/trunk/Client/GUI/MainUI/Photo/PhotoUI.py" timestamp="1580307040963" />
     </filemarks>
     <jumps>
       <jump line="82" column="47" filename="$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/collections/__init__.pyi" />
